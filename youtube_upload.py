@@ -50,6 +50,15 @@ def get_service():
 def upload(args):
     youtube = get_service()
 
+    vstatus = {
+        "privacyStatus": args.privacy,
+        "selfDeclaredMadeForKids": False,
+    }
+    # Scheduled publish: YouTube itself flips the video public at publish_at.
+    # The video must be uploaded private until that moment.
+    if args.publish_at:
+        vstatus["privacyStatus"] = "private"
+        vstatus["publishAt"] = args.publish_at
     body = {
         "snippet": {
             "title": args.title,
@@ -57,10 +66,7 @@ def upload(args):
             "tags": [t.strip() for t in args.tags.split(",") if t.strip()],
             "categoryId": args.category,
         },
-        "status": {
-            "privacyStatus": args.privacy,
-            "selfDeclaredMadeForKids": False,
-        },
+        "status": vstatus,
     }
 
     media = MediaFileUpload(args.video, chunksize=-1, resumable=True,
@@ -91,6 +97,9 @@ def main():
                    choices=["public", "unlisted", "private"])
     p.add_argument("--category", default="22",
                    help="YouTube category id (22 = People & Blogs)")
+    p.add_argument("--publish-at", default="",
+                   help="RFC3339 UTC time (e.g. 2026-07-16T14:30:00Z) to auto-"
+                        "publish; uploads private until then.")
     args = p.parse_args()
 
     if not os.path.exists(args.video):

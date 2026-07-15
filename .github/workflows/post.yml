@@ -1,21 +1,19 @@
 name: post
 on:
   schedule:
-    # GitHub cron is unreliable (delayed/dropped), so we fire SEVEN catch-up
-    # attempts across the day and cap at 4 public posts/day in code. Each run
-    # that finds the quota already met exits in seconds. Times are UTC (:XX
-    # avoids the congested top-of-hour). Spread ~10:00a–7:30p EDT.
-    - cron: "45 14 * * *"
-    - cron: "15 16 * * *"
-    - cron: "45 17 * * *"
-    - cron: "15 19 * * *"
-    - cron: "45 20 * * *"
-    - cron: "15 22 * * *"
-    - cron: "45 23 * * *"
+    # ONE generation run builds all of the day's videos and hands them to
+    # YouTube's own scheduler (publishAt), so GitHub cron only has to fire once.
+    # Two later checks catch up if the morning run was dropped. Times are UTC.
+    - cron: "0 14 * * *"    # ~10:00a EDT — main generation (before the 12p slot)
+    - cron: "30 17 * * *"   # ~1:30p EDT — catch-up check
+    - cron: "30 21 * * *"   # ~5:30p EDT — catch-up check
   workflow_dispatch:
     inputs:
+      fill_day:
+        description: "schedule the whole day (true) or post one now (false)"
+        default: "true"
       privacy:
-        description: "public / unlisted / private"
+        description: "one-off privacy when fill_day=false"
         default: "public"
 
 concurrency:
@@ -25,61 +23,38 @@ concurrency:
 permissions:
   contents: write
 
-env:
-  MAX_DAILY: "4"
-
 jobs:
   post:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 90
     steps:
       - uses: actions/checkout@v4
-      - name: daily quota gate
-        id: gate
-        env:
-          PRIVACY: ${{ github.event.inputs.privacy || 'public' }}
-        run: |
-          python3 - <<'PY'
-          import csv, os, datetime as dt
-          target = int(os.environ.get("MAX_DAILY", "4"))
-          priv = os.environ.get("PRIVACY", "public")
-          n, f = 0, "logs/history.csv"
-          if priv == "public" and os.path.exists(f):
-              today = dt.date.today().isoformat()
-              for r in csv.reader(open(f, encoding="utf-8")):
-                  if len(r) >= 3 and r[0] == today and r[2] == "public":
-                      n += 1
-          go = "true" if (priv != "public" or n < target) else "false"
-          with open(os.environ["GITHUB_OUTPUT"], "a") as o:
-              o.write(f"go={go}\n")
-          print(f"public posts today={n} target={target} -> post={go}")
-          PY
       - uses: actions/setup-python@v5
-        if: steps.gate.outputs.go == 'true'
         with:
           python-version: "3.12"
       - name: install ffmpeg + fonts
-        if: steps.gate.outputs.go == 'true'
         run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg fonts-liberation
       - name: install python deps
-        if: steps.gate.outputs.go == 'true'
         run: pip install -q -r requirements.txt
       - name: write secrets
-        if: steps.gate.outputs.go == 'true'
         env:
           CLIENT_SECRET_JSON: ${{ secrets.CLIENT_SECRET_JSON }}
           TOKEN_JSON: ${{ secrets.TOKEN_JSON }}
         run: |
           printf '%s' "$CLIENT_SECRET_JSON" > client_secret.json
           printf '%s' "$TOKEN_JSON" > token.json
-      - name: build and post
-        if: steps.gate.outputs.go == 'true'
+      - name: build and schedule the day
         env:
           X264_PRESET: ultrafast
           PYTHONIOENCODING: utf-8
-        run: python make_video.py --privacy "${{ github.event.inputs.privacy || 'public' }}" --max-daily ${{ env.MAX_DAILY }}
+        run: |
+          if [ "${{ github.event.inputs.fill_day }}" = "false" ]; then
+            python make_video.py --privacy "${{ github.event.inputs.privacy || 'public' }}"
+          else
+            python make_video.py --fill-day
+          fi
       - name: persist bank/state
-        if: steps.gate.outputs.go == 'true' && always()
+        if: always()
         run: |
           git config user.name "autopost"
           git config user.email "actions@users.noreply.github.com"

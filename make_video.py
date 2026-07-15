@@ -26,6 +26,7 @@ import sys
 import time
 import urllib.parse
 import urllib.request
+from zoneinfo import ZoneInfo
 
 # Force UTF-8 stdio so emoji/unicode in titles don't crash on Windows consoles.
 for _s in (sys.stdout, sys.stderr):
@@ -45,6 +46,12 @@ TOKEN_EXPIRED_FLAG = os.path.join(LOGS_DIR, "TOKEN_EXPIRED.txt")
 BANK_EMPTY_FLAG = os.path.join(LOGS_DIR, "BANK_EMPTY.txt")
 LOCK_FILE = os.path.join(LOGS_DIR, "run.lock")
 KEEP_RUNS_DAYS = 3  # auto-delete run folders older than this
+
+# Daily publish schedule (channel-local time). One generation run builds all of
+# these at once and hands them to YouTube's own scheduler via publishAt, so
+# GitHub's flaky cron only has to fire ONCE/day (later runs just catch up).
+TZ = ZoneInfo("America/New_York")
+PUBLISH_SLOTS = [(12, 0), (15, 0), (18, 0), (21, 0)]  # 12p, 3p, 6p, 9p
 
 # "the channel" — colder/calmer male narrator, distinct from channel.
 VOICE = "en-US-AndrewMultilingualNeural"  # more expressive rise/fall (user pick)
@@ -573,14 +580,20 @@ def _per(audio_dur, n):
     return (audio_dur + (n - 1) * XFADE) / n
 
 
-def upload(video_path, topic, privacy):
-    """Call youtube_upload.py from the project root. Returns youtube url."""
+def upload(video_path, topic, privacy, publish_at=None):
+    """Call youtube_upload.py from the project root. Returns youtube url.
+
+    publish_at (RFC3339 UTC) schedules YouTube's own auto-publish; the video
+    uploads private and YouTube makes it public at that time.
+    """
     cmd = [sys.executable, os.path.join(PROJECT_ROOT, "youtube_upload.py"),
            video_path,
            "--title", topic["title"],
            "--description", topic["description"],
            "--tags", ",".join(topic["tags"]),
            "--privacy", privacy]
+    if publish_at:
+        cmd += ["--publish-at", publish_at]
     p = subprocess.run(cmd, cwd=PROJECT_ROOT, capture_output=True, text=True)
     out = (p.stdout or "") + (p.stderr or "")
     if p.returncode != 0:
@@ -615,60 +628,37 @@ def append_history(topic_id, url, privacy):
         w = csv.writer(f)
         if new:
             w.writerow(["date", "topic_id", "privacy", "url"])
-        w.writerow([dt.date.today().isoformat(), topic_id, privacy, url])
+        w.writerow([dt.datetime.now(TZ).date().isoformat(), topic_id, privacy, url])
 
 
-def public_posts_today():
-    """Count public posts logged with today's (UTC) date — the daily-cap basis.
-
-    GitHub's cron is unreliable, so the workflow fires several catch-up attempts
-    per day; this cap keeps the channel at exactly N/day no matter how many fire.
-    """
+def slots_filled_today():
+    """How many of today's publish slots already have a video (posted or scheduled)."""
     if not os.path.exists(HISTORY_CSV):
         return 0
-    today = dt.date.today().isoformat()
+    today = dt.datetime.now(TZ).date().isoformat()
     n = 0
     with open(HISTORY_CSV, newline="", encoding="utf-8") as f:
         for row in csv.reader(f):
-            if len(row) >= 3 and row[0] == today and row[2] == "public":
+            if len(row) >= 3 and row[0] == today and row[2] in ("public", "scheduled"):
                 n += 1
     return n
 
 
+def slot_publish_time(idx):
+    """RFC3339 UTC publishAt for today's slot `idx`, or None if it's already past."""
+    h, m = PUBLISH_SLOTS[idx]
+    today = dt.datetime.now(TZ).date()
+    when = dt.datetime(today.year, today.month, today.day, h, m, tzinfo=TZ)
+    if when <= dt.datetime.now(TZ) + dt.timedelta(minutes=2):
+        return None
+    return when.astimezone(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+
+
 # --------------------------------------------------------------------------- #
-# main
+# produce one video
 # --------------------------------------------------------------------------- #
-def main():
-    ap = argparse.ArgumentParser()
-    ap.add_argument("--privacy", default="public",
-                    choices=["public", "unlisted", "private"])
-    ap.add_argument("--no-upload", action="store_true")
-    ap.add_argument("--id", help="force a specific topic id from the bank")
-    ap.add_argument("--source", default="bank", choices=["auto", "bank"],
-                    help="bank = use topics.json (Claude-authored, reliable, default); "
-                         "auto = try the free text API first (unreliable), else bank")
-    ap.add_argument("--max-daily", type=int, default=0,
-                    help="skip if this many public posts already went out today "
-                         "(0 = no cap). Lets the workflow fire catch-up attempts.")
-    args = ap.parse_args()
-
-    # Daily cap: cheap early exit so extra catch-up cron runs cost almost nothing.
-    if args.privacy == "public" and args.max_daily:
-        done_today = public_posts_today()
-        if done_today >= args.max_daily:
-            log(f"Daily cap reached ({done_today}/{args.max_daily} public posts "
-                "today); nothing to do.")
-            return
-
-    os.makedirs(RUNS_DIR, exist_ok=True)
-    os.makedirs(LOGS_DIR, exist_ok=True)
-    if not acquire_lock():
-        return
-    cleanup_runs()
-
-    topics = load_json(TOPICS_FILE, [])
-    state = load_json(STATE_FILE, {"used": []})
-    # subjects already covered (bank + generated) -> feed the AI's "avoid" list
+def produce_one(topics, state, args, publish_at):
+    """Build and upload a single video. publish_at (RFC3339 UTC) => scheduled."""
     avoid = state.setdefault("subjects", [])
     seed_avoid = [t.get("subject", t["id"]) for t in topics]
 
@@ -728,12 +718,19 @@ def main():
     video = assemble(run_dir, n, audio_dur, atmos, bed)
     log(f"Video ready: {video}")
 
-    # 4) upload
+    # 4) upload (scheduled if publish_at given, else per --privacy)
     if args.no_upload:
         log("--no-upload set; skipping upload.")
+        shutil.rmtree(run_dir, ignore_errors=True)
         return
-    log(f"Uploading ({args.privacy})...")
-    url = upload(video, topic, args.privacy)
+    if publish_at:
+        log(f"Uploading (scheduled for {publish_at})...")
+        url = upload(video, topic, "private", publish_at=publish_at)
+        logged_privacy = "scheduled"
+    else:
+        log(f"Uploading ({args.privacy})...")
+        url = upload(video, topic, args.privacy)
+        logged_privacy = args.privacy
     log(f"UPLOADED: {url}")
 
     # 5) record success
@@ -744,11 +741,61 @@ def main():
     if subject.lower() not in {s.lower() for s in state.setdefault("subjects", [])}:
         state["subjects"].append(subject)  # avoid future repeats (both sources)
     save_json(STATE_FILE, state)
-    append_history(topic["id"], url, args.privacy)
+    append_history(topic["id"], url, logged_privacy)
 
     # 6) the video is safely on YouTube -> delete this run's local files
     shutil.rmtree(run_dir, ignore_errors=True)
     log("Done. Bank + history updated; run files deleted.")
+
+
+# --------------------------------------------------------------------------- #
+# main
+# --------------------------------------------------------------------------- #
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--privacy", default="public",
+                    choices=["public", "unlisted", "private"])
+    ap.add_argument("--no-upload", action="store_true")
+    ap.add_argument("--id", help="force a specific topic id from the bank")
+    ap.add_argument("--source", default="bank", choices=["auto", "bank"],
+                    help="bank = use topics.json (Claude-authored, reliable, default); "
+                         "auto = try the free text API first (unreliable), else bank")
+    ap.add_argument("--fill-day", action="store_true",
+                    help="build every remaining daily slot in one run and hand "
+                         "them to YouTube's scheduler (past slots publish now).")
+    args = ap.parse_args()
+
+    os.makedirs(RUNS_DIR, exist_ok=True)
+    os.makedirs(LOGS_DIR, exist_ok=True)
+    if not acquire_lock():
+        return
+    cleanup_runs()
+
+    if not args.fill_day:
+        topics = load_json(TOPICS_FILE, [])
+        state = load_json(STATE_FILE, {"used": []})
+        produce_one(topics, state, args, publish_at=None)
+        return
+
+    # fill-day: build only the slots not yet covered today. Reload topics/state
+    # between videos so bank-consume + repeat-avoidance stay correct.
+    total = len(PUBLISH_SLOTS)
+    done = slots_filled_today()
+    if done >= total:
+        log(f"All {total} slots already scheduled/posted today; nothing to do.")
+        return
+    log(f"Filling {total - done} of {total} slots for today...")
+    for idx in range(done, total):
+        publish_at = slot_publish_time(idx)
+        log(f"--- slot {idx + 1}/{total} -> publish "
+            f"{publish_at or 'now (slot already passed)'}")
+        topics = load_json(TOPICS_FILE, [])
+        state = load_json(STATE_FILE, {"used": []})
+        try:
+            produce_one(topics, state, args, publish_at=publish_at)
+        except Exception as e:  # noqa: BLE001
+            log(f"slot {idx + 1} failed ({e}); a later catch-up run will retry.")
+            break  # stop; next cron run picks up remaining slots
 
 
 if __name__ == "__main__":

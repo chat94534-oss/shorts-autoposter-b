@@ -40,7 +40,7 @@ jobs:
           printf '%s' "$TOKEN_JSON" > token.json
       - name: build and post
         env:
-          X264_PRESET: veryfast
+          X264_PRESET: ultrafast
           PYTHONIOENCODING: utf-8
         run: python make_video.py --privacy "${{ github.event.inputs.privacy || 'public' }}"
       - name: persist bank/state

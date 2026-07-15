@@ -1,0 +1,56 @@
+name: post
+on:
+  schedule:
+    # UTC. Local slots (EDT, UTC-4): 12p, 3p, 6p, 9p
+    # NOTE: in November (EST, UTC-5) these fire 1h earlier local — bump each hour +1 then.
+    - cron: "0 16,19,22 * * *"
+    - cron: "0 1 * * *"  # 9 PM EDT = 01:00 UTC next day
+  workflow_dispatch:
+    inputs:
+      privacy:
+        description: "public / unlisted / private"
+        default: "public"
+
+concurrency:
+  group: post
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: install ffmpeg + fonts
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg fonts-liberation
+      - name: install python deps
+        run: pip install -q -r requirements.txt
+      - name: write secrets
+        env:
+          CLIENT_SECRET_JSON: ${{ secrets.CLIENT_SECRET_JSON }}
+          TOKEN_JSON: ${{ secrets.TOKEN_JSON }}
+        run: |
+          printf '%s' "$CLIENT_SECRET_JSON" > client_secret.json
+          printf '%s' "$TOKEN_JSON" > token.json
+      - name: build and post
+        env:
+          X264_PRESET: veryfast
+          PYTHONIOENCODING: utf-8
+        run: python make_video.py --privacy "${{ github.event.inputs.privacy || 'public' }}"
+      - name: persist bank/state
+        if: always()
+        run: |
+          git config user.name "autopost"
+          git config user.email "actions@users.noreply.github.com"
+          git add topics.json state.json logs/history.csv 2>/dev/null || true
+          if ! git diff --cached --quiet; then
+            git commit -m "state: $(date -u +%Y-%m-%d\ %H:%M) UTC [skip ci]"
+            git pull --rebase
+            git push
+          fi

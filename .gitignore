@@ -1,0 +1,11 @@
+# OAuth secrets — never commit (provided via GitHub Secrets on CI)
+client_secret.json
+token.json
+token.json.bak
+
+# Working files
+runs/
+logs/*
+!logs/history.csv
+__pycache__/
+*.pyc

@@ -1,10 +1,17 @@
 name: post
 on:
   schedule:
-    # UTC. Local slots (EDT, UTC-4): 12p, 3p, 6p, 9p
-    # NOTE: in November (EST, UTC-5) these fire 1h earlier local — bump each hour +1 then.
-    - cron: "0 16,19,22 * * *"
-    - cron: "0 1 * * *"  # 9 PM EDT = 01:00 UTC next day
+    # GitHub cron is unreliable (delayed/dropped), so we fire SEVEN catch-up
+    # attempts across the day and cap at 4 public posts/day in code. Each run
+    # that finds the quota already met exits in seconds. Times are UTC (:XX
+    # avoids the congested top-of-hour). Spread ~10:00a–7:30p EDT.
+    - cron: "45 14 * * *"
+    - cron: "15 16 * * *"
+    - cron: "45 17 * * *"
+    - cron: "15 19 * * *"
+    - cron: "45 20 * * *"
+    - cron: "15 22 * * *"
+    - cron: "45 23 * * *"
   workflow_dispatch:
     inputs:
       privacy:
@@ -18,20 +25,47 @@ concurrency:
 permissions:
   contents: write
 
+env:
+  MAX_DAILY: "4"
+
 jobs:
   post:
     runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
+      - name: daily quota gate
+        id: gate
+        env:
+          PRIVACY: ${{ github.event.inputs.privacy || 'public' }}
+        run: |
+          python3 - <<'PY'
+          import csv, os, datetime as dt
+          target = int(os.environ.get("MAX_DAILY", "4"))
+          priv = os.environ.get("PRIVACY", "public")
+          n, f = 0, "logs/history.csv"
+          if priv == "public" and os.path.exists(f):
+              today = dt.date.today().isoformat()
+              for r in csv.reader(open(f, encoding="utf-8")):
+                  if len(r) >= 3 and r[0] == today and r[2] == "public":
+                      n += 1
+          go = "true" if (priv != "public" or n < target) else "false"
+          with open(os.environ["GITHUB_OUTPUT"], "a") as o:
+              o.write(f"go={go}\n")
+          print(f"public posts today={n} target={target} -> post={go}")
+          PY
       - uses: actions/setup-python@v5
+        if: steps.gate.outputs.go == 'true'
         with:
           python-version: "3.12"
       - name: install ffmpeg + fonts
+        if: steps.gate.outputs.go == 'true'
         run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg fonts-liberation
       - name: install python deps
+        if: steps.gate.outputs.go == 'true'
         run: pip install -q -r requirements.txt
       - name: write secrets
+        if: steps.gate.outputs.go == 'true'
         env:
           CLIENT_SECRET_JSON: ${{ secrets.CLIENT_SECRET_JSON }}
           TOKEN_JSON: ${{ secrets.TOKEN_JSON }}
@@ -39,12 +73,13 @@ jobs:
           printf '%s' "$CLIENT_SECRET_JSON" > client_secret.json
           printf '%s' "$TOKEN_JSON" > token.json
       - name: build and post
+        if: steps.gate.outputs.go == 'true'
         env:
           X264_PRESET: ultrafast
           PYTHONIOENCODING: utf-8
-        run: python make_video.py --privacy "${{ github.event.inputs.privacy || 'public' }}"
+        run: python make_video.py --privacy "${{ github.event.inputs.privacy || 'public' }}" --max-daily ${{ env.MAX_DAILY }}
       - name: persist bank/state
-        if: always()
+        if: steps.gate.outputs.go == 'true' && always()
         run: |
           git config user.name "autopost"
           git config user.email "actions@users.noreply.github.com"

@@ -618,6 +618,23 @@ def append_history(topic_id, url, privacy):
         w.writerow([dt.date.today().isoformat(), topic_id, privacy, url])
 
 
+def public_posts_today():
+    """Count public posts logged with today's (UTC) date — the daily-cap basis.
+
+    GitHub's cron is unreliable, so the workflow fires several catch-up attempts
+    per day; this cap keeps the channel at exactly N/day no matter how many fire.
+    """
+    if not os.path.exists(HISTORY_CSV):
+        return 0
+    today = dt.date.today().isoformat()
+    n = 0
+    with open(HISTORY_CSV, newline="", encoding="utf-8") as f:
+        for row in csv.reader(f):
+            if len(row) >= 3 and row[0] == today and row[2] == "public":
+                n += 1
+    return n
+
+
 # --------------------------------------------------------------------------- #
 # main
 # --------------------------------------------------------------------------- #
@@ -630,7 +647,18 @@ def main():
     ap.add_argument("--source", default="bank", choices=["auto", "bank"],
                     help="bank = use topics.json (Claude-authored, reliable, default); "
                          "auto = try the free text API first (unreliable), else bank")
+    ap.add_argument("--max-daily", type=int, default=0,
+                    help="skip if this many public posts already went out today "
+                         "(0 = no cap). Lets the workflow fire catch-up attempts.")
     args = ap.parse_args()
+
+    # Daily cap: cheap early exit so extra catch-up cron runs cost almost nothing.
+    if args.privacy == "public" and args.max_daily:
+        done_today = public_posts_today()
+        if done_today >= args.max_daily:
+            log(f"Daily cap reached ({done_today}/{args.max_daily} public posts "
+                "today); nothing to do.")
+            return
 
     os.makedirs(RUNS_DIR, exist_ok=True)
     os.makedirs(LOGS_DIR, exist_ok=True)

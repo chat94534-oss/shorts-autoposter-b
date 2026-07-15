@@ -343,7 +343,7 @@ def find_topic(topics, topic_id):
 # --------------------------------------------------------------------------- #
 def make_narration(script, out_path):
     run([sys.executable, "-m", "edge_tts", "--voice", VOICE,
-         "--rate", VOICE_RATE, "--pitch", VOICE_PITCH,
+         f"--rate={VOICE_RATE}", f"--pitch={VOICE_PITCH}",
          "--text", script, "--write-media", out_path])
     return ffprobe_duration(out_path)
 

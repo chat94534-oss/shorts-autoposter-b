@@ -27,7 +27,8 @@
       "the inside lid of a buried wooden coffin in near darkness",
       "cramped black enclosed space, oppressive and airless",
       "a dark narrow box underground, suffocating and silent"
-    ]
+    ],
+    "hook": "What would happen if you woke up buried alive?"
   },
   {
     "id": "piranha-river",
@@ -57,7 +58,8 @@
       "dark Amazon river water churning with fish",
       "close-up of a piranha's sharp teeth in murky water",
       "a swarm of small fierce fish in tannin-stained water"
-    ]
+    ],
+    "hook": "What would happen if you fell into a piranha river?"
   },
   {
     "id": "rip-current",
@@ -87,7 +89,8 @@
       "a swimmer's arms thrashing in foamy seawater, exhaustion, spray flying",
       "calm turquoise ocean water beside a violent rip channel, sharp contrast",
       "a swimmer moving parallel to a sunny shoreline, waves rolling in"
-    ]
+    ],
+    "hook": "What would happen if a rip current dragged you out to sea?"
   },
   {
     "id": "tornado",
@@ -117,7 +120,8 @@
       "wooden planks and metal debris flying through the air in a storm",
       "a person's silhouette leaning against impossible wind, dust and debris streaking past",
       "a flattened neighborhood after a tornado, foundations wiped clean, stormy sky"
-    ]
+    ],
+    "hook": "What would happen if an EF5 tornado caught you in the open?"
   },
   {
     "id": "hippo-charge",
@@ -147,7 +151,8 @@
       "a hippo charging through shallow water at full speed, spray everywhere",
       "a capsized red canoe floating on a muddy African river at dusk",
       "a hippo's eyes and nostrils just above dark water, watching, ripples spreading"
-    ]
+    ],
+    "hook": "What would happen if a hippo charged your boat?"
   },
   {
     "id": "green-anaconda",
@@ -177,7 +182,8 @@
       "close-up of a green anaconda's head and eyes at the waterline, jungle behind",
       "an enormous anaconda coiled on a riverbank in the Amazon rainforest",
       "dark swamp water with ripples closing over, jungle canopy above, empty"
-    ]
+    ],
+    "hook": "What would happen if a green anaconda wrapped around you?"
   },
   {
     "id": "killer-bee-swarm",
@@ -207,7 +213,8 @@
       "close-up of aggressive bees stinging skin, motion blur, chaos",
       "a person sprinting across a field with a bee swarm trailing behind them",
       "bees hovering over the surface of a pond, waiting, reflections on water"
-    ]
+    ],
+    "hook": "What would happen if you disturbed a killer bee hive?"
   },
   {
     "id": "glacier-crevasse",
@@ -237,7 +244,8 @@
       "a climber wedged between narrow glowing blue ice walls",
       "vast glacier surface with hidden crevasses, snow bridges, mountain peaks",
       "deep blue glacial ice wall with frozen air bubbles, cold light"
-    ]
+    ],
+    "hook": "What would happen if you fell into a glacier crevasse?"
   },
   {
     "id": "chernobyl-core",
@@ -267,7 +275,8 @@
       "grainy atmosphere inside an abandoned nuclear reactor room, dust in torchlight",
       "close-up of cracked dark glassy melted material on basement concrete",
       "a lone figure in the doorway of a ruined reactor hall, harsh shadows"
-    ]
+    ],
+    "hook": "What would happen if you stood beside Chernobyl's elephant's foot?"
   },
   {
     "id": "underwater-cave",
@@ -297,7 +306,8 @@
       "close-up of a diver's air gauge needle in murky green water",
       "a thin white guide line disappearing into darkness in an underwater tunnel",
       "total darkness underwater with one weak flashlight beam hitting cave rock"
-    ]
+    ],
+    "hook": "What would happen if you got lost in an underwater cave?"
   },
   {
     "id": "grizzly-encounter",
@@ -327,7 +337,8 @@
       "close-up of a grizzly bear's face roaring, teeth bared",
       "a person lying face down on a forest trail while a bear looms over them",
       "a grizzly bear walking away down a misty mountain trail with cubs"
-    ]
+    ],
+    "hook": "What would happen if a grizzly bear charged you?"
   },
   {
     "id": "saltwater-crocodile",
@@ -357,7 +368,8 @@
       "a crocodile mid death-roll in churning white water",
       "an enormous saltwater crocodile on a muddy riverbank in northern Australia",
       "calm brown river water with mangroves, ripples spreading from something beneath"
-    ]
+    ],
+    "hook": "What would happen if a saltwater crocodile grabbed you?"
   },
   {
     "id": "tsunami",
@@ -387,7 +399,8 @@
       "flood water full of cars and debris surging through city streets",
       "people running up a hillside staircase as water fills streets below",
       "aftermath of a tsunami, boats resting on top of buildings, gray sky"
-    ]
+    ],
+    "hook": "What would happen if a tsunami reached your beach?"
   },
   {
     "id": "elevator-freefall",
@@ -417,7 +430,8 @@
       "a person lying flat on their back on an elevator floor, dramatic overhead light",
       "elevator interior tilted with emergency lights, sense of motion",
       "elevator brake mechanisms clamped onto rails in a shaft, sparks"
-    ]
+    ],
+    "hook": "What would happen if your elevator cable snapped?"
   },
   {
     "id": "lost-at-sea",
@@ -447,7 +461,8 @@
       "close-up of a hand reaching up from ocean swells at dusk",
       "endless open ocean horizon in every direction, harsh sun, no land",
       "a person floating on their back under a huge starry night sky, dark water"
-    ]
+    ],
+    "hook": "What would happen if you fell overboard at night?"
   },
   {
     "id": "polar-bear",
@@ -477,7 +492,8 @@
       "close-up of a polar bear's face and black eyes, breath steaming in cold air",
       "a polar bear swimming powerfully through icy dark blue water",
       "endless flat arctic ice field under a pale sun, single set of human tracks"
-    ]
+    ],
+    "hook": "What would happen if a polar bear started hunting you?"
   },
   {
     "id": "black-mamba",
@@ -507,7 +523,8 @@
       "close-up of two small puncture marks on skin, deceptively minor",
       "a long dark snake moving at speed through golden savanna grass",
       "vast empty African savanna at sunset, no help in sight"
-    ]
+    ],
+    "hook": "What would happen if a black mamba bit you?"
   },
   {
     "id": "house-fire",
@@ -537,7 +554,8 @@
       "a hand touching a door handle, smoke curling around it",
       "a person crawling low through a smoky hallway toward an exit door",
       "a house fully engulfed in flames at night, firefighters arriving"
-    ]
+    ],
+    "hook": "What would happen if you woke up to a house fire?"
   },
   {
     "id": "flash-flood",
@@ -567,7 +585,8 @@
       "close-up of churning muddy floodwater with debris and branches",
       "a narrow slot canyon with smooth vertical walls and a strip of sky far above",
       "a dry desert wash under blue sky, dark storm clouds on the far horizon"
-    ]
+    ],
+    "hook": "What would happen if a flash flood hit your canyon?"
   },
   {
     "id": "human-stampede",
@@ -597,7 +616,8 @@
       "a person with forearms raised in front of their chest inside a crush of people",
       "a surging crowd at night under harsh stadium lights, motion blur",
       "an emergency exit gate with a huge crowd pressing toward it"
-    ]
+    ],
+    "hook": "What would happen if you got caught in a crowd crush?"
   },
   {
     "id": "thunderstorm-skydive",
@@ -627,7 +647,8 @@
       "a parachute canopy battered by hail and rain, dramatic dark sky",
       "a towering cumulonimbus thundercloud with lightning, seen from the air",
       "a tiny parachutist silhouette against an enormous storm system at dusk"
-    ]
+    ],
+    "hook": "What would happen if you skydived into a thunderstorm?"
   },
   {
     "id": "sperm-whale",
@@ -657,7 +678,8 @@
       "close-up of a sperm whale's huge head and eye underwater",
       "dark red-tinged organic tunnel interior, wet muscular walls",
       "a sperm whale silhouette descending into black abyss with light rays fading"
-    ]
+    ],
+    "hook": "What would happen if a sperm whale swallowed you?"
   },
   {
     "id": "yellowstone-hot-spring",
@@ -687,7 +709,8 @@
       "close-up of boiling bubbles and steam on vivid blue mineral water",
       "thin white mineral crust at the edge of a steaming hot spring, cracks visible",
       "steam drifting over an empty geothermal basin at dawn, boardwalk in distance"
-    ]
+    ],
+    "hook": "What would happen if you fell into a Yellowstone hot spring?"
   },
   {
     "id": "jupiter-descent",
@@ -717,7 +740,8 @@
       "the Great Red Spot storm seen up close, churning clouds, immense scale",
       "deep interior of a gas giant, crushing haze glowing hot orange",
       "Jupiter seen from space with a tiny human silhouette falling toward it"
-    ]
+    ],
+    "hook": "What would happen if you fell into Jupiter?"
   },
   {
     "id": "neutron-star",
@@ -747,7 +771,8 @@
       "a spaceship being stretched and distorted near a blinding compact star",
       "glowing ultra-dense stellar surface, blinding white-blue, lethal radiation",
       "a tiny brilliant star sphere warping the starfield around it, gravitational lensing"
-    ]
+    ],
+    "hook": "What would happen if you approached a neutron star?"
   },
   {
     "id": "komodo-dragon",
@@ -777,7 +802,8 @@
       "close-up of a Komodo dragon's scaled face and cold eye",
       "a Komodo dragon patiently following far behind on a long dirt trail",
       "a remote Indonesian island coastline, dry hills, no buildings anywhere"
-    ]
+    ],
+    "hook": "What would happen if a Komodo dragon bit you?"
   },
   {
     "id": "rabies",
@@ -807,7 +833,8 @@
       "a glass of water on a table, a trembling hand refusing to reach it",
       "medical vials of vaccine on a clinic table, out of reach, clock on wall",
       "a dark hospital room with a single bed and monitors, ominous quiet"
-    ]
+    ],
+    "hook": "What would happen if you caught rabies and never got treated?"
   },
   {
     "id": "carbon-monoxide",
@@ -837,7 +864,8 @@
       "a person asleep on a couch under a lamp, dangerously peaceful",
       "close-up of a carbon monoxide detector on a ceiling, red light blinking",
       "a quiet suburban house at night with all the lights off, snow outside"
-    ]
+    ],
+    "hook": "What would happen if carbon monoxide filled your house?"
   },
   {
     "id": "cape-buffalo",
@@ -867,7 +895,8 @@
       "a Cape buffalo charging at full speed across savanna, dust flying",
       "a lone acacia tree on open African grassland, the only refuge in sight",
       "a herd of Cape buffalo staring in unison, ominous, storm light"
-    ]
+    ],
+    "hook": "What would happen if a Cape buffalo ambushed you?"
   },
   {
     "id": "lion-stalk",
@@ -897,7 +926,8 @@
       "a lioness sprinting at full speed, dust flying, terrifying power",
       "a person standing tall with arms raised facing a big cat, dusk light",
       "African savanna at twilight, campfire light far in the distance"
-    ]
+    ],
+    "hook": "What would happen if a lioness started stalking you?"
   },
   {
     "id": "train-tunnel",
@@ -927,7 +957,8 @@
       "a small recessed refuge alcove in a tunnel wall, barely person-sized",
       "a freight train thundering through a tunnel, motion blur, sparks",
       "the exit of a long rail tunnel as a distant dot of daylight"
-    ]
+    ],
+    "hook": "What would happen if a train caught you inside a tunnel?"
   },
   {
     "id": "the-bends",
@@ -957,7 +988,8 @@
       "extreme close-up of bubbles fizzing in red liquid",
       "a diver collapsed on a boat deck, crew rushing over, ocean behind",
       "a hyperbaric decompression chamber with a round porthole in a small clinic"
-    ]
+    ],
+    "hook": "What would happen if you surfaced too fast from a deep dive?"
   },
   {
     "id": "pyroclastic-flow",
@@ -987,7 +1019,8 @@
       "a wall of hot ash and gas racing across a landscape, burying trees",
       "a volcano erupting at night with glowing pyroclastic flows on its slopes",
       "an ash-buried town, gray and silent, one street sign poking through"
-    ]
+    ],
+    "hook": "What would happen if a pyroclastic flow reached your town?"
   },
   {
     "id": "cassowary",
@@ -1017,7 +1050,8 @@
       "close-up of a cassowary's clawed foot with a long dagger-like inner claw",
       "a cassowary charging through jungle undergrowth, powerful legs",
       "dense Queensland rainforest trail, dappled light, something moving in the ferns"
-    ]
+    ],
+    "hook": "What would happen if a cassowary attacked you?"
   },
   {
     "id": "hyena-pack",
@@ -1047,7 +1081,8 @@
       "several hyenas circling in dry grass at night, moonlit",
       "close-up of a hyena's powerful jaws and teeth",
       "a lone tent on dark savanna, campfire embers fading, shapes in the gloom"
-    ]
+    ],
+    "hook": "What would happen if a hyena pack circled your camp?"
   },
   {
     "id": "leopard-seal",
@@ -1077,7 +1112,8 @@
       "a leopard seal patrolling beneath pack ice, shafts of pale light",
       "penguins leaping onto ice as a shadow cruises the water behind them",
       "the underside of Antarctic pack ice, glowing turquoise, dark water below"
-    ]
+    ],
+    "hook": "What would happen if a leopard seal found you in the water?"
   },
   {
     "id": "supervolcano",
@@ -1107,7 +1143,8 @@
       "first person view holding out a hand catching gray ash from a dark sky",
       "a collapsed roof under a meter of heavy gray ash",
       "a dim red sun barely visible through a hazy ash-filled sky over dead fields"
-    ]
+    ],
+    "hook": "What would happen if Yellowstone's supervolcano erupted?"
   },
   {
     "id": "asteroid-impact",
@@ -1137,7 +1174,8 @@
       "a shockwave ring expanding across a city, buildings flattening",
       "a person crouched behind a concrete wall shielding their face from a bright flash",
       "a huge glowing impact crater where a city district used to be, smoke rising"
-    ]
+    ],
+    "hook": "What would happen if an asteroid hit your city?"
   },
   {
     "id": "delta-p",
@@ -1167,7 +1205,8 @@
       "murky green industrial water around huge concrete and steel, ominous stillness",
       "a diver's helmet lamp lighting a grated drain opening underwater",
       "a calm reservoir surface above, with a huge dam wall, deceptively peaceful"
-    ]
+    ],
+    "hook": "What would happen if you swam near an open underwater pipe?"
   },
   {
     "id": "grain-silo",
@@ -1197,7 +1236,8 @@
       "a hand reaching up out of golden grain, kernels cascading",
       "a towering farm silo against a prairie sky at dusk",
       "close-up of corn kernels flowing downward like liquid into darkness"
-    ]
+    ],
+    "hook": "What would happen if you fell into a grain silo?"
   },
   {
     "id": "rogue-wave",
@@ -1227,7 +1267,8 @@
       "a ship's bow plunging into a deep trough between huge waves",
       "tons of white water exploding across a ship's deck, rails bending",
       "an empty storm-tossed ocean with one enormous wave crest, gray sky"
-    ]
+    ],
+    "hook": "What would happen if a rogue wave hit your ship?"
   },
   {
     "id": "blue-hole-blackout",
@@ -1257,7 +1298,8 @@
       "looking up from underwater at the bright surface shimmering far above",
       "a freediver ascending along a rope line in deep blue, bubbles rising",
       "the Blue Hole from above, a dark navy circle in turquoise reef water"
-    ]
+    ],
+    "hook": "What would happen if you freedived the Blue Hole?"
   },
   {
     "id": "antarctica-whiteout",
@@ -1287,7 +1329,8 @@
       "a red research station building disappearing behind curtains of snow",
       "a rope guideline between buildings vanishing into white nothing",
       "Antarctic station under aurora at night, calm before the storm"
-    ]
+    ],
+    "hook": "What would happen if an Antarctic whiteout caught you outside?"
   },
   {
     "id": "wildfire",
@@ -1317,7 +1360,8 @@
       "a wildfire racing up a slope, flames leaning uphill",
       "a person crouched low in a blackened already-burned clearing as fire passes",
       "a hillside of burned trees smoking under an orange sky"
-    ]
+    ],
+    "hook": "What would happen if a wildfire raced up your hill?"
   },
   {
     "id": "sinkhole",
@@ -1347,7 +1391,8 @@
       "first person view looking up from inside a deep dark pit at a broken ceiling far above",
       "soil and sand pouring down like a waterfall into a dark cavity",
       "a huge circular sinkhole in a neighborhood at dawn, police tape around it"
-    ]
+    ],
+    "hook": "What would happen if a sinkhole opened under your bed?"
   },
   {
     "id": "sea-cave-tide",
@@ -1377,6 +1422,7 @@
       "waves crashing violently into a cave mouth in a cliff face",
       "a headlamp beam on wet cave walls with water climbing them",
       "a cliff coastline at high tide, cave entrance fully submerged, spray flying"
-    ]
+    ],
+    "hook": "What would happen if the tide trapped you in a sea cave?"
   }
 ]

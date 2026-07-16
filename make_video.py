@@ -681,10 +681,13 @@ def produce_one(topics, state, args, publish_at):
     run_dir = os.path.join(RUNS_DIR, f"{stamp}-{topic['id']}")
     os.makedirs(run_dir, exist_ok=True)
 
-    # 1) narration
+    # 1) narration — open on the "What would happen if..." hook, spoken and shown
+    hook = topic.get("hook", "").strip()
+    script = f"{hook} {topic['script']}" if hook else topic["script"]
+    captions = ([hook] + topic["captions"]) if hook else topic["captions"]
     log(f"Generating narration (edge-tts / {VOICE})...")
     audio = os.path.join(run_dir, "narration.mp3")
-    audio_dur = make_narration(topic["script"], audio)
+    audio_dur = make_narration(script, audio)
     log(f"  narration duration: {audio_dur:.2f}s")
 
     # 2) images
@@ -712,7 +715,7 @@ def produce_one(topics, state, args, publish_at):
 
     # 3) captions + assemble (with animated overlays)
     log("Writing captions and assembling video...")
-    write_srt(topic["captions"], audio_dur, os.path.join(run_dir, "captions.srt"))
+    write_srt(captions, audio_dur, os.path.join(run_dir, "captions.srt"))
     atmos = build_atmosphere()
     bed = build_audio_bed()
     video = assemble(run_dir, n, audio_dur, atmos, bed)

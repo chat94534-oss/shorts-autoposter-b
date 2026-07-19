@@ -446,8 +446,8 @@ def write_srt(captions, total_dur, path):
         f.write("\n".join(lines))
 
 
-SUB_STYLE = (f"FontName={SUB_FONT},Fontsize=15,Bold=1,PrimaryColour=&H00FFFFFF,"
-             "OutlineColour=&H00000000,Outline=3,Shadow=1,Alignment=2,MarginV=120")
+SUB_STYLE = (f"FontName={SUB_FONT},Fontsize=13,Bold=1,PrimaryColour=&H00FFFFFF,"
+             "OutlineColour=&H00000000,Outline=3,Shadow=1,Alignment=2,MarginV=80")
 
 
 def expand_prompts(base, target=NUM_IMAGES):

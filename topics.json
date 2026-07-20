@@ -897,5 +897,966 @@
       "a cliff coastline at high tide, cave entrance fully submerged, spray flying"
     ],
     "hook": "What would happen if the tide trapped you in a sea cave?"
+  },
+  {
+    "id": "haboob",
+    "title": "Would you survive a desert dust storm? #shorts",
+    "description": "A wall of dust two kilometers high is rolling toward you. You have seconds to decide. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "dust",
+      "desert",
+      "haboob",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "script": "You're driving a flat desert highway when the horizon turns brown and starts to rise, a wall of dust two kilometers high called a haboob, moving at sixty kilometers an hour. In under a minute it swallows you. Visibility drops to zero, headlights vanish into the murk, and the real danger isn't the sand, it's the cars you can't see. Drivers who keep going get rear-ended or plow into stopped traffic at highway speed. The grit chokes your lungs and scours your eyes. Blind in a moving box of steel with trucks all around you... you don't survive.",
+    "captions": [
+      "A brown wall two kilometers high is rising.",
+      "A haboob, moving 60 km an hour.",
+      "In under a minute, you can't see a thing.",
+      "The danger is the cars you can't see.",
+      "Blind on a highway at speed, you don't survive."
+    ],
+    "image_prompts": [
+      "first person view through a windshield as a towering brown dust wall approaches on a desert highway",
+      "a massive rolling wall of dust engulfing a flat desert landscape, dramatic daylight",
+      "inside a car with headlights swallowed by thick brown dust, near zero visibility",
+      "a desert highway vanishing into a churning dust cloud",
+      "an aerial view of a haboob overtaking a town, sunlight above the dust"
+    ],
+    "hook": "What would happen if a wall of dust swallowed the desert around you?"
+  },
+  {
+    "id": "overboard-at-sea",
+    "title": "Would you survive falling off a cruise ship? #shorts",
+    "description": "You go over the rail at night. The ship sails on, and no one saw you fall. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "ocean",
+      "cruise",
+      "overboard",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "script": "You lean too far over the rail at night, and suddenly you're falling. The drop from a cruise deck is like hitting concrete, and the impact knocks the wind out of you. When you surface, the thing that ends you isn't the water, it's the silence. The ship is already a wall of lights shrinking into the dark, engines drowning any scream, and no one saw you go. You could tread water for hours in the open ocean, unseen, as hypothermia sets in and the swells lift and drop you. Alone in the black water with no one coming... you don't survive.",
+    "captions": [
+      "You go over the rail into the dark.",
+      "The fall hits like concrete.",
+      "You surface, and the ship is already leaving.",
+      "No one saw you fall. No one is coming.",
+      "Alone in the cold black ocean, you don't survive."
+    ],
+    "image_prompts": [
+      "first person view falling from a high cruise ship deck toward dark ocean water at night",
+      "a brightly lit cruise ship sailing away, seen from the water at night",
+      "a lone person treading water in vast dark open ocean, ship lights distant",
+      "churning black sea swells under a night sky",
+      "an empty ocean horizon at dawn with no ship in sight"
+    ],
+    "hook": "What would happen if you fell off a cruise ship at night?"
+  },
+  {
+    "id": "maelstrom",
+    "title": "Would you survive a whirlpool? #shorts",
+    "description": "The sea opens into a spinning funnel and your boat is sliding toward the center. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "ocean",
+      "whirlpool",
+      "water",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "script": "You're boating a narrow channel when the tide turns and the sea starts to spin. Where currents collide, a maelstrom forms, a swirling funnel of water meters across, spinning fast enough to spin a small boat like a leaf. Your engine screams but the current is stronger, dragging you in a tightening spiral toward the low center. As the funnel steepens, water pours over the gunwale. The whirlpool doesn't so much suck you under as swamp and capsize you, spilling you into churning water that pins you and won't let you swim up. Caught in the spin... you don't survive.",
+    "captions": [
+      "The tide turns and the sea starts to spin.",
+      "A maelstrom, a funnel meters across.",
+      "Your engine can't fight the current.",
+      "It drags you in a tightening spiral.",
+      "It swamps the boat and pins you under. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view on a small boat spinning toward the center of a huge ocean whirlpool",
+      "an aerial view of a massive swirling whirlpool in a coastal channel, daylight",
+      "churning water spiraling into a dark funnel center",
+      "a small boat tilting as water pours over its side in a spinning current",
+      "foaming turbulent sea where powerful currents collide"
+    ],
+    "hook": "What would happen if your boat was pulled into a whirlpool?"
+  },
+  {
+    "id": "cold-water-shock",
+    "title": "Would you survive falling into freezing water? #shorts",
+    "description": "You break through and hit water near freezing. The first minute decides everything. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "cold",
+      "water",
+      "hypothermia",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "script": "You go in, and the cold hits like a hammer. In water near freezing, the first danger isn't hypothermia, it's the gasp. The shock forces a huge involuntary breath, and if your head is under, you inhale water and drown in seconds. If you survive that, you hyperventilate and can't hold your breath or control your movements. Then comes the cruelest part: within minutes, your arms and hands stop working as blood retreats to your core, so even a meter from safety you can no longer grip or pull yourself out. Helpless in the ice water... you don't survive.",
+    "captions": [
+      "You hit water near freezing.",
+      "The cold forces a giant involuntary gasp.",
+      "Under the surface, that breath drowns you.",
+      "In minutes, your hands stop working.",
+      "A meter from safety, you can't pull out. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view breaking through a frozen surface into dark icy water",
+      "a person's hands clawing at the edge of broken ice on a frozen lake",
+      "dark cold water with a pale winter sky above the surface",
+      "a frozen lake with a jagged hole and snow-covered banks in daylight",
+      "underwater view looking up at cracked ice and fading light"
+    ],
+    "hook": "What would happen if you fell into near-freezing water?"
+  },
+  {
+    "id": "lake-nyos",
+    "title": "Would you survive a lake that exhales death? #shorts",
+    "description": "A hidden lake belches an invisible cloud of gas that pours downhill toward your village. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "gas",
+      "volcanic",
+      "limnic",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "script": "You live beside a calm crater lake, not knowing volcanic gas has been dissolving into its deep water for years. Tonight the lake overturns. In seconds it belches a giant invisible cloud of carbon dioxide, heavier than air, and the cloud pours silently down the valley at fifty kilometers an hour. It hugs the ground and pushes out all the breathable air. There's no smell, no warning, no way to outrun it. One breath and you simply lose consciousness where you stand. This really happened at Lake Nyos, where a single night killed over seventeen hundred people. You don't survive.",
+    "captions": [
+      "A calm lake full of dissolved gas.",
+      "Tonight it overturns and belches a cloud.",
+      "Invisible carbon dioxide pours downhill.",
+      "It has no smell and pushes out the air.",
+      "One breath and you drop where you stand. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view of a still crater lake at night with mist rising off the water",
+      "an invisible heavy gas cloud implied by fog pouring down a green valley at dawn",
+      "a quiet village in a valley beneath a crater lake, early morning light",
+      "a calm blue crater lake surrounded by steep green slopes in daylight",
+      "low fog hugging the ground across a silent hillside settlement"
+    ],
+    "hook": "What would happen if a lake released a cloud of deadly gas?"
+  },
+  {
+    "id": "lahar",
+    "title": "Would you survive a volcanic mudflow? #shorts",
+    "description": "The volcano didn't erupt lava. It sent a river of concrete-like mud down the valley. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "volcano",
+      "lahar",
+      "mudflow",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "script": "You hear the volcano rumble, but no lava comes. Instead the eruption melts the ice on its summit, and the water mixes with ash and rock into a lahar, a churning river of mud with the consistency of wet concrete. It roars down the valley faster than you can run, filling everything, streets, houses, whole towns. It's not like water you can swim in; it's dense and abrasive, tumbling boulders and trees, and it grabs your legs and pulls you under, then sets around you as it slows. Caught in the flow of moving concrete... you don't survive.",
+    "captions": [
+      "The volcano rumbles, but no lava comes.",
+      "It melts the summit ice into mud.",
+      "A lahar, like a river of wet concrete.",
+      "It roars downhill faster than you can run.",
+      "It pulls you under and sets like stone. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view of a churning gray mudflow surging down a valley toward you",
+      "a massive lahar of gray volcanic mud engulfing a village, daylight",
+      "a river of thick mud carrying boulders and tree trunks",
+      "a smoking volcano above a valley filling with gray mud",
+      "buildings half-buried in hardened volcanic mud after a lahar"
+    ],
+    "hook": "What would happen if a volcanic mudflow reached your town?"
+  },
+  {
+    "id": "mine-collapse",
+    "title": "Would you survive being trapped in a collapsed mine? #shorts",
+    "description": "The tunnel caves in behind you. You're alive, in the dark, half a kilometer down. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "mine",
+      "underground",
+      "trapped",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "script": "The roof comes down with a roar and a punch of air, and when the dust settles you're alive but sealed in, half a kilometer underground in total darkness. The rockfall blocks the only way out. Your headlamp shows a pocket of shattered stone barely big enough to sit in. The air is your clock: as you breathe, oxygen falls and carbon dioxide climbs, and heat and thirst build in the black. Rescuers may drill for days or weeks, but they have to find you first through solid rock. If the air runs out before they break through... you don't survive.",
+    "captions": [
+      "The roof comes down and seals you in.",
+      "Half a kilometer down, in total darkness.",
+      "The only way out is buried in rubble.",
+      "Every breath uses up your air.",
+      "If rescue is too slow, you don't survive."
+    ],
+    "image_prompts": [
+      "first person view of a headlamp beam on collapsed rock filling a mine tunnel",
+      "a dark mine shaft blocked by a wall of broken stone",
+      "a single miner's lamp glowing in a cramped underground pocket",
+      "dust settling in a collapsed mine tunnel, faint light",
+      "a deep mine entrance with rescue drilling equipment at the surface"
+    ],
+    "hook": "What would happen if a mine collapsed and trapped you underground?"
+  },
+  {
+    "id": "moose-charge",
+    "title": "Would you survive an angry moose? #shorts",
+    "description": "It looks slow and harmless. Then half a ton of muscle charges straight at you. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "moose",
+      "animal",
+      "charge",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "script": "You see a moose by the trail and stop to watch, thinking it's a gentle giant. But it's autumn, and this bull is aggressive. Ears back, hackles up, it charges, half a ton of animal moving at fifty kilometers an hour. Moose injure more people than bears do. It doesn't bite; it strikes with its front hooves and tramples, knocking you flat and stomping down with its full weight. There's no outrunning it. Your one real defense is a tree or a rock to put between you and the animal. Standing in the open as it comes... you don't survive.",
+    "captions": [
+      "A moose looks calm and harmless.",
+      "In autumn, the bulls are aggressive.",
+      "It charges, half a ton at 50 km an hour.",
+      "It knocks you down and tramples you.",
+      "In the open with no cover, you don't survive."
+    ],
+    "image_prompts": [
+      "first person view of a large bull moose charging down a forest trail toward you",
+      "a huge moose with lowered head and raised hackles in autumn woods",
+      "a person running behind a tree as a moose charges, daylight forest",
+      "a massive moose standing tall in a misty northern forest",
+      "trampled snow and brush where a moose has charged, morning light"
+    ],
+    "hook": "What would happen if a moose charged you?"
+  },
+  {
+    "id": "elephant-stampede",
+    "title": "Would you survive an elephant stampede? #shorts",
+    "description": "The herd panics and turns. Now several tons of elephant are coming your way. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "elephant",
+      "stampede",
+      "animal",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "script": "You're on foot near a herd when something spooks them, and in an instant calm giants become a wall of panic. A charging elephant weighs several tons and hits forty kilometers an hour, faster than you can sprint. The ground literally shakes. There's no dodging a stampede; the herd runs as one, flattening brush, small trees, and anything underfoot. An elephant can knock you down with its trunk, kneel on you, or simply trample you into the dirt without slowing. Caught in the open in front of a stampeding herd, with nowhere solid to hide... you don't survive.",
+    "captions": [
+      "Something spooks the herd, and it turns.",
+      "Several tons each, charging at 40 km an hour.",
+      "The ground shakes as they come.",
+      "They flatten everything underfoot.",
+      "In the open with nowhere to hide, you don't survive."
+    ],
+    "image_prompts": [
+      "first person view of a herd of elephants stampeding across a dusty savanna toward you",
+      "a wall of charging elephants kicking up dust in golden daylight",
+      "a lone figure small against a stampeding elephant herd",
+      "elephants running together across an African plain, dust rising",
+      "trampled brush and deep footprints on a dusty savanna after a stampede"
+    ],
+    "hook": "What would happen if an elephant herd stampeded toward you?"
+  },
+  {
+    "id": "rhino-charge",
+    "title": "Would you survive a charging rhino? #shorts",
+    "description": "Two tons of armored muscle with a horn, coming at you at highway speed. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "rhino",
+      "charge",
+      "animal",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "script": "You spot a rhino grazing and freeze, hoping it hasn't noticed you. But rhinos have terrible eyesight and a short temper, and to a nervous rhino, a shape that doesn't belong is a threat. It charges, two tons of armored muscle tipped with a horn, hitting fifty kilometers an hour in a few strides, far faster than you can run. It closes the distance in seconds, hooks upward with its horn, and tosses you, then gores and tramples. Your only hope is a tree to climb or a solid object to dodge behind, using its poor eyesight. Out in the open... you don't survive.",
+    "captions": [
+      "A rhino grazes, and you freeze.",
+      "Poor eyesight, short temper, huge horn.",
+      "It charges at 50 km an hour in a few strides.",
+      "It hooks you upward and tramples.",
+      "In the open with no cover, you don't survive."
+    ],
+    "image_prompts": [
+      "first person view of a rhino charging across dry grassland toward you, head lowered",
+      "a massive rhino kicking up dust as it charges in daylight",
+      "a rhino with a large horn standing alert on an African plain",
+      "a person scrambling up a tree as a rhino charges below",
+      "dusty savanna with a rhino silhouette in the heat haze"
+    ],
+    "hook": "What would happen if a rhino charged you?"
+  },
+  {
+    "id": "chemical-plant-explosion",
+    "title": "Would you survive a chemical plant explosion? #shorts",
+    "description": "The alarm sounds too late. A shockwave, then a cloud you can't outrun. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "explosion",
+      "chemical",
+      "industrial",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "script": "You're near an industrial plant when a tank ruptures. First comes the blast, a shockwave that shatters windows for kilometers and can rupture your lungs even without touching flame. If the explosion doesn't get you, the cloud does. Burning chemicals release toxic gases, invisible and heavier than air, rolling outward faster than you can flee. Some sear your airways; others poison you silently with each breath. The safest move is counterintuitive, get upwind and uphill and indoors, sealing every gap. But caught outside downwind as the shockwave and the toxic cloud arrive together... you don't survive.",
+    "captions": [
+      "A storage tank ruptures.",
+      "The shockwave shatters windows for kilometers.",
+      "Then a toxic cloud rolls outward.",
+      "It's invisible, heavy, and poisons each breath.",
+      "Caught downwind and outside, you don't survive."
+    ],
+    "image_prompts": [
+      "first person view of a distant chemical plant erupting in a fireball, shockwave visible",
+      "a huge industrial explosion with a rising black and orange cloud",
+      "a chemical facility with tanks and pipes engulfed in flame, daylight",
+      "a toxic-looking cloud drifting over an industrial skyline",
+      "shattered windows and debris on a street near an industrial blast"
+    ],
+    "hook": "What would happen if a chemical plant exploded near you?"
+  },
+  {
+    "id": "molten-metal",
+    "title": "Would you survive a fall in a steel mill? #shorts",
+    "description": "You slip on the catwalk above a ladle of molten steel glowing at 1,500 degrees. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "steel",
+      "industrial",
+      "heat",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "script": "You're on a catwalk in a steel mill, high above a giant ladle of molten metal glowing orange at over fifteen hundred degrees. The heat alone hits your face like an open oven. Then your boot slips. You don't even have to touch the metal to die; the air directly above it is hot enough to sear your lungs in a single breath and set your clothes alight mid-fall. If you reach the surface, molten steel is so dense you don't sink into it, you land on top and burn instantly. There is no version of this you walk away from. You don't survive.",
+    "captions": [
+      "A catwalk above a ladle of molten steel.",
+      "It glows orange at over 1,500 degrees.",
+      "The heat hits your face like an oven.",
+      "Your boot slips.",
+      "The air alone sears your lungs. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view looking down from a steel mill catwalk at glowing molten metal below",
+      "a giant industrial ladle pouring bright orange molten steel, showering sparks",
+      "the intense orange glow of molten metal in a dark foundry",
+      "a steelworker's catwalk high above glowing furnaces",
+      "sparks and heat shimmer rising from a vat of molten steel"
+    ],
+    "hook": "What would happen if you fell toward molten steel?"
+  },
+  {
+    "id": "downed-power-line",
+    "title": "Would you survive a downed power line? #shorts",
+    "description": "A live wire drops beside your car. Step out the wrong way and the ground itself kills you. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "electricity",
+      "power line",
+      "voltage",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "script": "A storm brings a high-voltage line down across the road, and it lands hissing beside your car. You're fine inside, but the moment you step out, everything changes. A live wire touching the ground energizes the earth around it in rings of different voltage. If one foot lands in a higher-voltage ring and the other in a lower one, current surges up one leg and down the other, stopping your heart. This is called step voltage, and it kills people who thought they were clear. Stepping out with your feet apart into the charged ground... you don't survive.",
+    "captions": [
+      "A live wire drops beside your car.",
+      "Inside, you're safe. Stepping out, you're not.",
+      "The wire charges the ground in voltage rings.",
+      "Feet in two rings sends current through you.",
+      "Step voltage stops your heart. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view of a sparking downed power line on wet road beside a car",
+      "a high-voltage line fallen across a street, sparks and smoke, storm daylight",
+      "a snapped utility pole with cables draped on the ground",
+      "rain-soaked road with an arcing electrical wire",
+      "a car stopped near a fallen power line under dark storm clouds"
+    ],
+    "hook": "What would happen if a live power line fell next to you?"
+  },
+  {
+    "id": "waterfall-plunge",
+    "title": "Would you survive going over a waterfall? #shorts",
+    "description": "The current takes your kayak and the roar ahead means the river simply ends. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "waterfall",
+      "river",
+      "water",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "script": "You're on a river when the current grabs you and the horizon line ahead means only one thing, the water just ends. You go over. The fall itself might not kill you, but what waits at the bottom will. As the waterfall pours down, it drives air deep into the plunge pool and creates a churning, recirculating current called a hydraulic. It grabs whatever falls in and holds it, spinning you underwater and shoving you back under every time you rise, like a washing machine you can't climb out of. Trapped in the churn beneath the falls... you don't survive.",
+    "captions": [
+      "The current takes you toward the edge.",
+      "The horizon line means the river ends.",
+      "You go over the falls.",
+      "At the bottom, a churning hydraulic waits.",
+      "It holds you under and won't let go. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view rushing toward the edge of a large waterfall on a fast river",
+      "a powerful waterfall crashing into a churning white plunge pool",
+      "the horizon line of a river dropping away into mist",
+      "violent recirculating whitewater at the base of a waterfall",
+      "a wide waterfall thundering down mossy cliffs in daylight"
+    ],
+    "hook": "What would happen if you went over a large waterfall?"
+  },
+  {
+    "id": "polar-vortex",
+    "title": "Would you survive a polar vortex? #shorts",
+    "description": "The temperature crashes to sixty below and exposed skin freezes in minutes. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "cold",
+      "frostbite",
+      "winter",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "script": "A blast of arctic air crashes the temperature to sixty below with the wind, and you're caught outside. At this cold, the danger is measured in minutes. Exposed skin freezes in under ten, and frostbite turns fingers, ears, and nose hard and white. Each breath of the frigid air chills you from the inside. Your body pulls blood to the core to protect the heart, so your limbs go numb and clumsy, then useless. As your core temperature drops, shivering stops, confusion sets in, and some people even feel warm and undress. Lost in that cold without shelter... you don't survive.",
+    "captions": [
+      "Arctic air crashes it to sixty below.",
+      "At this cold, survival is measured in minutes.",
+      "Exposed skin freezes in under ten.",
+      "Your limbs go numb, then useless.",
+      "Shivering stops and confusion sets in. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view walking into a blinding snow-blasted white landscape in extreme cold",
+      "a frozen figure struggling through wind-driven snow, ice on their clothing",
+      "a bleak snowy street with frost fog and low winter sun",
+      "ice crystals forming on eyelashes and a scarf in brutal cold",
+      "a vast frozen landscape under a pale sky with blowing snow"
+    ],
+    "hook": "What would happen if a polar vortex trapped you outside?"
+  },
+  {
+    "id": "storm-surge",
+    "title": "Would you survive a hurricane storm surge? #shorts",
+    "description": "The wind isn't what gets you. It's the wall of ocean the storm pushes ashore. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "hurricane",
+      "flood",
+      "surge",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "script": "The hurricane's winds are terrifying, but the real killer is the water. A storm surge is a mound of ocean the storm shoves ashore, and it can rise several meters in minutes, turning streets into rivers and swallowing ground floors whole. You retreat upstairs, but the water keeps climbing, carrying cars, debris, and snakes on the current. The house shifts on its foundation. Even strong swimmers are useless against water full of wreckage moving with the power of the sea. Most hurricane deaths come from this surge, not the wind. Trapped as the water rises past the roof... you don't survive.",
+    "captions": [
+      "The wind isn't the real killer.",
+      "A storm surge is an ocean shoved ashore.",
+      "It rises meters in minutes.",
+      "It swallows ground floors and climbs.",
+      "Trapped as water reaches the roof, you don't survive."
+    ],
+    "image_prompts": [
+      "first person view of dark seawater flooding a street up to the windows during a storm",
+      "a hurricane storm surge swallowing coastal houses, gray daylight",
+      "floodwater carrying cars and debris down a residential street",
+      "waves crashing over a seawall into a coastal town",
+      "a submerged neighborhood with only rooftops above the water"
+    ],
+    "hook": "What would happen if a hurricane storm surge hit your home?"
+  },
+  {
+    "id": "earthquake-collapse",
+    "title": "Would you survive a building collapse in an earthquake? #shorts",
+    "description": "The floor lurches, the walls crack, and the ceiling starts coming down. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "earthquake",
+      "collapse",
+      "disaster",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "script": "The ground lurches and the whole building groans. In a major earthquake, the danger isn't the shaking itself, it's what falls on you. Ceilings crack, concrete rains down, and heavy furniture becomes deadly. People who panic and run for the stairs are often caught as floors pancake down onto each other. The advice is to drop, cover, and hold on beside something sturdy that can leave a survivable void. But if the structure fails, tons of concrete collapse in seconds, and even the safest spot can be crushed. Trapped under a pancaked floor with no air pocket... you don't survive.",
+    "captions": [
+      "The ground lurches and the building groans.",
+      "The shaking isn't what gets you.",
+      "Ceilings crack and concrete rains down.",
+      "Running for the stairs gets people crushed.",
+      "Under a pancaked floor with no air, you don't survive."
+    ],
+    "image_prompts": [
+      "first person view of a cracking ceiling and falling debris inside a shaking building",
+      "a collapsing concrete building with dust exploding outward, daylight",
+      "a room mid-collapse with furniture toppling and plaster falling",
+      "a pancaked multi-story building reduced to layered rubble",
+      "rescue workers searching a collapsed building in dusty daylight"
+    ],
+    "hook": "What would happen if your building collapsed in an earthquake?"
+  },
+  {
+    "id": "gas-leak-home",
+    "title": "Would you survive a gas leak in your home? #shorts",
+    "description": "You can't see it or smell much of it. One spark and the whole house becomes a bomb. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "gas",
+      "explosion",
+      "home",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "script": "A pipe or an unlit burner leaks natural gas while you sleep, and it fills the house invisibly. The gas company adds a rotten-egg smell to warn you, but a heavy sleeper or a slow leak can go unnoticed until the air is saturated. Then it only takes one spark, a light switch, a fridge motor, a doorbell, to ignite the whole volume at once. The explosion can level the house, blow out walls, and hurl debris across the street, and any fire that follows traps whoever survived the blast. Flipping a switch in a gas-filled room... you don't survive.",
+    "captions": [
+      "Gas leaks while you sleep.",
+      "It fills the house invisibly.",
+      "The warning smell can go unnoticed.",
+      "One spark ignites the whole house at once.",
+      "Flipping a switch in a gas-filled room, you don't survive."
+    ],
+    "image_prompts": [
+      "first person view of a hand reaching for a light switch in a dim quiet house",
+      "a house exploding outward with a fireball, debris flying, daylight",
+      "a kitchen stove with a faint gas haze in the air",
+      "a leveled home reduced to splintered wreckage after a blast",
+      "smoke and rubble where a house exploded on a suburban street"
+    ],
+    "hook": "What would happen if gas filled your house unnoticed?"
+  },
+  {
+    "id": "cabin-depressurization",
+    "title": "Would you survive a hole blown in a plane? #shorts",
+    "description": "At cruising altitude a window bursts, and the air is torn out of the cabin. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "plane",
+      "altitude",
+      "depressurization",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "script": "You're cruising at eleven kilometers up when a section of the fuselage fails and the cabin explosively decompresses. Air roars out in a screaming fog, loose objects fly, and anyone unbelted near the hole can be pulled toward it. But the silent danger is the air itself. At this altitude there's too little oxygen to stay conscious; you have maybe fifteen to twenty seconds of useful awareness before you black out. That's why masks drop instantly. Grab yours first, then help others. If you freeze, fumble, or try to help someone before your own mask... you don't survive.",
+    "captions": [
+      "A window bursts at cruising altitude.",
+      "Air roars out in a screaming fog.",
+      "The real danger is too little oxygen.",
+      "You have seconds before you black out.",
+      "Reach for your own mask, or you don't survive."
+    ],
+    "image_prompts": [
+      "first person view of oxygen masks dropping in a foggy decompressing airplane cabin",
+      "a jagged hole torn in the side of an airliner fuselage at altitude, daylight",
+      "airplane cabin with debris and mist swirling toward a breach",
+      "a commercial jet cruising far above the clouds",
+      "passengers in a cabin pulling down bright yellow oxygen masks"
+    ],
+    "hook": "What would happen if a plane lost its cabin pressure at altitude?"
+  },
+  {
+    "id": "skyscraper-fire",
+    "title": "Would you survive a fire in a skyscraper? #shorts",
+    "description": "You're forty floors up, the stairwell is full of smoke, and the fire is below you. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "fire",
+      "skyscraper",
+      "smoke",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "script": "You're forty floors up when the alarm sounds and smoke seeps under the door. The fire is below you, between you and the ground, and the elevators shut down the moment it started. Heat and smoke rise, so a stairwell full of smoke becomes a deadly chimney. The instinct to climb toward the roof is often a trap, roof doors are usually locked and helicopters rarely rescue in thick smoke. Your best chance is a protected stairwell below the fire, if one exists, moving fast and low. But if smoke fills every exit above the flames... you don't survive.",
+    "captions": [
+      "You're forty floors up when the alarm sounds.",
+      "The fire is below you, blocking the way down.",
+      "Elevators shut down instantly.",
+      "Stairwells become smoke-filled chimneys.",
+      "With every exit cut off, you don't survive."
+    ],
+    "image_prompts": [
+      "first person view of a smoke-filled skyscraper hallway with an exit sign glowing",
+      "a high-rise building with smoke and flames pouring from lower floors, daylight",
+      "a dark stairwell filling with thick smoke, faint emergency lighting",
+      "a city skyscraper with fire visible in windows against the skyline",
+      "a person crouching low below smoke near a stairwell door"
+    ],
+    "hook": "What would happen if a fire broke out below you in a skyscraper?"
+  },
+  {
+    "id": "industrial-freezer",
+    "title": "Would you survive being locked in a freezer? #shorts",
+    "description": "The door clicks shut behind you at minus thirty, and there's no handle on the inside. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "freezer",
+      "cold",
+      "trapped",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "script": "You step into a walk-in industrial freezer, and the heavy door swings shut behind you. It's minus thirty in here, and if the safety latch is broken, there's no way to open it from the inside. In street clothes, your body loses heat fast. Shivering starts within minutes, then your fingers stiffen and your thinking slows. There may be no alarm and no one due for hours. As your core cools, hypothermia sets in, movements get clumsy, and eventually you can't even pound on the door. Locked in the cold with no one coming... you don't survive.",
+    "captions": [
+      "The freezer door swings shut behind you.",
+      "It's minus thirty, and the latch is broken.",
+      "In street clothes, you lose heat fast.",
+      "Shivering starts, then your hands stiffen.",
+      "No one is coming for hours. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view of a heavy walk-in freezer door closing, frost on the walls",
+      "the inside of an industrial freezer with frost-covered shelves and dim light",
+      "a person's breath fogging in a frozen storage room",
+      "a thick insulated freezer door with a broken inside latch",
+      "frosted metal shelving stacked with boxes in a cold storage room"
+    ],
+    "hook": "What would happen if you were locked in an industrial freezer?"
+  },
+  {
+    "id": "bridge-collapse",
+    "title": "Would you survive a bridge collapse? #shorts",
+    "description": "The road ahead simply drops away, and your car is already committed to the fall. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "bridge",
+      "collapse",
+      "fall",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "script": "You're driving across a bridge when, without warning, the deck ahead buckles and drops. There's no time to brake; your car pitches forward into the gap, falling with slabs of concrete and twisted steel all around you. A fall of even fifteen meters into water hits like a solid surface, crushing the front of the car. If you survive the impact, the car sinks fast, tangled in debris and rebar, and dark water floods in through broken windows. Trapped in a sinking wreck under the rubble of the bridge, with debris pinning the doors... you don't survive.",
+    "captions": [
+      "The bridge deck buckles and drops.",
+      "No time to brake, you're already falling.",
+      "The car pitches into the gap with the debris.",
+      "Hitting the water crushes the front.",
+      "Trapped in a sinking wreck, you don't survive."
+    ],
+    "image_prompts": [
+      "first person view through a windshield as a bridge deck collapses and drops away",
+      "a highway bridge section falling into a river below, daylight",
+      "cars tumbling amid concrete slabs of a collapsing bridge",
+      "a broken bridge span with twisted steel over dark water",
+      "rescue boats near the wreckage of a collapsed bridge"
+    ],
+    "hook": "What would happen if the bridge collapsed under your car?"
+  },
+  {
+    "id": "mudslide",
+    "title": "Would you survive a mudslide? #shorts",
+    "description": "The saturated hillside above your house lets go in the middle of the night. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "mudslide",
+      "landslide",
+      "disaster",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "script": "Days of rain soak the steep slope above your home, and one night the whole hillside lets go. A mudslide isn't slow-moving muck, it's a fast river of mud, rock, and shattered trees that can hit fifty kilometers an hour and strike with almost no warning, usually in the dark. It slams into the back of the house, tears it off its foundation, and fills the rooms with dense sludge in seconds. The mud is heavy as wet cement and packed with debris, pinning you where you stand and setting as it stops. Buried in your own home by the hillside... you don't survive.",
+    "captions": [
+      "Rain soaks the slope above your house.",
+      "One night, the hillside lets go.",
+      "A river of mud at 50 km an hour.",
+      "It tears the house off its foundation.",
+      "Buried in heavy setting mud, you don't survive."
+    ],
+    "image_prompts": [
+      "first person view of a wall of mud and debris smashing through a house at night",
+      "a massive mudslide engulfing hillside homes, gray daylight",
+      "a river of mud carrying trees and rubble down a slope",
+      "houses half-buried in thick mud after a landslide",
+      "a scarred muddy hillside above a destroyed neighborhood"
+    ],
+    "hook": "What would happen if a mudslide buried your house?"
+  },
+  {
+    "id": "plane-ditching",
+    "title": "Would you survive a plane crash-landing on water? #shorts",
+    "description": "Both engines are out over the ocean and the pilot is aiming for the waves. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "plane",
+      "water",
+      "crash",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "script": "The engines fail over open water and the crew prepares to ditch. If the pilot pulls off a smooth belly landing, the impact is survivable, but that's only the start. The plane floats for minutes, not hours, and cold water pours in through cracks. In the panic, people waste seconds grabbing bags and inflating life vests inside the cabin, which traps them against the ceiling as water rises. The ones who live move fast, vest uninflated until they're out the door, straight to a raft, out of the cold water. But hesitate, and freeze in the flooding fuselage... and you don't survive.",
+    "captions": [
+      "Engines fail over open ocean.",
+      "The crew braces to ditch on the waves.",
+      "A good landing is only the start.",
+      "The plane floats for minutes, not hours.",
+      "Hesitate in the flooding cabin, and you don't survive."
+    ],
+    "image_prompts": [
+      "first person view of an airliner cabin as water rushes in past the seats",
+      "a passenger jet floating on the ocean surface after ditching, daylight",
+      "an aircraft belly-landing onto open sea with a spray of water",
+      "passengers evacuating onto an inflatable slide raft beside a floating plane",
+      "a half-submerged airliner with rafts drifting on gray ocean swells"
+    ],
+    "hook": "What would happen if your plane had to land on the ocean?"
+  },
+  {
+    "id": "trapped-submarine",
+    "title": "Would you survive a sinking submarine? #shorts",
+    "description": "The sub is stuck on the bottom, the air is going stale, and the hull is groaning. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "submarine",
+      "deep",
+      "trapped",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "script": "Your submarine loses power and settles onto the seabed, too deep to simply float back up. Now two clocks are running against you. The first is the air, with the crew breathing, oxygen falls and carbon dioxide climbs toward levels that knock you out and then kill you. The second is the sea itself, pressing on a hull already groaning in the cold dark, water seeping through failing seals. Escaping means an ascent through crushing pressure that can burst your lungs or give you the bends. Rescue subs may be days away, and the deep is patient. As the last good air runs out... you don't survive.",
+    "captions": [
+      "The sub settles on the seabed, too deep to rise.",
+      "Two clocks start counting down.",
+      "The air turns toxic as you breathe.",
+      "The hull groans under the pressure.",
+      "Rescue is days away. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view inside a dim cramped submarine interior with warning lights on",
+      "a submarine resting on a dark deep-sea floor, faint lights",
+      "the interior of a submarine control room lit by red emergency lights",
+      "a pressure hull groaning in the deep with rivets and seals visible",
+      "a rescue vessel on the surface far above a sunken submarine"
+    ],
+    "hook": "What would happen if you were trapped in a sunken submarine?"
+  },
+  {
+    "id": "tree-well",
+    "title": "Would you survive falling into a tree well? #shorts",
+    "description": "You ski too close to a snowy pine and drop headfirst into a hidden pit of loose snow. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "snow",
+      "ski",
+      "tree well",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "script": "You're skiing fresh powder and drift close to a big snow-covered pine. Around its trunk, the branches keep the snow loose, hiding a deep pit called a tree well. You slip in, and the worst part is you go in headfirst. The loose snow gives no grip and collapses around you, packing tighter the more you struggle, until you're upside down and pinned, unable to push up or shout. It's a form of snow immersion suffocation, and it kills silently, often within minutes, with your friends skiing right past unaware. Buried upside down and alone in the powder... you don't survive.",
+    "captions": [
+      "You drift close to a snowy pine.",
+      "A hidden pit of loose snow surrounds it.",
+      "You slip in headfirst.",
+      "The snow packs tighter as you struggle.",
+      "Buried upside down and silent, you don't survive."
+    ],
+    "image_prompts": [
+      "first person view falling headfirst into a deep pit of snow beside a pine trunk",
+      "a snow-covered pine tree with a hidden well of loose snow around its base",
+      "a skier's legs sticking up from a deep snow well by a tree",
+      "a quiet snowy forest of pines on a bright ski slope",
+      "deep untouched powder snow around dark evergreen trunks"
+    ],
+    "hook": "What would happen if you fell headfirst into a tree well?"
+  },
+  {
+    "id": "car-in-water",
+    "title": "Would you survive your car sinking in water? #shorts",
+    "description": "Your car plunges off the road into deep water. You have about a minute of air. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "car",
+      "water",
+      "escape",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "script": "Your car goes off the road and hits the water, and it starts to sink. Panic tells you to call for help or wait, and that's what drowns people. Here's what actually works, remembered as a simple rule: seatbelts, windows, out, children first. Undo your seatbelt immediately. Do not open the door, the water pressure outside makes it nearly impossible and floods you faster. Instead, open or break a side window in the first seconds, while the car still floats and there's air. Push children out first, then climb out and swim up. Do that fast... and you survive. Freeze, and you don't.",
+    "captions": [
+      "Your car hits the water and starts to sink.",
+      "Waiting or calling for help drowns you.",
+      "Seatbelt off, first thing.",
+      "Don't open the door, open a window.",
+      "Get out fast, children first. Do that, and you survive."
+    ],
+    "image_prompts": [
+      "first person view inside a car with water rising past the windows, hands on the seatbelt",
+      "a car half-submerged and sinking front-first into a dark lake",
+      "a side window being pushed open as water floods a car interior",
+      "a person climbing out of a car window into water, daylight",
+      "a car sinking into a river with bubbles rising to the surface"
+    ],
+    "hook": "What would happen if your car went into deep water?"
+  },
+  {
+    "id": "subway-tracks",
+    "title": "Would you survive falling onto subway tracks? #shorts",
+    "description": "You're on the tracks, a train is coming, and the platform is too high to climb. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "subway",
+      "train",
+      "escape",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "script": "You fall onto the tracks and the headlights of an incoming train are already glowing in the tunnel. The platform edge is chest-high and too hard to climb in time, and the third rail beside you carries enough current to kill on contact. Panic says scramble, but there's a better answer. If you can't get back onto the platform, don't touch the electrified rail, drop into the trench between the two running rails and lie flat, face down, in the gap beneath the train. There's usually just enough clearance for the cars to pass over you. Do that, and the train roars over you... and you survive.",
+    "captions": [
+      "You're on the tracks, train coming.",
+      "The platform is too high to climb in time.",
+      "The third rail can kill on contact.",
+      "Lie flat in the trench between the rails.",
+      "The train passes over you, and you survive."
+    ],
+    "image_prompts": [
+      "first person view down on subway tracks with train headlights approaching in the tunnel",
+      "the gap and trench between two subway running rails on a lit platform",
+      "a subway train entering a brightly lit station platform",
+      "a person lying flat in the channel between subway rails",
+      "a subway tunnel with an approaching train's lights glowing"
+    ],
+    "hook": "What would happen if you fell onto the subway tracks with a train coming?"
+  },
+  {
+    "id": "bull-shark",
+    "title": "Would you survive a bull shark in shallow water? #shorts",
+    "description": "The most aggressive shark in the world just bumped your leg in murky water. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "shark",
+      "water",
+      "escape",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "script": "You're wading in murky, warm shallows when something heavy bumps your leg, a bull shark, the aggressive species that thrives in the very water people swim in. It circles, testing you. Thrashing and screaming makes you look like wounded prey and invites the bite. Instead, stay vertical, keep your eyes on it, and back slowly toward shore without turning away. If it does attack, fight, hit its sensitive nose, and claw at the eyes and gills, the places that make it break off. People have driven sharks away exactly this way. Stand your ground and fight smart... and you survive.",
+    "captions": [
+      "Something heavy bumps your leg.",
+      "A bull shark, in the water you swim in.",
+      "Thrashing makes you look like prey.",
+      "Stay vertical, back toward shore, watch it.",
+      "Fight the nose, eyes, and gills, and you survive."
+    ],
+    "image_prompts": [
+      "first person view of a bull shark circling in murky green shallow water",
+      "a bull shark cruising close to a sandy shallow seabed, daylight",
+      "a person standing still in waist-deep water watching a shark fin",
+      "sunlight cutting through cloudy coastal water with a shark shape",
+      "a bull shark turning sharply in warm shallow surf"
+    ],
+    "hook": "What would happen if a bull shark came at you in shallow water?"
+  },
+  {
+    "id": "blizzard-stranded",
+    "title": "Would you survive stranded in a blizzard? #shorts",
+    "description": "Your car dies in a whiteout on an empty road. Stay or walk? One choice keeps you alive. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "blizzard",
+      "cold",
+      "stranded",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "script": "Your car slides off an empty road and stalls in a howling whiteout, snow piling up, no signal, temperature dropping. The deadly instinct is to walk for help; people who leave the car vanish into the snow and freeze meters from the road. The answer is to stay with your car, it's shelter and a big object rescuers can find. Run the engine just ten minutes an hour for heat, but clear snow from the exhaust pipe first so carbon monoxide doesn't seep in. Tie something bright to the antenna, bundle up, and wait. Stay put and stay smart... and you survive.",
+    "captions": [
+      "Your car stalls in a whiteout.",
+      "No signal, snow piling up.",
+      "Walking for help is what freezes people.",
+      "Stay with the car, it's shelter and a beacon.",
+      "Clear the exhaust, run heat, and wait. You survive."
+    ],
+    "image_prompts": [
+      "first person view through a windshield buried in blowing snow on an empty road",
+      "a car half-buried in snow on a deserted highway during a blizzard",
+      "a person clearing snow from a car's exhaust pipe in a storm",
+      "a bright cloth tied to a car antenna in swirling snow",
+      "a snow-covered road vanishing into white with a stranded car"
+    ],
+    "hook": "What would happen if your car got stranded in a blizzard?"
+  },
+  {
+    "id": "hot-car",
+    "title": "Would you survive being trapped in a hot car? #shorts",
+    "description": "The doors won't open and the inside is climbing past sixty degrees. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "heat",
+      "car",
+      "escape",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "script": "You're stuck in a car in the sun, and the interior is becoming an oven. A parked car can climb past sixty degrees in minutes, faster than your body can shed heat, and heatstroke can kill in under an hour. Pounding on the glass and waiting for a passerby wastes the time you don't have. But there's a way out most people miss: the headrest. Pull it out of the seat and jam its metal prongs into the gap at the bottom corner of a side window, then pry, the corner is the glass's weak point and it shatters far easier than the center. Break out fast... and you survive.",
+    "captions": [
+      "Trapped in a car in the sun.",
+      "It climbs past sixty degrees in minutes.",
+      "Heatstroke can kill within the hour.",
+      "Pull out the headrest, use the metal prongs.",
+      "Pry the window's bottom corner, and you survive."
+    ],
+    "image_prompts": [
+      "first person view inside a hot car with sunlight blazing through the windshield",
+      "a car interior with heat shimmer and bright sun through the glass",
+      "hands pulling a headrest out of a car seat",
+      "a headrest prong wedged into the corner of a car side window",
+      "a shattered car side window with sunlight streaming through"
+    ],
+    "hook": "What would happen if you were trapped in a car in the heat?"
   }
 ]

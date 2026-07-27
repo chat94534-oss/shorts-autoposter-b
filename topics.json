@@ -990,5 +990,873 @@
       "a shattered car side window with sunlight streaming through"
     ],
     "hook": "What would happen if you were trapped in a car in the heat?"
+  },
+  {
+    "id": "wood-chipper",
+    "title": "Would you survive falling into a wood chipper? #shorts",
+    "description": "Your sleeve caught the branch, and the branch is already going in. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "machinery",
+      "industrial",
+      "accident",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "hook": "What would happen if you fell into a wood chipper?",
+    "script": "You just fed a branch into the chipper and your glove went with it. The feed rollers pull at over a hundred feet per minute, faster than you can plant your feet, and your arm is inside before your brain registers the tug. The drum spins at a thousand revolutions a minute with blades that turn hardwood into confetti. There is no stopping it by pulling. The emergency bar is at chest height, and your chest is already past it. Nobody nearby hears anything over the engine. You don't survive.",
+    "captions": [
+      "Your glove goes in with the branch.",
+      "The rollers pull faster than you can react.",
+      "The drum spins a thousand times a minute.",
+      "The stop bar is already behind you.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "first person view of hands feeding a branch into a bright industrial wood chipper",
+      "close-up of a wood chipper's feed rollers and chute in daylight",
+      "spinning chipper blades inside a bright metal housing",
+      "wood chips spraying out of a chipper chute in sunlight",
+      "wide bright daylight scene of a wood chipper on a suburban street"
+    ]
+  },
+  {
+    "id": "combine-harvester",
+    "title": "Would you survive being caught in a combine? #shorts",
+    "description": "You reached in to clear a jam, and the auger woke up. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "farm",
+      "machinery",
+      "accident",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "hook": "What would happen if you were caught in a combine harvester?",
+    "script": "You reached into the header to clear a blockage without shutting the engine down. The stored tension in the jam releases and the auger turns. It's a steel screw the width of your body, turning slowly with enormous torque, and it doesn't cut so much as wind. Your arm goes in, then your shoulder, and the machine simply keeps rotating because it has the power of a truck engine behind it. Farm machinery is the leading cause of amputations in agriculture. Alone in a field at harvest, you don't survive.",
+    "captions": [
+      "You reach in without killing the engine.",
+      "The stored tension releases and the auger turns.",
+      "A steel screw as wide as your body.",
+      "It doesn't cut. It winds.",
+      "Alone in the field, you don't survive."
+    ],
+    "image_prompts": [
+      "first person view reaching into the header of a bright green combine harvester",
+      "close-up of a large steel auger screw inside a harvester, well-lit",
+      "golden wheat pouring through a sunlit combine header",
+      "a combine harvester in a bright sunlit wheat field",
+      "wide sunlit farmland with a lone harvester at work"
+    ]
+  },
+  {
+    "id": "nitrogen-asphyxiation",
+    "title": "Would you survive a room full of nitrogen? #shorts",
+    "description": "There's no smell, no choking, and no warning at all. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "gas",
+      "industrial",
+      "asphyxiation",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "hook": "What would happen if you walked into a room filled with nitrogen?",
+    "script": "You step into a tank that's been purged with nitrogen. The air feels normal, because nitrogen is already most of what you breathe and it has no smell and no taste. What's missing is oxygen, and your body has no alarm for that. The panic reflex fires on carbon dioxide, and you're still exhaling that just fine. So there's no choking, no gasping, no signal. You feel briefly light-headed and confused, then you're unconscious in seconds. Rescuers who follow you in without air die the same way. You don't survive.",
+    "captions": [
+      "The air feels completely normal.",
+      "Nitrogen has no smell and no taste.",
+      "Your body only panics at carbon dioxide.",
+      "You get no warning at all.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "first person view stepping through a hatch into a bright empty steel tank",
+      "close-up of an industrial confined space entry hatch in daylight",
+      "bright interior of a clean steel vessel with a ladder",
+      "a nitrogen purge line and valve on a sunlit industrial pipe",
+      "wide bright industrial plant with steel tanks under blue sky"
+    ]
+  },
+  {
+    "id": "ammonia-leak",
+    "title": "Would you survive an ammonia leak? #shorts",
+    "description": "One breath of it starts destroying the inside of your lungs. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "gas",
+      "chemical",
+      "industrial",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "hook": "What would happen if you were caught in an ammonia leak?",
+    "script": "A refrigeration line ruptures above you and the plant fills with anhydrous ammonia. It's alkaline, and it goes straight for anything wet, which means your eyes, your throat, and the lining of your lungs. The first breath feels like inhaling bleach. Your airway swells shut from the inside while fluid floods the air sacs, and your corneas cloud over so you can't find the door you came through. High concentrations can be fatal in minutes. You're blind, drowning in your own lungs, and still inside the building. You don't survive.",
+    "captions": [
+      "A refrigeration line ruptures above you.",
+      "Ammonia attacks everything wet.",
+      "The first breath is like inhaling bleach.",
+      "Your airway swells shut and your eyes cloud over.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "first person view of white vapour flooding a bright industrial corridor",
+      "close-up of a leaking refrigeration pipe with white vapour, daylight",
+      "bright factory interior filling with pale white gas",
+      "a hand reaching for an exit door handle through white haze",
+      "wide bright industrial cold-storage plant exterior in sunlight"
+    ]
+  },
+  {
+    "id": "chlorine-gas-cloud",
+    "title": "Would you survive a chlorine gas cloud? #shorts",
+    "description": "The cloud is heavier than air, so it hunts the low ground you're standing on. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "gas",
+      "chemical",
+      "derailment",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "hook": "What would happen if a chlorine tanker ruptured next to you?",
+    "script": "A tank car splits open and a yellow-green cloud rolls out low across the ground. Chlorine is heavier than air, so it pools in ditches, basements and underpasses, exactly where you'd instinctively duck for cover. Once inside your lungs it reacts with moisture to form acid, and the tissue begins to break down. You cough, you can't stop, and fluid fills the spaces where air should be. Running downhill or lying flat puts you deeper into it. Uphill and upwind is the only direction that exists, and you chose cover. You don't survive.",
+    "captions": [
+      "A tank car splits and the cloud rolls out.",
+      "Chlorine is heavier than air.",
+      "It pools in ditches and underpasses.",
+      "In your lungs it turns to acid.",
+      "You ducked for cover. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view of a low yellow-green gas cloud rolling across bright ground",
+      "close-up of a derailed rail tank car in daylight",
+      "pale green vapour pooling in a sunlit roadside ditch",
+      "a person's hands and knees on bright asphalt with haze around",
+      "wide bright daylight scene of derailed rail cars and drifting vapour"
+    ]
+  },
+  {
+    "id": "hydrofluoric-acid",
+    "title": "Would you survive hydrofluoric acid on your skin? #shorts",
+    "description": "It doesn't burn at first, because it's already heading for your bones. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "chemical",
+      "acid",
+      "industrial",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "hook": "What would happen if hydrofluoric acid spilled on your hand?",
+    "script": "A splash lands on the back of your hand and barely stings. That's the problem. Hydrofluoric acid isn't a strong acid in the usual sense, so it doesn't announce itself, it passes through skin like water and goes hunting for calcium. It strips it out of your bones from the inside, and the calcium it pulls from your blood is the same calcium your heart needs to beat. A palm-sized exposure can stop a heart hours later, long after the pain finally arrives. Without calcium gluconate on site, you don't survive.",
+    "captions": [
+      "The splash barely stings at all.",
+      "Hydrofluoric acid soaks straight through skin.",
+      "It hunts calcium in your bones.",
+      "It strips the calcium your heart needs.",
+      "A palm-sized splash can kill hours later."
+    ],
+    "image_prompts": [
+      "first person view of a clear liquid splashed on a gloved hand, bright lab lighting",
+      "close-up of a chemical bottle with a hazard label in daylight",
+      "bright laboratory bench with clear beakers and tubing",
+      "a hand under a bright emergency eyewash and shower station",
+      "wide bright modern industrial laboratory interior"
+    ]
+  },
+  {
+    "id": "criticality-accident",
+    "title": "Would you survive a criticality accident? #shorts",
+    "description": "There's a blue flash, then a long time to think about it. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "radiation",
+      "nuclear",
+      "industrial",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "hook": "What would happen if you were standing next to a criticality accident?",
+    "script": "You lean over the tank as the solution goes critical, and there's a blue flash in the air around you. In that instant you absorb a dose thousands of times a normal yearly exposure. You feel warm and nauseous and you walk out on your own. Then your chromosomes, shredded beyond repair, stop letting your cells divide. Your skin, your gut lining and your bone marrow are all tissues that must constantly renew, and they simply stop. Over days and weeks your body comes apart while you stay awake for it. You don't survive.",
+    "captions": [
+      "A blue flash fills the air around you.",
+      "You absorb thousands of years of dose.",
+      "You feel sick, and you walk out.",
+      "Your cells can no longer divide.",
+      "You stay awake for weeks. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view leaning over a bright steel tank in a clean industrial room",
+      "close-up of a blue glow in clear liquid, brightly lit",
+      "a radiation warning trefoil sign on a bright wall",
+      "bright clean laboratory interior with stainless steel equipment",
+      "wide bright nuclear facility corridor in daylight"
+    ]
+  },
+  {
+    "id": "mri-magnet",
+    "title": "Would you survive an MRI magnet accident? #shorts",
+    "description": "The magnet is always on, and it will take anything metal with it. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "hospital",
+      "magnet",
+      "accident",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "hook": "What would happen if you walked into an MRI room with metal?",
+    "script": "You walk in pushing an oxygen cylinder, not realising the magnet never switches off. At the doorway it grabs the steel and accelerates it to around forty miles an hour, straight into the bore, with you still holding it. The field is tens of thousands of times Earth's, and nothing you can do generates enough force to let go in time. There's no power switch, only a quench that dumps liquid helium and takes minutes. Pinned between a cylinder and a magnet, in a room now filling with helium, you don't survive.",
+    "captions": [
+      "You walk in with an oxygen cylinder.",
+      "The magnet is never switched off.",
+      "It accelerates the steel to forty miles an hour.",
+      "There's no off switch, only a slow quench.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "first person view pushing a metal cylinder toward a bright white MRI scanner",
+      "close-up of an MRI scanner bore, brightly lit clinical white",
+      "a strong magnetic field warning sign on a bright hospital door",
+      "white vapour venting inside a bright clinical scanner room",
+      "wide bright hospital imaging suite in daylight"
+    ]
+  },
+  {
+    "id": "hyperbaric-chamber-fire",
+    "title": "Would you survive a fire in a hyperbaric chamber? #shorts",
+    "description": "In pure oxygen at pressure, everything burns, including things that normally can't. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "fire",
+      "oxygen",
+      "medical",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "hook": "What would happen if a fire started inside a hyperbaric chamber?",
+    "script": "You're sealed in a steel cylinder breathing pressurised oxygen when a single spark finds something flammable. In a high-oxygen atmosphere under pressure, materials that would barely smoulder in normal air ignite instantly and burn with ferocious speed. Your clothing, your hair, the bedding, all of it goes at once. The chamber cannot be opened while pressurised, and safely bringing the pressure down takes minutes you don't have. Historic chamber fires have killed everyone inside in well under a minute. Behind sealed steel, in an atmosphere that wants to burn, you don't survive.",
+    "captions": [
+      "You're sealed in pressurised pure oxygen.",
+      "One spark finds something flammable.",
+      "Materials that barely smoulder now explode into flame.",
+      "The door can't open while it's pressurised.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "first person view inside a bright white hyperbaric chamber looking at the porthole",
+      "close-up of a sealed steel chamber door and pressure gauges, well-lit",
+      "bright orange flame reflecting inside a small steel cylinder",
+      "a clinical oxygen valve and regulator in bright light",
+      "wide bright hospital room with a hyperbaric chamber"
+    ]
+  },
+  {
+    "id": "jet-engine-intake",
+    "title": "Would you survive walking in front of a jet engine? #shorts",
+    "description": "You don't get pulled in slowly. You get there instantly. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "aviation",
+      "engine",
+      "accident",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "hook": "What would happen if you walked in front of a running jet engine?",
+    "script": "You step across the nose of the aircraft to grab a dropped headset, inside the intake hazard zone. A large turbofan at idle swallows over a ton of air a second, and the suction near the lip is strong enough to lift a person off their feet. You don't get dragged, you get moved, in less time than it takes to turn your head. Ahead of you is a fan spinning thousands of revolutions a minute. Ground crews are trained on this exact circle of tarmac because there is no reaction time. You don't survive.",
+    "captions": [
+      "You step in front of the intake.",
+      "The engine swallows a ton of air a second.",
+      "The suction lifts you off your feet.",
+      "The fan spins thousands of times a minute.",
+      "There's no reaction time. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view standing close to a huge bright jet engine intake on tarmac",
+      "close-up of turbofan blades inside an engine nacelle, daylight",
+      "bright airport apron with an airliner engine running",
+      "a hazard zone marking painted on sunlit tarmac",
+      "wide bright airport ramp scene under blue sky"
+    ]
+  },
+  {
+    "id": "hot-air-balloon-fire",
+    "title": "Would you survive a hot air balloon fire? #shorts",
+    "description": "A thousand feet up, in a wicker basket, with the fuel above your head. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "balloon",
+      "fire",
+      "falling",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "hook": "What would happen if your hot air balloon caught fire?",
+    "script": "A fuel line splits and the flame that was heating the air is now feeding on propane in the basket with you. There's no way down and no way out. The envelope above you is thin nylon, and once fire reaches it the fabric doesn't burn so much as vanish, tearing open and dumping the hot air that holds you up. The basket falls a thousand feet in under ten seconds. There are no parachutes on a balloon and no controls that help. Burning and falling at the same time, you don't survive.",
+    "captions": [
+      "A fuel line splits inside the basket.",
+      "The flame is now feeding on raw propane.",
+      "The nylon envelope tears open above you.",
+      "A thousand feet in under ten seconds.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "first person view inside a hot air balloon basket looking up at the burner, bright sky",
+      "close-up of a balloon burner flame against bright blue sky",
+      "a colourful balloon envelope from below in sunlight",
+      "wide bright aerial view of green fields far below",
+      "wide sunlit sky with hot air balloons at altitude"
+    ]
+  },
+  {
+    "id": "cave-squeeze",
+    "title": "Would you survive getting stuck in a cave squeeze? #shorts",
+    "description": "You went in head first, and head first is the only way out. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "caving",
+      "trapped",
+      "underground",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "hook": "What would happen if you got stuck upside down in a cave squeeze?",
+    "script": "You wriggled head-first down a passage the width of a washing machine door, and now your hips are wedged and you're inverted. Upside down, your heart is pumping against gravity into a head that's already swelling, and your lungs are being compressed by your own weight. You cannot bend, cannot push, and rescuers cannot pull you out without the rock giving way first. Cavers have died exactly like this, with teams working on them for over a day. Blood pooling, chest crushed, wedged in solid limestone, you don't survive.",
+    "captions": [
+      "You went in head-first and wedged.",
+      "You're upside down and can't bend.",
+      "Your heart pumps against gravity.",
+      "Your own weight crushes your chest.",
+      "Rescuers can't pull you free. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view down a narrow rock passage lit brightly by a headlamp",
+      "close-up of pale limestone walls squeezing a caving helmet, bright light",
+      "a caver's gloved hands pressed against bright cave rock",
+      "bright headlamp beam in a tight rock crevice",
+      "wide brightly lit cave chamber with narrow passages"
+    ]
+  },
+  {
+    "id": "abandoned-well",
+    "title": "Would you survive falling down an abandoned well? #shorts",
+    "description": "Twenty inches wide, sixty feet deep, and nobody knows where you went. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "falling",
+      "trapped",
+      "underground",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "hook": "What would happen if you fell down an abandoned well?",
+    "script": "The rotten boards give way and you drop into a shaft barely wider than your shoulders. You wedge somewhere down in the dark, arms pinned above or below you, and you can't climb because there's nothing to push against but crumbling earth. Old wells fill with carbon dioxide and methane that sit in the bottom because they're heavier than air, so the air down there won't keep you conscious. Anything a rescuer sends down risks collapsing the shaft onto you. In bad air, wedged in the dark, you don't survive.",
+    "captions": [
+      "The boards give way beneath you.",
+      "The shaft is barely wider than your shoulders.",
+      "You wedge with your arms pinned.",
+      "Heavy gas sits in the bottom.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "first person view looking down a narrow brick well shaft with bright daylight above",
+      "close-up of rotten wooden boards over a well opening in sunlight",
+      "bright circle of sky seen from inside a deep shaft",
+      "damp brick and earth shaft walls lit brightly",
+      "wide sunlit overgrown field with an old stone well"
+    ]
+  },
+  {
+    "id": "septic-tank",
+    "title": "Would you survive falling into a septic tank? #shorts",
+    "description": "The gas at the bottom kills faster than the drowning does. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "gas",
+      "confined-space",
+      "farm",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "hook": "What would happen if you fell into a septic tank?",
+    "script": "The lid cracks and you go in. The problem isn't the liquid, it's what's above it. Decomposition produces hydrogen sulphide, which smells like rotten eggs at low levels and then, at high levels, paralyses your sense of smell entirely so the warning disappears. One or two breaths of a concentrated pocket can knock you unconscious instantly, and you drop face-down. This is why these accidents kill in groups: a family member climbs in after you and goes down in the same breath. Unconscious in seconds, you don't survive.",
+    "captions": [
+      "You fall through the tank lid.",
+      "Decomposition fills the space with gas.",
+      "At high levels you stop smelling it.",
+      "Two breaths knock you unconscious.",
+      "Rescuers go down too. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view looking down into a bright concrete tank opening",
+      "close-up of a broken concrete tank lid in daylight",
+      "bright sunlit farmyard with a concrete tank cover",
+      "a gloved hand gripping the rim of a concrete opening in sunlight",
+      "wide bright rural farmyard scene under blue sky"
+    ]
+  },
+  {
+    "id": "tiger-attack",
+    "title": "Would you survive a tiger attack? #shorts",
+    "description": "You'll never see the one that gets you. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "animal",
+      "predator",
+      "attack",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "hook": "What would happen if a tiger attacked you?",
+    "script": "You're on a forest path and something behind you weighs five hundred pounds. Tigers attack from the rear, and they aim for the back of the neck, because a bite there severs the spinal cord and ends the fight before it starts. Their canines are three inches long and their jaws close with hundreds of pounds of force per square inch. In parts of the Sundarbans, forest workers wear masks with faces painted on the back of their heads, because a tiger that thinks you're looking at it often won't commit. Facing the wrong way, you don't survive.",
+    "captions": [
+      "Something five hundred pounds is behind you.",
+      "Tigers attack from the rear.",
+      "They bite through the back of the neck.",
+      "Canines three inches long.",
+      "You never see it. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view of a bright forest trail with dappled sunlight ahead",
+      "close-up of a tiger's face in bright daylight, vivid orange",
+      "a tiger walking through sunlit tall grass",
+      "macro of a tiger's teeth and jaw, well-lit",
+      "wide bright mangrove forest in daylight"
+    ]
+  },
+  {
+    "id": "wild-boar-attack",
+    "title": "Would you survive a wild boar charge? #shorts",
+    "description": "It doesn't bite. It runs past you and opens you up on the way. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "animal",
+      "charge",
+      "attack",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "hook": "What would happen if a wild boar charged you?",
+    "script": "You've walked between a sow and her piglets and she's coming. A large boar can weigh over three hundred pounds and hits close to twenty-five miles an hour, low to the ground, aiming for your legs. Males carry tusks that self-sharpen against each other, and they don't bite with them, they run past and rip upward. That upward hook opens the thigh, where the femoral artery sits inches under the skin, and a torn femoral empties you in minutes. Alone on a trail with no tree close enough, you don't survive.",
+    "captions": [
+      "You walked between a sow and her piglets.",
+      "Three hundred pounds at twenty-five miles an hour.",
+      "The tusks self-sharpen against each other.",
+      "It runs past and rips upward.",
+      "A torn femoral empties you in minutes."
+    ],
+    "image_prompts": [
+      "first person view of a wild boar charging on a bright forest trail",
+      "close-up of a wild boar's tusks and snout in daylight",
+      "a boar and piglets in sunlit undergrowth",
+      "bright woodland floor with churned earth and hoof prints",
+      "wide sunlit European forest in daylight"
+    ]
+  },
+  {
+    "id": "wolf-pack",
+    "title": "Would you survive being surrounded by wolves? #shorts",
+    "description": "There are six of them and one of you, and running is the worst thing you can do. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "animal",
+      "wolves",
+      "predator",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "hook": "What would happen if a wolf pack surrounded you?",
+    "script": "You're in open snow and shapes are moving in a wide circle around you. Wolves are endurance hunters, they test prey before committing, and everything they read tells them whether you're worth the risk. Turning to run answers that question instantly: you become something that flees, and they are built to chase down animals faster than you. But here's the thing, verified wolf attacks on humans are astonishingly rare, and they hate uncertainty. Stand tall, make noise, back away facing them, never turn around. Refuse to be prey... and you survive.",
+    "captions": [
+      "Shapes circling you in open snow.",
+      "Wolves test prey before committing.",
+      "Running answers their question instantly.",
+      "Stand tall, shout, and back away facing them.",
+      "Never turn around, and you survive."
+    ],
+    "image_prompts": [
+      "first person view of grey wolves in a circle on bright sunlit snow",
+      "close-up of a wolf's yellow eyes in bright daylight",
+      "wolves standing in a sunlit snowy clearing, vivid",
+      "fresh wolf tracks across bright white snow",
+      "wide bright snowy forest landscape under blue sky"
+    ]
+  },
+  {
+    "id": "chimpanzee-attack",
+    "title": "Would you survive a chimpanzee attack? #shorts",
+    "description": "It's half your weight and far stronger, and it doesn't go for the throat. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "animal",
+      "primate",
+      "attack",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "hook": "What would happen if a chimpanzee attacked you?",
+    "script": "A chimp weighs maybe half what you do, and pound for pound its muscle produces substantially more force than yours. That's the part people get wrong. The worse part is the strategy: chimps in conflict don't aim for a killing bite, they disable. They target hands, feet, face and genitals, removing fingers and lips, because a rival who can't grip and can't be recognised is finished. Recorded attacks have left people alive but without a face or hands. There's no throat bite to end it quickly. You don't survive.",
+    "captions": [
+      "Half your weight, far more force.",
+      "Chimps don't try to kill quickly.",
+      "They disable: hands, feet, face.",
+      "Fingers and lips come off first.",
+      "There's no quick ending. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view of a chimpanzee approaching through bright green foliage",
+      "close-up of a chimpanzee's open mouth and teeth in daylight",
+      "a chimpanzee's hand gripping a sunlit branch, macro",
+      "chimpanzees in bright sunlit forest canopy",
+      "wide bright African forest clearing in daylight"
+    ]
+  },
+  {
+    "id": "walrus-attack",
+    "title": "Would you survive a walrus in the water? #shorts",
+    "description": "Two thousand pounds, two feet of ivory, and it wants your boat. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "animal",
+      "arctic",
+      "water",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "hook": "What would happen if a walrus attacked you in the water?",
+    "script": "A shadow surfaces beside your kayak and it's the size of a car. A bull walrus can pass two thousand pounds and carries tusks up to three feet long, which it uses to haul itself onto ice, and to fight. Walruses have punched holes in inflatable boats and dragged them under, and there are records of them pulling swimmers down. It doesn't need to bite you, it only needs to hold you beneath the surface in water near freezing. Below the ice with a ton of animal on top of you, you don't survive.",
+    "captions": [
+      "Something the size of a car surfaces beside you.",
+      "Two thousand pounds with three-foot tusks.",
+      "Walruses have holed boats and dragged them under.",
+      "It only has to hold you down.",
+      "In near-freezing water, you don't survive."
+    ],
+    "image_prompts": [
+      "first person view from a kayak with a walrus surfacing in bright arctic water",
+      "close-up of a walrus's tusks and whiskered face in sunlight",
+      "walruses hauled out on bright sunlit ice",
+      "clear cold blue-green water beside white ice, bright",
+      "wide sunlit arctic seascape with floating ice"
+    ]
+  },
+  {
+    "id": "whitewater-foot-entrapment",
+    "title": "Would you survive foot entrapment in a river? #shorts",
+    "description": "Your foot is stuck between two rocks and the current is pushing your head under. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "river",
+      "water",
+      "trapped",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "hook": "What would happen if your foot got trapped in a river?",
+    "script": "You stood up in moving water and your boot slid between two rocks. The current is only knee-deep, but water pushing on your body exerts hundreds of pounds of force, folding you downstream and pressing your face under. You cannot straighten up against it, and you cannot pull the foot out with the water bending you the wrong way. But there is a way out: get onto your back, get your head upstream of your foot, and use the current to lever your body up so the ankle can rotate free. Fight the right direction... and you survive.",
+    "captions": [
+      "You stood up in moving water.",
+      "Your boot slides between two rocks.",
+      "The current folds you face-down.",
+      "Roll onto your back, head upstream.",
+      "Let the current lever you free, and you survive."
+    ],
+    "image_prompts": [
+      "first person view of knee-deep bright rushing river water over rocks",
+      "close-up of a boot wedged between two sunlit river stones",
+      "white water rushing over bright river boulders",
+      "a hand reaching out of bright churning river water",
+      "wide sunlit mountain river with rapids and green banks"
+    ]
+  },
+  {
+    "id": "low-head-dam",
+    "title": "Would you survive a low head dam? #shorts",
+    "description": "They call it the drowning machine, and it's only four feet tall. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "river",
+      "water",
+      "drowning",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "hook": "What would happen if you went over a low head dam?",
+    "script": "You float over a concrete lip barely four feet high and it looks like nothing. Below it the falling water drives down and rolls back upstream along the surface, creating a permanent churning cylinder called a hydraulic. It pulls you back into the face of the dam, pushes you down, carries you along the bottom, and lifts you up to do it again. The aerated water is too full of bubbles to swim in or float in. Rescuers have been killed pulling people out of these. In the drowning machine, you don't survive.",
+    "captions": [
+      "A concrete lip only four feet high.",
+      "The water rolls back upstream underneath.",
+      "It pulls you into the face of the dam.",
+      "The foam is too aerated to swim in.",
+      "They call it the drowning machine."
+    ],
+    "image_prompts": [
+      "first person view approaching a bright low concrete dam on a sunlit river",
+      "close-up of white churning foam at the base of a dam, daylight",
+      "bright water pouring over a straight concrete weir",
+      "aerated white water surface in bright sunlight",
+      "wide sunlit river with a low head dam across it"
+    ]
+  },
+  {
+    "id": "nitrogen-narcosis",
+    "title": "Would you survive nitrogen narcosis at depth? #shorts",
+    "description": "At a hundred and thirty feet, your own brain starts lying to you. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "diving",
+      "ocean",
+      "depth",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "hook": "What would happen if you got nitrogen narcosis while diving?",
+    "script": "You're past a hundred and thirty feet and you feel wonderful. That's the warning. Under pressure, nitrogen dissolves into your nervous system and acts like an anaesthetic, and divers call it the martini effect because every thirty feet feels like another drink. Your judgement goes first, and you don't notice, because judgement is the thing that would notice. Narced divers have handed their regulator to a fish, forgotten which way is up, and swum calmly downward. Nothing hurts and nothing feels wrong. Believing you're fine at depth, you don't survive.",
+    "captions": [
+      "Past 130 feet, you feel wonderful.",
+      "Nitrogen acts like an anaesthetic.",
+      "Every thirty feet is another drink.",
+      "Your judgement goes first, unnoticed.",
+      "Divers have calmly swum downward."
+    ],
+    "image_prompts": [
+      "first person view underwater looking down into bright deep blue water",
+      "close-up of a dive computer showing depth, well-lit underwater",
+      "a diver's bubbles rising toward bright sunlight above",
+      "bright blue open water with sun rays from the surface",
+      "wide bright underwater scene with a distant reef wall"
+    ]
+  },
+  {
+    "id": "tire-blowout",
+    "title": "Would you survive a tire blowout at speed? #shorts",
+    "description": "Your instinct is to brake, and your instinct will kill you. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "car",
+      "driving",
+      "crash",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "hook": "What would happen if your tire blew out at seventy miles an hour?",
+    "script": "There's a bang and the car lurches hard toward the shoulder. A front blowout drags the steering to one side, and every instinct says slam the brakes. Braking shifts weight onto the failed corner and spins you across the lanes. Here's what actually works, and it feels insane: grip the wheel with both hands, keep pointing straight, and briefly press the accelerator to stabilise the car, then ease off and let it slow itself while you steer gently to the shoulder. Do the opposite of your instinct... and you survive.",
+    "captions": [
+      "A bang, and the car pulls hard sideways.",
+      "Every instinct says brake.",
+      "Braking spins you across the lanes.",
+      "Grip the wheel, hold straight, briefly accelerate.",
+      "Coast down to the shoulder, and you survive."
+    ],
+    "image_prompts": [
+      "first person driver's view of a bright sunlit highway through a windscreen",
+      "close-up of a shredded car tire on bright asphalt",
+      "hands gripping a steering wheel in bright daylight",
+      "a car on the sunlit shoulder of a motorway",
+      "wide bright highway scene under blue sky"
+    ]
+  },
+  {
+    "id": "brake-failure-descent",
+    "title": "Would you survive brake failure on a mountain road? #shorts",
+    "description": "The pedal goes to the floor and there's four miles of downhill left. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "car",
+      "driving",
+      "mountain",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "hook": "What would happen if your brakes failed going down a mountain?",
+    "script": "You've been riding the brakes for two miles and now the pedal sinks to the floor. That's brake fade: the friction material has overheated and stopped gripping, or the fluid has boiled into vapour that compresses instead of pushing. Pumping the pedal won't bring it back on a long descent. What works is taking the engine as your brake, drop into low gear, let the revs hold you back, then drag the handbrake gently, and take a runaway truck ramp or an uphill side road if there is one. Use the engine... and you survive.",
+    "captions": [
+      "The pedal sinks to the floor.",
+      "The brakes have overheated and faded.",
+      "Pumping won't bring them back.",
+      "Drop into low gear and let the engine hold you.",
+      "Ease the handbrake, find a ramp, and you survive."
+    ],
+    "image_prompts": [
+      "first person driver's view of a steep sunlit mountain road descending",
+      "close-up of a glowing hot brake disc on a wheel, bright daylight",
+      "a runaway truck ramp of gravel beside a sunlit road",
+      "hands moving a gear lever in a bright car interior",
+      "wide bright mountain pass with switchback roads"
+    ]
+  },
+  {
+    "id": "car-fire",
+    "title": "Would you survive a car fire after a crash? #shorts",
+    "description": "You have about a minute, and the door is jammed. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "car",
+      "fire",
+      "crash",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "hook": "What would happen if your car caught fire after a crash?",
+    "script": "You're upright but the front is crumpled and there's smoke coming through the vents. Once a car fire reaches the cabin it moves fast, because everything around you is plastic and foam that burns hot and releases cyanide and carbon monoxide as it goes. Modern interiors can become unsurvivable in a couple of minutes. The frame has twisted the door shut, the electric window won't run because the wiring is gone, and the seatbelt won't release under load. Breathing burning plastic in a sealed box, you don't survive.",
+    "captions": [
+      "Smoke comes through the vents.",
+      "The cabin is plastic and foam.",
+      "It burns hot and releases cyanide.",
+      "The door is twisted shut, the window is dead.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "first person view from a car interior with bright smoke and daylight outside",
+      "close-up of a crumpled car bonnet with bright flame at the edge",
+      "a jammed car door handle seen from inside, bright light",
+      "bright orange flames around a car wheel arch in daylight",
+      "wide bright roadside scene with a crashed car and smoke"
+    ]
+  },
+  {
+    "id": "plane-cabin-smoke",
+    "title": "Would you survive smoke filling a plane cabin? #shorts",
+    "description": "You have ninety seconds, and you can't see the exit you memorised. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "aviation",
+      "fire",
+      "smoke",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "hook": "What would happen if smoke filled the cabin of your plane?",
+    "script": "The aircraft is on the ground and black smoke is rolling forward along the ceiling. Most people who die in survivable crashes die from smoke, not impact, and investigators talk about a ninety-second window before conditions in the cabin turn lethal. Standing up puts your head in the hot toxic layer. What saves people is decided before takeoff: count the rows to your two nearest exits so you can find them blind, then get low, keep one hand on the seatbacks, and move. Count the rows... and you survive.",
+    "captions": [
+      "Black smoke rolls along the ceiling.",
+      "Smoke kills more people than impact.",
+      "You have about ninety seconds.",
+      "Standing puts your head in the toxic layer.",
+      "Count rows, stay low, and you survive."
+    ],
+    "image_prompts": [
+      "first person view down a bright aircraft aisle with smoke near the ceiling",
+      "close-up of an illuminated exit sign in a bright cabin",
+      "aircraft floor lighting glowing along a bright aisle",
+      "hands gripping seatbacks in a bright plane cabin",
+      "wide bright airliner cabin interior in daylight"
+    ]
+  },
+  {
+    "id": "stuck-in-chimney",
+    "title": "Would you survive getting stuck in a chimney? #shorts",
+    "description": "You went in feet first and the flue narrows all the way down. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "trapped",
+      "crush",
+      "confined-space",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "hook": "What would happen if you got stuck inside a chimney?",
+    "script": "You lowered yourself into a flue that's wider at the top than the bottom, and now your chest is wedged in brick with your arms above your head. Your ribs can't expand against the masonry, which is called positional asphyxia, and it kills without any obstruction of your airway at all. You simply can't inflate your lungs. With your arms pinned upward you have no leverage, and every small slip drops you into a narrower section. People have died in chimneys exactly this way, discovered months later. You don't survive.",
+    "captions": [
+      "You lowered yourself into the flue.",
+      "It narrows as it goes down.",
+      "Your ribs can't expand against the brick.",
+      "Positional asphyxia, with a clear airway.",
+      "Every slip wedges you tighter."
+    ],
+    "image_prompts": [
+      "first person view looking up a narrow brick chimney to bright sky",
+      "close-up of soot-stained brick walls, brightly lit",
+      "a bright square of daylight at the top of a flue",
+      "hands pressed against narrow brick walls in bright light",
+      "wide sunlit rooftop with a tall brick chimney"
+    ]
+  },
+  {
+    "id": "trench-collapse",
+    "title": "Would you survive a trench collapse? #shorts",
+    "description": "A single cubic yard of soil weighs as much as a small car. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "construction",
+      "buried",
+      "crush",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "hook": "What would happen if a trench collapsed on you?",
+    "script": "You're eight feet down in an unshored trench when one wall lets go. A single cubic yard of soil weighs around three thousand pounds, about the same as a small car, and it arrives faster than you can turn. It doesn't bury you loosely, it packs, gripping your chest so tightly that your ribs cannot rise. Even buried only to the waist, the pressure can stop your breathing and crush your circulation. Rescuers can't just dig, because digging drops the second wall in on top of you. You don't survive.",
+    "captions": [
+      "One wall of the trench lets go.",
+      "A cubic yard of soil weighs three thousand pounds.",
+      "It doesn't bury you loosely. It packs.",
+      "Your ribs can't rise against it.",
+      "Digging drops the other wall in."
+    ],
+    "image_prompts": [
+      "first person view from inside a bright open construction trench looking up",
+      "close-up of a crumbling earth trench wall in daylight",
+      "bright excavated soil and pipes in a construction trench",
+      "a hard hat and gloved hands against bright earth walls",
+      "wide sunlit construction site with an open trench"
+    ]
   }
 ]

@@ -74,6 +74,10 @@
     "moose-charge",
     "elephant-stampede",
     "rhino-charge",
-    "chemical-plant-explosion"
+    "chemical-plant-explosion",
+    "molten-metal",
+    "downed-power-line",
+    "waterfall-plunge",
+    "polar-vortex"
   ]
 }

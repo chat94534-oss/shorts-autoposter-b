@@ -78,6 +78,10 @@
     "molten-metal",
     "downed-power-line",
     "waterfall-plunge",
-    "polar-vortex"
+    "polar-vortex",
+    "storm-surge",
+    "earthquake-collapse",
+    "gas-leak-home",
+    "cabin-depressurization"
   ]
 }

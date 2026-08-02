@@ -82,6 +82,10 @@
     "storm-surge",
     "earthquake-collapse",
     "gas-leak-home",
-    "cabin-depressurization"
+    "cabin-depressurization",
+    "skyscraper-fire",
+    "industrial-freezer",
+    "bridge-collapse",
+    "mudslide"
   ]
 }

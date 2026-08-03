@@ -86,6 +86,10 @@
     "skyscraper-fire",
     "industrial-freezer",
     "bridge-collapse",
-    "mudslide"
+    "mudslide",
+    "plane-ditching",
+    "trapped-submarine",
+    "tree-well",
+    "car-in-water"
   ]
 }

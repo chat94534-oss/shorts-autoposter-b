@@ -990,5 +990,873 @@
       "a hard hat and gloved hands against bright earth walls",
       "wide sunlit construction site with an open trench"
     ]
+  },
+  {
+    "id": "steam-pipe-rupture",
+    "title": "Would you survive a steam pipe rupture? #shorts",
+    "description": "Industrial steam is invisible, and it cooks you from inside. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "steam",
+      "industrial",
+      "burns",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "hook": "What would happen if a steam pipe ruptured next to you?",
+    "script": "You're walking past a high-pressure line when a seam lets go. Superheated steam is invisible for the first few feet, so you never see the jet, you only feel it. It carries far more energy than boiling water, because all the heat of vaporisation dumps into you the instant it condenses on your skin. At close range the jet cuts like a blade and strips tissue off bone. Your first breath pulls it into your throat, which swells shut within minutes and seals your airway from the inside. You don't survive.",
+    "captions": [
+      "A high-pressure seam lets go.",
+      "The jet is invisible up close.",
+      "Steam carries far more heat than water.",
+      "At close range it cuts like a blade.",
+      "One breath swells your airway shut."
+    ],
+    "image_prompts": [
+      "first person view of a bright industrial corridor lined with steam pipes",
+      "close-up of white steam venting in bright daylight",
+      "vivid photo of insulated pipework and valves, well-lit",
+      "bright photo of pressure gauges on a steel wall",
+      "wide brightly lit power plant interior, cinematic"
+    ]
+  },
+  {
+    "id": "conveyor-belt-entanglement",
+    "title": "Would you survive being caught in a conveyor? #shorts",
+    "description": "A pinch point takes a sleeve, then an arm, then everything. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "machinery",
+      "factory",
+      "crush",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "hook": "What would happen if a conveyor belt caught your sleeve?",
+    "script": "Your cuff brushes the belt where it wraps the drive roller. That gap is called a pinch point, and it closes at the speed of the belt with the full torque of the motor behind it. Your sleeve goes in, then your hand, and your arm follows, because there is nothing in a human body strong enough to resist a gearbox. The belt does not know you are there and will not slow down. If your shoulder reaches the roller, your chest is next and the steel frame does the rest. You don't survive.",
+    "captions": [
+      "Your cuff brushes the moving belt.",
+      "The gap at the roller is a pinch point.",
+      "Your sleeve goes in, then your hand.",
+      "Nothing in a body resists a gearbox.",
+      "The belt doesn't know you're there."
+    ],
+    "image_prompts": [
+      "first person view of a bright factory conveyor belt running",
+      "close-up of a belt wrapping a steel drive roller, well-lit",
+      "vivid photo of a brightly lit warehouse sorting line",
+      "bright photo of a gloved hand near moving machinery",
+      "wide sunlit industrial factory floor, cinematic"
+    ]
+  },
+  {
+    "id": "lathe-entanglement",
+    "title": "Would you survive getting caught in a lathe? #shorts",
+    "description": "A metal lathe spins faster than you can let go. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "machinery",
+      "workshop",
+      "crush",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "hook": "What would happen if a lathe caught your sleeve?",
+    "script": "You lean in to check a cut and the chuck catches a loose thread. A lathe turning at twelve hundred RPM completes twenty revolutions in one second, so your sleeve, your glove and your arm are pulled in before the signal to move even reaches your hand. It does not tear the fabric, it winds it, hauling your shoulder against the spinning workpiece and then your head. This is why every shop bans gloves, long sleeves and jewellery at the lathe. Once you are wound in, you don't survive.",
+    "captions": [
+      "The chuck catches a loose thread.",
+      "Twenty revolutions in one second.",
+      "It winds the fabric, it doesn't tear it.",
+      "Your shoulder is hauled in next.",
+      "That's why gloves are banned at a lathe."
+    ],
+    "image_prompts": [
+      "first person view of a bright metal lathe spinning a workpiece",
+      "close-up of a lathe chuck and cutting tool, well-lit",
+      "vivid photo of metal shavings curling in bright light",
+      "bright photo of a machine shop workbench with tools",
+      "wide brightly lit workshop interior, cinematic"
+    ]
+  },
+  {
+    "id": "hydrogen-sulfide-manhole",
+    "title": "Would you survive hydrogen sulfide in a manhole? #shorts",
+    "description": "It smells like eggs, then it smells like nothing. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "gas",
+      "confined space",
+      "sewer",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "hook": "What would happen if you climbed into a manhole full of hydrogen sulfide?",
+    "script": "You lift the cover and start down the ladder. At low levels hydrogen sulfide smells strongly of rotten eggs, which is the only warning you get, and at high levels it paralyses your sense of smell within seconds, so the danger seems to vanish. It is heavier than air, so it pools at the bottom, exactly where you are heading. One breath above a thousand parts per million shuts down the enzyme your cells use to process oxygen, and you drop off the ladder mid-rung. Most people who die this way were rescuers. You don't survive.",
+    "captions": [
+      "It smells like rotten eggs at first.",
+      "Then it kills your sense of smell.",
+      "The gas pools at the bottom.",
+      "One breath stops your cells using oxygen.",
+      "Most victims were the rescuers."
+    ],
+    "image_prompts": [
+      "first person view looking down a bright open manhole with a ladder",
+      "close-up of a steel manhole cover in daylight",
+      "vivid photo of a brightly lit concrete utility tunnel",
+      "bright photo of a gas detector clipped to a work vest",
+      "wide sunlit city street with an open manhole, cinematic"
+    ]
+  },
+  {
+    "id": "mountain-lion-attack",
+    "title": "Would you survive a mountain lion attack? #shorts",
+    "description": "It stalks from behind and aims for the back of your neck. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "cougar",
+      "predator",
+      "hiking",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "hook": "What would happen if a mountain lion attacked you on a trail?",
+    "script": "You never see it coming, because a cougar stalks from behind and launches at the back of the neck, aiming to sever the spinal cord in one bite. It can leap forty feet and weighs up to a hundred and sixty pounds. But here is what actually works. Cougars are ambush hunters that abandon a kill the second it looks expensive. Do not run and do not crouch, because both turn you into prey. Face it, raise your jacket to look enormous, shout, and drive your thumbs at its eyes. Most people who fight back survive.",
+    "captions": [
+      "It stalks from behind, silently.",
+      "It aims for the back of your neck.",
+      "Running and crouching make you prey.",
+      "Face it, get large, and shout.",
+      "Fight for the eyes and it lets go."
+    ],
+    "image_prompts": [
+      "first person view of a bright forest trail with dappled sunlight",
+      "close-up of a mountain lion's face in daylight, vivid",
+      "bright photo of rocky brush country under blue sky",
+      "vivid photo of large cat paw prints in dust",
+      "wide sunlit mountain wilderness landscape, cinematic"
+    ]
+  },
+  {
+    "id": "escalator-entrapment",
+    "title": "Would you survive an escalator collapse? #shorts",
+    "description": "A failed step plate drops you into the machinery below. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "escalator",
+      "machinery",
+      "crush",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "hook": "What would happen if an escalator step gave way under you?",
+    "script": "A step plate fails and the floor of the escalator opens into the truss underneath. Below the treads is a continuous chain drive with sprockets and a motor that has no idea anything has changed. Your leg drops in and the machinery pulls it toward the comb plate at the top, where the steps flatten and fold into the deck. The emergency stop only cuts power, it does not reverse anything, and the chain carries enough inertia to keep moving. Even if you are freed fast, crush injuries release toxins that stop the heart. You don't survive.",
+    "captions": [
+      "A step plate fails beneath you.",
+      "Below is a chain drive and a motor.",
+      "It pulls your leg toward the comb plate.",
+      "The stop button only cuts power.",
+      "Crush injuries stop the heart later."
+    ],
+    "image_prompts": [
+      "first person view looking down a bright modern escalator",
+      "close-up of metal escalator treads and comb plate, well-lit",
+      "vivid photo of a brightly lit shopping mall interior",
+      "bright photo of escalator machinery and chains",
+      "wide sunlit transit station atrium, cinematic"
+    ]
+  },
+  {
+    "id": "industrial-shredder",
+    "title": "Would you survive falling into an industrial shredder? #shorts",
+    "description": "The rollers pull at two inches per second and never stop. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "machinery",
+      "recycling",
+      "crush",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "hook": "What would happen if you fell into an industrial shredder?",
+    "script": "You slip on the feed platform of a scrap shredder. The rollers below turn slowly, only a couple of inches a second, which is somehow worse, because you are conscious for all of it. They are counter-rotating hooks designed to grip anything and pull it down, and the harder you pull back the deeper they bite. There is no reverse. The motor delivers hundreds of horsepower and treats a human body exactly as it treats a car door. Even a leg alone releases enough toxins to stop your heart. You don't survive.",
+    "captions": [
+      "You slip on the feed platform.",
+      "The rollers turn two inches a second.",
+      "Counter-rotating hooks grip and pull.",
+      "Pulling back makes them bite deeper.",
+      "There is no reverse gear."
+    ],
+    "image_prompts": [
+      "first person view looking down into a bright industrial shredder hopper",
+      "close-up of heavy steel shredder teeth in daylight",
+      "vivid photo of a sunlit scrap metal yard",
+      "bright photo of crushed metal on a conveyor",
+      "wide brightly lit recycling plant, cinematic"
+    ]
+  },
+  {
+    "id": "storm-drain-swept",
+    "title": "Would you survive being swept into a storm drain? #shorts",
+    "description": "Six inches of moving water takes an adult off their feet. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "water",
+      "urban",
+      "drowning",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "hook": "What would happen if you were swept into a storm drain?",
+    "script": "You step off a kerb into water that looks ankle deep. Six inches moving fast is enough to take an adult off their feet, and the street is a funnel pointing at an open inlet. You go in feet first into a concrete pipe with no light and no handholds, moving faster than you can swim. The pipe is smaller than you expect and the water fills most of it, so there is nowhere to lift your head. Anything that catches in there pins you against it. You don't survive.",
+    "captions": [
+      "Six inches of water takes you off your feet.",
+      "The street funnels toward the inlet.",
+      "You go in feet first into a pipe.",
+      "There is no light and no handhold.",
+      "The water fills most of the pipe."
+    ],
+    "image_prompts": [
+      "first person view of bright floodwater rushing along a street kerb",
+      "close-up of a storm drain inlet with water pouring in, daylight",
+      "vivid photo of a bright concrete drainage pipe entrance",
+      "bright photo of rain on a sunlit flooded road",
+      "wide brightly lit city street during heavy rain, cinematic"
+    ]
+  },
+  {
+    "id": "vending-machine-tip",
+    "title": "Would you survive a vending machine falling on you? #shorts",
+    "description": "They weigh nine hundred pounds and they tip forward. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "crush",
+      "accident",
+      "indoor",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "hook": "What would happen if a vending machine fell on you?",
+    "script": "You rock the machine to free a stuck snack. A full drinks machine weighs around nine hundred pounds, and almost all of that mass sits high and forward behind the glass. Once its centre of gravity crosses the front edge, it is falling, and there is no stage where you can push it back. It lands on your chest and pins you face up, and the weight prevents your ribcage expanding, so you cannot breathe or shout for help. These machines have killed dozens of people, mostly young men, alone in quiet rooms. You don't survive.",
+    "captions": [
+      "You rock it to free a stuck snack.",
+      "It weighs around nine hundred pounds.",
+      "The mass sits high and forward.",
+      "Past the tipping point, it's falling.",
+      "Pinned, your ribs can't expand."
+    ],
+    "image_prompts": [
+      "first person view looking up at a bright lit vending machine",
+      "close-up of vending machine glass and snack rows, well-lit",
+      "vivid photo of a bright empty break room",
+      "bright photo of a tiled corridor floor",
+      "wide brightly lit office lobby, cinematic"
+    ]
+  },
+  {
+    "id": "hay-bale-collapse",
+    "title": "Would you survive a hay bale stack collapsing? #shorts",
+    "description": "One round bale weighs as much as a small car. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "farm",
+      "crush",
+      "hay",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "hook": "What would happen if a stack of hay bales collapsed on you?",
+    "script": "You walk between two stacks in a barn and one shifts. A large round bale can weigh two thousand pounds, and wet ones weigh more, and they are cylinders, so once one starts to move it rolls rather than tips. It does not need to fall far. Landing across your chest, that weight holds your diaphragm still and you suffocate under it while fully conscious. Hay also settles and interlocks, so a second bale often follows into the gap the first one made. Nobody can move it by hand. You don't survive.",
+    "captions": [
+      "One stack shifts as you walk past.",
+      "A round bale weighs two thousand pounds.",
+      "Cylinders roll, they don't tip.",
+      "Across your chest, it holds your diaphragm.",
+      "Nobody can lift it by hand."
+    ],
+    "image_prompts": [
+      "first person view of tall stacked hay bales in a bright barn",
+      "close-up of a golden round hay bale in sunlight",
+      "vivid photo of a sunlit barn interior with beams",
+      "bright photo of loose straw on a barn floor",
+      "wide sunlit farm field with round bales, cinematic"
+    ]
+  },
+  {
+    "id": "logjam-collapse",
+    "title": "Would you survive falling into a logjam? #shorts",
+    "description": "Floating logs close over the hole you fell through. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "river",
+      "logs",
+      "drowning",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "hook": "What would happen if you fell into a logjam?",
+    "script": "You step onto floating timber in a mill pond and a log rolls under your boot. The instant you go through, the logs drift back together and close the gap, and from below the surface is a solid ceiling of wood. You can see daylight between the trunks but you cannot get an arm up through them, and each one weighs hundreds of pounds and pushes back down when you try. The cold water takes your grip strength within a minute. Divers usually recover bodies within a few feet of where they went in. You don't survive.",
+    "captions": [
+      "A floating log rolls under your boot.",
+      "The gap closes the moment you drop.",
+      "From below it's a ceiling of wood.",
+      "Each log weighs hundreds of pounds.",
+      "Cold water takes your grip in a minute."
+    ],
+    "image_prompts": [
+      "first person view of floating logs packed on a bright river surface",
+      "close-up of wet timber and bark in sunlight",
+      "vivid underwater photo looking up at logs and daylight",
+      "bright photo of a sunlit mill pond with timber",
+      "wide sunlit river valley with floating logs, cinematic"
+    ]
+  },
+  {
+    "id": "wine-vat-co2",
+    "title": "Would you survive climbing into a fermentation tank? #shorts",
+    "description": "Fermenting grapes fill the tank with invisible carbon dioxide. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "confined space",
+      "gas",
+      "winery",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "hook": "What would happen if you climbed into a wine fermentation tank?",
+    "script": "You go in to shovel out the skins after fermentation. Yeast has spent two weeks filling that tank with carbon dioxide, which is heavier than air, has no smell, and sits in a deep invisible layer at the bottom. You put your head into it. Carbon dioxide does not just displace oxygen, it triggers your body's suffocation alarm, so you feel sudden panic and your legs stop working almost at once. You have around twenty seconds of useful movement. Every year this kills winery workers, and usually the person who climbs in after them. You don't survive.",
+    "captions": [
+      "Two weeks of fermentation fills the tank.",
+      "Carbon dioxide is heavier than air.",
+      "It sits invisible at the bottom.",
+      "It triggers instant panic and weakness.",
+      "You have twenty seconds of movement."
+    ],
+    "image_prompts": [
+      "first person view looking into a bright stainless steel wine tank",
+      "close-up of grape skins in a sunlit vat",
+      "vivid photo of a brightly lit winery with steel tanks",
+      "bright photo of a tank hatch and ladder",
+      "wide sunlit vineyard with a winery building, cinematic"
+    ]
+  },
+  {
+    "id": "chairlift-fall",
+    "title": "Would you survive falling from a chairlift? #shorts",
+    "description": "Forty feet onto packed piste is not a soft landing. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "skiing",
+      "fall",
+      "mountain",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "hook": "What would happen if you fell from a chairlift?",
+    "script": "The bar is up and the chair jolts over a tower. You drop forty feet with skis still attached, which means your legs cannot absorb anything and will fold sideways on contact. Groomed piste is compacted ice, not powder, so it behaves like concrete with a dusting on top. You land seated, and the force travels straight up your spine into the base of your skull. If a ski catches first, your femur breaks and the artery inside it can empty you in minutes on a slope nobody is watching. Most people don't survive.",
+    "captions": [
+      "The bar is up and the chair jolts.",
+      "Forty feet with skis still on.",
+      "Groomed piste is compacted ice.",
+      "The force runs up your spine.",
+      "A caught ski breaks the femur."
+    ],
+    "image_prompts": [
+      "first person view looking down from a bright chairlift over snow",
+      "close-up of a chairlift safety bar in sunlight",
+      "vivid photo of a groomed sunlit ski piste",
+      "bright photo of skis dangling above snow",
+      "wide sunlit alpine ski resort, cinematic"
+    ]
+  },
+  {
+    "id": "car-jack-collapse",
+    "title": "Would you survive a car falling off a jack? #shorts",
+    "description": "Two tons drops four inches and that's enough. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "car",
+      "crush",
+      "garage",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "hook": "What would happen if a car fell off the jack while you were under it?",
+    "script": "You slide under on a driveway with a scissor jack and no stands. When the jack tips, the car does not need to fall far, only four inches, and two tons arriving over that distance lands with several times its own weight. If it comes down across your chest you cannot inhale, and unconsciousness follows in about a minute. If it lands on your pelvis, the fractures tear arteries you cannot reach or compress. Nobody outside hears anything, because a car settling is quiet. This kills dozens of people a year. You don't survive.",
+    "captions": [
+      "A scissor jack and no stands.",
+      "The car only needs to drop four inches.",
+      "Two tons lands with far more force.",
+      "Across your chest, you can't inhale.",
+      "A settling car makes almost no sound."
+    ],
+    "image_prompts": [
+      "first person view from under a car on a bright driveway",
+      "close-up of a scissor jack under a car sill, sunlit",
+      "vivid photo of a car underbody in daylight",
+      "bright photo of a wheel and tyre on concrete",
+      "wide sunlit suburban driveway with a car, cinematic"
+    ]
+  },
+  {
+    "id": "arc-flash",
+    "title": "Would you survive an arc flash? #shorts",
+    "description": "It reaches 35,000 degrees, four times the sun's surface. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "electricity",
+      "industrial",
+      "burns",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "hook": "What would happen if an arc flash went off in front of you?",
+    "script": "You open a live switchboard and a dropped tool bridges two conductors. The air itself becomes the conductor and ionises to around thirty five thousand degrees, four times hotter than the surface of the sun, in under a thousandth of a second. Copper vaporises and expands to sixty seven thousand times its volume, which is an explosion. The pressure wave throws you across the room and can rupture your eardrums and lungs. Molten metal sprays with it. Ordinary clothing ignites and keeps burning against your skin. You don't survive.",
+    "captions": [
+      "A dropped tool bridges two conductors.",
+      "The air ionises to 35,000 degrees.",
+      "That's four times the sun's surface.",
+      "Copper vaporises and explodes outward.",
+      "The blast throws you across the room."
+    ],
+    "image_prompts": [
+      "first person view of an open bright electrical switchboard panel",
+      "close-up of copper busbars and breakers, well-lit",
+      "vivid photo of an arc-rated suit and face shield in daylight",
+      "bright photo of an industrial electrical room",
+      "wide brightly lit substation interior, cinematic"
+    ]
+  },
+  {
+    "id": "quicklime-pit",
+    "title": "Would you survive falling into quicklime? #shorts",
+    "description": "It doesn't dissolve you. It boils the water in you. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "chemical",
+      "burns",
+      "industrial",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "hook": "What would happen if you fell into a quicklime pit?",
+    "script": "You go into a pit of calcium oxide at a lime works. The old stories about it dissolving a body are wrong, and the truth is worse. Quicklime reacts violently with water, and you are mostly water. It pulls moisture out of your skin and boils as it does, generating enough heat to reach the temperature of boiling water on contact. Your eyes go first. Every breath draws burning dust into your lungs, where the same reaction happens against wet tissue and swells your airway closed. You don't survive.",
+    "captions": [
+      "It doesn't dissolve a body.",
+      "Quicklime reacts violently with water.",
+      "You are mostly water.",
+      "It boils the moisture out of your skin.",
+      "The dust does the same to your lungs."
+    ],
+    "image_prompts": [
+      "first person view of a bright white lime pit in daylight",
+      "close-up of chalky white powder in sunlight, vivid",
+      "vivid photo of an industrial lime kiln exterior",
+      "bright photo of white dust on protective gloves",
+      "wide brightly lit quarry landscape, cinematic"
+    ]
+  },
+  {
+    "id": "peat-bog",
+    "title": "Would you survive sinking into a peat bog? #shorts",
+    "description": "The ground is floating, and it can tear open. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "bog",
+      "moor",
+      "trapped",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "hook": "What would happen if you sank into a peat bog?",
+    "script": "You cross bright green moss on a moor and the ground moves like a mattress, because it is a mat of vegetation floating on water. When it tears, you go through. Peat holds you by suction and by cold, and bog water sits near forty degrees year round, so hypothermia arrives long before exhaustion. Struggling upright drives you deeper. But you float in it. Get onto your back immediately, spread your arms and legs wide across the surface, and swim slowly backwards toward firm ground the way you came. You survive.",
+    "captions": [
+      "The moss is floating on water.",
+      "When it tears, you go through.",
+      "Suction and cold hold you there.",
+      "Struggling upright drives you deeper.",
+      "Lie back, spread out, and swim flat."
+    ],
+    "image_prompts": [
+      "first person view of bright green sphagnum moss on a sunlit moor",
+      "close-up of dark peat water and moss, vivid detail",
+      "vivid photo of an open moorland under bright sky",
+      "bright photo of a boot sinking into wet ground",
+      "wide sunlit upland bog landscape, cinematic"
+    ]
+  },
+  {
+    "id": "tail-rotor",
+    "title": "Would you survive walking into a tail rotor? #shorts",
+    "description": "It spins so fast it becomes invisible. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "helicopter",
+      "aviation",
+      "accident",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "hook": "What would happen if you walked into a helicopter's tail rotor?",
+    "script": "You duck out of a running helicopter and walk toward the tail, which is the one direction you must never take. A tail rotor turns above two thousand RPM, so the blades are moving at several hundred miles an hour and the disc is completely invisible against the sky. There is no noise change and no warning as you approach it. The impact is instant and total, and it is why every ground crew is trained to leave forward, in the pilot's line of sight, crouching. Walk into it and you don't survive.",
+    "captions": [
+      "You walk toward the tail.",
+      "The rotor turns above 2,000 RPM.",
+      "The tips move at hundreds of miles an hour.",
+      "The disc is invisible against the sky.",
+      "Always leave forward, where the pilot sees you."
+    ],
+    "image_prompts": [
+      "first person view walking toward a bright helicopter on a sunlit pad",
+      "close-up of a helicopter tail boom and rotor in daylight",
+      "vivid photo of spinning rotor blades against blue sky",
+      "bright photo of a helipad marking in sunlight",
+      "wide sunlit airfield with a helicopter, cinematic"
+    ]
+  },
+  {
+    "id": "boat-propeller",
+    "title": "Would you survive a boat propeller strike? #shorts",
+    "description": "A propeller can strike you a hundred and sixty times a second. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "boat",
+      "water",
+      "accident",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "hook": "What would happen if a boat propeller hit you in the water?",
+    "script": "You surface behind a boat as the driver puts it in gear. A typical outboard turns three thousand RPM with three blades, which is a hundred and fifty strikes every second, and the blade edges are moving faster than you can register. Nobody takes one cut. Survivors average dozens of wounds in a fraction of a second because the boat keeps travelling over you. The propeller reaches bone easily and the wounds are irregular and deep, so bleeding is hard to stop in the water. Recovery time is measured in minutes. You don't survive.",
+    "captions": [
+      "The driver puts it in gear.",
+      "Three thousand RPM, three blades.",
+      "A hundred and fifty strikes a second.",
+      "Nobody ever takes just one cut.",
+      "The boat keeps travelling over you."
+    ],
+    "image_prompts": [
+      "first person view at the bright water surface behind a boat",
+      "close-up of a stainless boat propeller in sunlight",
+      "vivid photo of white boat wake on bright blue water",
+      "bright photo of an outboard motor on a transom",
+      "wide sunlit lake with a speedboat, cinematic"
+    ]
+  },
+  {
+    "id": "ostrich-attack",
+    "title": "Would you survive an ostrich attack? #shorts",
+    "description": "One kick carries two thousand pounds of force and a claw. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "ostrich",
+      "bird",
+      "africa",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "hook": "What would happen if an ostrich attacked you?",
+    "script": "It runs at you at forty miles an hour, three hundred pounds of bird with a four inch claw on each foot. Ostriches kick forward and downward with around two thousand pounds of force, enough to open a body cavity in one strike, and they will stand over you and keep kicking. You cannot outrun it and you cannot climb fast enough. What works is height and geometry. They strike downward, so lying flat on the ground puts you below their arc, and they usually lose interest. Get flat, cover your head, and you probably survive.",
+    "captions": [
+      "Three hundred pounds at forty miles an hour.",
+      "A four inch claw on each foot.",
+      "It kicks forward and downward.",
+      "You can't outrun it.",
+      "Lie flat, below the arc of the kick."
+    ],
+    "image_prompts": [
+      "first person view of an ostrich running across bright dry ground",
+      "close-up of an ostrich's foot and claw in sunlight",
+      "vivid photo of an ostrich head and neck in daylight",
+      "bright photo of dusty savanna ground",
+      "wide sunlit African plain with ostriches, cinematic"
+    ]
+  },
+  {
+    "id": "stingray-barb",
+    "title": "Would you survive a stingray barb? #shorts",
+    "description": "The tail strikes upward, and the barb is serrated. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "stingray",
+      "ocean",
+      "venom",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "hook": "What would happen if a stingray struck you in the chest?",
+    "script": "You swim over one resting on the sand and it whips its tail upward, which is a reflex, not an attack. The barb is bone, up to eight inches long, and lined with backward-facing serrations, so it tears far more on the way out than the way in. Venom runs down grooves in it and kills tissue around the wound. The danger is not the venom. It is a barb that reaches the heart or a lung, and the worst thing you can do is pull it out, because it plugs the hole it made. Chest strikes, you don't survive.",
+    "captions": [
+      "It whips its tail up as a reflex.",
+      "The barb is bone, up to eight inches.",
+      "Backward serrations tear on the way out.",
+      "The venom kills the tissue around it.",
+      "Pulling it out opens the wound."
+    ],
+    "image_prompts": [
+      "first person view of a stingray on bright sunlit sand underwater",
+      "close-up of a stingray tail and barb in clear water",
+      "vivid photo of shallow turquoise water over sand",
+      "bright photo of a ray gliding in sunlight",
+      "wide sunlit tropical shallows, cinematic"
+    ]
+  },
+  {
+    "id": "cyanide-leach-pond",
+    "title": "Would you survive falling into a cyanide pond? #shorts",
+    "description": "Gold mines use cyanide, and the ponds look like water. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "chemical",
+      "mining",
+      "poison",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "hook": "What would happen if you fell into a gold mine's cyanide pond?",
+    "script": "You go into a leach pond at a gold mine, a flat blue pool that looks like any other water. It is a cyanide solution used to strip gold from crushed ore. Cyanide is absorbed straight through wet skin, and it blocks the enzyme your cells use to take oxygen out of your blood, so your blood stays bright red while every cell suffocates. You gasp, which pulls the solution into your lungs. If the water is acidic anywhere, it releases hydrogen cyanide gas above the surface too. You don't survive.",
+    "captions": [
+      "The pond looks like ordinary water.",
+      "It's cyanide used to strip gold from ore.",
+      "It absorbs straight through wet skin.",
+      "Your blood stays red while cells suffocate.",
+      "Gasping pulls it into your lungs."
+    ],
+    "image_prompts": [
+      "first person view of a flat bright blue industrial pond in daylight",
+      "close-up of a pond liner edge and still water, sunlit",
+      "vivid photo of a bright open pit mine",
+      "bright photo of warning signage on a fence in sunlight",
+      "wide sunlit mining landscape with ponds, cinematic"
+    ]
+  },
+  {
+    "id": "humpback-swallow",
+    "title": "Would you survive being scooped by a humpback? #shorts",
+    "description": "It can't swallow you, but it can hold you. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "whale",
+      "ocean",
+      "diving",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "hook": "What would happen if a humpback whale scooped you into its mouth?",
+    "script": "You're diving in a bait ball when the water goes dark and pressure closes around you. A humpback lunge-feeds by engulfing tons of water and fish at once, and it does not check what else is in there. Here is the thing that saves you. Its throat is roughly the width of a grapefruit, so it physically cannot swallow you, and it has no interest in trying. Stay still and keep your regulator in. The whale realises the mistake within seconds and spits everything back out. It happened to a lobster diver in 2021, and he survived.",
+    "captions": [
+      "The water goes dark around you.",
+      "A humpback engulfs tons of water at once.",
+      "Its throat is the width of a grapefruit.",
+      "It physically cannot swallow you.",
+      "Stay still. It spits you out."
+    ],
+    "image_prompts": [
+      "first person underwater view of a huge whale mouth opening, bright blue water",
+      "close-up of humpback baleen plates in sunlight",
+      "vivid underwater photo of a dense bait ball of fish",
+      "bright photo of a whale surfacing in sunlit sea",
+      "wide sunlit ocean with a breaching humpback, cinematic"
+    ]
+  },
+  {
+    "id": "sand-dune-collapse",
+    "title": "Would you survive a sand hole collapsing? #shorts",
+    "description": "A beach hole deeper than your waist can bury you. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "beach",
+      "sand",
+      "buried",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "hook": "What would happen if the sand hole you dug collapsed on you?",
+    "script": "You dig a hole on the beach and climb in, and the walls fail without a sound. Dry sand has no structure and once it moves it flows around you and packs, and it weighs about a hundred pounds per cubic foot. Two feet over your chest is enough to stop your ribs. The worst part is that you disappear completely. There is no mound and no hand showing, so people walk past the flat sand looking for you. Anyone digging collapses more sand inward. Beach holes kill more people a year than shark attacks. You don't survive.",
+    "captions": [
+      "You dig a hole and climb in.",
+      "The walls fail without a sound.",
+      "Sand flows in and packs around you.",
+      "Two feet of it stops your ribs.",
+      "The surface looks flat. Nobody sees you."
+    ],
+    "image_prompts": [
+      "first person view from inside a hole dug in bright beach sand",
+      "close-up of dry golden sand grains in sunlight",
+      "vivid photo of a sunlit beach with a dug hole",
+      "bright photo of a plastic spade in sand",
+      "wide sunlit coastline with dunes, cinematic"
+    ]
+  },
+  {
+    "id": "pool-drain-suction",
+    "title": "Would you survive a pool drain grabbing you? #shorts",
+    "description": "A broken drain cover can pull with hundreds of pounds. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "pool",
+      "drowning",
+      "suction",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "hook": "What would happen if a pool drain caught you underwater?",
+    "script": "You dive to the bottom and put a hand near a drain with a missing cover. A pump moving a hundred gallons a minute through an open pipe generates suction measured in hundreds of pounds, and it seals against skin instantly. Nobody can pull free, and people trying to lift a trapped child have failed with several adults on them. There is no releasing it, because the suction only stops when someone finds and kills the pump. Cases exist of internal organs being drawn out through the pipe. You don't survive.",
+    "captions": [
+      "A drain with a missing cover.",
+      "A hundred gallons a minute through an open pipe.",
+      "Suction measured in hundreds of pounds.",
+      "It seals against skin instantly.",
+      "It only stops when the pump does."
+    ],
+    "image_prompts": [
+      "first person underwater view of a bright pool floor and drain",
+      "close-up of a pool drain cover in clear sunlit water",
+      "vivid photo of a bright turquoise swimming pool",
+      "bright photo of pool tiles and water reflections",
+      "wide sunlit outdoor pool deck, cinematic"
+    ]
+  },
+  {
+    "id": "widowmaker-branch",
+    "title": "Would you survive a falling branch? #shorts",
+    "description": "Loggers call them widowmakers for a reason. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "trees",
+      "forest",
+      "impact",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "hook": "What would happen if a dead branch fell on you?",
+    "script": "You walk under an old tree on a still day. A dead limb that broke months ago has been hanging in the canopy since, and loggers call it a widowmaker because it drops with no wind and no warning. A branch eight inches thick and twelve feet long weighs around two hundred pounds, and from sixty feet up it arrives at forty miles an hour, point first. A hard hat is rated for a fraction of that. It fractures the skull or drives through a shoulder into the chest, and the woods are quiet afterwards. You don't survive.",
+    "captions": [
+      "The limb broke months ago.",
+      "It's been hanging in the canopy since.",
+      "It drops with no wind and no warning.",
+      "Two hundred pounds at forty miles an hour.",
+      "A hard hat is rated for a fraction of that."
+    ],
+    "image_prompts": [
+      "first person view looking up into a bright sunlit forest canopy",
+      "close-up of a broken dead branch caught in a tree, daylight",
+      "vivid photo of tall trees against bright sky",
+      "bright photo of a fallen branch on a forest floor",
+      "wide sunlit woodland trail, cinematic"
+    ]
+  },
+  {
+    "id": "bull-attack",
+    "title": "Would you survive a bull in a field? #shorts",
+    "description": "A dairy bull kills more farmers than any other animal. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "bull",
+      "farm",
+      "charge",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "hook": "What would happen if a bull charged you in a field?",
+    "script": "It stops chewing and turns square on to you, which is the last warning you get. A dairy bull weighs around two thousand pounds and covers thirty yards in under three seconds, faster than you can reach a gate. It does not gore like a fighting bull. It drops its head, drives you into the ground, and then kneels and grinds, using the flat of its skull and its full weight, and it will keep doing that long after you stop moving. Cattle kill more farm workers than machinery. You don't survive.",
+    "captions": [
+      "It turns square on to face you.",
+      "Two thousand pounds, thirty yards in three seconds.",
+      "It doesn't gore. It drives you down.",
+      "Then it kneels and grinds.",
+      "Cattle kill more farmers than machinery."
+    ],
+    "image_prompts": [
+      "first person view of a bull standing in a bright green field",
+      "close-up of a bull's head and nose ring in sunlight",
+      "vivid photo of a sunlit pasture with a gate",
+      "bright photo of hoof prints in wet grass",
+      "wide sunlit farmland with cattle, cinematic"
+    ]
+  },
+  {
+    "id": "forklift-tipover",
+    "title": "Would you survive a forklift tipping over? #shorts",
+    "description": "Jumping out is what kills you. #shorts #survival #didyouknow #scary",
+    "tags": [
+      "forklift",
+      "warehouse",
+      "crush",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "facts"
+    ],
+    "hook": "What would happen if your forklift tipped over?",
+    "script": "You turn too fast with the forks raised and the machine goes over sideways. Every instinct says jump clear. That instinct is what kills people, because a forklift weighs around nine thousand pounds and it falls faster than you can clear the arc, so it lands across you as you hit the floor. The overhead guard is designed to reach the ground before your head does. Stay in the seat, hold the wheel, brace your feet and lean away from the fall. Riders who stay in the cab usually walk away. Jump, and you don't survive.",
+    "captions": [
+      "You turn too fast with forks raised.",
+      "Every instinct says jump clear.",
+      "The machine falls faster than you can.",
+      "The overhead guard hits ground first.",
+      "Stay in the seat and lean away."
+    ],
+    "image_prompts": [
+      "first person view from a forklift seat in a bright warehouse",
+      "close-up of a forklift overhead guard and mast, well-lit",
+      "vivid photo of pallet racking in a sunlit warehouse",
+      "bright photo of forks raised with a load",
+      "wide brightly lit distribution centre interior, cinematic"
+    ]
   }
 ]

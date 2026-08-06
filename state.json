@@ -98,6 +98,10 @@
     "wood-chipper",
     "combine-harvester",
     "nitrogen-asphyxiation",
-    "ammonia-leak"
+    "ammonia-leak",
+    "chlorine-gas-cloud",
+    "hydrofluoric-acid",
+    "criticality-accident",
+    "mri-magnet"
   ]
 }

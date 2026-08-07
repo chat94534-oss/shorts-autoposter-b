@@ -102,6 +102,10 @@
     "chlorine-gas-cloud",
     "hydrofluoric-acid",
     "criticality-accident",
-    "mri-magnet"
+    "mri-magnet",
+    "hyperbaric-chamber-fire",
+    "jet-engine-intake",
+    "hot-air-balloon-fire",
+    "cave-squeeze"
   ]
 }

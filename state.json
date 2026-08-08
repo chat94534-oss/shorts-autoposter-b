@@ -106,6 +106,10 @@
     "hyperbaric-chamber-fire",
     "jet-engine-intake",
     "hot-air-balloon-fire",
-    "cave-squeeze"
+    "cave-squeeze",
+    "abandoned-well",
+    "septic-tank",
+    "tiger-attack",
+    "wild-boar-attack"
   ]
 }

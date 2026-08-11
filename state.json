@@ -118,6 +118,10 @@
     "low-head-dam",
     "nitrogen-narcosis",
     "tire-blowout",
-    "brake-failure-descent"
+    "brake-failure-descent",
+    "car-fire",
+    "plane-cabin-smoke",
+    "stuck-in-chimney",
+    "trench-collapse"
   ]
 }

@@ -121,3 +121,7 @@ date,topic_id,privacy,url
 2026-08-11,plane-cabin-smoke,scheduled,[redacted]
 2026-08-11,stuck-in-chimney,scheduled,[redacted]
 2026-08-11,trench-collapse,scheduled,[redacted]
+2026-08-12,steam-pipe-rupture,public,[redacted]
+2026-08-12,conveyor-belt-entanglement,scheduled,[redacted]
+2026-08-12,lathe-entanglement,scheduled,[redacted]
+2026-08-12,hydrogen-sulfide-manhole,scheduled,[redacted]

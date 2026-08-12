@@ -122,6 +122,10 @@
     "car-fire",
     "plane-cabin-smoke",
     "stuck-in-chimney",
-    "trench-collapse"
+    "trench-collapse",
+    "steam-pipe-rupture",
+    "conveyor-belt-entanglement",
+    "lathe-entanglement",
+    "hydrogen-sulfide-manhole"
   ]
 }

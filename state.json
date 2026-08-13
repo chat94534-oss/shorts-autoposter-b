@@ -126,6 +126,10 @@
     "steam-pipe-rupture",
     "conveyor-belt-entanglement",
     "lathe-entanglement",
-    "hydrogen-sulfide-manhole"
+    "hydrogen-sulfide-manhole",
+    "mountain-lion-attack",
+    "escalator-entrapment",
+    "industrial-shredder",
+    "storm-drain-swept"
   ]
 }

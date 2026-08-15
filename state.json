@@ -134,6 +134,10 @@
     "vending-machine-tip",
     "hay-bale-collapse",
     "logjam-collapse",
-    "wine-vat-co2"
+    "wine-vat-co2",
+    "chairlift-fall",
+    "car-jack-collapse",
+    "arc-flash",
+    "quicklime-pit"
   ]
 }

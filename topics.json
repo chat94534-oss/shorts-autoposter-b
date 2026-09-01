@@ -1,1 +1,1862 @@
-[]
+[
+  {
+    "id": "flooded-slot-canyon",
+    "title": "Would you survive a flash flood in a slot canyon? #shorts",
+    "description": "The canyon is too narrow to outrun the water, so your only way out is straight up the walls. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if a flash flood roared into the slot canyon you were hiking?",
+    "script": "You're deep in a canyon barely wider than your shoulders when a freight-train roar rolls down from upstream. There's no high ground here, only smooth curving walls. You jam your back against one side and your boots against the other and chimney upward as fast as your legs will push. Brown water explodes through the gap below you, packed with logs and gravel, clawing at your heels. You haul onto a boulder wedged above the flood and cling there for an hour until the river drops. You survive.",
+    "captions": [
+      "A freight-train roar comes from upstream.",
+      "The canyon is too narrow to run.",
+      "You chimney up the smooth walls.",
+      "The flood tears through beneath your boots.",
+      "You wait it out on a wedged rock. You survive."
+    ],
+    "image_prompts": [
+      "first person view inside a narrow sandstone slot canyon, bright shafts of daylight",
+      "muddy floodwater surging through a tight canyon below, vivid detail",
+      "hands and boots braced against opposite canyon walls, well-lit",
+      "a person perched on a boulder wedged between canyon walls, cinematic",
+      "wide bright shot of a red desert canyon rim under blue sky"
+    ],
+    "tags": [
+      "slotcanyon",
+      "flashflood",
+      "survival",
+      "hiking",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "desert"
+    ]
+  },
+  {
+    "id": "kelp-forest-entanglement",
+    "title": "Would you survive getting tangled in a kelp forest? #shorts",
+    "description": "You turn back toward the surface and find kelp has wrapped your ankle and chest like rope. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you got tangled in a kelp forest while free diving?",
+    "script": "You dive down through a golden kelp forest to look at a fish, then turn to head back up. One frond has looped around your ankle and another lies across your chest. You pull, and the blades only wrap tighter, rubbery and strong as cord. Your lungs begin to burn. You thrash, and that knots more stalks around your arms. The surface light wavers fifteen feet overhead, close enough to see clearly, too far to reach. Your vision closes to a tunnel. You don't survive.",
+    "captions": [
+      "You turn back toward the surface.",
+      "Kelp has looped your ankle and chest.",
+      "Pulling only wraps it tighter.",
+      "The surface is fifteen feet away.",
+      "You can't reach the light. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view swimming down through a sunlit golden kelp forest, vivid",
+      "kelp fronds wrapped around a diver's ankle, sharp detail, well-lit",
+      "looking up at wavering surface light through thick kelp, cinematic",
+      "a diver's hands tangled in rubbery kelp blades, bright underwater light",
+      "wide bright shot of a kelp forest canopy seen from below, sun rays"
+    ],
+    "tags": [
+      "kelp",
+      "freediving",
+      "ocean",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "diving"
+    ]
+  },
+  {
+    "id": "capsized-under-pontoon-boat",
+    "title": "Would you survive being trapped under a capsized boat? #shorts",
+    "description": "You surface in a dark air pocket under the hull, and every wall is smooth fiberglass. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if your boat flipped and trapped you underneath the hull?",
+    "script": "The pontoon boat flips in a sudden squall and you come up under it, inside a black pocket of trapped air that reeks of gasoline. You can't see, and every surface your hands find is smooth fiberglass. You make yourself stop clawing and breathe slowly. You feel along the deck edge until your fingers reach open water, take one last breath of the foul air, duck under the rail, and kick hard away from the boat. You break the surface behind it. You survive.",
+    "captions": [
+      "You surface in a dark pocket under the hull.",
+      "The trapped air smells of gasoline.",
+      "You stop panicking and breathe slow.",
+      "You find the deck edge by feel.",
+      "One breath, duck under, kick clear. You survive."
+    ],
+    "image_prompts": [
+      "first person view in a dark air pocket under an overturned boat hull, dim glowing light",
+      "hands feeling along a smooth fiberglass deck edge underwater, vivid",
+      "murky water with a boat rail silhouette above, cinematic",
+      "a swimmer surfacing beside a capsized pontoon boat, bright daylight",
+      "wide bright shot of a choppy lake as storm clouds break apart"
+    ],
+    "tags": [
+      "boating",
+      "capsize",
+      "water",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "lake"
+    ]
+  },
+  {
+    "id": "tidal-mudflat-rising-water",
+    "title": "Would you survive sinking in a tidal mudflat? #shorts",
+    "description": "Your boots break through into gripping grey mud while the tide slides back in toward you. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you sank into a tidal mudflat as the tide came in?",
+    "script": "You walk out onto the flats at low tide and your boots punch through into soft grey mud that grips like wet cement. The harder you pull, the deeper you sink, and the sea is already turning, sliding back across the sand toward you. You stop fighting it. You lean back until you're nearly flat, spreading your weight, and free one leg with slow circles, then the other. You crawl on your belly toward firm ground as the first inch of water reaches your hands. You survive.",
+    "captions": [
+      "Your boots break through into gripping mud.",
+      "Pulling harder only sinks you deeper.",
+      "The tide is already turning back in.",
+      "You lie flat and spread your weight.",
+      "You crawl to firm ground. You survive."
+    ],
+    "image_prompts": [
+      "first person view of boots sunk deep in grey tidal mud, bright overcast light",
+      "a vast mudflat with a thin sheet of returning seawater, vivid",
+      "a person leaning back on the mud working a leg loose, well-lit",
+      "forearms and knees crawling across wet sand, cinematic",
+      "wide bright shot of an estuary mudflat at low tide under a big sky"
+    ],
+    "tags": [
+      "mudflat",
+      "tide",
+      "coast",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "estuary"
+    ]
+  },
+  {
+    "id": "dam-spillway-gate-opens",
+    "title": "Would you survive a dam opening its gates while you fish below it? #shorts",
+    "description": "A horn blares from the concrete wall and the calm water around your knees rises fast. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if a dam opened its spillway gates while you were fishing below it?",
+    "script": "You're wading a calm river below a hydro dam, casting into slack water, when a horn blares from the concrete wall. The water around your knees swings sideways and climbs fast. You turn for the bank, but the current is already chest-deep and pulling hard. A standing wave builds where there was dry gravel a minute ago. Your feet lift off the bottom and you're swept into the churning tailrace, pushed under and held by water that keeps folding back on itself. You don't survive.",
+    "captions": [
+      "A horn blares from the dam wall.",
+      "The calm water rises past your knees.",
+      "The current pulls you off the gravel.",
+      "A standing wave forms where you stood.",
+      "The tailrace holds you under. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view wading a calm river below a large concrete dam, bright daylight",
+      "spillway gates releasing a surge of white water, vivid detail",
+      "river water rising fast around a person's waist, well-lit",
+      "churning turbulent water at the base of a dam, cinematic",
+      "wide bright shot of a hydroelectric dam and river valley under blue sky"
+    ],
+    "tags": [
+      "dam",
+      "river",
+      "flood",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "water"
+    ]
+  },
+  {
+    "id": "anchor-line-drag-overboard",
+    "title": "Would you survive your foot catching the anchor line? #shorts",
+    "description": "A coil of anchor rode whips off the deck and a loop snags your ankle. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if your foot caught the anchor line as the anchor went over the side?",
+    "script": "You drop the anchor off the bow and a coil of rode whips off the deck after it. A single loop catches your ankle. Before you can even shout, it snatches you over the rail and straight down. The line is paying out toward eighty feet of water and you go with it, upside down, pressure stacking on your ears. You claw at the rope, but your own weight has cinched the loop to the hardness of steel. The dark bottom rises up to meet you. You don't survive.",
+    "captions": [
+      "The anchor line whips off the deck.",
+      "A loop snags your ankle.",
+      "It pulls you over the rail and down.",
+      "Your weight cinches the loop solid.",
+      "You follow the anchor to the bottom. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view of anchor rope racing off a boat bow, bright sea light",
+      "a loop of rope tightening around a bare ankle, vivid detail",
+      "looking up at a boat hull shrinking above as you sink, cinematic",
+      "hands clawing at a taut rope underwater, well-lit blue water",
+      "wide bright shot of a small boat anchored over deep clear water"
+    ],
+    "tags": [
+      "boating",
+      "anchor",
+      "ocean",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "diving"
+    ]
+  },
+  {
+    "id": "frozen-waterfall-collapse",
+    "title": "Would you survive a frozen waterfall collapsing while you climb it? #shorts",
+    "description": "You're forty feet up a pillar of blue ice when a crack like a gunshot runs through the column. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if the frozen waterfall you were climbing collapsed?",
+    "script": "You're forty feet up a pillar of blue ice, front points kicked in and both tools planted, when a crack like a gunshot runs the length of the column. The temperature climbed above freezing at midday and the ice has gone rotten. The whole pillar peels off the rock in one piece. You ride it down inside a cloud of shattering ice, screws and ropes ripping out around you, and land beneath tons of broken slab at the base. You don't survive.",
+    "captions": [
+      "You're forty feet up a blue ice pillar.",
+      "A crack runs through the whole column.",
+      "Warm midday sun has rotted the ice.",
+      "The pillar breaks away from the rock.",
+      "You land beneath the shattered slab. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view climbing a vertical blue frozen waterfall with ice tools, bright winter sun",
+      "a fracture line spreading across a pillar of ice, vivid detail",
+      "chunks of ice exploding outward from a collapsing column, cinematic",
+      "ice screws and rope ripping from crumbling ice, well-lit",
+      "wide bright shot of a tall frozen waterfall in a snowy canyon"
+    ],
+    "tags": [
+      "iceclimbing",
+      "ice",
+      "winter",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "mountains"
+    ]
+  },
+  {
+    "id": "capsized-kayak-cold-river",
+    "title": "Would you survive your kayak flipping in a freezing river? #shorts",
+    "description": "The cold hits like a full-body punch and forces the air out of your lungs in one gasp. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if your kayak flipped in a freezing whitewater river?",
+    "script": "Your kayak rolls in a rapid and the cold water hits like a full-body punch, driving the air from your lungs in one gasp. You miss your roll, pull the spray skirt, and swim, but your arms already feel like they belong to someone else. The river funnels you toward a rock sieve, water pouring through gaps too small for a body. You reach for an eddy and your fingers won't close. The current stuffs you against the strainer and pins you there. You don't survive.",
+    "captions": [
+      "The kayak rolls and cold water hits.",
+      "The shock empties your lungs in one gasp.",
+      "Your arms go numb within seconds.",
+      "The river pushes you toward a rock sieve.",
+      "Your hands won't grip the eddy. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view upside down underwater in a rushing whitewater river, bright bubbles",
+      "a capsized kayak and paddle in frothing rapids, vivid detail",
+      "numb hands reaching for a wet rock in fast water, well-lit",
+      "water pouring through gaps in a midstream pile of rocks, cinematic",
+      "wide bright shot of a snow-lined mountain river full of white rapids"
+    ],
+    "tags": [
+      "kayak",
+      "whitewater",
+      "river",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "cold"
+    ]
+  },
+  {
+    "id": "derecho-straight-line-winds",
+    "title": "Would you survive a derecho in an open field? #shorts",
+    "description": "The sky turns into a low black shelf rolling toward you faster than a car. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if a derecho hit the open field you were crossing?",
+    "script": "The sky to the west folds into a low black shelf that rolls toward you faster than a car on the highway. You're in the middle of a soybean field with nothing but a wire fence for cover. The wind arrives all at once, a hundred miles an hour in a dead straight line, and it takes you off your feet. Things you can't identify fly past you horizontally. A sheet of barn roofing cartwheels out of the grey and finds you. You don't survive.",
+    "captions": [
+      "A black shelf of cloud races toward you.",
+      "You're stranded in an open field.",
+      "The wind hits at a hundred miles an hour.",
+      "Debris flies past you horizontally.",
+      "Barn roofing cartwheels into you. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view of a huge dark shelf cloud over a flat farm field, bright glowing edge",
+      "soybean plants flattened flat by violent wind, vivid motion blur",
+      "a sheet of metal roofing tumbling through grey air, cinematic",
+      "a lone wire fence bent over in extreme wind, well-lit",
+      "wide bright shot of a Midwest plain under an advancing storm front"
+    ],
+    "tags": [
+      "derecho",
+      "wind",
+      "storm",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "weather"
+    ]
+  },
+  {
+    "id": "giant-hail-in-the-open",
+    "title": "Would you survive softball-sized hail in the open? #shorts",
+    "description": "Lumps of ice the size of baseballs fall by the thousands at over ninety miles an hour. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if softball-sized hail caught you out in the open?",
+    "script": "The first stone cracks the ground beside you like a rock thrown from a roof. Then the sky opens and they come down in the thousands, lumps of ice the size of baseballs dropping at over ninety miles an hour. The first one to catch your shoulder puts you on your knees. You wrap your arms over your head and feel something in your forearm give. There's no shelter out here, just a fence post and cropped grass. The hail keeps falling for four straight minutes. You don't survive.",
+    "captions": [
+      "A stone cracks the ground beside you.",
+      "Baseball-sized hail falls by the thousands.",
+      "It drops at over ninety miles an hour.",
+      "The first hit puts you on your knees.",
+      "No shelter for four minutes. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view of huge hailstones bouncing off open grassland, bright stormy light",
+      "a bare hand held up against falling chunks of ice, vivid detail",
+      "dented ground littered with large white hailstones, well-lit",
+      "ice stones streaking down from a green-black sky, cinematic",
+      "wide bright shot of a prairie beneath a towering hailstorm cloud"
+    ],
+    "tags": [
+      "hail",
+      "storm",
+      "weather",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "plains"
+    ]
+  },
+  {
+    "id": "highway-fog-pileup",
+    "title": "Would you survive a highway pileup in dense fog? #shorts",
+    "description": "Your car dies in the fast lane inside fog so thick you can't see the hood. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you were caught on foot in a highway pileup in dense fog?",
+    "script": "Your car dies in the fast lane inside a wall of fog so thick you can't see your own hood. You climb out to push it clear and headlights bloom out of the white, already far too close. The first car clips your open door. Then the sound begins, metal folding into metal, over and over, marching toward you down the line as more drivers arrive blind at seventy miles an hour. You're standing between two bumpers when they meet. You don't survive.",
+    "captions": [
+      "Your car stalls in thick highway fog.",
+      "You get out to push it clear.",
+      "Headlights appear already too close.",
+      "Cars fold into each other down the line.",
+      "You're caught between two bumpers. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view of a stalled car on a foggy motorway, tail lights glowing, bright haze",
+      "a pair of headlights emerging from dense white fog, vivid",
+      "crumpled cars stacked across a highway in fog, cinematic",
+      "a person standing beside a car door in stalled traffic, well-lit",
+      "wide bright shot of a multi-lane highway swallowed by fog"
+    ],
+    "tags": [
+      "fog",
+      "highway",
+      "cars",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "driving"
+    ]
+  },
+  {
+    "id": "caught-above-treeline-in-storm",
+    "title": "Would you survive a lightning storm above the treeline? #shorts",
+    "description": "Your ice axe hums and your hair lifts off your neck. A strike is seconds away. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if a lightning storm caught you above the treeline on an exposed ridge?",
+    "script": "You're on an exposed ridge at twelve thousand feet when your ice axe starts to hum and the hair lifts off the back of your neck. A strike is seconds away. You throw the axe and your trekking poles well off to the side, scramble down off the crest onto a lower bench, and crouch on your foam pad with your heels together and your head down, touching the rock as little as you can. Lightning hits the summit twice while you wait. Twenty minutes later you walk down. You survive.",
+    "captions": [
+      "Your ice axe hums and your hair lifts.",
+      "A lightning strike is seconds away.",
+      "You throw the metal gear far aside.",
+      "You crouch low on your pad off the ridge.",
+      "The summit takes two hits, not you. You survive."
+    ],
+    "image_prompts": [
+      "first person view on a rocky alpine ridge under a dark charged sky, bright rim light",
+      "an ice axe and poles tossed away onto bare rock, vivid detail",
+      "a hiker crouched low on a foam pad among boulders, well-lit",
+      "lightning striking a nearby mountain summit, cinematic",
+      "wide bright shot of a high alpine ridge standing above the clouds"
+    ],
+    "tags": [
+      "lightning",
+      "mountains",
+      "hiking",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "storm"
+    ]
+  },
+  {
+    "id": "microburst-small-plane",
+    "title": "Would you survive a microburst on final approach? #shorts",
+    "description": "The plane drops like the floor fell out, two hundred feet above the runway. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if a microburst hit your small plane on final approach?",
+    "script": "You're a passenger in a four-seat Cessna, two hundred feet up on final, the runway numbers filling the windshield. The plane drops as if the floor fell away. The pilot slams the throttle full forward, but the air itself is sinking faster than the little engine can climb, a cold column of downdraft punching straight onto the runway. The stall horn screams. The left wing catches the grass short of the threshold and the plane cartwheels. You don't survive.",
+    "captions": [
+      "You're two hundred feet up on final approach.",
+      "The plane drops like the floor gave way.",
+      "A column of air sinks faster than you climb.",
+      "Full throttle isn't enough.",
+      "The wing catches the grass short. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view from a small plane cockpit on final approach, bright runway ahead",
+      "a windshield full of runway numbers tilting sharply, vivid",
+      "a light aircraft banking low over grass, cinematic",
+      "the rain shaft and dust ring of a microburst on a runway, well-lit",
+      "wide bright shot of a small country airport under one dark cloud"
+    ],
+    "tags": [
+      "aviation",
+      "microburst",
+      "flying",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "weather"
+    ]
+  },
+  {
+    "id": "undercut-riverbank-collapse",
+    "title": "Would you survive a riverbank collapsing under your feet? #shorts",
+    "description": "The grassy bank you're standing on is hollow underneath, carved out by the current. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if the undercut riverbank you were standing on collapsed into the water?",
+    "script": "You walk to the edge of a green bank to look at the river and the ground gives a soft lurch. Years of current have hollowed the bank out beneath the grass, leaving a lip held up by roots. It lets go all at once, dropping you into fast brown water along with a car-sized block of earth. The slab pins your legs against a submerged log and rolls you under. The rest of the bank keeps sliding in on top. You don't survive.",
+    "captions": [
+      "You step to the edge of a grassy bank.",
+      "The ground lurches softly underfoot.",
+      "The current had hollowed it out beneath.",
+      "The bank drops you into the river.",
+      "A block of earth pins you under. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view standing on a grassy river edge looking down at brown water, bright daylight",
+      "a crack opening through turf along a riverbank, vivid detail",
+      "a large block of soil sliding into a fast river, cinematic",
+      "muddy water closing over a fallen slab of earth, well-lit",
+      "wide bright shot of a swollen river cutting into a green bank"
+    ],
+    "tags": [
+      "river",
+      "erosion",
+      "collapse",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "water"
+    ]
+  },
+  {
+    "id": "basement-apartment-flash-flood",
+    "title": "Would you survive a flash flood in a basement apartment? #shorts",
+    "description": "Water pours down the entry stairwell faster than the door can be opened against it. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if a flash flood filled the basement apartment you were in?",
+    "script": "Rain hammers the street above and a sheet of brown water starts pouring down your basement stairwell. In under a minute it's knee-deep inside the apartment. You wade to the door, but the weight of water on the other side has sealed it shut, and the pressure only grows as the level climbs. The windows are barred. The water reaches your chest, then your chin, then the ceiling. There is a hand's width of air left against the plaster. You don't survive.",
+    "captions": [
+      "Brown water pours down the stairwell.",
+      "The apartment is knee-deep in a minute.",
+      "Water pressure seals the door shut.",
+      "The windows are barred.",
+      "The air runs out at the ceiling. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view of water flooding down a basement apartment stairwell, bright street light behind",
+      "a door bulging against dark water, vivid detail",
+      "furniture floating in a half-submerged room, cinematic",
+      "barred basement windows underwater, well-lit murky green",
+      "wide bright shot of a city street running like a river in heavy rain"
+    ],
+    "tags": [
+      "flood",
+      "basement",
+      "urban",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "rain"
+    ]
+  },
+  {
+    "id": "elk-rut-charge",
+    "title": "Would you survive a bull elk charging you during the rut? #shorts",
+    "description": "Seven hundred pounds of antler and muscle lowers its head and comes at you. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if a bull elk charged you during the autumn rut?",
+    "script": "You raise your phone to photograph a bull elk bugling in a meadow and it turns to face you. During the September rut its blood is full of hormones and it sees you as a rival. It lowers a rack of antlers as wide as you are tall and covers the ground between you in three seconds. The first tine punches through your jacket and lifts you off your feet. It drives you into the dirt and grinds its forehead down. You don't survive.",
+    "captions": [
+      "You raise your phone to photograph a bull elk.",
+      "The rut has made it aggressive.",
+      "It lowers its antlers and charges.",
+      "A tine lifts you off your feet.",
+      "It grinds you into the ground. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view raising a phone toward a bugling bull elk in a meadow, golden bright light",
+      "a huge elk lowering its antlers to charge, vivid detail",
+      "antlers sweeping toward the camera, motion blur, cinematic",
+      "a trampled patch of meadow grass, well-lit",
+      "wide bright shot of an autumn mountain meadow with elk"
+    ],
+    "tags": [
+      "elk",
+      "wildlife",
+      "animals",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "mountains"
+    ]
+  },
+  {
+    "id": "jaguar-ambush",
+    "title": "Would you survive a jaguar ambush in the jungle? #shorts",
+    "description": "You never hear it. The first sign is the weight hitting your shoulders from behind. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if a jaguar ambushed you on a jungle trail?",
+    "script": "You're walking a narrow rainforest trail when the world goes sideways. You never heard it. A jaguar has dropped from a low branch onto your shoulders, and unlike almost every other big cat, it doesn't go for the throat. Its jaws are built to punch straight through bone, and it bites down across the back of your skull. The pressure is beyond anything you could imagine. Your legs stop working before you hit the ground. You don't survive.",
+    "captions": [
+      "You never hear it coming.",
+      "A jaguar drops onto your shoulders.",
+      "It doesn't go for the throat.",
+      "Its jaws punch through the skull.",
+      "Your legs give out instantly. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view on a narrow green rainforest trail, bright dappled light",
+      "a jaguar crouched on a low mossy branch, vivid detail",
+      "a spotted cat lunging toward the camera, cinematic motion",
+      "dense sunlit jungle foliage from ground level, well-lit",
+      "wide bright shot of a tropical rainforest canopy"
+    ],
+    "tags": [
+      "jaguar",
+      "bigcat",
+      "jungle",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "animals"
+    ]
+  },
+  {
+    "id": "sloth-bear-attack",
+    "title": "Would you survive a sloth bear attack in the forest? #shorts",
+    "description": "It doesn't run. It rears up and goes straight for your face with claws and teeth. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you surprised a sloth bear in the Indian forest?",
+    "script": "You round a bush on a forest path in central India and nearly walk into a sloth bear digging for termites. It's more nervous than any predator, and that makes it worse. Instead of fleeing, it explodes upward with a scream and slams into you, swinging four-inch claws at your head and neck. Sloth bears aim for the face. You go down covering up, but it keeps working, and the injuries to your scalp and eyes are catastrophic. You don't survive.",
+    "captions": [
+      "You nearly walk into a feeding sloth bear.",
+      "Fear makes it attack, not flee.",
+      "It rears up with a scream.",
+      "Its claws rake your head and face.",
+      "The wounds are catastrophic. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view on a dry forest path in India, bright warm light",
+      "a shaggy black sloth bear rearing on hind legs, vivid detail",
+      "long curved claws swiping toward the camera, cinematic",
+      "a termite mound torn open in sunlit dirt, well-lit",
+      "wide bright shot of an open Indian dry forest"
+    ],
+    "tags": [
+      "slothbear",
+      "bear",
+      "wildlife",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "india"
+    ]
+  },
+  {
+    "id": "gorilla-charge",
+    "title": "Would you survive a silverback gorilla charging you? #shorts",
+    "description": "Four hundred pounds of muscle screams and comes at you through the undergrowth. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if a silverback gorilla charged you in the forest?",
+    "script": "You get too close to a family of mountain gorillas and the silverback stands up. He is four hundred pounds of muscle and he screams, slaps the ground, and comes at you through the undergrowth like a landslide. The guides told you to crouch, look down, and act submissive. Instead you run. That flips a switch. He catches you in a few bounds, and a single bite to your thigh crushes the bone and opens the artery. You don't survive.",
+    "captions": [
+      "You get too close to a gorilla family.",
+      "The silverback stands and screams.",
+      "He charges through the undergrowth.",
+      "You run instead of crouching.",
+      "One bite crushes your thigh. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view facing a huge silverback gorilla in dense green forest, bright filtered light",
+      "a gorilla beating its chest, vivid detail",
+      "a massive gorilla charging low through ferns, cinematic motion",
+      "crushed vegetation on a forest floor, well-lit",
+      "wide bright shot of a misty African mountain rainforest"
+    ],
+    "tags": [
+      "gorilla",
+      "primate",
+      "wildlife",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "africa"
+    ]
+  },
+  {
+    "id": "rattlesnake-den-fall",
+    "title": "Would you survive falling into a rattlesnake den? #shorts",
+    "description": "You slide down a rocky slope into a hollow full of coiled, buzzing snakes. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you slid into a rattlesnake den on a rocky slope?",
+    "script": "Your foot skids on loose rock and you slide ten feet down into a warm hollow between boulders. The buzzing starts before you stop moving. You're sitting among dozens of rattlesnakes gathered to den, and several are already coiled and rattling inches from your legs. You go completely still. You wait, breathing shallow, then move one limb at a time in slow motion, easing up and out over the rocks. Two strikes hit your boot leather and miss the skin. You survive.",
+    "captions": [
+      "You slide into a warm rocky hollow.",
+      "The buzzing starts before you stop.",
+      "Dozens of rattlesnakes are denning here.",
+      "You freeze, then move in slow motion.",
+      "Two strikes hit only boot leather. You survive."
+    ],
+    "image_prompts": [
+      "first person view sliding down a loose rocky desert slope, bright sun",
+      "coiled rattlesnakes among warm boulders, vivid detail",
+      "a snake mid-rattle very close to a boot, cinematic",
+      "hands easing back over sharp rocks, well-lit",
+      "wide bright shot of a rocky desert hillside at midday"
+    ],
+    "tags": [
+      "rattlesnake",
+      "snakes",
+      "desert",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "animals"
+    ]
+  },
+  {
+    "id": "muskox-charge",
+    "title": "Would you survive a muskox charging you on the tundra? #shorts",
+    "description": "Six hundred pounds of shaggy muscle and horn lowers its head on the open ground. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if a muskox charged you out on the open tundra?",
+    "script": "You cross a stretch of Arctic tundra and a herd of muskox bunches together, then one bull peels off toward you. There is no tree, no rock, nothing to climb. He lowers a helmet of fused horn and charges across the frozen ground at thirty miles an hour. You try to sidestep at the last second. He catches your hip with the boss of his horns and the impact throws you six feet and shatters your pelvis. On the tundra, hours from help, that is enough. You don't survive.",
+    "captions": [
+      "A muskox bull peels off from the herd.",
+      "There is nowhere to climb.",
+      "He charges at thirty miles an hour.",
+      "His horns catch your hip.",
+      "A shattered pelvis, hours from help. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view on flat Arctic tundra facing a herd of muskox, bright low sun",
+      "a muskox lowering its fused horn boss, vivid detail",
+      "a shaggy muskox charging across frozen ground, cinematic motion",
+      "tundra moss and lichen underfoot, well-lit",
+      "wide bright shot of open Arctic tundra under a pale sky"
+    ],
+    "tags": [
+      "muskox",
+      "tundra",
+      "wildlife",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "arctic"
+    ]
+  },
+  {
+    "id": "coyote-pack-attack",
+    "title": "Would you survive a coyote pack surrounding you at night? #shorts",
+    "description": "The yipping is on all sides now, and the circle is getting smaller. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if a coyote pack surrounded you on a trail at night?",
+    "script": "You're hiking back to the trailhead after dark when the yipping starts, first ahead of you, then behind, then on both sides. A pack has formed a loose circle and it's tightening. These coyotes have been fed by campers and have lost every trace of fear. One darts in and rips the back of your calf, and when you spin toward it two more hit you from behind and put you on the ground. Once you're down, the whole pack closes in at once. You don't survive.",
+    "captions": [
+      "Yipping starts on every side of you.",
+      "A coyote pack forms a circle.",
+      "They've lost all fear of people.",
+      "One rips your calf, two take you down.",
+      "The pack closes in. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view on a dark desert trail with eyeshine in the brush, faint bright glow",
+      "a coyote slinking at the edge of a flashlight beam, vivid detail",
+      "a person swinging a backpack with back to a boulder, cinematic",
+      "several coyotes circling in dry grass, well-lit",
+      "wide bright shot of a trailhead parking lot at dusk"
+    ],
+    "tags": [
+      "coyote",
+      "wildlife",
+      "animals",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "night"
+    ]
+  },
+  {
+    "id": "african-wild-dog-pack",
+    "title": "Would you survive an African wild dog pack on the savanna? #shorts",
+    "description": "They don't circle or hesitate. The whole pack commits at once, at forty miles an hour. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if an African wild dog pack found you alone on the savanna?",
+    "script": "Your vehicle breaks down and you set off on foot across the savanna. A pack of African wild dogs picks up your trail. They are the most successful pack hunters on the continent, with a kill rate above eighty percent, and they don't stalk or circle. The whole pack commits at once at forty miles an hour and takes you off your feet from three directions. They begin feeding before you've stopped moving. You don't survive.",
+    "captions": [
+      "Your vehicle breaks down on the savanna.",
+      "A wild dog pack picks up your trail.",
+      "Their hunts succeed four times in five.",
+      "The whole pack commits at once.",
+      "They feed before you stop moving. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view walking across dry golden savanna grass, bright harsh sun",
+      "a pack of painted wild dogs trotting in a line, vivid detail",
+      "wild dogs sprinting toward the camera, cinematic motion",
+      "mottled dog coats close up in tall grass, well-lit",
+      "wide bright shot of an open African plain with scattered acacia"
+    ],
+    "tags": [
+      "wilddog",
+      "africa",
+      "wildlife",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "savanna"
+    ]
+  },
+  {
+    "id": "barracuda-strike",
+    "title": "Would you survive a barracuda strike while snorkeling? #shorts",
+    "description": "A silver flash, and your hand is opened to the bone before you feel a thing. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if a barracuda struck at the shiny watch on your wrist?",
+    "script": "You're snorkeling alone over a reef, two hundred yards off the boat, a bright metal watch on your wrist. A big barracuda hangs motionless in the blue, tracking you. To its eye, the flash off that watch looks exactly like a fleeing fish. It covers ten feet in a blink and slashes once. Your wrist opens to the bone and a bright red cloud blooms around you. With one working hand and the current running the wrong way, you get less than halfway back. You don't survive.",
+    "captions": [
+      "You wear a shiny watch over the reef.",
+      "A barracuda hangs still, tracking you.",
+      "The flash looks like a fleeing fish.",
+      "It slashes your wrist to the bone.",
+      "One hand, wrong current, alone. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view snorkeling over a bright coral reef, a watch on the wrist, vivid blue",
+      "a large barracuda hovering in clear water, sharp detail",
+      "a silver flash of fish striking toward a hand, cinematic",
+      "a towel wrapped tight around a hand on a boat deck, well-lit",
+      "wide bright shot of a turquoise reef flat under sun"
+    ],
+    "tags": [
+      "barracuda",
+      "reef",
+      "snorkeling",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "ocean"
+    ]
+  },
+  {
+    "id": "hydraulic-press",
+    "title": "Would you survive getting your sleeve caught in a hydraulic press? #shorts",
+    "description": "The two-hand controls should have protected you. One glove got left behind. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if your glove got caught as a hydraulic press came down?",
+    "script": "You're clearing a jammed blank from a hydraulic press and you leave one gloved hand resting on the die to steady yourself. A coworker, not seeing you, taps the two-hand start. The ram comes down slow and unstoppable, a hundred tons behind it. It catches the glove and pulls your hand under before you can tear free of the cuff. There is no fast-stop that acts in time. The press seats fully. You don't survive.",
+    "captions": [
+      "You steady yourself with a hand on the die.",
+      "A coworker taps the start controls.",
+      "A hundred tons descends slowly.",
+      "The glove pulls your hand under.",
+      "The press seats fully. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view of a gloved hand resting on a steel press die, bright shop light",
+      "a heavy ram descending in a hydraulic press, vivid detail",
+      "a torn work glove near machinery, cinematic",
+      "industrial press controls on a factory floor, well-lit",
+      "wide bright shot of a metal stamping shop"
+    ],
+    "tags": [
+      "press",
+      "machinery",
+      "factory",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "industrial"
+    ]
+  },
+  {
+    "id": "printing-press-rollers",
+    "title": "Would you survive your hand catching in a printing press? #shorts",
+    "description": "You reach in to clear a wrinkle while the web is still running. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if your hand caught between the rollers of a running printing press?",
+    "script": "You spot a wrinkle in the paper web feeding through a big offset press and reach in to smooth it without stopping the run. The rollers turn at the speed of a highway. The nip grabs your fingertips and the rollers pull your hand, then your wrist, then your forearm into a gap narrower than a coin. The emergency bar is on the far side of the machine, out of reach. By the time the press stops, the damage is past your elbow. You don't survive.",
+    "captions": [
+      "You reach in to smooth a wrinkle.",
+      "The web runs at highway speed.",
+      "The nip grabs your fingertips.",
+      "Your arm feeds into a coin-thin gap.",
+      "The stop bar is out of reach. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view reaching toward a fast-moving paper web in a press, bright shop light",
+      "spinning steel rollers of an offset printing press, vivid detail",
+      "a sleeve being drawn toward a roller nip, cinematic",
+      "an emergency stop bar across a large machine, well-lit",
+      "wide bright shot of an industrial print shop floor"
+    ],
+    "tags": [
+      "printing",
+      "machinery",
+      "factory",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "industrial"
+    ]
+  },
+  {
+    "id": "automatic-sliding-gate-crush",
+    "title": "Would you survive being caught in an automatic sliding gate? #shorts",
+    "description": "The heavy steel gate rolls closed and there's a wall on the other side. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you were caught in the path of a heavy automatic sliding gate?",
+    "script": "You slip through a car park's automatic gate as it starts to close, and your backpack strap snags a spike on the leading edge. The gate is a quarter-ton of steel driven by a motor that doesn't know you're there, and it keeps rolling toward the brick pillar it seats against. You're pinned between them. The safety sensor was aimed for vehicles, at bumper height, and misses you completely. The gap closes to nothing. You don't survive.",
+    "captions": [
+      "Your strap snags the closing gate.",
+      "It's a quarter-ton of driven steel.",
+      "The motor doesn't know you're there.",
+      "The sensor is aimed for car bumpers.",
+      "You're crushed against the pillar. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view stepping through a closing steel sliding gate, bright daylight",
+      "a backpack strap hooked on a gate edge, vivid detail",
+      "a heavy gate rolling toward a brick pillar, cinematic",
+      "a gate motor and track along a wall, well-lit",
+      "wide bright shot of a walled car park entrance"
+    ],
+    "tags": [
+      "gate",
+      "machinery",
+      "urban",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "crush"
+    ]
+  },
+  {
+    "id": "warehouse-racking-collapse",
+    "title": "Would you survive a warehouse racking collapse? #shorts",
+    "description": "A forklift clips one upright and forty feet of loaded shelving folds like dominoes. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if the pallet racking came down while you were picking orders?",
+    "script": "You're on foot in a narrow aisle pulling boxes when a forklift two rows over clips the base of an upright. That bay sags, dumps its pallets, and the sideways shove starts a chain reaction down the whole run. Ton after ton of steel and product folds toward you like dominoes. The aisle is too long to sprint clear. A pallet of tile catches you first, then the rack frame comes down on top. You don't survive.",
+    "captions": [
+      "A forklift clips a rack upright.",
+      "That bay sags and dumps its pallets.",
+      "The collapse chains down the aisle.",
+      "The aisle is too long to outrun.",
+      "Steel and tile come down on you. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view in a tall narrow warehouse racking aisle, bright overhead light",
+      "a loaded pallet tipping off a high shelf, vivid detail",
+      "rows of steel racking folding sideways, cinematic",
+      "boxes and shrink-wrap spilling across a concrete floor, well-lit",
+      "wide bright shot of a huge distribution warehouse interior"
+    ],
+    "tags": [
+      "warehouse",
+      "racking",
+      "collapse",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "industrial"
+    ]
+  },
+  {
+    "id": "grain-auger-entanglement",
+    "title": "Would you survive a pant leg caught in a grain auger? #shorts",
+    "description": "The spinning flight grabs the cuff and pulls before you can shift your weight. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if your pant leg caught in a spinning grain auger?",
+    "script": "You step over a portable grain auger running at full speed to check the flow into the truck. The exposed screw at the intake catches your cuff. It winds the fabric in instantly and takes your foot, then your leg, into the trough. The auger has no clutch, only an off switch back at the tractor, and there is no one else in the yard. It keeps turning. You don't survive.",
+    "captions": [
+      "You step over a running grain auger.",
+      "The exposed screw catches your cuff.",
+      "It winds in the fabric instantly.",
+      "Your leg is pulled into the trough.",
+      "No one is there to shut it off. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view stepping over a portable grain auger by a truck, bright farm light",
+      "a spinning auger flight moving golden grain, vivid detail",
+      "a trouser cuff caught on a rotating screw, cinematic",
+      "a farm yard with a tractor and grain truck, well-lit",
+      "wide bright shot of a harvest farmyard under blue sky"
+    ],
+    "tags": [
+      "auger",
+      "farm",
+      "machinery",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "agriculture"
+    ]
+  },
+  {
+    "id": "pto-shaft-entanglement",
+    "title": "Would you survive a loose thread catching a PTO shaft? #shorts",
+    "description": "The tractor's power shaft spins at nine turns a second and never slips. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if your clothing caught the spinning PTO shaft behind a tractor?",
+    "script": "You lean across the running power take-off shaft between the tractor and the mower to free a blocked chute. The guard was removed years ago. A frayed thread on your hoodie brushes the spinning steel shaft and wraps. In under a second the whole garment is torn tight and winding, pulling you around the shaft with it, nine full turns every second. Bones break on the first revolution. You don't survive.",
+    "captions": [
+      "You lean across a running PTO shaft.",
+      "The guard was removed years ago.",
+      "A frayed thread brushes the steel.",
+      "The garment winds tight in a second.",
+      "It spins you nine times a second. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view reaching over a spinning tractor PTO shaft, bright field light",
+      "a bare rotating driveline between a tractor and implement, vivid detail",
+      "a hoodie drawstring wrapping a steel shaft, cinematic",
+      "a tractor hitched to a mower in a cut field, well-lit",
+      "wide bright shot of a farm field mid-mowing under sun"
+    ],
+    "tags": [
+      "pto",
+      "tractor",
+      "farm",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "agriculture"
+    ]
+  },
+  {
+    "id": "garbage-truck-compactor",
+    "title": "Would you survive falling into a garbage truck's compactor? #shorts",
+    "description": "You climbed into the hopper to grab a phone that went in with the bags. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you fell into the hopper of a garbage truck as it started to pack?",
+    "script": "Your phone goes into the bin and then into the back of the truck with the bags. You wave, but the crew doesn't see you climb up into the hopper to dig for it. The operator hits the cycle. The packing blade sweeps down and back through the hopper, a slow steel wall with tons of hydraulic force behind it. It carries you and the trash into the body of the truck and curls closed. The crew hears nothing over the engine. You don't survive.",
+    "captions": [
+      "Your phone goes into the truck.",
+      "You climb into the hopper to dig.",
+      "The operator starts the packing cycle.",
+      "The blade sweeps you into the body.",
+      "The crew hears nothing. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view climbing into the back hopper of a garbage truck, bright street light",
+      "a hydraulic packer blade sweeping through trash, vivid detail",
+      "bags and debris curling into a truck body, cinematic",
+      "a refuse truck parked at a curb, well-lit",
+      "wide bright shot of a residential street on collection day"
+    ],
+    "tags": [
+      "garbagetruck",
+      "compactor",
+      "urban",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "machinery"
+    ]
+  },
+  {
+    "id": "cardboard-baler",
+    "title": "Would you survive reaching into a cardboard baler? #shorts",
+    "description": "You leaned in to push the box down just as the ram started its stroke. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you reached into a cardboard baler as the ram came down?",
+    "script": "It's closing time at the store and you're feeding flattened boxes into the vertical baler out back. One sticks up and blocks the door, so you reach in to shove it flat and press the button with your other hand. The ram is already moving. It comes straight down with several tons of force and pins your arm against the bale below. The machine has no reverse, and the release cycle takes a full minute. You're alone in the stockroom. You don't survive.",
+    "captions": [
+      "You feed boxes into a vertical baler.",
+      "One box blocks the door.",
+      "You reach in and hit the button.",
+      "The ram pins your arm to the bale.",
+      "There is no reverse. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view reaching into a vertical cardboard baler, bright stockroom light",
+      "a steel ram pressing down on flattened boxes, vivid detail",
+      "a compressed bale of cardboard bound with wire, cinematic",
+      "a baler control button on a yellow panel, well-lit",
+      "wide bright shot of a store back room with a baler and pallets"
+    ],
+    "tags": [
+      "baler",
+      "recycling",
+      "retail",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "machinery"
+    ]
+  },
+  {
+    "id": "excavator-bucket-strike",
+    "title": "Would you survive standing in an excavator's blind spot? #shorts",
+    "description": "The operator swings the boom to dump a load and you're behind the cab. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you stood in an excavator's swing radius on a job site?",
+    "script": "You cross a construction site to talk to a coworker and cut behind a tracked excavator that's digging a trench. The operator has no idea you're there. He swings the house around to dump a bucket of spoil, and the counterweight at the back of the cab sweeps through the space you're standing in. It's a wall of steel moving at walking pace, but it weighs tons and it pins you against the stacked pipe behind you. You don't survive.",
+    "captions": [
+      "You cut behind a digging excavator.",
+      "The operator can't see you.",
+      "He swings the cab to dump a load.",
+      "The counterweight sweeps through you.",
+      "It pins you against stacked pipe. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view walking behind a tracked excavator on a job site, bright daylight",
+      "an excavator counterweight swinging past, vivid detail",
+      "a bucket of soil tipping over a spoil pile, cinematic",
+      "stacked concrete pipe beside a trench, well-lit",
+      "wide bright shot of an active construction site"
+    ],
+    "tags": [
+      "excavator",
+      "construction",
+      "machinery",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "jobsite"
+    ]
+  },
+  {
+    "id": "dropped-crane-load",
+    "title": "Would you survive a crane load failing overhead? #shorts",
+    "description": "A rigging sling lets go and two tons of steel beam falls out of the sky. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if a crane's rigging failed while a load passed over your head?",
+    "script": "You walk under a taped-off zone on a site because the shortcut saves two minutes. A tower crane is lifting a bundle of steel beams above you. One of the nylon slings has a cut in it from resting on a sharp edge, and it parts under load. The bundle drops straight down with no warning sound at all. Two tons of steel reaches the ground, and you, in just over a second. You don't survive.",
+    "captions": [
+      "You take a shortcut under a lift.",
+      "A crane carries steel beams overhead.",
+      "A cut sling parts under the load.",
+      "The bundle drops with no warning.",
+      "Two tons hits the ground. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view looking up at a crane load of steel beams, bright sky",
+      "a frayed nylon sling under tension, vivid detail",
+      "a bundle of beams falling from a crane, cinematic",
+      "hard-hatted workers scattering on a slab, well-lit",
+      "wide bright shot of a high-rise construction site with a tower crane"
+    ],
+    "tags": [
+      "crane",
+      "construction",
+      "rigging",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "jobsite"
+    ]
+  },
+  {
+    "id": "scaffold-collapse",
+    "title": "Would you survive a scaffold collapsing under you? #shorts",
+    "description": "Four stories of tube-and-board peels away from the building all at once. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if the scaffold you were working on collapsed away from the building?",
+    "script": "You're on the fourth lift of a scaffold, painting trim, when you feel a slow sway that shouldn't be there. A tie holding the scaffold to the wall has pulled out, and without it the whole loaded structure is a free-standing tower of thin steel tube. It leans, past the tipping point, and folds away from the building. You ride the planks down through a cage of collapsing pipe and land in the rubble of it. You don't survive.",
+    "captions": [
+      "You feel a sway that shouldn't be there.",
+      "A wall tie has pulled out.",
+      "The scaffold becomes a free-standing tower.",
+      "It leans past the tipping point.",
+      "You ride the planks down. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view on a high scaffold platform painting trim, bright daylight",
+      "a scaffold tie bracket pulled from a wall, vivid detail",
+      "steel scaffold tube folding away from a building, cinematic",
+      "planks and pipe falling toward the ground, well-lit",
+      "wide bright shot of a building facade wrapped in scaffolding"
+    ],
+    "tags": [
+      "scaffold",
+      "construction",
+      "collapse",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "height"
+    ]
+  },
+  {
+    "id": "scissor-lift-tipover",
+    "title": "Would you survive a scissor lift tipping over? #shorts",
+    "description": "You reached out just a little too far and the whole platform started to go. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if your scissor lift tipped over while you were up at full height?",
+    "script": "You're twenty-six feet up on a scissor lift running conduit near the ceiling, and the fitting you need is just out of reach. You lean over the rail and pull on it. The lift's center of gravity shifts past its narrow base, and there's a point where it stops being recoverable. The platform swings out and over. You're flung from the top of the arc onto the concrete, and the lift lands beside you. You don't survive.",
+    "captions": [
+      "You're twenty-six feet up on a lift.",
+      "The fitting is just out of reach.",
+      "You lean over the rail and pull.",
+      "The base can't hold the shift.",
+      "The platform throws you to the concrete. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view from a raised scissor lift near a warehouse ceiling, bright light",
+      "a scissor lift tilting on two wheels, vivid detail",
+      "conduit and fittings along a ceiling, cinematic",
+      "an empty lift platform swinging outward, well-lit",
+      "wide bright shot of a warehouse interior with a scissor lift"
+    ],
+    "tags": [
+      "scissorlift",
+      "construction",
+      "machinery",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "height"
+    ]
+  },
+  {
+    "id": "fumigated-cargo-hold",
+    "title": "Would you survive entering a fumigated shipping container? #shorts",
+    "description": "The container looks full of furniture. The air inside is full of pesticide gas. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you stepped into a shipping container that had been fumigated?",
+    "script": "You crack the doors on an import container to start unloading. It was gassed with a fumigant weeks ago at the far port to kill pests, and no one flagged it or aired it out. The gas is heavier than air, colorless, and has pooled invisibly around the cargo. You climb in. Two breaths and your head swims; by the fourth you're on your knees, and the doorway is only ten feet behind you. Your body won't answer. You don't survive.",
+    "captions": [
+      "You open an import container to unload.",
+      "It was fumigated weeks ago.",
+      "Invisible gas has pooled inside.",
+      "Two breaths and your head swims.",
+      "Your body won't move. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view opening the doors of a shipping container full of boxes, bright dock light",
+      "faint haze around stacked cargo inside a container, vivid",
+      "a person slumping just inside a container doorway, cinematic",
+      "a small fumigation warning label on a steel door, well-lit",
+      "wide bright shot of a container yard at a port"
+    ],
+    "tags": [
+      "fumigation",
+      "shipping",
+      "gas",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "port"
+    ]
+  },
+  {
+    "id": "reefer-container-trapped",
+    "title": "Would you survive being locked in a refrigerated container? #shorts",
+    "description": "The door swings shut behind you and the latch is the kind you can't open from inside. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you were locked inside a running refrigerated shipping container?",
+    "script": "You step into a refrigerated container to count pallets and the heavy door drifts shut behind you. The latch only works from outside. The unit is set to minus twenty and running hard, and your phone has no signal through the steel. You pound and shout, but the yard is loud and it's the end of the shift. The cold takes your fingers first, then your judgment. By the time anyone checks the manifest in the morning, it's too late. You don't survive.",
+    "captions": [
+      "The reefer door drifts shut behind you.",
+      "The latch only opens from outside.",
+      "It's set to minus twenty and running.",
+      "No signal through the steel.",
+      "The yard empties for the night. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view inside a frost-lined refrigerated container, dim bright work light",
+      "a heavy insulated container door latched shut, vivid detail",
+      "breath fog and frost on steel walls, cinematic",
+      "a phone showing no signal in a gloved hand, well-lit",
+      "wide bright shot of refrigerated containers stacked in a yard"
+    ],
+    "tags": [
+      "reefer",
+      "cold",
+      "shipping",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "hypothermia"
+    ]
+  },
+  {
+    "id": "sewer-methane-pocket",
+    "title": "Would you survive a methane pocket in a sewer? #shorts",
+    "description": "You climbed down to clear a blockage and your headlamp flame goes strange. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you climbed into a sewer and hit a pocket of methane?",
+    "script": "You go down the manhole to clear a grease blockage without testing the air first. Rotting sewage below has been releasing methane, and it's collected in the tunnel, pushing the oxygen out. There's no smell to warn you, just a sudden heaviness in your legs and a ringing in your ears. You reach for the ladder rungs and miss. The person up top sees you drop and climbs down to help, and the same air takes them. You don't survive.",
+    "captions": [
+      "You enter the sewer without testing the air.",
+      "Methane has displaced the oxygen.",
+      "There's no smell to warn you.",
+      "Your legs go heavy and you drop.",
+      "Your rescuer falls too. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view climbing down a manhole ladder into a dark tunnel, bright shaft of daylight above",
+      "a headlamp beam in a concrete sewer pipe, vivid detail",
+      "a gloved hand slipping off a wet ladder rung, cinematic",
+      "an open manhole in a street with a warning cone, well-lit",
+      "wide bright shot of a city street with an open utility access"
+    ],
+    "tags": [
+      "sewer",
+      "methane",
+      "confinedspace",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "gas"
+    ]
+  },
+  {
+    "id": "flooded-elevator-pit",
+    "title": "Would you survive being in an elevator pit as it flooded? #shorts",
+    "description": "You're at the bottom of the shaft when storm water starts pouring down the walls. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you were working in an elevator pit when it started to flood?",
+    "script": "You're down in the pit at the base of an elevator shaft, chasing a fault, when a storm main breaks in the street. Water sheets down every wall of the shaft and fills the pit around your boots in seconds. You go for the ladder, but the car above you has been called down by a tenant who doesn't know you're there. It descends into the shaft toward the buffers, toward the space you're standing in. You have nowhere to go. You don't survive.",
+    "captions": [
+      "You're in the pit chasing a fault.",
+      "A storm main breaks in the street.",
+      "Water fills the pit in seconds.",
+      "The car is called down from above.",
+      "It descends onto you. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view at the bottom of a dark elevator shaft, bright work light",
+      "water pouring down concrete shaft walls, vivid detail",
+      "the underside of an elevator car descending, cinematic",
+      "a pit ladder half underwater, well-lit",
+      "wide bright shot of a machine room and shaft head"
+    ],
+    "tags": [
+      "elevator",
+      "flood",
+      "confinedspace",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "maintenance"
+    ]
+  },
+  {
+    "id": "rappel-off-the-end-of-the-rope",
+    "title": "Would you survive rappelling off the end of your rope? #shorts",
+    "description": "The canyon drop was longer than the rope, and there were no knots in the ends. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you rappelled off the end of a rope that didn't reach the ground?",
+    "script": "You clip in at the top of a dry waterfall and lean back over the edge. The rappel is in shade and you can't see the landing, and you didn't tie stopper knots in the rope ends. Forty feet down, moving at a steady slide, the tails of the rope whip through your belay device and you're suddenly attached to nothing. The pool at the bottom is ankle deep over rock. You fall the last twenty-five feet. You don't survive.",
+    "captions": [
+      "You lean back over a dark canyon edge.",
+      "You can't see the landing.",
+      "No stopper knots in the rope ends.",
+      "The tails whip through your device.",
+      "You fall the last twenty-five feet. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view leaning back on a rappel over a canyon drop, bright sky above",
+      "rope ends dangling above a shallow rocky pool, vivid detail",
+      "a belay device with rope running through it, cinematic",
+      "a shaded slot canyon wall from mid-rappel, well-lit",
+      "wide bright shot of a desert canyon with a dry waterfall"
+    ],
+    "tags": [
+      "rappelling",
+      "canyoneering",
+      "climbing",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "rope"
+    ]
+  },
+  {
+    "id": "ladder-fall-onto-rebar",
+    "title": "Would you survive falling off a ladder onto exposed rebar? #shorts",
+    "description": "The ladder kicks out and below you is a grid of steel bars pointing straight up. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you fell off a ladder onto a field of upright rebar?",
+    "script": "You're eight feet up an extension ladder set on loose dirt at the edge of a foundation pour. Below and behind you, dozens of vertical rebar stubs stick up out of the footing, none of them capped. The ladder's feet slide out on the dirt. You fall backward, and there's no way to twist clear of the grid in the air. Two of the bars catch you as you land. On a job site, minutes from help, it isn't enough. You don't survive.",
+    "captions": [
+      "You're eight feet up on loose dirt.",
+      "Uncapped rebar stubs bristle below.",
+      "The ladder feet slide out.",
+      "You can't twist clear in the air.",
+      "Two bars catch you on landing. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view from a ladder above a foundation with upright rebar, bright daylight",
+      "a grid of uncapped steel rebar in concrete footing, vivid detail",
+      "an extension ladder base on loose soil, cinematic",
+      "a construction foundation trench with formwork, well-lit",
+      "wide bright shot of a residential building site mid-pour"
+    ],
+    "tags": [
+      "ladder",
+      "construction",
+      "rebar",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "jobsite"
+    ]
+  },
+  {
+    "id": "cell-tower-climber-fall",
+    "title": "Would you survive a fall while free-climbing a cell tower? #shorts",
+    "description": "You unclipped both lanyards to get past the antenna mount, three hundred feet up. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you slipped while free-climbing past an obstruction on a cell tower?",
+    "script": "You're three hundred feet up a lattice cell tower, and to get around a cluster of antenna mounts you unclip both safety lanyards at once and climb free for a few feet. Your boot skids on a frost-slick angle iron. There is nothing attached to you. You bounce off two cross-members on the way down, which does nothing to slow you, and the compound at the base comes up fast. You don't survive.",
+    "captions": [
+      "You're three hundred feet up a tower.",
+      "You unclip both lanyards to pass the antennas.",
+      "Your boot skids on frosty steel.",
+      "Nothing is attached to you.",
+      "The ground comes up fast. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view climbing steel lattice high on a cell tower, bright open sky",
+      "antenna mounts clustered on a tower section, vivid detail",
+      "two unclipped safety lanyards hanging loose, cinematic",
+      "the tower base compound seen from far above, well-lit",
+      "wide bright shot of a tall lattice communications tower"
+    ],
+    "tags": [
+      "tower",
+      "climbing",
+      "height",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "work"
+    ]
+  },
+  {
+    "id": "ice-climbing-lead-fall",
+    "title": "Would you survive a lead fall on a frozen waterfall? #shorts",
+    "description": "You peel off twelve feet above your last screw, with the tools still in your hands. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you took a leader fall while ice climbing above your protection?",
+    "script": "You're leading a pitch of steep ice, twelve feet above your last screw, when a dinner-plate of ice shears off under your right tool and you're falling. Ice climbing has a rule: the leader does not fall. Your crampon points catch the ice as you drop and the sudden stop wrenches your ankle sideways. The rope comes tight on the screw with a jolt and holds, but you've swung into the wall face-first and the tools have raked your legs. You don't survive.",
+    "captions": [
+      "You're twelve feet above your last screw.",
+      "A plate of ice shears off your tool.",
+      "In ice climbing, the leader can't fall.",
+      "Your crampons catch and your ankle twists.",
+      "You slam the wall as the rope catches. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view leading steep blue water ice with tools overhead, bright winter light",
+      "an ice screw placed in a vertical ice sheet, vivid detail",
+      "a fractured dinner-plate of ice breaking free, cinematic",
+      "crampon points biting into ice, well-lit close up",
+      "wide bright shot of a frozen alpine waterfall pitch"
+    ],
+    "tags": [
+      "iceclimbing",
+      "climbing",
+      "winter",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "mountains"
+    ]
+  },
+  {
+    "id": "cornice-collapse",
+    "title": "Would you survive standing on a snow cornice? #shorts",
+    "description": "The solid-looking ridge you're standing on is actually hanging over a thousand feet of air. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if the snow cornice you walked out onto broke off?",
+    "script": "You hike along a snowy ridgeline to get the summit photo and step out toward the very edge. What looks like solid ground is a cornice, a lip of wind-packed snow curling out past the rock with nothing beneath it. Your weight is the last it can hold. A crack runs behind your boots, following the buried rock line, and the whole slab drops away. You fall with it down the face, inside a churn of snow blocks. You don't survive.",
+    "captions": [
+      "You walk out for the summit photo.",
+      "The edge is overhanging snow, not rock.",
+      "Your weight is the last it can hold.",
+      "A crack runs behind your boots.",
+      "The slab drops down the face. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view walking a corniced snow ridge toward the edge, bright alpine sun",
+      "a fracture line running through wind-packed snow, vivid detail",
+      "a slab of cornice snow falling away down a cliff face, cinematic",
+      "boot prints along a knife-edge snow ridge, well-lit",
+      "wide bright shot of a corniced summit ridge above a deep valley"
+    ],
+    "tags": [
+      "cornice",
+      "mountaineering",
+      "snow",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "alpine"
+    ]
+  },
+  {
+    "id": "scree-slope-slide",
+    "title": "Would you survive being caught in a scree slide? #shorts",
+    "description": "The loose rock slope you're crossing starts moving all at once, and you go with it. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if the scree slope you were crossing started sliding downhill?",
+    "script": "You're traversing a steep slope of loose rock below a peak when the whole surface begins to move under you, a slow-motion river of stone heading for a cliff edge a few hundred feet down. Fighting it sinks you deeper. You roll onto your back with your feet pointed downhill, keep your weight on top of the moving layer, and use your boots and hands to steer toward the solid rib at the slope's edge. You reach it and roll off as the scree pours over the drop. You survive.",
+    "captions": [
+      "The loose rock slope starts to move.",
+      "It's sliding toward a cliff edge.",
+      "Fighting it only sinks you deeper.",
+      "You go feet-first on your back and steer.",
+      "You roll off onto solid rock. You survive."
+    ],
+    "image_prompts": [
+      "first person view crossing a steep slope of loose grey scree, bright mountain light",
+      "a river of small rocks sliding downhill, vivid motion",
+      "a climber on their back sliding feet-first in scree, cinematic",
+      "a solid rock rib beside a moving scree field, well-lit",
+      "wide bright shot of a talus slope beneath a rocky peak"
+    ],
+    "tags": [
+      "scree",
+      "mountains",
+      "hiking",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "alpine"
+    ]
+  },
+  {
+    "id": "stalled-on-a-level-crossing",
+    "title": "Would you survive your car stalling on a railroad crossing? #shorts",
+    "description": "The engine dies on the tracks and the lights start flashing before you can restart it. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if your car stalled on a railroad crossing as a train approached?",
+    "script": "Your engine coughs and dies exactly as your front wheels cross the second rail. You turn the key: nothing. Then the crossing bells start and the red lights flash, and a headlight grows down the line. You have maybe twenty seconds. The right move is to leave the car now and run toward the train at an angle, so the debris throws away from you. If you stay to try the ignition one more time, the locomotive hits the car at sixty. You don't survive.",
+    "captions": [
+      "The engine dies on the tracks.",
+      "The key does nothing.",
+      "Bells ring and a headlight grows.",
+      "You have about twenty seconds.",
+      "You stay for one more try. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view of a car hood over railroad tracks, warning lights flashing ahead, bright dusk",
+      "a train headlight approaching down a straight line, vivid detail",
+      "a hand turning a dead ignition key, cinematic",
+      "a level crossing with lowered gates and red lights, well-lit",
+      "wide bright shot of a rural railroad crossing at golden hour"
+    ],
+    "tags": [
+      "train",
+      "railroad",
+      "cars",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "crossing"
+    ]
+  },
+  {
+    "id": "snowmobile-through-thin-ice",
+    "title": "Would you survive your snowmobile breaking through lake ice? #shorts",
+    "description": "The machine punches through and drops, and the current pulls it away under the ice. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if your snowmobile broke through thin lake ice?",
+    "script": "You're crossing a lake at speed when the ice turns dark ahead and the machine drops through before you can react. You come off it as it sinks. The hole you made is already behind you and the current is sliding you under the solid sheet. You kick hard to get horizontal, claw back to the broken edge, and jam your ski poles flat across the ice like an anchor. You haul your chest out, roll away from the hole, and crawl until the ice sounds solid. You survive.",
+    "captions": [
+      "The ice turns dark ahead of you.",
+      "The snowmobile drops through and sinks.",
+      "The current slides you under the sheet.",
+      "You kick flat and claw to the edge.",
+      "Poles flat, roll away, crawl. You survive."
+    ],
+    "image_prompts": [
+      "first person view riding a snowmobile toward dark ice on a lake, bright winter sun",
+      "a snowmobile breaking through into black water, vivid detail",
+      "gloved hands gripping a broken ice edge, cinematic",
+      "ski poles laid flat across lake ice, well-lit",
+      "wide bright shot of a frozen lake with an open dark patch"
+    ],
+    "tags": [
+      "snowmobile",
+      "ice",
+      "lake",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "winter"
+    ]
+  },
+  {
+    "id": "engine-out-forced-landing",
+    "title": "Would you survive an engine failure in a small plane over forest? #shorts",
+    "description": "The propeller stops. Below is nothing but unbroken trees. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if your small plane lost its engine over solid forest?",
+    "script": "You're in a light single-engine plane at four thousand feet over unbroken pine forest when the engine coughs, sputters, and quits. The propeller windmills, then stops. There is no field, no road, no water, just treetops in every direction. The pilot trims for best glide and picks the least-bad gap. The plane pancakes into the canopy, wings tearing off against trunks, fuselage dropping through branches to the forest floor. The impact is survivable in theory, but the fuel finds a spark. You don't survive.",
+    "captions": [
+      "The engine sputters and quits.",
+      "The propeller windmills, then stops.",
+      "Nothing but forest in every direction.",
+      "The plane pancakes into the canopy.",
+      "Fuel finds a spark. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view from a small plane cockpit over dense forest, still propeller, bright sky",
+      "unbroken pine canopy filling the windshield, vivid detail",
+      "a light plane sinking into treetops, wings catching, cinematic",
+      "broken branches and torn aluminum on a forest floor, well-lit",
+      "wide bright shot of an endless forest under scattered clouds"
+    ],
+    "tags": [
+      "aviation",
+      "engineout",
+      "flying",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "forest"
+    ]
+  },
+  {
+    "id": "helicopter-autorotation",
+    "title": "Would you survive a helicopter losing power in flight? #shorts",
+    "description": "The engine quits and the aircraft starts to drop, but the pilot doesn't panic. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if the helicopter you were riding in lost engine power?",
+    "script": "You're a passenger in a small helicopter at fifteen hundred feet when a warning horn blares and the engine spools down. The nose pitches and you start dropping. But the pilot immediately drops the collective, letting the falling air spin the rotor like a windmill and store its energy. He glides down toward a hayfield, then at the last second flares hard, trading rotor speed for a soft touchdown. The skids hit, the aircraft rocks, and stays upright. You survive.",
+    "captions": [
+      "A horn blares and the engine spools down.",
+      "The nose pitches and you drop.",
+      "The pilot lets the rotor windmill.",
+      "He glides toward a hayfield.",
+      "A hard flare, a soft landing. You survive."
+    ],
+    "image_prompts": [
+      "first person view from a helicopter cabin descending toward a green field, bright daylight",
+      "a helicopter rotor disc against the sky, vivid detail",
+      "a small helicopter flaring nose-up above grass, cinematic",
+      "helicopter skids meeting a hayfield, well-lit",
+      "wide bright shot of farmland with a descending helicopter"
+    ],
+    "tags": [
+      "helicopter",
+      "autorotation",
+      "flying",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "aviation"
+    ]
+  },
+  {
+    "id": "paraglider-wing-collapse",
+    "title": "Would you survive your paraglider wing collapsing in flight? #shorts",
+    "description": "Half the wing folds under in turbulent air and you drop toward the ridge. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if your paraglider wing partly collapsed over a mountain ridge?",
+    "script": "You're ridge-soaring a few hundred feet above the rocks when you fly into a patch of rough air and the left half of your wing folds under with a bang. The glider wheels hard toward the terrain, half-flying, half-falling. You're too low for the reserve parachute to fully open. You pull the controls to try to pump the wing back open, and it starts to respond, but the ridge arrives first. You hit the slope in a half-inflated turn. You don't survive.",
+    "captions": [
+      "Rough air hits you above the rocks.",
+      "Half the wing folds under with a bang.",
+      "The glider wheels toward the terrain.",
+      "You're too low for the reserve.",
+      "The ridge arrives first. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view under a paraglider wing near a rocky ridge, bright sky",
+      "a paraglider wing folded asymmetrically, vivid detail",
+      "a canopy spiraling toward a mountain slope, cinematic",
+      "control lines gripped in gloved hands, well-lit",
+      "wide bright shot of a grassy launch ridge above a valley"
+    ],
+    "tags": [
+      "paragliding",
+      "flying",
+      "mountains",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "wind"
+    ]
+  },
+  {
+    "id": "rockfall-onto-mountain-road",
+    "title": "Would you survive rockfall hitting your car on a mountain road? #shorts",
+    "description": "A boulder the size of a fridge bounces down the cut slope into your lane. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if rockfall came down onto your car on a mountain pass?",
+    "script": "You're driving a narrow pass with a steep cut slope on one side and a guardrail over a drop on the other. Up ahead, a trickle of pebbles skitters across the asphalt, then a crack echoes off the cliff. A boulder the size of a refrigerator is already airborne, bouncing down the slope in long arcs. There's a car beside you and a wall on the other side, nowhere to swerve. It lands on the front of your car. You don't survive.",
+    "captions": [
+      "You're driving a narrow mountain pass.",
+      "Pebbles skitter across the road ahead.",
+      "A fridge-sized boulder is airborne.",
+      "There's nowhere to swerve.",
+      "It lands on your car. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view driving a narrow mountain road with a steep rock cut, bright daylight",
+      "loose rocks tumbling down a road cut slope, vivid detail",
+      "a large boulder bouncing toward a windshield, cinematic",
+      "a guardrail above a valley drop, well-lit",
+      "wide bright shot of a cliffside mountain highway"
+    ],
+    "tags": [
+      "rockfall",
+      "mountainroad",
+      "driving",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "cliff"
+    ]
+  },
+  {
+    "id": "lava-tube-collapse",
+    "title": "Would you survive a lava tube ceiling collapsing? #shorts",
+    "description": "The thin roof of the old lava tube gives way and drops you into the dark. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if the roof of a lava tube collapsed while you were walking on it?",
+    "script": "You're crossing a field of old pahoehoe lava, not knowing that a hollow tube runs a few feet below the crust. In places the roof is only inches thick. It fails under your step and you drop fifteen feet onto a floor of broken basalt in total darkness. The rock is razor-sharp and one leg is clearly broken. The hole above is a ragged skylight far out of reach, and no one knows the route you took. You don't survive.",
+    "captions": [
+      "You cross an old lava field.",
+      "A hollow tube runs just below.",
+      "The thin roof fails under your step.",
+      "You fall onto sharp broken basalt.",
+      "No one knows your route. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view walking across ropey black pahoehoe lava, bright tropical sun",
+      "a dark jagged hole opening in a lava crust, vivid detail",
+      "a person fallen on sharp basalt in a shaft of light, cinematic",
+      "a ragged lava tube skylight seen from below, well-lit",
+      "wide bright shot of a vast solidified lava flow"
+    ],
+    "tags": [
+      "lavatube",
+      "volcano",
+      "caving",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "geology"
+    ]
+  },
+  {
+    "id": "iceberg-roll",
+    "title": "Would you survive an iceberg rolling while you kayak past it? #shorts",
+    "description": "The berg you're photographing suddenly shifts, and a wall of ice rises out of the water. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if an iceberg rolled over while you paddled close to it?",
+    "script": "You paddle your sea kayak in close to a house-sized iceberg for a photo. Melting has made it top-heavy, and your wake is the nudge it needs. With a groan it begins to roll, a submerged shelf of ice heaving up out of the sea right beside you and water sheeting off it. You dig in and sprint the kayak away from the berg as hard as you can. The wave it throws lifts your stern and nearly pitchpoles you, but you ride over it. You survive.",
+    "captions": [
+      "You paddle close to a big iceberg.",
+      "Melting has made it top-heavy.",
+      "Your wake sets it rolling.",
+      "Ice heaves up out of the sea beside you.",
+      "You sprint clear and ride the wave. You survive."
+    ],
+    "image_prompts": [
+      "first person view from a sea kayak beside a large blue-white iceberg, bright polar light",
+      "a submerged ice shelf rising out of dark water, vivid detail",
+      "water sheeting off a rolling iceberg, cinematic",
+      "a kayak paddle digging hard into cold sea, well-lit",
+      "wide bright shot of icebergs in a calm Arctic bay"
+    ],
+    "tags": [
+      "iceberg",
+      "kayak",
+      "ocean",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "arctic"
+    ]
+  },
+  {
+    "id": "glacial-lake-outburst-flood",
+    "title": "Would you survive a glacial lake bursting above your valley? #shorts",
+    "description": "A dam of ice and rubble high in the mountains lets go, and a wall of water and boulders comes down. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if a glacial lake burst its natural dam above the valley you were in?",
+    "script": "You're camped by a river in a mountain valley on a clear afternoon. Miles upstream and thousands of feet higher, a lake held back by a moraine of loose glacial rubble finally overtops and cuts through. The whole lake drains at once. What reaches you twenty minutes later isn't just water; it's a moving slurry of mud, ice blocks, and boulders the size of cars, filling the valley floor bank to bank. You hear it as a roar before you see it. You don't survive.",
+    "captions": [
+      "You're camped by a calm mountain river.",
+      "A glacial lake bursts its rubble dam.",
+      "The whole lake drains at once.",
+      "Mud, ice, and car-sized boulders fill the valley.",
+      "You hear the roar too late. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view of a tent beside a braided mountain river, bright afternoon light",
+      "a moraine dam breaching high in the peaks, vivid detail",
+      "a brown wall of debris-laden water filling a valley, cinematic",
+      "boulders rolling in a churning flood front, well-lit",
+      "wide bright shot of a glacial valley with a milky river"
+    ],
+    "tags": [
+      "glof",
+      "flood",
+      "glacier",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "mountains"
+    ]
+  },
+  {
+    "id": "sea-arch-collapse",
+    "title": "Would you survive standing on a sea arch when it collapsed? #shorts",
+    "description": "The natural rock bridge over the ocean has been thinning for centuries, and today is the day. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if the sea arch you walked out onto collapsed into the ocean?",
+    "script": "You walk out onto a natural stone arch above the sea for the view straight down to the water. Waves have been undercutting it for centuries and the span is thinner than it looks. A deep crack you didn't notice runs across the deck behind you. With a sound like a quarry blast, the center of the arch drops out. You fall forty feet with the rubble into churning water against the cliff base, and the surge slams you into rock before you can swim. You don't survive.",
+    "captions": [
+      "You walk out onto a sea arch.",
+      "Waves have undercut it for centuries.",
+      "A crack runs across the deck behind you.",
+      "The center drops out.",
+      "The surge slams you into the cliff. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view standing on a narrow rock arch above crashing surf, bright coastal light",
+      "a crack running across a stone arch deck, vivid detail",
+      "the middle of a sea arch falling into the ocean, cinematic",
+      "white water surging against a cliff base, well-lit",
+      "wide bright shot of a coastal sea arch and headland"
+    ],
+    "tags": [
+      "seaarch",
+      "coast",
+      "cliff",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "ocean"
+    ]
+  },
+  {
+    "id": "volcanic-ashfall-roof-collapse",
+    "title": "Would you survive a roof loaded with volcanic ash? #shorts",
+    "description": "Volcanic ash doesn't stop falling, and once rain soaks it the weight caves roofs in. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if volcanic ash kept piling on the roof you were sheltering under?",
+    "script": "You take shelter in a concrete house as ash falls from a volcano erupting miles away. It doesn't burn; it just keeps coming, fine grey powder sifting down hour after hour. Dry ash is heavy, and wet ash is far heavier. Then rain starts to fall through it. On the flat roof above you the load passes four hundred pounds a square yard, and the beams begin to crack. The ceiling comes down on you in one slab. You don't survive.",
+    "captions": [
+      "Ash falls from a volcano miles away.",
+      "It doesn't stop, hour after hour.",
+      "Rain soaks the ash and doubles its weight.",
+      "The roof load passes the breaking point.",
+      "The ceiling drops in one slab. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view looking out a window at heavy grey ashfall, dim daylight",
+      "ash piling deep on a flat concrete roof, vivid detail",
+      "a cracked ceiling beam under strain, cinematic",
+      "grey ash coating a street and parked cars, well-lit",
+      "wide bright shot of a town under an ash plume from a distant volcano"
+    ],
+    "tags": [
+      "volcano",
+      "ashfall",
+      "eruption",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "disaster"
+    ]
+  },
+  {
+    "id": "fire-whirl",
+    "title": "Would you survive a fire whirl in a wildfire? #shorts",
+    "description": "When wind and heat spin wildfire into a rotating column, it moves like a tornado and throws fire ahead of itself. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if a fire whirl formed in the wildfire you were escaping?",
+    "script": "You're on foot ahead of a fast wildfire, moving for the road, when the wind and heat start twisting the flames into a column. A fire whirl builds in seconds, a rotating tower of burning air a hundred feet tall, and it starts to move, tracking across the ground like a small tornado made of fire. It flings burning branches out ahead of itself, lighting new fire all around you. Then it crosses your path. The air itself is burning. You don't survive.",
+    "captions": [
+      "You're on foot ahead of a wildfire.",
+      "Wind twists the flames into a column.",
+      "A hundred-foot fire whirl forms.",
+      "It throws burning branches ahead of it.",
+      "It crosses your path. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view running through smoke ahead of a wildfire, bright orange glow",
+      "a rotating column of flame rising from burning brush, vivid detail",
+      "embers and burning branches flung through the air, cinematic",
+      "a hillside of fire under a dark smoke sky, well-lit",
+      "wide bright shot of a wildfire front advancing through dry hills"
+    ],
+    "tags": [
+      "firewhirl",
+      "wildfire",
+      "fire",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "disaster"
+    ]
+  },
+  {
+    "id": "propane-tank-bleve",
+    "title": "Would you survive a propane tank exploding beside you? #shorts",
+    "description": "A propane tank in a fire builds pressure until the shell splits, then the whole contents ignite at once. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if a propane tank exploded while you were standing near it?",
+    "script": "A large propane tank in the back of a truck catches fire after a crash. You're one of the people who walk toward it to help. The flames are heating the liquid propane inside, building pressure the relief valve can't vent fast enough. After ninety seconds the steel shell splits. The propane flashes to vapour and ignites all at once in a fireball a hundred feet across, and the torn ends of the tank fly out like shrapnel. Everyone inside the radius goes with it. You don't survive.",
+    "captions": [
+      "A propane tank catches fire after a crash.",
+      "You walk toward it to help.",
+      "Heat builds pressure past the valve.",
+      "The steel shell splits open.",
+      "A hundred-foot fireball. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view approaching a burning truck on a roadside, bright flames",
+      "a propane cylinder wrapped in fire, vivid detail",
+      "a large orange fireball expanding outward, cinematic",
+      "twisted metal and scorched asphalt, well-lit",
+      "wide bright shot of a highway crash scene with black smoke"
+    ],
+    "tags": [
+      "propane",
+      "bleve",
+      "explosion",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "fire"
+    ]
+  },
+  {
+    "id": "transformer-vault-explosion",
+    "title": "Would you survive a sidewalk transformer explosion? #shorts",
+    "description": "Underground transformer vaults can fill with explosive gas and blow their steel covers into the air on a jet of fire. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if the transformer vault under the sidewalk you stood on exploded?",
+    "script": "You're waiting at a crosswalk, standing on a steel utility grate set into the sidewalk. Below it, a transformer vault has slowly filled with explosive gas as failing insulation cooks in the summer heat. A spark inside sets it off. The blast lifts the three-hundred-pound grate under your feet straight up, and a jet of fire follows it out of the hole. You're thrown across the street. The burns and the fall together are more than your body can take. You don't survive.",
+    "captions": [
+      "You wait on a steel grate in the sidewalk.",
+      "A transformer vault below fills with gas.",
+      "A spark sets it off.",
+      "The blast launches the grate and a jet of fire.",
+      "You're thrown across the street. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view standing on a utility grate at a city crosswalk, bright daylight",
+      "a steel vault cover lifting on a burst of flame, vivid detail",
+      "fire jetting from a sidewalk vault, cinematic",
+      "smoke rising between downtown buildings, well-lit",
+      "wide bright shot of a busy city street corner"
+    ],
+    "tags": [
+      "transformer",
+      "explosion",
+      "urban",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "electrical"
+    ]
+  }
+]

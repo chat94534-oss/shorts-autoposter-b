@@ -186,6 +186,10 @@
     "dam-spillway-gate-opens",
     "anchor-line-drag-overboard",
     "frozen-waterfall-collapse",
-    "capsized-kayak-cold-river"
+    "capsized-kayak-cold-river",
+    "derecho-straight-line-winds",
+    "giant-hail-in-the-open",
+    "highway-fog-pileup",
+    "caught-above-treeline-in-storm"
   ]
 }

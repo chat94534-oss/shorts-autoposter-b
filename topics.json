@@ -1052,5 +1052,811 @@
       "scary",
       "electrical"
     ]
+  },
+  {
+    "id": "mooring-line-snapback",
+    "title": "Would you survive a mooring line snapping under load? #shorts",
+    "description": "A ship's mooring rope stores enormous energy under tension, and when it parts the free end whips back faster than a bullet. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if the mooring line you were standing near parted under load?",
+    "script": "You're on the deck of a ship at the dock, walking past a nylon mooring line stretched bar-tight as the hull works against the wind. The rope has been stretching for hours, storing energy like a giant elastic band. A strand lets go, then the whole line parts. The free end snaps back along its own length at the speed of a bullet and catches you across the body. The recoil of a heavy line carries enough force to sever limbs. You're down before you hear the bang. You don't survive.",
+    "captions": [
+      "You walk past a mooring line under heavy load.",
+      "The rope has been stretching for hours.",
+      "A strand fails, then the whole line parts.",
+      "The end whips back faster than you can flinch.",
+      "It catches you across the body. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view walking a ship's deck past a tight mooring rope, bright overcast daylight",
+      "a thick nylon line stretched bar-tight over a steel bollard, vivid detail",
+      "the rope parting in a blur of white fibers, cinematic",
+      "the deck seen from ground level, out of focus, well-lit",
+      "wide bright shot of a cargo ship tied to a concrete pier"
+    ],
+    "tags": [
+      "mooring",
+      "rope",
+      "snapback",
+      "ship",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary"
+    ]
+  },
+  {
+    "id": "post-tension-cable-snap",
+    "title": "Would you survive standing behind a tensioning jack? #shorts",
+    "description": "A steel tendon being pulled to thirty tons is a coiled spring, and a slipped wedge fires it and the jack straight backward. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if a post-tensioning cable let go while it was being stressed?",
+    "script": "You're on a concrete floor slab being post-tensioned, standing a few feet behind the hydraulic jack as it pulls a steel tendon to thirty tons of tension. Inside the slab that cable is a coiled spring holding enormous energy. A wedge slips. The tendon fires backward out of the anchor, through the jack, and through anything in line with it. The recoiling steel and the launched jack move faster than you can react. Crews are told never to stand behind a live stressing operation for exactly this reason. You don't survive.",
+    "captions": [
+      "You stand behind a jack tensioning a steel cable.",
+      "The tendon is holding thirty tons of pull.",
+      "A wedge slips inside the anchor.",
+      "The cable and jack fire backward down the line.",
+      "You were standing in the line. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view on a concrete deck behind a yellow hydraulic tensioning jack, bright site lighting",
+      "a steel cable end anchored into grey concrete, vivid detail",
+      "the jack and cable blurring backward off the anchor, cinematic",
+      "rebar and formwork on a sunlit construction floor, well-lit",
+      "wide bright shot of a multi-storey concrete building under construction"
+    ],
+    "tags": [
+      "construction",
+      "posttension",
+      "cable",
+      "jack",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary"
+    ]
+  },
+  {
+    "id": "rail-car-coupling",
+    "title": "Would you survive being between two rail cars as they couple? #shorts",
+    "description": "A hundred-ton rail car does not stop for a person, and slack action can close the gap between cars in under a second. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you were between two freight cars in a rail yard as they coupled?",
+    "script": "You step between two freight cars in a rail yard to connect an air hose, standing in the narrow gap with a wall of steel on each side. Down the track a locomotive shoves a string of cars toward you to make the joint. You expect the usual slow nudge. Instead the slack runs in hard and the cars close the gap in under a second. There's nowhere to go sideways. A loaded rail car weighs over a hundred tons and does not stop for a person. You don't survive.",
+    "captions": [
+      "You step between two freight cars to link a hose.",
+      "A locomotive pushes more cars in to couple.",
+      "The slack runs in harder and faster than normal.",
+      "The gap closes in under a second.",
+      "There is no room to escape. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view standing in the gap between two rusty freight cars, bright rail-yard daylight",
+      "steel couplers and air hoses between rail cars, vivid detail",
+      "the far car sliding in fast with motion blur, cinematic",
+      "gravel track ballast and rails in strong sun, well-lit",
+      "wide bright shot of a long freight train in a switching yard"
+    ],
+    "tags": [
+      "railyard",
+      "train",
+      "coupling",
+      "crush",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary"
+    ]
+  },
+  {
+    "id": "jet-blast-behind-airliner",
+    "title": "Would you survive standing behind a jet at takeoff power? #shorts",
+    "description": "The wind behind a large jet at takeoff power can top a hundred miles an hour, and people have been thrown into rocks and killed. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you stood on the beach behind an airliner as it took off?",
+    "script": "You're holding the fence at the end of a famous island runway, right where jets spool up for departure. The pilot pushes the throttles forward and the engines throw a hurricane of hot air straight down the beach. The blast picks you off the fence and throws you across the sand and rocks, or into the water. People have been badly hurt and killed here doing exactly this. The wind behind a large jet at takeoff power can exceed a hundred miles an hour. You don't survive the impact.",
+    "captions": [
+      "You grip the fence behind a jet at the runway's end.",
+      "The pilot runs the engines up for takeoff.",
+      "A wall of hot air roars down the beach.",
+      "It throws you across the sand and rocks.",
+      "You hit hard. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view holding a chain-link fence behind a large jet on a runway, bright tropical daylight",
+      "jet engines glowing with heat haze, vivid detail",
+      "sand and spray blasting down a beach, cinematic",
+      "turquoise water and palms beyond the runway fence, well-lit",
+      "wide bright shot of an airliner lifting off over a crowded beach"
+    ],
+    "tags": [
+      "jetblast",
+      "airport",
+      "aircraft",
+      "beach",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary"
+    ]
+  },
+  {
+    "id": "water-intoxication-marathon",
+    "title": "Would you survive drinking too much water in a marathon? #shorts",
+    "description": "Over-drinking during a marathon can dilute your blood sodium until your brain swells, but the right treatment reverses it. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you drank a full cup at every water station for hours in a hot marathon?",
+    "script": "You're twenty miles into a hot marathon and, worried about dehydration, you've taken a full cup at every station for hours. You feel sick, puffy, and confused, and your rings are tight. You've actually drunk so much that the sodium in your blood is dangerously diluted and your brain is starting to swell. Here's what saves you: you stop drinking, tell a medic your symptoms, and let them confirm it with a finger-prick sodium test. They give you a small volume of concentrated saline instead of more water, and the swelling reverses. You survive.",
+    "captions": [
+      "You drink a full cup at every mile for hours.",
+      "You feel sick, puffy, and confused.",
+      "Your blood sodium is dangerously diluted.",
+      "You stop drinking and find a medic.",
+      "They give you concentrated saline, not water. You survive."
+    ],
+    "image_prompts": [
+      "first person view at a marathon water station holding a paper cup, bright morning sun",
+      "rows of filled cups on a folding table, vivid detail",
+      "a runner swaying at the roadside, cinematic",
+      "a medical tent with cots along the course, well-lit",
+      "wide bright shot of a road race winding through a city"
+    ],
+    "tags": [
+      "marathon",
+      "hyponatremia",
+      "water",
+      "running",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary"
+    ]
+  },
+  {
+    "id": "rock-crusher-feed",
+    "title": "Would you survive slipping while clearing a rock crusher? #shorts",
+    "description": "A jaw crusher is built to turn boulders into gravel and takes material without slowing, with no reverse fast enough to help. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you slipped while clearing a jam at the mouth of a running rock crusher?",
+    "script": "You climb up to the mouth of a jaw crusher to pry loose a rock wedged at the top, standing on the steel lip above the two grinding plates. The machine is still running, jaws opening and closing like a slow bite. The rock frees suddenly and your boot goes with it. The crusher takes material without slowing; it's built to turn boulders into gravel. There's no reverse fast enough and no one at the controls. Guards and lockout exist to keep people off a running feed. You don't survive.",
+    "captions": [
+      "You reach into a running crusher to free a rock.",
+      "The steel jaws keep opening and closing.",
+      "The rock breaks loose and your footing goes.",
+      "The machine pulls material in without slowing.",
+      "It was built to crush stone. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view looking down into the steel jaws of a rock crusher, bright quarry daylight",
+      "a large rock wedged at the crusher mouth, vivid detail",
+      "grey crushed stone pouring onto a conveyor, cinematic",
+      "a sunlit quarry pit with haul trucks, well-lit",
+      "wide bright shot of a crushing plant against a blue sky"
+    ],
+    "tags": [
+      "quarry",
+      "crusher",
+      "machinery",
+      "industrial",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary"
+    ]
+  },
+  {
+    "id": "concrete-truck-drum",
+    "title": "Would you survive being inside a mixer drum when it started turning? #shorts",
+    "description": "The blades that fold concrete will fold a person against the shell, and the chute opening is too small to escape in time. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if the drum of a concrete mixer truck started turning while you were inside cleaning it?",
+    "script": "You've crawled inside the drum of a mixer truck through the narrow chute opening to chip out hardened concrete build-up, kneeling among the mixing blades. It's cramped, dusty, and loud outside. Someone who doesn't know you're in there starts the drum to move the truck. The blades that fold concrete are now folding you against the shell as the drum rotates. You can't brace against it and can't reach the small opening in time. This is why confined-space entry needs a locked-out machine and a watcher. You don't survive.",
+    "captions": [
+      "You crawl into a mixer drum to chip out concrete.",
+      "The mixing blades leave barely any room.",
+      "Outside, someone starts the drum turning.",
+      "The blades carry you around against the shell.",
+      "You can't reach the opening. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view inside a steel concrete mixer drum looking at the blades, dim light from a small opening",
+      "dried concrete crusted on curved steel walls, vivid detail",
+      "the drum interior beginning to rotate, cinematic",
+      "bright daylight through the round chute hole, well-lit",
+      "wide bright shot of a concrete mixer truck on a sunny job site"
+    ],
+    "tags": [
+      "concrete",
+      "mixer",
+      "confinedspace",
+      "industrial",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary"
+    ]
+  },
+  {
+    "id": "split-rim-tire-explosion",
+    "title": "Would you survive a split-rim truck wheel letting go? #shorts",
+    "description": "If the lock ring isn't fully seated, air pressure can launch it off the wheel with the force of a small bomb. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if a multi-piece truck rim let go while you were airing up the tire?",
+    "script": "You're inflating a large truck tire mounted on a multi-piece rim, leaning over it to read the gauge. These rims hold the tire together with a separate lock ring that seats in a groove. If the ring isn't fully seated, air pressure can blow it off the wheel with the force of a small bomb. It launches straight up into your face and chest before you register the hiss changing. Tire shops use a safety cage for exactly this. Standing over the assembly, you don't survive.",
+    "captions": [
+      "You lean over a split-rim truck tire to inflate it.",
+      "A separate lock ring holds the rim together.",
+      "The ring isn't fully seated in its groove.",
+      "Air pressure fires it off the wheel.",
+      "It hits you before you can move. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view looking down at a large truck tire and rim with an air hose, bright garage lighting",
+      "a steel lock ring seated in a wheel groove, vivid detail",
+      "the ring bursting upward off the rim, cinematic",
+      "a truck repair bay with tools and tires, well-lit",
+      "wide bright shot of a heavy truck up on a service lift"
+    ],
+    "tags": [
+      "tire",
+      "splitrim",
+      "truck",
+      "garage",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary"
+    ]
+  },
+  {
+    "id": "silage-pile-collapse",
+    "title": "Would you survive the face of a silage pile collapsing on you? #shorts",
+    "description": "Packed silage is dense and heavy, and a few feet of it across your chest stops you drawing a breath. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if the overhanging face of a bunker silage pile sheared off onto you?",
+    "script": "You're on a dairy farm walking along the base of a bunker silo, a wall of packed silage two storeys high left over from winter feeding. The face has been cut back steep and overhanging, and it's been freezing and thawing. As you pass, a slab the size of a car shears off the top. Packed silage is dense and heavy; a few feet of it pins your chest so you can't draw a breath. No one saw you walk over. You don't survive.",
+    "captions": [
+      "You walk along the base of a tall silage face.",
+      "The wall above you is cut steep and overhanging.",
+      "A slab shears off the top without warning.",
+      "Packed silage is heavy enough to pin your chest.",
+      "You can't breathe under it. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view walking beside a tall wall of packed silage, bright farm daylight",
+      "the steep overhanging face of a silage pile, vivid detail",
+      "a large slab of silage breaking away above, cinematic",
+      "a concrete bunker silo on a sunlit dairy farm, well-lit",
+      "wide bright shot of a farmyard with feed piles and a blue sky"
+    ],
+    "tags": [
+      "farm",
+      "silage",
+      "collapse",
+      "agriculture",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary"
+    ]
+  },
+  {
+    "id": "rebar-cage-collapse",
+    "title": "Would you survive a rebar cage racking over on you? #shorts",
+    "description": "Rebar cages are floppy until concrete sets, held only by wire ties, and tons of steel can pin you against the shaft wall. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if a tall rebar cage folded sideways while you were standing inside it in a drilled shaft?",
+    "script": "You climb down into a drilled shaft to guide a tall cylindrical cage of tied reinforcing steel as a crane lowers it. You're inside the cage, in the hole, steadying it by hand. Rebar cages are floppy until concrete sets, held in shape only by wire ties. A tie lets go and the whole cage folds sideways, pinning you against the shaft wall with tons of steel. You're below grade with bars across your chest. The crew can't lift it clear fast enough. You don't survive.",
+    "captions": [
+      "You stand inside a rebar cage down a drilled shaft.",
+      "The cage holds its shape only with wire ties.",
+      "A tie fails and the steel folds sideways.",
+      "Tons of rebar pin you to the shaft wall.",
+      "You're trapped below grade. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view inside a cylindrical rebar cage looking up out of a shaft, bright site daylight",
+      "tied intersections of reinforcing steel bars, vivid detail",
+      "the cage buckling and leaning hard to one side, cinematic",
+      "a crane hook and cable above an open drilled shaft, well-lit",
+      "wide bright shot of a foundation site with cranes and rebar"
+    ],
+    "tags": [
+      "construction",
+      "rebar",
+      "shaft",
+      "collapse",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary"
+    ]
+  },
+  {
+    "id": "anaphylaxis-wasp-sting",
+    "title": "Would you survive a wasp sting if you were secretly allergic? #shorts",
+    "description": "A severe allergic reaction can swell your airway shut in minutes, but an epinephrine auto-injector reopens it. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if a wasp stung you and you turned out to have an allergy you never knew about?",
+    "script": "You're weeding the garden when a wasp stings the back of your hand. Within two minutes your lips are tingling, hives are spreading, and your throat feels like it's closing, your airway swelling shut from an allergy you didn't know you had. Here's what saves you: someone grabs the epinephrine auto-injector from the kitchen and presses it hard into your outer thigh. The adrenaline opens your airway within minutes. They call an ambulance anyway, because the reaction can rebound an hour later. You survive.",
+    "captions": [
+      "A wasp stings the back of your hand.",
+      "Your lips tingle and hives spread fast.",
+      "Your throat starts swelling shut.",
+      "Someone presses an auto-injector into your thigh.",
+      "The adrenaline opens your airway. You survive."
+    ],
+    "image_prompts": [
+      "first person view of a hand with a wasp on it in a sunny garden, vivid light",
+      "a red welt rising on skin, vivid detail",
+      "an epinephrine auto-injector held against a thigh, cinematic",
+      "a garden bed with tools dropped in the soil, well-lit",
+      "wide bright shot of a backyard vegetable garden in summer"
+    ],
+    "tags": [
+      "anaphylaxis",
+      "waspsting",
+      "allergy",
+      "epipen",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary"
+    ]
+  },
+  {
+    "id": "swing-stage-rope-failure",
+    "title": "Would you survive one end of your window-washing platform dropping? #shorts",
+    "description": "If your lanyard is clipped to the platform instead of a separate building lifeline, it falls with you. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if one hoist failed on a suspended window-washing platform twenty floors up?",
+    "script": "You're on a suspended scaffold, a long narrow platform hung by cables from the roof of a high-rise, cleaning glass twenty floors up. You're clipped to the platform, not to a separate lifeline, because rigging the anchor was a hassle. One hoist jams and then releases, and that end of the platform drops away. The deck goes vertical and everything on it slides off. Your lanyard is tied to the falling platform, not the building. The fall is the full height. You don't survive.",
+    "captions": [
+      "You stand on a platform hung off a high-rise roof.",
+      "You clipped to the platform, not a separate line.",
+      "One hoist jams, then lets go.",
+      "That end drops and the deck swings vertical.",
+      "Your lanyard falls with you. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view on a narrow suspended scaffold high on a glass building, bright clear daylight",
+      "hoist cables running up the side of a skyscraper, vivid detail",
+      "the platform tilting sharply as one end falls, cinematic",
+      "the city street far below between buildings, well-lit",
+      "wide bright shot of a mirrored high-rise against a blue sky"
+    ],
+    "tags": [
+      "highrise",
+      "swingstage",
+      "scaffold",
+      "fall",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary"
+    ]
+  },
+  {
+    "id": "via-ferrata-fall",
+    "title": "Would you survive a via ferrata fall onto the steel cable? #shorts",
+    "description": "Without an energy-absorbing lanyard, the jolt of stopping against a rigid steel cable lands entirely on your body. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you slipped on a via ferrata with an old lanyard and no shock absorber?",
+    "script": "You're on a via ferrata, clipped to a steel cable bolted along a cliff, climbing on iron rungs. Your lanyard is an old fixed-length one, without the tearing shock absorber that modern sets use. You slip on a wet rung above your last clip and fall the length of the cable slack, then snap tight against the steel. With no absorber, the force lands on your body all at once. It's enough to break a back or stop a heart even though the fall is arrested. You don't survive.",
+    "captions": [
+      "You climb a via ferrata clipped to a steel cable.",
+      "Your lanyard is an old one with no shock absorber.",
+      "You slip on a wet iron rung above your clip.",
+      "You fall the slack, then hit the cable hard.",
+      "The jolt has nowhere to go but your body. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view of gloved hands on an iron rung bolted to a cliff, bright alpine daylight",
+      "a steel cable and carabiners running along grey rock, vivid detail",
+      "a climber falling against a taut cable, cinematic",
+      "a sheer sunlit rock face with a valley below, well-lit",
+      "wide bright shot of a mountain wall with a via ferrata route"
+    ],
+    "tags": [
+      "viaferrata",
+      "climbing",
+      "fall",
+      "mountains",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary"
+    ]
+  },
+  {
+    "id": "glacier-moulin",
+    "title": "Would you survive stepping through a snow bridge into a moulin? #shorts",
+    "description": "A moulin is a near-vertical shaft of smooth wet ice that narrows as it drops, wedging you where rescuers can't reach. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you broke through a snow bridge over a moulin on a glacier?",
+    "script": "You're walking across a glacier in early season, the surface still under spring snow. Hidden below you a moulin, a near-vertical shaft where meltwater has drilled straight down through the ice, is roofed over by a thin snow bridge. Your foot breaks through and you drop into a smooth blue tube slick with running water. The walls give no grip and the shaft narrows as it goes, wedging you deep in the ice while the meltwater keeps pouring past. Rescuers can't reach that far down. You don't survive.",
+    "captions": [
+      "You cross a snow-covered glacier in spring.",
+      "A meltwater shaft lies hidden under the snow.",
+      "Your foot punches through the bridge over it.",
+      "You slide down wet, glassy ice with no grip.",
+      "The shaft wedges you deep. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view of boots on bright white glacier snow, strong sun",
+      "a dark blue ice shaft opening in the glacier surface, vivid detail",
+      "looking down a smooth wet ice tube, cinematic",
+      "meltwater streams cutting across sunlit glacier ice, well-lit",
+      "wide bright shot of a crevassed glacier under a blue sky"
+    ],
+    "tags": [
+      "glacier",
+      "moulin",
+      "ice",
+      "crevasse",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary"
+    ]
+  },
+  {
+    "id": "base-jump-off-heading",
+    "title": "Would you survive a BASE parachute that opened facing the cliff? #shorts",
+    "description": "A BASE jump gives you three seconds of freefall and one or two seconds to fix an opening that points you at the rock. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if your BASE canopy opened twisted and turned you back toward the wall?",
+    "script": "You step off a cliff with a packed parachute and nothing else, three seconds of freefall before you pull. The canopy opens fast but twisted, and it turns you to face the wall you just left. At this height you have one or two seconds to react. You haul on a toggle to spin away, but the rock is already there. A BASE canopy this close to a cliff gives no room for an off-heading opening. You hit the wall still moving. You don't survive.",
+    "captions": [
+      "You step off a cliff with only a packed parachute.",
+      "The canopy opens twisted and off-heading.",
+      "It turns you to face the wall.",
+      "You have one second to steer away.",
+      "The rock is already there. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view stepping off a high rocky cliff edge, bright morning light",
+      "a parachute opening with the lines twisted, vivid detail",
+      "a canopy turning toward a sheer rock wall, cinematic",
+      "a deep sunlit valley below the cliff, well-lit",
+      "wide bright shot of a towering cliff face in clear air"
+    ],
+    "tags": [
+      "basejump",
+      "parachute",
+      "cliff",
+      "offheading",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary"
+    ]
+  },
+  {
+    "id": "circle-of-death-boat",
+    "title": "Would you survive falling out of a boat that was still in gear? #shorts",
+    "description": "An empty boat with the wheel turned carves a tight circle and comes back over the spot where you went in. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you fell out of a small motorboat while it was still running and turning?",
+    "script": "You're alone in a small open motorboat, standing to adjust something, when a wake bounces you over the side. The outboard is still running and the wheel is turned slightly, so the empty boat carves into a tight circle. It comes back around toward you within seconds, propeller spinning at the surface. You try to dive under, but the boat keeps orbiting the spot where you went in. Boaters clip a kill cord to their leg for exactly this. Without it, you don't survive.",
+    "captions": [
+      "You fall from a small boat still in gear.",
+      "The wheel is turned, so it circles.",
+      "The empty boat comes back around in seconds.",
+      "The propeller passes where you're treading water.",
+      "It keeps orbiting you. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view falling backward from a small motorboat into open water, bright daylight",
+      "an outboard propeller churning at the surface, vivid detail",
+      "an empty boat carving a tight circle, cinematic",
+      "choppy sunlit water seen from surface level, well-lit",
+      "wide bright shot of a small boat circling on a lake"
+    ],
+    "tags": [
+      "boating",
+      "propeller",
+      "circleofdeath",
+      "killcord",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary"
+    ]
+  },
+  {
+    "id": "tree-stand-fall",
+    "title": "Would you survive falling out of a hunting tree stand? #shorts",
+    "description": "Your harness stops the fall, but hanging in the straps can kill you in minutes unless you can take the weight off your legs. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if your hunting tree stand kicked out from under you twenty feet up?",
+    "script": "You're twenty feet up a tree on a small metal platform before dawn, and as you shift your weight the stand kicks out from under you. You drop, and your safety harness catches you hard against the trunk. Now you're hanging in the straps, and within twenty minutes the leg loops cut off the blood pooling in your legs, which can kill you as you dangle. Here's what saves you: you carry a suspension-relief strap, step into the loop it makes to take pressure off your thighs, and use it to climb back to the tree. You survive.",
+    "captions": [
+      "Your tree stand kicks out at twenty feet.",
+      "Your harness catches you against the trunk.",
+      "Hanging in the straps can kill you in minutes.",
+      "You deploy a suspension-relief strap to stand in.",
+      "You climb back to the tree. You survive."
+    ],
+    "image_prompts": [
+      "first person view from a metal stand high in a bare tree at dawn, soft bright light",
+      "boot straps and a harness clipped to a tree trunk, vivid detail",
+      "a hunter hanging in a harness against a trunk, cinematic",
+      "bare autumn woods seen from above, well-lit",
+      "wide bright shot of a forest at first light"
+    ],
+    "tags": [
+      "hunting",
+      "treestand",
+      "fall",
+      "harness",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary"
+    ]
+  },
+  {
+    "id": "kitesurfing-lofted",
+    "title": "Would you survive a gust lofting you while rigging your kite? #shorts",
+    "description": "Lofting drags kite riders across parking lots and into buildings every season, and a beachfront landing is not survivable. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if a squall doubled the wind while you held your kite up on the beach?",
+    "script": "You're on the sand with your kite overhead, lines tight, walking it back to launch, when a squall front hits and the wind doubles in a heartbeat. The kite loads up and yanks you straight off your feet. You clear the beach, then the seawall, still rising toward the hotels behind it, with no time to reach for the release. Kite lofting drags riders across parking lots and slams them into walls and rooftops every season. From this height, you don't survive the landing.",
+    "captions": [
+      "You hold your kite up on the beach to launch.",
+      "A squall doubles the wind in a second.",
+      "The kite lifts you off the sand.",
+      "You clear the seawall toward the buildings.",
+      "You can't get down in time. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view holding kite lines on a bright sandy beach in strong wind, vivid light",
+      "a large kite bowing hard under a gust, vivid detail",
+      "a rider lifted above a beachfront seawall, cinematic",
+      "palm trees and hotels bending in the wind, well-lit",
+      "wide bright shot of whitecaps and a storm front over a beach"
+    ],
+    "tags": [
+      "kitesurfing",
+      "lofted",
+      "wind",
+      "beach",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary"
+    ]
+  },
+  {
+    "id": "sneaker-wave-coast",
+    "title": "Would you survive a sneaker wave sweeping you off a coastal rock? #shorts",
+    "description": "On a cold-water coast the shock locks your muscles in the first minute and the backwash carries you past the rocks. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if a wave far larger than the rest surged up the rock you were standing on?",
+    "script": "You're standing on a flat rock at the edge of the surf, taking a photo, with your back to the ocean. The sea has been small all morning. Then a wave far larger than the rest surges up the rock without warning, knee-deep, then waist-deep, and pulls you off into water a few degrees above freezing. The cold locks your muscles in the first minute, and the backwash carries you out past the rocks. On this coast the water is too cold to swim for long. You don't survive.",
+    "captions": [
+      "You stand on a rock with your back to the sea.",
+      "The waves have been small all morning.",
+      "One much larger wave surges up without warning.",
+      "It pulls you into near-freezing water.",
+      "The cold and the backwash take you. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view standing on a flat wet rock facing a rugged coastline, bright overcast light",
+      "a large wave rushing up over dark rocks, vivid detail",
+      "white water surging around a person's legs, cinematic",
+      "a cold rocky shoreline with spray in the air, well-lit",
+      "wide bright shot of a wild coastline with big swell"
+    ],
+    "tags": [
+      "sneakerwave",
+      "coast",
+      "coldwater",
+      "ocean",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary"
+    ]
+  },
+  {
+    "id": "quick-clay-slide",
+    "title": "Would you survive the ground under your yard turning to liquid? #shorts",
+    "description": "Quick clay holds pockets of salty water in a fragile structure that can liquefy in seconds once it is disturbed. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if a slump at the riverbank turned a whole hillside of clay into a flowing liquid?",
+    "script": "You're standing in a yard built on an old marine clay terrace above a river. That clay looks solid, but its structure is a house of cards holding pockets of salty water, and once disturbed it can turn to liquid in seconds. A small slump at the riverbank starts a chain reaction, and the whole field, houses and all, begins to flow downhill like batter. There's no running across ground that has become a current. It carries you toward the river under a raft of debris. You don't survive.",
+    "captions": [
+      "You stand on a yard built on old marine clay.",
+      "The clay holds pockets of salty water.",
+      "A slump at the riverbank sets off a chain reaction.",
+      "The whole field liquefies and flows downhill.",
+      "You can't cross moving ground. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view standing in a grassy yard near a river bluff, bright daylight",
+      "cracks spreading across a lawn, vivid detail",
+      "a field of earth and houses sliding as one mass, cinematic",
+      "a muddy river at the base of a collapsing terrace, well-lit",
+      "wide bright shot of a rural valley with a winding river"
+    ],
+    "tags": [
+      "quickclay",
+      "landslide",
+      "geology",
+      "norway",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary"
+    ]
+  },
+  {
+    "id": "wet-bulb-heatwave",
+    "title": "Would you survive a wet-bulb heat wave outdoors? #shorts",
+    "description": "When the air is hot and nearly saturated, sweat cannot evaporate, so your core temperature climbs even in the shade. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you were caught outside in humid heat your body could not shed even at rest?",
+    "script": "You're outdoors on a still, humid afternoon during a record heat wave, air temperature well over body heat and the humidity near total. Your body's only cooling trick is sweat evaporating, and in air this wet, sweat just runs off without cooling you. Your core temperature climbs even though you're sitting in the shade doing nothing. Within a few hours, organs begin to fail from the heat alone. No amount of water fixes it without somewhere cooler to go. You don't survive.",
+    "captions": [
+      "You're outside on a humid record-hot afternoon.",
+      "Your body cools itself only by evaporating sweat.",
+      "In air this wet, sweat can't evaporate.",
+      "Your core heats up even at rest in the shade.",
+      "There's nowhere cooler to go. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view of a hazy sunbaked street with heat shimmer, harsh bright light",
+      "sweat beading on skin with no breeze, vivid detail",
+      "a thermometer against a still, muggy sky, cinematic",
+      "wilting plants in a glaring afternoon yard, well-lit",
+      "wide bright shot of a sprawling city under a white-hot sky"
+    ],
+    "tags": [
+      "wetbulb",
+      "heatwave",
+      "humidity",
+      "climate",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary"
+    ]
+  },
+  {
+    "id": "silo-gas-nitrogen-dioxide",
+    "title": "Would you survive climbing into a freshly filled farm silo? #shorts",
+    "description": "Fermenting silage gives off nitrogen dioxide, a low reddish haze that burns your lungs and floods them with fluid hours later. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you climbed into an upright silo a day after filling it with fresh chopped corn?",
+    "script": "You climb the chute into an upright silo a day after filling it with fresh chopped corn. As the silage ferments it gives off nitrogen dioxide, a low, reddish-brown haze that pools on top of the pile with a smell like bleach. A few breaths sting your throat, so you climb back out feeling fine. But the gas has burned your lungs, and hours later, at home, they slowly fill with fluid. It's called silo filler's disease. Without a hospital, you don't survive the night.",
+    "captions": [
+      "You climb into a silo a day after filling it.",
+      "Fermenting silage releases a reddish-brown gas.",
+      "A few breaths sting, then seem to pass.",
+      "Hours later your lungs fill with fluid at home.",
+      "The damage was already done. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view climbing a silo chute ladder toward an opening, dim light with bright sky above",
+      "a faint brown haze over a pile of fresh silage, vivid detail",
+      "corn silage packed inside a concrete silo, cinematic",
+      "a tall farm silo beside a red barn in the sun, well-lit",
+      "wide bright shot of a farmstead with silos against a blue sky"
+    ],
+    "tags": [
+      "farm",
+      "silo",
+      "nitrogendioxide",
+      "silogas",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary"
+    ]
+  },
+  {
+    "id": "horse-drag-stirrup",
+    "title": "Would you survive your foot catching in the stirrup as you fell? #shorts",
+    "description": "A dragged rider is battered against the ground and the hooves, but folding up and pulling toward the horse can free the foot. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if your boot jammed through the stirrup when you came off a cantering horse?",
+    "script": "You come off the side of a cantering horse, but your boot jams through the stirrup and doesn't come free. Now you're being dragged along the ground beside a panicking animal that's running faster because something is bouncing at its flank. A dragged rider gets battered against the ground and the horse's hooves. Here's what saves you: you fold up hard, grab your own trapped leg, pull yourself toward the horse to put slack in the stirrup, and twist your heel free. You roll clear as it bolts. You survive.",
+    "captions": [
+      "You fall, but your boot jams in the stirrup.",
+      "The horse panics and drags you faster.",
+      "The ground and hooves batter you.",
+      "You curl up and pull yourself toward the horse.",
+      "You twist your foot free and roll clear. You survive."
+    ],
+    "image_prompts": [
+      "first person view falling sideways off a horse toward the ground, bright open daylight",
+      "a boot wedged through a leather stirrup, vivid detail",
+      "a rider dragged beside a galloping horse with dust flying, cinematic",
+      "an open pasture with a fence line, well-lit",
+      "wide bright shot of a horse running across a sunlit field"
+    ],
+    "tags": [
+      "horse",
+      "riding",
+      "stirrup",
+      "drag",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary"
+    ]
+  },
+  {
+    "id": "co2-suppression-discharge",
+    "title": "Would you survive a CO2 fire system discharging in the room with you? #shorts",
+    "description": "CO2 flooding smothers a fire by removing the oxygen, and it makes you black out before you feel starved of air. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if a carbon dioxide fire-suppression system dumped its charge in a sealed room you were in?",
+    "script": "You're working in a sealed engine room protected by a carbon dioxide fire-suppression system. An alarm chirps, and a bank of cylinders dumps its entire charge into the space to smother any fire by removing the oxygen. There's a warning horn and a short delay to let people leave, but you're behind a machine and the exit is across the room. The air goes from breathable to suffocating in seconds, and CO2 makes you black out before you feel starved of air. You don't reach the door. You don't survive.",
+    "captions": [
+      "You're in a sealed room with a CO2 fire system.",
+      "An alarm sounds and the cylinders discharge.",
+      "The gas floods in to remove the oxygen.",
+      "The air turns unbreathable in seconds.",
+      "You black out before you reach the door. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view in a cramped ship engine room full of machinery, bright work lighting",
+      "red CO2 cylinders banked along a wall, vivid detail",
+      "white vapor flooding out of ceiling nozzles, cinematic",
+      "a heavy steel door across a machinery space, well-lit",
+      "wide bright shot of an industrial engine room interior"
+    ],
+    "tags": [
+      "co2",
+      "firesuppression",
+      "asphyxiation",
+      "confinedspace",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary"
+    ]
+  },
+  {
+    "id": "crush-syndrome",
+    "title": "Would you survive being freed after hours pinned under a collapse? #shorts",
+    "description": "Crushed muscle fills the trapped blood with potassium and toxins, and releasing it all at once can stop the heart. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you were pinned under rubble for hours and then the slab was lifted off you?",
+    "script": "A wall comes down on you and traps your legs under rubble. You're awake, talking, not bleeding much, and rescuers reach you after four hours. The crushed muscle in your legs has been dying that whole time, filling with potassium and toxins that the weight of the debris is holding back. The moment they lift the slab, that blood floods your body and your heart stops within minutes. Medics call it smiling death, because the victim seems fine right up until release. You don't survive.",
+    "captions": [
+      "A collapse pins your legs under rubble.",
+      "You're awake and talking while you wait.",
+      "Crushed muscle poisons the trapped blood.",
+      "Rescuers lift the slab after four hours.",
+      "The released blood stops your heart. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view lying under broken concrete with legs trapped, dim light and a bright gap above",
+      "a heavy slab resting across a person's legs, vivid detail",
+      "rescuers' hands lifting rubble in torchlight, cinematic",
+      "dust drifting in a shaft of daylight through debris, well-lit",
+      "wide bright shot of a collapsed building with rescue crews"
+    ],
+    "tags": [
+      "crushsyndrome",
+      "collapse",
+      "rescue",
+      "medical",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary"
+    ]
+  },
+  {
+    "id": "lung-overexpansion-ascent",
+    "title": "Would you survive holding your breath and bolting to the surface on scuba? #shorts",
+    "description": "As you rise, the air in your lungs expands with the falling pressure, and a shut throat gives it nowhere to go but through the lung wall. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you panicked at depth on scuba and swam for the surface holding your breath?",
+    "script": "You're at sixty feet on a scuba dive when your regulator seems to skip a breath and panic takes over. You hold what air you have and kick hard for the light. As you rise, the air in your lungs expands with the falling pressure, and because your throat is shut it has nowhere to go. Somewhere near the surface the overstretched lung tissue tears and pushes air bubbles straight into your bloodstream. You break the surface conscious, then collapse as the bubbles reach your brain. You don't survive.",
+    "captions": [
+      "Your regulator seems to skip a breath at sixty feet.",
+      "You hold your breath and swim for the surface.",
+      "The air in your lungs expands as you rise.",
+      "With your throat shut, the lung tissue tears.",
+      "Air bubbles enter your blood. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view underwater looking up toward bright sunlight at the surface, deep blue water",
+      "a stream of bubbles rising past a diver's mask, vivid detail",
+      "a diver kicking hard upward, cinematic",
+      "shafts of sun cutting through clear tropical water, well-lit",
+      "wide bright shot of a dive boat seen from below the surface"
+    ],
+    "tags": [
+      "scuba",
+      "diving",
+      "lungoverexpansion",
+      "embolism",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary"
+    ]
   }
 ]

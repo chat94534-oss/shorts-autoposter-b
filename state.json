@@ -206,6 +206,10 @@
     "hydraulic-press",
     "printing-press-rollers",
     "automatic-sliding-gate-crush",
-    "warehouse-racking-collapse"
+    "warehouse-racking-collapse",
+    "grain-auger-entanglement",
+    "pto-shaft-entanglement",
+    "garbage-truck-compactor",
+    "cardboard-baler"
   ]
 }

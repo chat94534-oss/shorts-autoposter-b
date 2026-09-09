@@ -210,6 +210,10 @@
     "grain-auger-entanglement",
     "pto-shaft-entanglement",
     "garbage-truck-compactor",
-    "cardboard-baler"
+    "cardboard-baler",
+    "excavator-bucket-strike",
+    "dropped-crane-load",
+    "scaffold-collapse",
+    "scissor-lift-tipover"
   ]
 }

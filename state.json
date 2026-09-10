@@ -214,6 +214,10 @@
     "excavator-bucket-strike",
     "dropped-crane-load",
     "scaffold-collapse",
-    "scissor-lift-tipover"
+    "scissor-lift-tipover",
+    "fumigated-cargo-hold",
+    "reefer-container-trapped",
+    "sewer-methane-pocket",
+    "flooded-elevator-pit"
   ]
 }

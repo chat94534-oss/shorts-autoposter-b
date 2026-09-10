@@ -213,3 +213,7 @@ date,topic_id,privacy,url
 2026-09-09,dropped-crane-load,public,[redacted]
 2026-09-09,scaffold-collapse,scheduled,[redacted]
 2026-09-09,scissor-lift-tipover,scheduled,[redacted]
+2026-09-10,fumigated-cargo-hold,public,[redacted]
+2026-09-10,reefer-container-trapped,scheduled,[redacted]
+2026-09-10,sewer-methane-pocket,scheduled,[redacted]
+2026-09-10,flooded-elevator-pit,scheduled,[redacted]

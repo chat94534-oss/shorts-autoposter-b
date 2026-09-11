@@ -218,6 +218,10 @@
     "fumigated-cargo-hold",
     "reefer-container-trapped",
     "sewer-methane-pocket",
-    "flooded-elevator-pit"
+    "flooded-elevator-pit",
+    "rappel-off-the-end-of-the-rope",
+    "ladder-fall-onto-rebar",
+    "cell-tower-climber-fall",
+    "ice-climbing-lead-fall"
   ]
 }

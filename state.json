@@ -222,6 +222,10 @@
     "rappel-off-the-end-of-the-rope",
     "ladder-fall-onto-rebar",
     "cell-tower-climber-fall",
-    "ice-climbing-lead-fall"
+    "ice-climbing-lead-fall",
+    "cornice-collapse",
+    "scree-slope-slide",
+    "stalled-on-a-level-crossing",
+    "snowmobile-through-thin-ice"
   ]
 }

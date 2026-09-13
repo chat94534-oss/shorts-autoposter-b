@@ -226,6 +226,10 @@
     "cornice-collapse",
     "scree-slope-slide",
     "stalled-on-a-level-crossing",
-    "snowmobile-through-thin-ice"
+    "snowmobile-through-thin-ice",
+    "engine-out-forced-landing",
+    "helicopter-autorotation",
+    "paraglider-wing-collapse",
+    "rockfall-onto-mountain-road"
   ]
 }

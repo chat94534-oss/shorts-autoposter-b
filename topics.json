@@ -928,5 +928,935 @@
       "didyouknow",
       "scary"
     ]
+  },
+  {
+    "id": "choking-alone-heimlich",
+    "title": "Would you survive choking alone with no one to help? #shorts",
+    "description": "A blocked airway kills in minutes, but a chair back can stand in for another person's hands. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you started choking in your kitchen with nobody else home?",
+    "script": "You're eating alone in the kitchen when a piece of food lodges in your throat. No air moves in or out. You can't cough, can't speak, and there's no one to perform the Heimlich maneuver on you. Here's what saves you: you lean over a chair back, drive your upper abdomen down onto it hard and fast, again and again. On the fourth thrust the food dislodges and flies out. Your throat is raw and your ribs ache, but air rushes in. You survive.",
+    "captions": [
+      "Food lodges in your throat while you're eating alone.",
+      "No air moves. No one is there to help.",
+      "You lean your abdomen onto a chair back.",
+      "You drive down onto it again and again.",
+      "The food dislodges and air rushes in. You survive."
+    ],
+    "image_prompts": [
+      "first person view sitting alone at a kitchen table, bright daylight",
+      "hands gripping a wooden chair back, vivid detail",
+      "a kitchen chair positioned against a counter, cinematic",
+      "an empty sunlit kitchen with a full glass of water, well-lit",
+      "wide bright shot of a quiet home kitchen at midday"
+    ],
+    "tags": [
+      "choking",
+      "heimlich",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "medical",
+      "alone"
+    ]
+  },
+  {
+    "id": "stroke-alone-fast-recognition",
+    "title": "Would you survive a stroke while home by yourself? #shorts",
+    "description": "Brain cells die by the millions every minute a stroke goes untreated, and recognizing it fast is the only thing that saves you. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if the left side of your face suddenly went numb while you were home alone?",
+    "script": "You're alone in the living room when the left side of your face suddenly droops and your arm won't lift off the couch. Your words come out slurred when you try to call for help. Every minute this goes untreated, millions of brain cells die. Here's what saves you: you recognize the signs, drag yourself to your phone with your working hand, and dial emergency services, forcing out the address one slurred word at a time. Paramedics get clot-busting treatment started within the hour. You survive.",
+    "captions": [
+      "Your face suddenly droops on one side.",
+      "Your arm won't lift and your words slur.",
+      "Every minute costs millions of brain cells.",
+      "You drag yourself to the phone and call for help.",
+      "Treatment starts within the hour. You survive."
+    ],
+    "image_prompts": [
+      "first person view sitting on a couch in a bright living room, soft daylight",
+      "a hand struggling to reach a phone on a side table, vivid detail",
+      "an ambulance arriving outside a house, cinematic",
+      "a phone screen showing an emergency call in progress, well-lit",
+      "wide bright shot of a suburban street with a parked ambulance"
+    ],
+    "tags": [
+      "stroke",
+      "medical",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "emergency",
+      "fast"
+    ]
+  },
+  {
+    "id": "boulder-arm-entrapment-canyon",
+    "title": "Would you survive your arm pinned by a boulder in a slot canyon? #shorts",
+    "description": "A shifted rock can trap a limb against sandstone with no one due to check on you for days. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if a loose boulder shifted and pinned your arm against a canyon wall, alone, days from the trailhead?",
+    "script": "You're canyoneering alone off-trail when you brace against a loose boulder and it shifts, pinning your forearm against the sandstone wall. You didn't tell anyone your route. You chip at the rock for days with a dull knife; it doesn't move an inch, and your water is almost gone. Here's what saves you: you snap the bone against the rock, cut through the remaining tissue with a multitool blade, tie off the stump, and rappel one-armed to the canyon floor. You walk out and flag down hikers. You survive.",
+    "captions": [
+      "A shifting boulder pins your arm against the wall.",
+      "No one knows your route.",
+      "You chip at the rock for days with no luck.",
+      "You break the bone and cut yourself free.",
+      "You rappel out one-armed and find help. You survive."
+    ],
+    "image_prompts": [
+      "first person view of an arm wedged against a red sandstone canyon wall, bright desert daylight",
+      "a narrow slot canyon with dappled sunlight overhead, vivid detail",
+      "a multitool blade catching the light, cinematic",
+      "a lone hiker rappelling down a canyon wall, well-lit",
+      "wide bright shot of a winding desert slot canyon"
+    ],
+    "tags": [
+      "canyoneering",
+      "entrapment",
+      "selfrescue",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "desert"
+    ]
+  },
+  {
+    "id": "skydive-malfunction-cutaway-reserve",
+    "title": "Would you survive your main parachute tangling on opening? #shorts",
+    "description": "A twisted, streaming main canopy won't slow you down, but cutting it away in time gives the reserve room to work. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if your main parachute opened as a spinning, tangled mess thousands of feet up?",
+    "script": "You pull your main parachute at four thousand feet and it opens into a spinning, tangled mess of lines that won't fully inflate. You're still falling fast, spinning harder every second, and you have only a few thousand feet left to fix it. Here's what saves you: you stop trying to untangle it, pull the cutaway handle to release the bad canopy entirely, then immediately pull your reserve. It opens clean above you with altitude to spare. You steer to the landing field. You survive.",
+    "captions": [
+      "Your main chute opens tangled and spinning.",
+      "You're still falling fast with altitude ticking away.",
+      "You stop trying to fix the tangle.",
+      "You cut it away and pull the reserve.",
+      "The reserve opens clean. You survive."
+    ],
+    "image_prompts": [
+      "first person view falling through the sky with a tangled parachute above, bright daylight",
+      "a hand gripping a cutaway handle on a harness, vivid detail",
+      "a clean reserve parachute canopy opening against blue sky, cinematic",
+      "a landing field seen from high altitude, well-lit",
+      "wide bright shot of a skydiver descending under an open canopy"
+    ],
+    "tags": [
+      "skydiving",
+      "parachute",
+      "malfunction",
+      "reserve",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary"
+    ]
+  },
+  {
+    "id": "rattlesnake-bite-backcountry",
+    "title": "Would you survive a rattlesnake bite miles from the trailhead? #shorts",
+    "description": "Panic pumps venom through your body faster, but staying still and getting antivenom in time can stop the damage. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if a rattlesnake struck your leg five miles from the nearest trailhead?",
+    "script": "You step near a rock ledge and a rattlesnake strikes your calf before you see it. The bite already burns and starts to swell. Panicking and running would pump the venom through your system even faster. Here's what saves you: you sit down, keep the leg still and below heart level, mark the swelling's edge with a pen, and call for a helicopter evacuation instead of walking out. Antivenom stops the tissue damage before it spreads past your knee. You survive.",
+    "captions": [
+      "A rattlesnake strikes your calf on the trail.",
+      "The bite burns and starts to swell fast.",
+      "Running would only spread the venom faster.",
+      "You sit down and keep the leg still.",
+      "A helicopter gets you antivenom in time. You survive."
+    ],
+    "image_prompts": [
+      "first person view looking down at a leg near a rocky trail, bright daylight",
+      "a coiled rattlesnake beside a hiking boot, vivid detail",
+      "a hiker sitting still against a rock, cinematic",
+      "a helicopter approaching over a ridge, well-lit",
+      "wide bright shot of a dry mountain trail under a clear sky"
+    ],
+    "tags": [
+      "rattlesnake",
+      "snakebite",
+      "backcountry",
+      "antivenom",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary"
+    ]
+  },
+  {
+    "id": "cave-diving-silt-out",
+    "title": "Would you survive your visibility vanishing inside a flooded cave? #shorts",
+    "description": "One careless fin kick can turn clear cave water into blinding silt with the exit line gone. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if your fin kick stirred up silt and swallowed all visibility deep inside a flooded cave?",
+    "script": "You're deep inside a flooded limestone cave, guide line unspooling behind you, when a careless fin kick stirs the silky floor sediment. In seconds the clear water turns to opaque brown soup, and you can't see your hand in front of your mask. The guide line is somewhere within reach, but you've lost which way is out. You sweep your hand blind through the water, searching. Your air gauge keeps dropping while the silt refuses to settle. You don't find the line in time. You don't survive.",
+    "captions": [
+      "You're deep in a flooded limestone cave.",
+      "A fin kick stirs the silty floor.",
+      "The water turns to opaque brown soup instantly.",
+      "You can't find the guide line back out.",
+      "Your air runs out in the blindness. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view underwater in a narrow cave passage with a dive light, dim blue glow",
+      "a thin guide line running through clear cave water, vivid detail",
+      "brown silt clouding the water around a diver, cinematic",
+      "a diver's gloved hand sweeping through murky water, well-lit",
+      "wide bright shot of a limestone cave entrance pool from above"
+    ],
+    "tags": [
+      "cavediving",
+      "siltout",
+      "scuba",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary",
+      "underwater"
+    ]
+  },
+  {
+    "id": "freediving-shallow-water-blackout",
+    "title": "Would you survive blacking out ten feet from the surface? #shorts",
+    "description": "Freediving blackout hits without warning right near the air, and it is nearly always fatal without a buddy watching. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you blacked out from low oxygen just feet from the surface on a freedive?",
+    "script": "You're freediving alone off a quiet reef, pushing your breath-hold a little further than last time on the way back up. Ten feet from the surface, with the light growing brighter above you, your oxygen-starved brain simply switches off. You black out mid-stroke, arms going slack, and drift the last few feet in stillness instead of breaking through into air. No one is watching the surface. The reflex to breathe underwater finally triggers, and your lungs fill with water instead of air. You don't survive.",
+    "captions": [
+      "You push your breath-hold further than usual.",
+      "Ten feet from the surface, the light grows bright.",
+      "Your oxygen-starved brain shuts off without warning.",
+      "You black out and drift instead of surfacing.",
+      "No one is watching. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view underwater looking up at sunlight near the surface, clear blue water",
+      "a freediver's silhouette drifting motionless in open water, vivid detail",
+      "bubbles rising past a still figure underwater, cinematic",
+      "an empty sunlit reef with no other divers in sight, well-lit",
+      "wide bright shot of calm tropical water from a boat"
+    ],
+    "tags": [
+      "freediving",
+      "blackout",
+      "scuba",
+      "ocean",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary"
+    ]
+  },
+  {
+    "id": "waterspout-strikes-boat",
+    "title": "Would you survive a waterspout crossing right over your boat? #shorts",
+    "description": "A waterspout drags a column of violent rotating wind and spray across open water and can capsize a small boat in seconds. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if a waterspout formed ahead of your boat and tracked straight toward you?",
+    "script": "You're fishing on a small open boat under a darkening sky when a funnel of spray and wind drops from a cloud a half mile off and starts tracking across the water toward you. There's no time to outrun it. The waterspout's rotating winds hit fifty miles an hour or more, whipping the sea into a wall of spray around a churning core. It crosses directly over the boat, flipping it in an instant and scattering the wreckage across the waves. You don't survive.",
+    "captions": [
+      "A waterspout drops from a dark cloud nearby.",
+      "It tracks straight toward your small boat.",
+      "There's no time to outrun it.",
+      "Rotating winds whip the sea into spray.",
+      "It flips the boat in an instant. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view from a small boat looking at a waterspout on the horizon, dramatic stormy light",
+      "a rotating funnel of spray touching the ocean surface, vivid detail",
+      "whitecaps and churning water around a boat, cinematic",
+      "dark storm clouds over open water, well-lit",
+      "wide bright shot of a waterspout crossing a bay"
+    ],
+    "tags": [
+      "waterspout",
+      "boat",
+      "storm",
+      "ocean",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary"
+    ]
+  },
+  {
+    "id": "meteotsunami-lake-pier",
+    "title": "Would you survive a sudden wave surging onto a calm lake pier? #shorts",
+    "description": "A meteotsunami can raise lake water several feet in minutes with no warning, sweeping people off piers and breakwaters. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if the calm lake beneath your feet surged several feet in a matter of minutes?",
+    "script": "You're fishing off a concrete pier on a calm, sunny lake day with barely a ripple on the water. Miles away, a fast-moving line of thunderstorms pushes a wall of air pressure ahead of it, and that pressure shove piles the lake's water up into a sudden meteotsunami. The water beside the pier rises several feet in minutes and surges over the edge without warning, sweeping your feet out from under you into the churn. There's nothing solid to grab as the current pulls you off the pier into deep water. You don't survive.",
+    "captions": [
+      "You're fishing off a pier on a calm lake.",
+      "A distant storm pushes a wall of air pressure ahead of it.",
+      "The lake surges several feet in minutes.",
+      "Water sweeps over the pier without warning.",
+      "It pulls you into deep water. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view standing on a concrete pier over a calm lake, bright sunny day",
+      "a sudden wave surging over the edge of a pier, vivid detail",
+      "distant storm clouds building over a lake horizon, cinematic",
+      "whitewater churning around pier pilings, well-lit",
+      "wide bright shot of a lakeside pier under a mixed sky"
+    ],
+    "tags": [
+      "meteotsunami",
+      "lake",
+      "pier",
+      "wave",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary"
+    ]
+  },
+  {
+    "id": "overloaded-fishing-boat-capsize",
+    "title": "Would you survive a small fishing boat overloaded with the day's catch? #shorts",
+    "description": "Extra weight lowers a boat's freeboard until an ordinary wave that should pass harmlessly instead pours straight over the side. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if your small boat, packed with more fish than it was built to carry, met an ordinary swell?",
+    "script": "You're heading back to the dock with the best catch of the season, packed so heavily into the small boat that the rail sits only inches above the water. An ordinary swell rolls in, nothing you'd normally notice, but the low freeboard lets it wash straight over the side instead of lifting the hull. The boat takes on water fast and rolls before you can bail or reach a life jacket stowed under the catch. Cold water closes over the hull. You don't survive.",
+    "captions": [
+      "Your small boat is packed with the day's catch.",
+      "The rail sits only inches above the water.",
+      "An ordinary swell rolls in.",
+      "It washes straight over the low side instead of lifting the hull.",
+      "The boat rolls before you can reach a life jacket. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view standing in a small boat loaded low with fish, bright daylight",
+      "water lapping close to the boat's low rail, vivid detail",
+      "a swell rolling toward an overloaded boat, cinematic",
+      "life jackets stowed under piled catch, well-lit",
+      "wide bright shot of a small fishing boat near a rocky coast"
+    ],
+    "tags": [
+      "fishingboat",
+      "capsize",
+      "overload",
+      "ocean",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary"
+    ]
+  },
+  {
+    "id": "trawl-net-winch-entanglement",
+    "title": "Would you survive your sleeve catching in a trawl net winch? #shorts",
+    "description": "A working net winch pulls with tons of force and does not stop for a caught hand or sleeve. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if your jacket sleeve caught in a fishing boat's net winch while it was hauling in?",
+    "script": "You're on deck guiding a heavy trawl net as the hydraulic winch hauls it aboard, and a loose cuff on your jacket catches on the spooling drum. The winch doesn't notice and doesn't stop; it keeps reeling at full power, pulling your arm in against the turning steel. You shout for someone to hit the emergency stop, but the wheelhouse is too far and the engine noise swallows your voice. The winch keeps winding you in with the net. You don't survive.",
+    "captions": [
+      "Your jacket sleeve catches on the spooling winch drum.",
+      "The hydraulic winch keeps hauling at full power.",
+      "It pulls your arm in against the turning steel.",
+      "You shout, but the wheelhouse is too far to hear.",
+      "The winch keeps winding you in. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view on a fishing boat deck beside a large net winch, bright overcast daylight",
+      "a heavy trawl net spooling onto a steel drum, vivid detail",
+      "a jacket cuff catching on rotating machinery, cinematic",
+      "a wheelhouse far across a working deck, well-lit",
+      "wide bright shot of a trawler at sea hauling nets"
+    ],
+    "tags": [
+      "fishing",
+      "winch",
+      "entanglement",
+      "trawler",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary"
+    ]
+  },
+  {
+    "id": "wind-turbine-fall",
+    "title": "Would you survive your harness lanyard failing atop a wind turbine? #shorts",
+    "description": "Technicians work hundreds of feet up inside and on top of turbine nacelles, and a worn lanyard clip gives no second chance. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if your safety lanyard failed while you stood on top of a wind turbine nacelle?",
+    "script": "You're on top of a wind turbine nacelle, three hundred feet above the farm, clipped in to do a rotor inspection before the next storm front arrives. A gust catches you off balance just as a worn carabiner gate on your lanyard flexes open under the load. The clip releases without warning, and there's nothing else attached to catch you. The turbine blades sweep past as you fall clear of the tower. The ground is three hundred feet down. You don't survive.",
+    "captions": [
+      "You stand atop a turbine nacelle, 300 feet up.",
+      "A gust catches you off balance.",
+      "A worn carabiner gate flexes open under the load.",
+      "The clip releases with nothing else attached.",
+      "You fall clear of the tower. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view standing on top of a wind turbine nacelle, bright open sky",
+      "a carabiner clip attached to a safety harness, vivid detail",
+      "turbine blades sweeping past against clouds, cinematic",
+      "a wind farm stretching across a green landscape below, well-lit",
+      "wide bright shot of tall wind turbines under a wide sky"
+    ],
+    "tags": [
+      "windturbine",
+      "harness",
+      "fall",
+      "industrial",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary"
+    ]
+  },
+  {
+    "id": "industrial-robot-arm-strike",
+    "title": "Would you survive stepping past a breached safety cage on a factory floor? #shorts",
+    "description": "An industrial robot arm moves with no awareness of a person nearby and strikes with the same force whether the cell is guarded or not. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you stepped inside a robot arm's work cell through a gap in the safety fencing?",
+    "script": "You duck through a gap where a safety fence panel has been left unbolted after maintenance, reaching in to clear a jammed part near the robot arm's base. The light curtain that should have stopped the machine was bypassed for the repair and never reset. The arm doesn't sense you; it has no idea you're there. It swings back through its programmed path at full speed exactly where you're standing. There's no warning before impact. You don't survive.",
+    "captions": [
+      "A safety fence panel is left unbolted after maintenance.",
+      "You reach in to clear a jammed part.",
+      "The light curtain was bypassed and never reset.",
+      "The robot arm has no idea you're there.",
+      "It swings through its path at full speed. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view reaching through a gap in yellow safety fencing on a factory floor, bright industrial lighting",
+      "a large industrial robot arm poised over machinery, vivid detail",
+      "the arm swinging fast through its work envelope, cinematic",
+      "a factory floor with fenced robotic cells, well-lit",
+      "wide bright shot of an automated manufacturing line"
+    ],
+    "tags": [
+      "robotarm",
+      "factory",
+      "industrial",
+      "safety",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary"
+    ]
+  },
+  {
+    "id": "textile-loom-entanglement",
+    "title": "Would you survive loose hair catching in a running textile loom? #shorts",
+    "description": "A power loom's moving parts run at speed inches from an operator, and loose hair or clothing gets pulled in before a hand can react. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if your hair caught in a power loom's moving parts while you leaned in to fix a thread?",
+    "script": "You lean in close to a running power loom to fix a snagged thread, exactly the kind of quick check done a dozen times a shift. A loose strand of hair brushes a spinning take-up roller and catches instantly. The roller doesn't slow down; it keeps drawing the hair in, pulling your head down toward the machine before you can pull back. Your hand claws for the emergency stop bar, but it's just out of reach. The roller keeps winding. You don't survive.",
+    "captions": [
+      "You lean in to fix a snagged thread.",
+      "A loose strand of hair brushes a spinning roller.",
+      "It catches instantly and doesn't slow down.",
+      "It pulls your head toward the machine.",
+      "The emergency stop is just out of reach. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view leaning close to a running textile loom, bright factory lighting",
+      "spinning rollers and threads on industrial weaving machinery, vivid detail",
+      "a red emergency stop bar just out of reach, cinematic",
+      "rows of looms in a busy textile mill, well-lit",
+      "wide bright shot of a textile factory floor"
+    ],
+    "tags": [
+      "textilemill",
+      "loom",
+      "entanglement",
+      "industrial",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary"
+    ]
+  },
+  {
+    "id": "hangar-foam-suppression-flood",
+    "title": "Would you survive an aircraft hangar's fire foam system triggering by mistake? #shorts",
+    "description": "A hangar deluge system can bury the floor in expanding foam several feet deep within seconds, with no warning and no way to breathe through it. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if a hangar's fire suppression system dumped foam across the floor while you were working underneath a plane?",
+    "script": "You're under a parked aircraft doing routine maintenance when a faulty sensor mistakes a hot exhaust for a fire and triggers the hangar's foam deluge system. Nozzles across the ceiling erupt at once, and thick firefighting foam pours down, filling the hangar floor several feet deep in under a minute. You can't see your tools, can't find the exit through the white foam, and every breath draws in more foam than air. The system doesn't know you're there and doesn't stop. You don't survive.",
+    "captions": [
+      "A faulty sensor mistakes exhaust heat for a fire.",
+      "Foam nozzles erupt across the hangar ceiling.",
+      "The floor fills several feet deep within a minute.",
+      "You can't see the exit through the foam.",
+      "Every breath draws in more foam than air. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view under a parked aircraft in a large hangar, bright work lighting",
+      "thick white foam pouring from ceiling nozzles, vivid detail",
+      "a hangar floor filling with expanding foam, cinematic",
+      "an aircraft partially submerged in white foam, well-lit",
+      "wide bright shot of a large aircraft maintenance hangar"
+    ],
+    "tags": [
+      "hangar",
+      "firefoam",
+      "aircraft",
+      "industrial",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary"
+    ]
+  },
+  {
+    "id": "bouncy-castle-wind-lofting",
+    "title": "Would you survive a gust lifting an inflatable bounce house off the ground? #shorts",
+    "description": "An unanchored bounce house can become airborne in a strong gust, carrying anyone still inside dozens of feet up. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if a sudden gust lifted the inflatable bounce house you were in off the ground?",
+    "script": "You're inside a bounce house at a birthday party when a sudden gust front rolls through and the stakes holding it down rip free from the soft ground. The whole inflatable structure lifts off in an instant, catching the wind like a sail and tumbling up and across the yard with you still bouncing helplessly inside it. It clears a fence, then a parked car, rising higher before flipping over completely. There's nothing inside to hold onto that will stop the fall. You don't survive.",
+    "captions": [
+      "You're inside a bounce house at a party.",
+      "A gust front rips the ground stakes free.",
+      "The whole structure lifts off in an instant.",
+      "It tumbles across the yard and clears a fence.",
+      "It flips over with nothing to hold onto. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view inside a colorful inflatable bounce house, bright party daylight",
+      "stakes pulling loose from soft grass, vivid detail",
+      "an inflatable structure lifting off the ground in wind, cinematic",
+      "a backyard party scene with balloons and a fence, well-lit",
+      "wide bright shot of a suburban yard under a gusty sky"
+    ],
+    "tags": [
+      "bouncehouse",
+      "wind",
+      "inflatable",
+      "accident",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary"
+    ]
+  },
+  {
+    "id": "beach-sand-tunnel-collapse",
+    "title": "Would you survive the sand tunnel you dug collapsing on you? #shorts",
+    "description": "Dry beach sand looks stable but has no structural strength, and a hole deep enough to sit in can bury a person in seconds. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if the sand tunnel you dug at the beach caved in while you were still inside it?",
+    "script": "You've been digging a tunnel into a sand dune at the beach for an hour, deep enough now to crawl fully inside and lie down. The walls look solid, packed and smooth, but dry sand has no real structural strength once it's undercut. A wave of loose sand from the roof lets go all at once and buries you completely in a fraction of a second. The weight presses in from every side, and you can't expand your chest to breathe. No one on the beach saw it happen. You don't survive.",
+    "captions": [
+      "You dig a tunnel deep into a sand dune.",
+      "The walls look packed and solid.",
+      "Dry sand has no real structural strength.",
+      "The roof collapses and buries you instantly.",
+      "You can't expand your chest to breathe. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view inside a dug-out sand tunnel at the beach, bright daylight filtering in",
+      "a collapsing wall of sand caving inward, vivid detail",
+      "a beach dune with a dark tunnel opening, cinematic",
+      "families playing on a sunny beach nearby, well-lit",
+      "wide bright shot of a wide sandy beach with dunes"
+    ],
+    "tags": [
+      "beach",
+      "sandcollapse",
+      "tunnel",
+      "suffocation",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary"
+    ]
+  },
+  {
+    "id": "chimney-creosote-fire",
+    "title": "Would you survive a creosote fire roaring inside your chimney? #shorts",
+    "description": "Built-up creosote can ignite into a fire hot enough to crack a chimney and spread flame into the walls of the house around it. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if the creosote lining your chimney caught fire while you slept in front of the fireplace?",
+    "script": "You fall asleep in front of a low fire, the chimney thick with months of built-up creosote no one has swept out. A stray spark catches the tarry buildup, and the fire inside the flue roars to life, far hotter than the fireplace ever gets, loud enough to wake you like a freight train overhead. The heat cracks the old chimney tiles, and flame spreads into the wall cavity around it, out of sight and already climbing toward the roof before you smell smoke. You don't survive.",
+    "captions": [
+      "You fall asleep in front of a low fire.",
+      "The chimney is thick with built-up creosote.",
+      "A spark catches it and roars to life.",
+      "The heat cracks the chimney tiles.",
+      "Flame spreads into the walls unseen. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view of a fireplace with low flames in a dim living room, warm firelight",
+      "a chimney flue glowing orange with heat, vivid detail",
+      "flames spreading inside a wall cavity, cinematic",
+      "smoke curling from a rooftop chimney at night, well-lit",
+      "wide bright shot of a house with smoke rising from the roof"
+    ],
+    "tags": [
+      "chimneyfire",
+      "creosote",
+      "housefire",
+      "home",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary"
+    ]
+  },
+  {
+    "id": "diabetic-hypoglycemia-driving",
+    "title": "Would you survive your blood sugar crashing while driving alone? #shorts",
+    "description": "A severe insulin low can confuse and then black out a driver within minutes, with no one else in the car to take the wheel. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if your blood sugar crashed hard while you were driving alone on a highway?",
+    "script": "You're driving home on the highway when your insulin dose from earlier hits harder than expected and your blood sugar crashes. Your hands feel distant on the wheel, the lane markings start to blur and double, and you can't remember if you already passed your exit. You know you should pull over, but the confusion is getting worse by the second and the glucose tablets are in your bag on the passenger seat, out of reach. The car drifts across the centerline into oncoming traffic. You don't survive.",
+    "captions": [
+      "Your insulin dose hits harder than expected.",
+      "Your hands feel distant and the lane lines blur.",
+      "You can't remember passing your exit.",
+      "The glucose tablets are just out of reach.",
+      "The car drifts into oncoming traffic. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view from a driver's seat on a highway, bright daylight",
+      "a blurred view of lane markings through a windshield, vivid detail",
+      "a bag on a passenger seat just out of reach, cinematic",
+      "an empty highway stretching into the distance, well-lit",
+      "wide bright shot of a highway under open sky"
+    ],
+    "tags": [
+      "diabetes",
+      "hypoglycemia",
+      "driving",
+      "medical",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary"
+    ]
+  },
+  {
+    "id": "asthma-attack-no-inhaler",
+    "title": "Would you survive a severe asthma attack with your inhaler out of reach? #shorts",
+    "description": "An airway that keeps tightening without medication can close completely within minutes of the first wheeze. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if a severe asthma attack hit while your rescue inhaler was in another room?",
+    "script": "You're hit with a sudden severe asthma attack while relaxing on the couch, your chest tightening fast and your breaths turning into a high, thin wheeze. Your rescue inhaler is in your jacket, hung on a hook by the front door, thirty feet away. Each step toward it costs more air than you have left to spend. Your vision starts to narrow as your airway keeps closing. You collapse a few feet short of the door. You don't survive.",
+    "captions": [
+      "A severe asthma attack hits without warning.",
+      "Your chest tightens and your breaths turn to wheezing.",
+      "Your inhaler is thirty feet away by the door.",
+      "Each step costs more air than you have.",
+      "You collapse a few feet short of it. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view on a couch struggling to breathe, dim living room light",
+      "a rescue inhaler hanging in a jacket by a front door, vivid detail",
+      "a hallway stretching toward a distant door, cinematic",
+      "a hand reaching weakly toward a doorway, well-lit",
+      "wide bright shot of a quiet home interior"
+    ],
+    "tags": [
+      "asthma",
+      "inhaler",
+      "medical",
+      "emergency",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary"
+    ]
+  },
+  {
+    "id": "sauna-hyperthermia-alone",
+    "title": "Would you survive falling asleep alone in a hot sauna? #shorts",
+    "description": "Sustained extreme heat with no one to wake you can push your core temperature to a fatal level before you ever feel unwell enough to leave. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you dozed off alone inside a hot sauna with the door shut?",
+    "script": "You sit down in the sauna after a long day, the heater ticking steadily, and the heat and quiet ease you into a doze with the door shut and no one else home. Your body temperature climbs quietly the whole time you sleep, well past the point where you'd normally feel the need to step out. By the time your body tries to wake you with a headache and nausea, you're too disoriented to stand or reach the door handle. Your organs keep overheating in the dark, sealed room. You don't survive.",
+    "captions": [
+      "You doze off alone in a hot sauna.",
+      "The door is shut and no one else is home.",
+      "Your core temperature climbs the whole time you sleep.",
+      "You wake disoriented, too weak to reach the door.",
+      "Your organs keep overheating in the sealed room. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view sitting inside a dim wooden sauna, warm glowing light",
+      "steam rising off hot sauna rocks, vivid detail",
+      "a wooden sauna door shut from the inside, cinematic",
+      "a quiet empty house hallway outside the sauna, well-lit",
+      "wide bright shot of a home sauna room"
+    ],
+    "tags": [
+      "sauna",
+      "hyperthermia",
+      "heat",
+      "home",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary"
+    ]
+  },
+  {
+    "id": "earthquake-soil-liquefaction",
+    "title": "Would you survive the ground turning to liquid during an earthquake? #shorts",
+    "description": "Shaking can turn water-saturated soil into a heavy liquid in seconds, swallowing whatever is standing on it. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if the ground beneath your house turned to liquid during a major earthquake?",
+    "script": "You're standing in your yard on reclaimed, water-saturated ground when a major earthquake hits and the shaking doesn't stop. Within seconds the soil beneath you loses its strength entirely, the sand grains floating apart in the trapped groundwater until the ground behaves like thick liquid instead of solid earth. You sink to your knees, then your waist, as the liquefied soil can't support your weight anymore. Around you, the whole yard is sinking and tilting the same way. You don't survive.",
+    "captions": [
+      "You're standing on water-saturated reclaimed ground.",
+      "A major earthquake starts shaking hard.",
+      "The soil loses its strength within seconds.",
+      "It behaves like thick liquid instead of solid earth.",
+      "You sink as the whole yard gives way. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view standing in a yard during ground shaking, bright daylight",
+      "cracks and water bubbling up through a lawn, vivid detail",
+      "a house tilting as the ground beneath it softens, cinematic",
+      "sand and water mixing on a cracked surface, well-lit",
+      "wide bright shot of a residential street after an earthquake"
+    ],
+    "tags": [
+      "earthquake",
+      "liquefaction",
+      "geology",
+      "disaster",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary"
+    ]
+  },
+  {
+    "id": "river-strainer-entrapment",
+    "title": "Would you survive your raft flipping onto a river strainer? #shorts",
+    "description": "A strainer lets river current pass through but pins a person against it, and the water pressure alone can be impossible to fight. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if the current pinned you against a fallen tree in the middle of a rapid?",
+    "script": "Your raft flips in a rapid and the current sweeps you feet-first into a fallen tree wedged across the river, a strainer that lets the water pass through its branches but not you. The current pins your chest flat against the trunk, and every attempt to push off just lets more water pile against your back. You try to climb up and over the tree instead of fighting the current head-on, kicking hard to get your body horizontal across the surface. Your fingers find a dry branch and you haul yourself onto the trunk, coughing up water. You survive.",
+    "captions": [
+      "Your raft flips and the current sweeps you into a fallen tree.",
+      "The water passes through it, but you can't.",
+      "The current pins your chest flat against the trunk.",
+      "You stop fighting it head-on and kick to go over the top.",
+      "You haul yourself onto the trunk. You survive."
+    ],
+    "image_prompts": [
+      "first person view in whitewater rapids approaching a fallen tree, bright churning water",
+      "a tree trunk wedged across a river with water rushing through branches, vivid detail",
+      "hands gripping a wet branch above the current, cinematic",
+      "a rafter climbing onto a fallen log mid-river, well-lit",
+      "wide bright shot of a rushing river through a forest gorge"
+    ],
+    "tags": [
+      "rafting",
+      "strainer",
+      "river",
+      "entrapment",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary"
+    ]
+  },
+  {
+    "id": "zorb-ball-runaway",
+    "title": "Would you survive a giant inflatable ball rolling away down a hill? #shorts",
+    "description": "A zorb ball picks up speed fast on a slope, and once it's rolling on its own there is no way to steer or stop it from inside. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if the giant inflatable ball you were strapped inside broke loose down a steep hill?",
+    "script": "You're strapped inside a giant inflatable zorb ball at the top of a grassy hill, ready for a short guided roll down a gentle section. A gust catches the ball before the guide rope is fully secured, and it breaks free, picking up speed down the slope far faster than planned. There's no way to steer or brake from inside; you can only brace as the ball bounces off the marked path toward a rocky outcrop at the bottom. The impact stops the ball hard, but not you. You don't survive.",
+    "captions": [
+      "You're strapped inside a giant inflatable ball on a hill.",
+      "A gust catches it before the guide rope is secure.",
+      "It breaks free and picks up speed fast.",
+      "There's no way to steer or brake from inside.",
+      "It bounces toward rocks at the bottom. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view inside a giant inflatable ball rolling down a grassy hill, bright daylight",
+      "a zorb ball gaining speed down a slope, vivid detail",
+      "a rocky outcrop at the base of a hill, cinematic",
+      "a guide rope snapping loose in the wind, well-lit",
+      "wide bright shot of a grassy hillside activity park"
+    ],
+    "tags": [
+      "zorbing",
+      "inflatable",
+      "accident",
+      "recreation",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary"
+    ]
+  },
+  {
+    "id": "atv-rollover-remote-crush",
+    "title": "Would you survive your ATV rolling over on a remote trail? #shorts",
+    "description": "A quad bike rollover can pin a rider under hundreds of pounds of machine with no cell signal and no one due back for hours. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if your ATV flipped and pinned you on a remote trail with no phone signal?",
+    "script": "You're riding an ATV alone on a remote backcountry trail when a rut catches the front wheel and the machine flips, landing across your legs and chest. There's no cell signal out here and no one expecting you back until tonight. You can't push the several-hundred-pound machine off yourself, and shouting brings no one. The engine, still running, keeps overheating against your leg as the hours pass. No one comes looking before dark. You don't survive.",
+    "captions": [
+      "A rut catches the front wheel on a remote trail.",
+      "The ATV flips and lands across your legs.",
+      "There's no cell signal out here.",
+      "You can't push the machine off yourself.",
+      "No one comes looking before dark. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view lying trapped under an overturned ATV, bright rural daylight",
+      "a rutted dirt trail through remote backcountry, vivid detail",
+      "an ATV's wheel spinning uselessly in the air, cinematic",
+      "an empty trail with no other riders in sight, well-lit",
+      "wide bright shot of a remote wilderness trail"
+    ],
+    "tags": [
+      "atv",
+      "rollover",
+      "backcountry",
+      "crush",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary"
+    ]
+  },
+  {
+    "id": "landslide-dam-outburst-flood",
+    "title": "Would you survive a landslide dam bursting upstream from your camp? #shorts",
+    "description": "A landslide can block a mountain river for days, and when the makeshift dam finally gives way it releases the flood all at once. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if the landslide-blocked river above your campsite suddenly gave way?",
+    "script": "You're camped on a gravel bar beside a mountain river that's been running unusually low for days, ever since a landslide blocked the channel further upstream. No one told you the loose debris dam has been slowly failing under the growing weight of trapped water behind it. In the middle of the night it finally gives way all at once, releasing days of pent-up river in a single wall of water and debris. It reaches your tent faster than you can climb the bank. You don't survive.",
+    "captions": [
+      "The river above your camp has been running low for days.",
+      "A landslide dam upstream has been slowly failing.",
+      "It gives way all at once in the night.",
+      "Days of pent-up water release in a single wall.",
+      "It reaches your tent before you can climb the bank. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view inside a tent beside a low mountain river at night, dim moonlight",
+      "a debris dam of logs and rock blocking a river upstream, vivid detail",
+      "a sudden wall of water and debris rushing down a valley, cinematic",
+      "a gravel riverbank campsite in fading light, well-lit",
+      "wide bright shot of a mountain river valley at dusk"
+    ],
+    "tags": [
+      "landslide",
+      "flood",
+      "camping",
+      "river",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary"
+    ]
+  },
+  {
+    "id": "loading-dock-crush",
+    "title": "Would you survive being pinned between a truck and a loading dock? #shorts",
+    "description": "A truck that creeps forward while a worker is between it and the dock can close the gap with crushing force in seconds. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if the truck at the loading dock crept forward while you stood in the gap?",
+    "script": "You're standing in the gap between a parked delivery truck and the loading dock, guiding a pallet jack across the plate that bridges them. The truck's parking brake wasn't fully set, and the trailer creeps forward as the driver shifts weight inside. The gap you're standing in starts closing fast, dock on one side and steel trailer on the other. You shout and reach for the emergency stop button bolted to the dock wall, but it's a step out of reach. The trailer pins you against the concrete edge. You don't survive.",
+    "captions": [
+      "You stand in the gap between a truck and the loading dock.",
+      "The parking brake wasn't fully set.",
+      "The trailer creeps forward as weight shifts inside.",
+      "The gap closes fast on both sides.",
+      "The emergency stop is a step out of reach. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view standing between a truck trailer and a loading dock, bright warehouse lighting",
+      "a pallet jack on a metal dock plate, vivid detail",
+      "a red emergency stop button on a dock wall, cinematic",
+      "a delivery truck backed up to a warehouse dock, well-lit",
+      "wide bright shot of a busy warehouse loading area"
+    ],
+    "tags": [
+      "loadingdock",
+      "crush",
+      "warehouse",
+      "industrial",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary"
+    ]
+  },
+  {
+    "id": "dust-collector-suction",
+    "title": "Would you survive standing too close to a running dust collector intake? #shorts",
+    "description": "An industrial dust collector pulls air, and anything loose, with enough force to drag clothing and limbs into the ductwork. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if your sleeve got pulled into a running industrial dust collector's intake?",
+    "script": "You're clearing a jam near the intake hood of a large industrial dust collector, the kind that pulls sawdust and debris through ductwork with powerful suction. You lean in close without shutting the system down first, and the airflow catches your loose sleeve, dragging your arm toward the narrowing duct opening. The suction is strong enough that you can't pull free with your own strength, and it keeps drawing you in a few inches at a time. No one else is in the shop to hit the disconnect. You don't survive.",
+    "captions": [
+      "You lean in to clear a jam near the intake hood.",
+      "You don't shut the system down first.",
+      "The airflow catches your loose sleeve.",
+      "The suction is too strong to pull free from.",
+      "No one else is in the shop. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view reaching toward an industrial dust collector intake hood, bright workshop lighting",
+      "ductwork and a powerful suction fan housing, vivid detail",
+      "sawdust being pulled rapidly into a vent, cinematic",
+      "an empty workshop with machinery running, well-lit",
+      "wide bright shot of an industrial woodworking shop floor"
+    ],
+    "tags": [
+      "dustcollector",
+      "suction",
+      "workshop",
+      "industrial",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary"
+    ]
+  },
+  {
+    "id": "wood-pellet-silo-offgassing",
+    "title": "Would you survive climbing into a wood pellet storage silo to check levels? #shorts",
+    "description": "Stored wood pellets slowly release carbon monoxide and consume oxygen in a sealed silo, turning the air toxic without any smell or warning. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you climbed into a sealed wood pellet silo to check the fuel level?",
+    "script": "You climb through the hatch of a wood pellet storage silo to check how much fuel is left before winter, a job you've done a dozen times before. What you don't see is that the pellets have been slowly off-gassing carbon monoxide and consuming oxygen in the sealed space for weeks, with no smell and no visible warning sign. A few breaths in, your head swims and your limbs stop responding the way you tell them to. You slump against the pellets, unable to climb back to the hatch. You don't survive.",
+    "captions": [
+      "You climb into a wood pellet silo to check levels.",
+      "You've done this job a dozen times before.",
+      "The pellets have been off-gassing carbon monoxide for weeks.",
+      "There's no smell and no visible warning.",
+      "You slump down, unable to reach the hatch. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view climbing down into a dim wood pellet storage silo, dim light from above",
+      "wood pellets piled deep inside a sealed silo, vivid detail",
+      "a hatch opening letting in a shaft of daylight, cinematic",
+      "a heating fuel storage building on a snowy property, well-lit",
+      "wide bright shot of a rural property with a storage silo"
+    ],
+    "tags": [
+      "woodpellets",
+      "silo",
+      "offgassing",
+      "confinedspace",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary"
+    ]
+  },
+  {
+    "id": "water-heater-explosion",
+    "title": "Would you survive a water heater tank exploding in the next room? #shorts",
+    "description": "A failed pressure relief valve can let a water heater tank build pressure until it ruptures like a rocket with enough force to punch through a roof. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if the water heater in your basement built up pressure until the tank let go?",
+    "script": "You're in the room above the basement when the water heater's pressure relief valve, corroded shut for years, fails to vent as the tank quietly overheats and builds pressure far past its rating. The steel tank finally gives way all at once, rupturing with the force of an explosive charge and launching itself upward like a rocket through the floor joists. It punches through the ceiling beneath your feet in a fraction of a second, carrying scalding water and debris with it. You don't survive.",
+    "captions": [
+      "A corroded pressure relief valve fails to vent.",
+      "The water heater tank quietly overheats and builds pressure.",
+      "The steel tank ruptures all at once.",
+      "It launches upward through the floor joists like a rocket.",
+      "It punches through the ceiling beneath your feet. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view standing in a room above a basement, bright daylight",
+      "a corroded water heater tank in a dim basement, vivid detail",
+      "a floor bursting upward in an explosive blast, cinematic",
+      "scalding water and debris flying through a ceiling, well-lit",
+      "wide bright shot of a suburban house exterior with basement window"
+    ],
+    "tags": [
+      "waterheater",
+      "explosion",
+      "basement",
+      "home",
+      "survival",
+      "shorts",
+      "didyouknow",
+      "scary"
+    ]
   }
 ]

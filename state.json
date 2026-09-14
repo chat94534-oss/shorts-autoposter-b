@@ -230,6 +230,10 @@
     "engine-out-forced-landing",
     "helicopter-autorotation",
     "paraglider-wing-collapse",
-    "rockfall-onto-mountain-road"
+    "rockfall-onto-mountain-road",
+    "lava-tube-collapse",
+    "iceberg-roll",
+    "glacial-lake-outburst-flood",
+    "sea-arch-collapse"
   ]
 }

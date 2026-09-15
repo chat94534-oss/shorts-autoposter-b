@@ -234,6 +234,10 @@
     "lava-tube-collapse",
     "iceberg-roll",
     "glacial-lake-outburst-flood",
-    "sea-arch-collapse"
+    "sea-arch-collapse",
+    "volcanic-ashfall-roof-collapse",
+    "fire-whirl",
+    "propane-tank-bleve",
+    "transformer-vault-explosion"
   ]
 }

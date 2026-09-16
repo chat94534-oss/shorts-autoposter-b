@@ -238,6 +238,10 @@
     "volcanic-ashfall-roof-collapse",
     "fire-whirl",
     "propane-tank-bleve",
-    "transformer-vault-explosion"
+    "transformer-vault-explosion",
+    "mooring-line-snapback",
+    "post-tension-cable-snap",
+    "rail-car-coupling",
+    "jet-blast-behind-airliner"
   ]
 }

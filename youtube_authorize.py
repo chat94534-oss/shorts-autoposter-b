@@ -2,7 +2,7 @@
 """One-time OAuth authorization for the Shorts uploader.
 
 Opens a browser, has you approve the app for the channel account
-(the channel account), and writes the resulting refresh token to
+and writes the resulting refresh token to
 token.json. Run this once; youtube_upload.py reuses token.json after that.
 
 While the OAuth app is in "Testing" mode, the refresh token expires after

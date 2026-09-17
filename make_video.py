@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Daily Short generator for the the channel channel.
+"""Daily Short generator.
 
 Pipeline (all free, no API keys):
   pick topic -> edge-tts narration -> 5 Pollinations images ->
@@ -53,7 +53,7 @@ KEEP_RUNS_DAYS = 3  # auto-delete run folders older than this
 TZ = ZoneInfo("America/New_York")
 PUBLISH_SLOTS = [(12, 0), (15, 0), (18, 0), (21, 0)]  # 12p, 3p, 6p, 9p
 
-# "the channel" — colder/calmer male narrator, distinct from channel.
+# Colder, calmer male narrator.
 VOICE = "en-US-AndrewMultilingualNeural"  # more expressive rise/fall (user pick)
 VOICE_RATE = "+6%"
 VOICE_PITCH = "-2Hz"
@@ -93,6 +93,17 @@ TIMER = (
 # --------------------------------------------------------------------------- #
 # helpers
 # --------------------------------------------------------------------------- #
+# This repository is public, which makes every Actions log world-readable.
+# Titles and video URLs would identify the channel on every run, so CI sets
+# REDACT_LOGS=1 and they are replaced with a stable id instead.
+REDACT = os.environ.get("REDACT_LOGS", "") == "1"
+
+
+def safe(text):
+    """Return text locally; a placeholder when logs are public."""
+    return "[redacted]" if REDACT else str(text)
+
+
 def log(msg):
     stamp = dt.datetime.now().strftime("%H:%M:%S")
     print(f"[{stamp}] {msg}", flush=True)
@@ -629,8 +640,8 @@ def append_history(topic_id, url, privacy):
     with open(HISTORY_CSV, "a", newline="", encoding="utf-8") as f:
         w = csv.writer(f)
         if new:
-            w.writerow(["date", "topic_id", "privacy", "url"])
-        w.writerow([dt.datetime.now(TZ).date().isoformat(), topic_id, privacy, url])
+            w.writerow(["date", "topic_id", "privacy"])
+        w.writerow([dt.datetime.now(TZ).date().isoformat(), topic_id, privacy])
 
 
 def slots_filled_today():
@@ -677,7 +688,7 @@ def produce_one(topics, state, args, publish_at):
             topic = next_bank(topics)
     else:  # bank (default): consume the top of the queue
         topic = next_bank(topics)
-    log(f"Topic [{'AI' if generated else 'bank'}]: {topic['id']} — {topic['title']}")
+    log(f"Topic [{'AI' if generated else 'bank'}]: {topic['id']} — {safe(topic['title'])}")
 
     stamp = dt.datetime.now().strftime("%Y%m%d-%H%M%S")
     run_dir = os.path.join(RUNS_DIR, f"{stamp}-{topic['id']}")
@@ -736,7 +747,7 @@ def produce_one(topics, state, args, publish_at):
         log(f"Uploading ({args.privacy})...")
         url = upload(video, topic, args.privacy)
         logged_privacy = args.privacy
-    log(f"UPLOADED: {url}")
+    log(f"UPLOADED: {safe(url)}")
 
     # 5) record success
     if not generated:

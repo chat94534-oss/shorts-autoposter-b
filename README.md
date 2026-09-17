@@ -1,14 +1,18 @@
-# the channel — autopost
+# Short-form video autoposter
 
-Fully automated YouTube Shorts channel: 2nd-person "Would you survive X?" scenarios with a
-burned-in ticking death timer. GitHub Actions builds and posts one Short per scheduled slot:
-Claude-authored topic bank (`topics.json`) → edge-tts narration → 8 Pollinations images →
-ffmpeg (Ken Burns, cross-dissolves, atmosphere + dread-rumble bed, timer, grade, captions) →
-YouTube upload. The workflow commits the consumed bank/state back to the repo after each post.
+Builds a vertical short each day from a local topic bank: narration via edge-tts, generated stills, ffmpeg for motion, a burned-in timer and captions, then a scheduled upload. Runs entirely on GitHub Actions.
 
-- **Schedule (EDT):** 12 PM, 3 PM, 6 PM, 9 PM — see `.github/workflows/post.yml`.
-  Crons are UTC: **in November (DST ends) bump each cron hour +1** or posts shift an hour early.
-- **Secrets (repo settings):** `CLIENT_SECRET_JSON`, `TOKEN_JSON` (published OAuth app —
-  refresh token does not expire).
-- **Manual run:** Actions → post → Run workflow (choose privacy for tests).
-- **Top up the bank:** append episodes to `topics.json` (same schema) and push.
+## How it runs
+One generation run per day builds every slot at once and hands each video to the
+platform's own scheduler, so a missed cron costs nothing — later runs measure the
+gap from what actually posted and fill only what is missing.
+
+## Configuration
+Credentials are supplied as repository secrets and are never committed. Copy the
+OAuth client into place and run `youtube_authorize.py` once to mint a token.
+
+## Local use
+    python make_video.py --no-upload     # build only, keeps its output for inspection
+    python make_video.py --fill-day      # build and schedule the day
+
+Logs are redacted in CI (`REDACT_LOGS=1`) because Actions logs are public.

@@ -47,6 +47,7 @@ jobs:
         env:
           X264_PRESET: ultrafast
           PYTHONIOENCODING: utf-8
+          REDACT_LOGS: "1"
         run: |
           if [ "${{ github.event.inputs.fill_day }}" = "false" ]; then
             python make_video.py --privacy "${{ github.event.inputs.privacy || 'public' }}"

@@ -55,14 +55,16 @@ PUBLISH_SLOTS = [(12, 0), (15, 0), (18, 0), (21, 0)]  # 12p, 3p, 6p, 9p
 
 # "the channel" — colder/calmer male narrator, distinct from channel.
 VOICE = "en-US-AndrewMultilingualNeural"  # more expressive rise/fall (user pick)
-VOICE_RATE = "-4%"
+VOICE_RATE = "+6%"
 VOICE_PITCH = "-2Hz"
 TOPIC_MODEL = "openai-fast"  # Pollinations free text model (unused; bank mode)
-STYLE = (", hyper-realistic cinematic disaster photography, dramatic volumetric lighting, "
+STYLE = (", dramatic close-up first-person disaster photography, tight framing, "
+         "high contrast, deep shadows, punchy saturated color, sharp crisp detail, "
          "vivid color, bright highlights, well-lit clear subject, sharp high detail, "
          "sense of danger, first-person point of view, vertical 9:16 composition")
 W, H, FPS = 1080, 1920, 30
-XFADE = 0.5  # seconds of cross-dissolve between scenes
+SRC_W, SRC_H = 1440, 2560  # render larger than output so panning stays sharp
+XFADE = 0.25  # seconds of cross-dissolve between scenes
 NUM_IMAGES = 8  # target scenes per video; bank prompts are expanded to reach this
 PROMPT_VARIATIONS = [
     ", alternate camera angle, closer",
@@ -361,7 +363,7 @@ def fetch_image(prompt, out_path, seed, tries=4):
     for attempt in range(1, tries + 1):
         # new seed each retry: a bad prompt+seed combo 500s deterministically
         url = (f"https://image.pollinations.ai/prompt/{enc}"
-               f"?width={W}&height={H}&nologo=true&model=flux"
+               f"?width={SRC_W}&height={SRC_H}&nologo=true&model=flux"
                f"&seed={seed + (attempt - 1) * 7919}")
         try:
             req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
@@ -413,7 +415,7 @@ def kenburns_clip(img, out, dur, idx):
 
     vf = (
         f"scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},"
-        f"scale=5400:9600,"
+        f"scale=2160:3840:flags=lanczos,"
         f"zoompan=z='{z}':d={frames}:x='{xexpr}':y='{yexpr}':s={W}x{H}:fps={FPS},"
         f"scale={big_w}:{big_h},"
         f"rotate='{rot}':ow={big_w}:oh={big_h}:c=black@0,"
@@ -529,10 +531,10 @@ def _finish(run_dir, audio_dur, atmos, bed):
     fc = (
         f"[1:v]scale={W}:{H},format=yuv420p,setsar=1[atm];"
         f"[0:v]setsar=1[bg];"
-        f"[bg][atm]blend=all_mode=screen:all_opacity=0.22[lit];"
-        f"[lit]eq=contrast=1.08:saturation=0.9:brightness=0.04,"
+        f"[bg][atm]blend=all_mode=screen:all_opacity=0.08[lit];"
+        f"[lit]eq=contrast=1.34:saturation=1.4:brightness=-0.02,"
         f"colorbalance=rs=-0.04:bs=0.05:rm=-0.02:bm=0.03,"
-        f"noise=alls=4:allf=t,vignette=angle=PI/5[graded];"
+        f"noise=alls=2:allf=t,unsharp=5:5:0.7,vignette=angle=PI/6[graded];"
         f"[graded]{TIMER}subtitles=captions.srt:force_style='{SUB_STYLE}'[subbed];"
         f"[subbed]fade=t=in:st=0:d=0.4,fade=t=out:st={fade_out:.2f}:d=0.5[v];"
         f"[3:a]volume=0.22[bed];"

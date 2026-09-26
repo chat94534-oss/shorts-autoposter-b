@@ -276,6 +276,10 @@
     "meteotsunami-lake-pier",
     "overloaded-fishing-boat-capsize",
     "trawl-net-winch-entanglement",
-    "wind-turbine-fall"
+    "wind-turbine-fall",
+    "industrial-robot-arm-strike",
+    "textile-loom-entanglement",
+    "hangar-foam-suppression-flood",
+    "bouncy-castle-wind-lofting"
   ]
 }

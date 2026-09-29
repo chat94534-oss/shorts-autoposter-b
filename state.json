@@ -289,6 +289,9 @@
     "earthquake-soil-liquefaction",
     "river-strainer-entrapment",
     "zorb-ball-runaway",
-    "atv-rollover-remote-crush"
+    "atv-rollover-remote-crush",
+    "landslide-dam-outburst-flood",
+    "loading-dock-crush",
+    "dust-collector-suction"
   ]
 }

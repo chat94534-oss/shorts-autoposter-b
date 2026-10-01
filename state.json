@@ -292,6 +292,10 @@
     "atv-rollover-remote-crush",
     "landslide-dam-outburst-flood",
     "loading-dock-crush",
-    "dust-collector-suction"
+    "dust-collector-suction",
+    "wood-pellet-silo-offgassing",
+    "water-heater-explosion",
+    "ice-fishing-shack-fire",
+    "hot-tub-electrocution"
   ]
 }

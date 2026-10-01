@@ -295,3 +295,7 @@ date,topic_id,privacy
 2026-09-30,water-heater-explosion,public
 2026-09-30,ice-fishing-shack-fire,public
 2026-09-30,hot-tub-electrocution,scheduled
+2026-10-01,roller-coaster-restraint-failure,public
+2026-10-01,electric-scooter-highway-collision,public
+2026-10-01,vessel-icing-capsize,public
+2026-10-01,paraglider-power-line-snag,scheduled

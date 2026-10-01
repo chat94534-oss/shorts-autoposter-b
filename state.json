@@ -296,6 +296,10 @@
     "wood-pellet-silo-offgassing",
     "water-heater-explosion",
     "ice-fishing-shack-fire",
-    "hot-tub-electrocution"
+    "hot-tub-electrocution",
+    "roller-coaster-restraint-failure",
+    "electric-scooter-highway-collision",
+    "vessel-icing-capsize",
+    "paraglider-power-line-snag"
   ]
 }

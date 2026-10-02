@@ -300,6 +300,10 @@
     "roller-coaster-restraint-failure",
     "electric-scooter-highway-collision",
     "vessel-icing-capsize",
-    "paraglider-power-line-snag"
+    "paraglider-power-line-snag",
+    "tandem-skydive-instructor-unconscious",
+    "highrise-fire-trapped-elevator",
+    "sudden-cardiac-arrest-alone",
+    "pulmonary-embolism-long-flight"
   ]
 }

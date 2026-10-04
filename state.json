@@ -309,6 +309,9 @@
     "downed-power-line-floodwater",
     "fireworks-mortar-misfire",
     "riding-mower-rollover-slope",
-    "chainsaw-kickback-injury"
+    "chainsaw-kickback-injury",
+    "flooded-quarry-diving-accident",
+    "water-slide-tube-entrapment",
+    "bobsled-track-runaway"
   ]
 }

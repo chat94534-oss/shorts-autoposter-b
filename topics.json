@@ -951,5 +951,842 @@
       "shorts",
       "didyouknow"
     ]
+  },
+  {
+    "id": "tidal-causeway-rising-tide",
+    "title": "Would you survive a rising tide on a tidal causeway? #shorts",
+    "description": "Cars are swept off tidal causeways every year, and the rising sea gives you minutes to escape. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you tried to drive across a tidal causeway just as the tide started rushing in?",
+    "script": "You're halfway across when seawater swirls over the road. Your tires lose grip and the current shoves your car sideways. Water pours through the door seals. The engine dies and the windows won't open. The sea fills the cabin in minutes. Nobody hears you. You don't survive.",
+    "captions": [
+      "You enter the causeway as the tide turns.",
+      "Seawater swirls over the road ahead.",
+      "The current pushes your car sideways.",
+      "The engine dies and the windows jam.",
+      "The cabin fills. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view of a flooded causeway road with swirling seawater at dusk",
+      "close-up of seawater rushing over a car tire, high contrast",
+      "tight shot of water spraying through a door seal inside a car",
+      "close-up of a hand pulling a stuck window switch, dim light",
+      "close-up of dark water rising over a car dashboard, harsh light"
+    ],
+    "tags": [
+      "tidal",
+      "causeway",
+      "rising",
+      "survival",
+      "didyouknow",
+      "scary",
+      "shorts"
+    ]
+  },
+  {
+    "id": "skylight-roof-fall",
+    "title": "Would you survive falling through a rooftop skylight? #shorts",
+    "description": "Skylight falls are among the deadliest roof accidents, and a hidden dome looks just like solid roof. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you stepped onto a painted-over skylight while working on a flat roof?",
+    "script": "You're carrying tools across a flat roof when your boot hits a skylight hidden under dusty tar. The plastic cracks like thin ice. You drop through and fall thirty feet onto a concrete warehouse floor. Nobody's nearby to hear it. Hours pass before a coworker finds you. You don't survive.",
+    "captions": [
+      "You step across a flat roof with tools.",
+      "Your boot lands on a hidden skylight.",
+      "The plastic cracks like thin ice.",
+      "You drop thirty feet to concrete.",
+      "No one hears it. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view looking down at a dusty flat tar roof, a faint skylight outline",
+      "close-up of a work boot pressing on cracking plastic dome",
+      "tight shot of a shattered skylight with sharp fragments",
+      "close-up of a concrete warehouse floor seen from above, harsh light",
+      "close-up of fallen tools lying on gray concrete, dim light"
+    ],
+    "tags": [
+      "skylight",
+      "roof",
+      "fall",
+      "survival",
+      "didyouknow",
+      "scary",
+      "shorts"
+    ]
+  },
+  {
+    "id": "pressure-cooker-explosion",
+    "title": "Would you survive a pressure cooker exploding in your face? #shorts",
+    "description": "Pressure cookers can explode when opened early, spraying scalding liquid with enormous force. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you opened a pressure cooker that still held a full load of steam?",
+    "script": "You twist the lid right after cooking, because the steam looks quiet. It isn't. The lid blows off, and boiling stew sprays across your face and chest. The lid hits the ceiling. Third-degree burns cover your airway and you can't breathe. Your kitchen is wrecked in seconds. You don't survive.",
+    "captions": [
+      "You twist the lid open too early.",
+      "The steam looked quiet. It wasn't.",
+      "The lid blows off and stew sprays out.",
+      "Boiling liquid covers your face and chest.",
+      "Burns close your airway. You don't survive."
+    ],
+    "image_prompts": [
+      "close-up of a steel pressure cooker lid with steam seeping out, dramatic light",
+      "tight shot of a hand twisting a lid, boiling liquid at the edge",
+      "close-up of a lid flying toward a kitchen ceiling, motion blur",
+      "macro of scalded red skin on a forearm, sharp detail",
+      "close-up of a dark kitchen ceiling with a dent and stew splatter"
+    ],
+    "tags": [
+      "pressure",
+      "cooker",
+      "explosion",
+      "survival",
+      "didyouknow",
+      "scary",
+      "shorts"
+    ]
+  },
+  {
+    "id": "nail-gun-skull-shot",
+    "title": "Would you survive a nail through your skull? #shorts",
+    "description": "People have survived nail gun injuries to the skull, because the nail often slips between vital brain areas. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if a nail gun misfired and drove a nail straight into your skull?",
+    "script": "You're framing a wall when the nail gun kicks and fires a three-inch nail into your head. You feel pressure, not pain. You don't pull it out. You call for help and stay still. Surgeons remove it in the operating room, missing every vital part of your brain. You survive.",
+    "captions": [
+      "A nail gun kicks back mid-shot.",
+      "A three-inch nail enters your skull.",
+      "You feel pressure, not pain.",
+      "You don't touch it. You call for help.",
+      "Surgeons remove it safely. You survive."
+    ],
+    "image_prompts": [
+      "close-up of a pneumatic nail gun pressed against a wooden stud, dramatic light",
+      "tight shot of a nail head sticking out near a hairline, sharp detail",
+      "close-up of a hand hovering and not touching a nail, high contrast",
+      "close-up of a brain scan showing a bright nail on a monitor",
+      "close-up of a gloved surgeon's hands with forceps, harsh surgical light"
+    ],
+    "tags": [
+      "nail",
+      "skull",
+      "shot",
+      "survival",
+      "didyouknow",
+      "scary",
+      "shorts"
+    ]
+  },
+  {
+    "id": "rebar-impalement-fall",
+    "title": "Would you survive being impaled by rebar? #shorts",
+    "description": "Impalement victims who stay still and keep the object in place often survive, because it can plug the wound. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you fell onto a rebar spike and it passed straight through your body?",
+    "script": "You slip off scaffolding and land on an exposed steel rod, which goes through your torso. You don't pull yourself off. You don't move. Rescuers cut the rod on both sides and take you to the hospital with the steel still in you. Surgeons remove it. You survive.",
+    "captions": [
+      "You slip from the scaffolding.",
+      "A steel rod goes through your torso.",
+      "You don't pull. You don't move.",
+      "Rescuers cut the rod on both sides.",
+      "Surgeons remove it. You survive."
+    ],
+    "image_prompts": [
+      "first person view of scaffolding with exposed rebar below, dusty light",
+      "close-up of a rusty steel rod pointing up from concrete, high contrast",
+      "tight shot of a hand gripping rebar to stay steady",
+      "close-up of rescue cutters slicing steel, bright sparks",
+      "close-up of an operating room light above a gurney"
+    ],
+    "tags": [
+      "rebar",
+      "impalement",
+      "fall",
+      "survival",
+      "didyouknow",
+      "scary",
+      "shorts"
+    ]
+  },
+  {
+    "id": "car-trunk-trapped-inside",
+    "title": "Would you survive being locked in a car trunk? #shorts",
+    "description": "Every car made after 2001 in the US has an interior trunk release, and it can save your life. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you woke up locked in the trunk of a moving car?",
+    "script": "You wake in total darkness, hearing the engine. You feel along the trunk for a glowing release handle on the latch. You pull it, and the trunk pops. You don't leap out. You wait for the car to slow down, and then you slide out safely. You also dial emergency services. You survive.",
+    "captions": [
+      "You wake in total darkness.",
+      "You feel for the glowing release handle.",
+      "You pull it and the lid pops.",
+      "You wait for the car to slow.",
+      "You slide out safely. You survive."
+    ],
+    "image_prompts": [
+      "first person view inside a pitch-black car trunk with a faint glowing handle",
+      "close-up of a green glow-in-the-dark trunk release handle",
+      "tight shot of a hand pulling a handle, strong highlight",
+      "close-up of a trunk lid opening to a thin line of daylight",
+      "close-up of a road passing slowly below the open trunk edge"
+    ],
+    "tags": [
+      "trunk",
+      "trapped",
+      "inside",
+      "survival",
+      "didyouknow",
+      "scary",
+      "shorts"
+    ]
+  },
+  {
+    "id": "lightning-on-open-boat",
+    "title": "Would you survive lightning on an open boat? #shorts",
+    "description": "Open water and a rod make you the tallest target around, and lightning is deadly in seconds. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if a thunderstorm caught you on an open lake in a small metal boat?",
+    "script": "The sky turns black and the wind gusts. You're in a tiny aluminum boat, the tallest thing for a mile, with a fishing rod in your hand. A bolt of lightning hits the rod. Your heart stops. Nobody is close enough to give you CPR. You don't survive.",
+    "captions": [
+      "The sky turns black over the lake.",
+      "You are the tallest thing for a mile.",
+      "Your fishing rod points at the clouds.",
+      "Lightning hits the rod.",
+      "Your heart stops. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view of a black thunderstorm over a lake, rod tip pointing up",
+      "close-up of a graphite fishing rod against a dark purple sky",
+      "tight shot of a bright lightning bolt striking near the boat",
+      "close-up of a hand gripping a smoking fishing reel",
+      "close-up of a small aluminum boat drifting on dark water"
+    ],
+    "tags": [
+      "lightning",
+      "open",
+      "boat",
+      "survival",
+      "didyouknow",
+      "scary",
+      "shorts"
+    ]
+  },
+  {
+    "id": "tornado-in-car-highway",
+    "title": "Would you survive a tornado while driving on a highway? #shorts",
+    "description": "Overpasses are dangerous during tornadoes, and a low ditch offers far better protection. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if a tornado crossed the highway right in front of your car?",
+    "script": "A funnel crosses the road ahead. You don't hide under an overpass, because it funnels wind. You pull over, unbuckle, and leave the car. You run to a low ditch, lie flat, and cover your head with both arms. The tornado passes. Your car is gone. Debris whips overhead for a full minute. You survive.",
+    "captions": [
+      "A funnel crosses the road ahead.",
+      "You skip the overpass. It funnels wind.",
+      "You leave the car for a low ditch.",
+      "You lie flat and cover your head.",
+      "The tornado passes. You survive."
+    ],
+    "image_prompts": [
+      "first person view of a dark funnel cloud crossing a highway, harsh light",
+      "close-up of an overpass with debris-filled wind swirling under it",
+      "tight shot of a hand unbuckling a seat belt, dim light",
+      "close-up of a person flat in a muddy ditch with arms over head",
+      "close-up of a crushed car flipped across a field after the storm"
+    ],
+    "tags": [
+      "tornado",
+      "highway",
+      "survival",
+      "didyouknow",
+      "scary",
+      "shorts"
+    ]
+  },
+  {
+    "id": "shallow-water-bridge-dive",
+    "title": "Would you survive diving off a bridge into shallow water? #shorts",
+    "description": "Diving into unknown shallow water is a leading cause of spinal cord injuries and drowning. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you jumped headfirst off a bridge into a river with hidden shallows?",
+    "script": "You dive from the rail, headfirst, into a river that looks deep. The water is four feet deep. Your head hits the sand and your neck snaps. You're paralyzed, floating face down, and you can't move your arms to flip over. Friends on the bridge scream your name. You don't survive.",
+    "captions": [
+      "You dive headfirst from the bridge rail.",
+      "The river looks deep. It isn't.",
+      "Your head hits the riverbed.",
+      "Your neck snaps. You can't move.",
+      "Face down in the water. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view looking down from a bridge rail at green river water",
+      "close-up of sandy shallows barely visible under rippled water",
+      "tight shot of a head striking a sandy bottom, murky splash",
+      "close-up of motionless fingers drifting in water, dim light",
+      "close-up of dark hair floating on the river surface"
+    ],
+    "tags": [
+      "shallow",
+      "water",
+      "bridge",
+      "survival",
+      "didyouknow",
+      "scary",
+      "shorts"
+    ]
+  },
+  {
+    "id": "river-tubing-low-water-rocks",
+    "title": "Would you survive tubing a low river full of rocks? #shorts",
+    "description": "Foot entrapment between rocks is a classic river death, because the current holds you underwater. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you floated a river on an inner tube when the water level was dangerously low?",
+    "script": "The river is lower than you thought, and the rocks are close to the surface. Your tube grinds across a boulder and flips. Your foot wedges between two rocks. The current pushes you under, and you can't pull free or reach air. The water is only knee deep. You don't survive.",
+    "captions": [
+      "The river is lower than expected.",
+      "Rocks sit just under the surface.",
+      "Your tube flips on a boulder.",
+      "Your foot wedges between two rocks.",
+      "The current holds you under. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view of a rocky river with shallow rapids, bright sunlight",
+      "close-up of an inner tube scraping over a wet boulder",
+      "tight shot of a foot jammed between two dark rocks underwater",
+      "close-up of rushing white water over a pale hand, strong highlight",
+      "close-up of a deflated tube drifting alone downstream"
+    ],
+    "tags": [
+      "river",
+      "tubing",
+      "water",
+      "survival",
+      "didyouknow",
+      "scary",
+      "shorts"
+    ]
+  },
+  {
+    "id": "pool-electric-shock-drowning",
+    "title": "Would you survive swimming near a faulty pool light? #shorts",
+    "description": "Electric shock drowning can happen in water with only tiny currents, and swimmers often cannot cry out. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you dove into a pool with a short-circuited light you couldn't see?",
+    "script": "You swim across the pool at dusk, and a faulty underwater light leaks current into the water. Your arms go stiff and heavy. You can't kick or call for help. You sink to the bottom while your family watches the screen inside. Nobody notices for ten long minutes. You don't survive.",
+    "captions": [
+      "You swim across the pool at dusk.",
+      "A faulty light leaks current.",
+      "Your arms lock stiff and heavy.",
+      "You can't kick or shout.",
+      "You sink silently. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view underwater in a dusk-lit pool with a glowing light fixture",
+      "close-up of a corroded underwater pool light with sparks",
+      "tight shot of a hand frozen stiff in the water, dim blue light",
+      "close-up of a pool floor with a sinking shadow, harsh light",
+      "close-up of a lit window of a house across the dark patio"
+    ],
+    "tags": [
+      "pool",
+      "electric",
+      "shock",
+      "survival",
+      "didyouknow",
+      "scary",
+      "shorts"
+    ]
+  },
+  {
+    "id": "hornet-nest-cliff-climb",
+    "title": "Would you survive disturbing a hornet nest while climbing a cliff? #shorts",
+    "description": "Climbers have died after stings caused severe allergic swelling while hanging high on a wall. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you put your hand into a hornet nest hidden in a cliff crack?",
+    "script": "You reach for the next handhold, and it's hidden under a hornet's nest. Dozens pour out. You can't swat them, because you're hanging by one hand. They sting your face and neck. Your throat swells shut, and you let go. The venom hits fast, and you start wheezing. You don't survive.",
+    "captions": [
+      "You reach into a crack for a handhold.",
+      "A hornet's nest hides inside.",
+      "Dozens pour out and sting.",
+      "You can't let go to swat them.",
+      "Your throat swells. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view of a hand reaching into a dark cliff crack, rock close-up",
+      "macro of angry hornets pouring from a gray papery nest",
+      "close-up of a hornet on a cheek, sharp detail",
+      "tight shot of white knuckles gripping a ledge, strong shadows",
+      "close-up of a dangling rope below a rock face, harsh light"
+    ],
+    "tags": [
+      "hornet",
+      "nest",
+      "cliff",
+      "survival",
+      "didyouknow",
+      "scary",
+      "shorts"
+    ]
+  },
+  {
+    "id": "tent-heater-carbon-monoxide",
+    "title": "Would you survive sleeping in a tent with a gas heater? #shorts",
+    "description": "Carbon monoxide has no smell, and every year campers die when heaters burn inside closed tents. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you fell asleep in a sealed tent with a camping heater still burning?",
+    "script": "It's freezing, so you light the heater and zip the tent tight. You get sleepy and warm. You have a headache, but you ignore it. The heater is burning your oxygen and filling the air with carbon monoxide. You never wake up. Outside, the night is silent. You don't survive.",
+    "captions": [
+      "It's freezing, so you light the heater.",
+      "You zip the tent tight.",
+      "A headache hits. You ignore it.",
+      "The heater fills the air with carbon monoxide.",
+      "You never wake. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view inside a glowing orange tent at night, small heater in front",
+      "close-up of a blue flame on a portable camping heater",
+      "tight shot of a hand rubbing a throbbing temple, warm light",
+      "close-up of a closed zipper on a tent door",
+      "close-up of a sleeping bag with a still shape, dim orange glow"
+    ],
+    "tags": [
+      "tent",
+      "heater",
+      "carbon",
+      "survival",
+      "didyouknow",
+      "scary",
+      "shorts"
+    ]
+  },
+  {
+    "id": "ice-cave-collapse",
+    "title": "Would you survive an ice cave collapse? #shorts",
+    "description": "Ice caves look beautiful, but collapses are fast, especially in warm weather. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you were exploring a glacier ice cave and the ceiling gave way?",
+    "script": "You step into a glowing blue ice cave under a glacier. There's a crack above you. Meltwater drips and the ceiling shifts. Tons of ice crash down in a second. You're pinned beneath it, and no one can dig you out before the cold reaches your heart. You don't survive.",
+    "captions": [
+      "You enter a glowing blue ice cave.",
+      "A crack runs across the ceiling.",
+      "Meltwater drips. The ice shifts.",
+      "Tons of ice come down at once.",
+      "Pinned in the cold. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view inside a glowing blue glacier ice cave, dramatic light",
+      "close-up of a long crack in a translucent ice ceiling",
+      "tight shot of meltwater dripping from a cracked block",
+      "close-up of a huge block of ice crashing down, motion blur",
+      "close-up of a boot sticking out from rubble of blue ice"
+    ],
+    "tags": [
+      "cave",
+      "collapse",
+      "survival",
+      "didyouknow",
+      "scary",
+      "shorts"
+    ]
+  },
+  {
+    "id": "cable-car-stuck-above-canyon",
+    "title": "Would you survive a stuck cable car above a canyon? #shorts",
+    "description": "Cable cars rarely fall, and stuck cabins are almost always rescued as long as passengers stay inside. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if your cable car stopped in the middle of a canyon and wouldn't restart?",
+    "script": "The cabin lurches and stops, hundreds of feet above the rocks. You stay put and stay calm. You don't open the doors. You sip water and call the operator. After four hours, a rescue crew slides a harness across the cable and lowers you safely. A kid in the next cabin cries. You survive.",
+    "captions": [
+      "The cabin lurches and stops.",
+      "You are hundreds of feet above rocks.",
+      "You don't open the doors.",
+      "You drink water and call the operator.",
+      "Rescuers lower you safely. You survive."
+    ],
+    "image_prompts": [
+      "first person view from inside a cable car hanging above a deep canyon",
+      "close-up of a taut steel cable against a stormy sky",
+      "tight shot of a hand on a locked cabin door, dim light",
+      "close-up of a phone with a signal bar glowing in a cabin",
+      "close-up of a rescuer sliding along a cable in a harness"
+    ],
+    "tags": [
+      "cable",
+      "stuck",
+      "above",
+      "survival",
+      "didyouknow",
+      "scary",
+      "shorts"
+    ]
+  },
+  {
+    "id": "subway-tunnel-fire",
+    "title": "Would you survive a fire in a subway tunnel? #shorts",
+    "description": "In tunnel fires, smoke and toxic gas kill far faster than the flames themselves. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if your subway train stopped in a tunnel filled with thick black smoke?",
+    "script": "The train stops in the dark and the smoke pours in. Smoke is more dangerous than flames, so you keep low. But the doors won't open, and the air is full of toxic gas. In a minute, you're coughing and dizzy. You pass out on the floor. You don't survive.",
+    "captions": [
+      "The train stops in a dark tunnel.",
+      "Thick black smoke pours in.",
+      "The doors won't open.",
+      "The air fills with toxic gas.",
+      "You collapse on the floor. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view inside a dim subway car filling with black smoke",
+      "close-up of a door handle covered in soot",
+      "tight shot of a flashlight beam cutting through thick smoke",
+      "close-up of a hand pressing a cloth over a mouth, harsh light",
+      "close-up of an emergency exit sign glowing in smoke"
+    ],
+    "tags": [
+      "subway",
+      "tunnel",
+      "fire",
+      "survival",
+      "didyouknow",
+      "scary",
+      "shorts"
+    ]
+  },
+  {
+    "id": "venomous-snake-in-boot",
+    "title": "Would you survive a venomous snake in your boot? #shorts",
+    "description": "Venomous snakes love dark, warm spots, so campers in snake country are told to shake out their boots. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you pulled on your boot without checking and found a viper curled inside?",
+    "script": "You wake at camp and slip into your boot. Something stabs your ankle. A viper bites twice. Your leg swells, and the pain makes you dizzy. Camp is hours from help. Venom spreads through your blood and shuts down your organs. You try to stand and fall. You don't survive.",
+    "captions": [
+      "You pull on your boot at camp.",
+      "Something stabs your ankle.",
+      "A viper bites twice.",
+      "Your leg swells. You feel faint.",
+      "Help is hours away. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view looking down into a hiking boot with a coiled snake",
+      "macro of viper fangs sinking into skin, sharp detail",
+      "close-up of a swollen purple ankle, harsh light",
+      "tight shot of a trembling hand gripping a tent pole",
+      "close-up of a distant dirt trail at dawn, empty and quiet"
+    ],
+    "tags": [
+      "venomous",
+      "snake",
+      "boot",
+      "survival",
+      "didyouknow",
+      "scary",
+      "shorts"
+    ]
+  },
+  {
+    "id": "mine-cage-drop",
+    "title": "Would you survive a mine cage cable snapping? #shorts",
+    "description": "Mine shaft accidents have killed workers when cables or brakes failed during fast descents. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if the cable on your mine shaft elevator snapped halfway down?",
+    "script": "The cage drops into the dark shaft with a screech. The safety brakes jam. Air rushes up past you as you fall toward a mile of rock below. You brace against the wall and shut your eyes. You hit the bottom at highway speed. Your stomach floats up into your chest. You don't survive.",
+    "captions": [
+      "The cage drops into a dark shaft.",
+      "The safety brakes jam.",
+      "Air roars past as you fall.",
+      "A mile of rock waits below.",
+      "You hit the bottom. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view of a miner's cage in a narrow dark shaft with lamps",
+      "close-up of a frayed steel cable snapping, dramatic light",
+      "tight shot of a hand gripping a bar, headlamp glare",
+      "close-up of a rushing rock wall in motion blur",
+      "close-up of a crushed steel cage at the bottom, dust in the air"
+    ],
+    "tags": [
+      "mine",
+      "cage",
+      "drop",
+      "survival",
+      "didyouknow",
+      "scary",
+      "shorts"
+    ]
+  },
+  {
+    "id": "volcanic-bomb-hike",
+    "title": "Would you survive a volcanic bomb on a crater hike? #shorts",
+    "description": "Volcanic bombs can fly more than a mile, and eruptions at popular volcanoes have killed hikers. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you were hiking near an active crater when it suddenly erupted?",
+    "script": "You stand on the crater rim watching smoke rise, and the ground shakes. The vent explodes, hurling glowing rocks the size of cars. You run, but there's no cover. A rock the size of a fridge lands on top of you. Ash rains down and burns your lungs. You don't survive.",
+    "captions": [
+      "You stand on a crater rim.",
+      "The ground shakes under you.",
+      "The vent explodes without warning.",
+      "Glowing rocks fly through the air.",
+      "One lands on you. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view of a smoking volcano crater rim at dawn, dramatic light",
+      "close-up of a glowing orange rock soaring through gray ash",
+      "tight shot of black volcanic gravel shaking",
+      "close-up of a boot sprinting over loose scoria, motion blur",
+      "close-up of a smoking rock crater in the ground, harsh light"
+    ],
+    "tags": [
+      "volcanic",
+      "bomb",
+      "hike",
+      "survival",
+      "didyouknow",
+      "scary",
+      "shorts"
+    ]
+  },
+  {
+    "id": "kitchen-grease-fire",
+    "title": "Would you survive a kitchen grease fire? #shorts",
+    "description": "Water on a grease fire turns to steam instantly and throws burning oil, so smother it with a lid. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you threw water on a grease fire in your kitchen?",
+    "script": "Oil in your pan catches fire. You panic and throw a cup of water on it. The water sinks, flashes to steam, and blasts burning oil across the kitchen. Fire climbs your arm and the curtains. Flames fill the room. Your hands are burning, and your smoke alarm is screaming. You don't survive.",
+    "captions": [
+      "The oil in your pan ignites.",
+      "You panic and throw water on it.",
+      "The water flashes to steam.",
+      "Burning oil sprays across the kitchen.",
+      "Flames fill the room. You don't survive."
+    ],
+    "image_prompts": [
+      "close-up of orange flames rising from a skillet of oil, dramatic light",
+      "tight shot of water pouring toward burning oil, strong highlight",
+      "close-up of burning droplets spraying in all directions, motion blur",
+      "macro of flames crawling up a kitchen curtain",
+      "close-up of black smoke spreading across a kitchen ceiling"
+    ],
+    "tags": [
+      "kitchen",
+      "grease",
+      "fire",
+      "survival",
+      "didyouknow",
+      "scary",
+      "shorts"
+    ]
+  },
+  {
+    "id": "pressure-washer-injection",
+    "title": "Would you survive a pressure washer injection injury? #shorts",
+    "description": "High-pressure injection injuries look minor, but they can hide serious damage that gets worse within hours. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if a pressure washer wand touched your skin and injected water into your hand?",
+    "script": "You tilt the washer wand to clear a stuck nozzle, and your finger slips in front of the stream. It looks like a tiny cut. But the jet has injected dirty water deep under your skin. You wait a day to see a doctor. The infection spreads. You don't survive.",
+    "captions": [
+      "You clear a nozzle with your finger nearby.",
+      "The stream grazes your skin.",
+      "It looks like a tiny cut.",
+      "Dirty water is injected deep inside.",
+      "The infection spreads. You don't survive."
+    ],
+    "image_prompts": [
+      "close-up of a high-pressure washer nozzle spraying a thin jet, dramatic light",
+      "macro of a tiny puncture on a fingertip, sharp detail",
+      "tight shot of a swollen red finger, harsh light",
+      "close-up of a gloved doctor's hand holding a scalpel",
+      "close-up of an IV drip in a dim hospital room"
+    ],
+    "tags": [
+      "pressure",
+      "washer",
+      "injection",
+      "survival",
+      "didyouknow",
+      "scary",
+      "shorts"
+    ]
+  },
+  {
+    "id": "fjord-landslide-tsunami",
+    "title": "Would you survive a landslide tsunami in a fjord? #shorts",
+    "description": "Landslide tsunamis in fjords can reach hundreds of feet and arrive within a minute of the collapse. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if a mountainside collapsed into the fjord where you were kayaking?",
+    "script": "You're paddling in a quiet fjord when you hear a roar. A mountain falls into the water. A wall of water, hundreds of feet high, rushes toward you faster than a car. You can't outpaddle it. It rolls you, and you slam into rock. Your kayak splinters like a toothpick. You don't survive.",
+    "captions": [
+      "You paddle a quiet fjord.",
+      "You hear a roar from the cliff above.",
+      "A mountain falls into the water.",
+      "A huge wave races toward you.",
+      "It slams you into rock. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view from a kayak in a still fjord under steep cliffs",
+      "close-up of rocks tumbling from a cliff, dust cloud, harsh light",
+      "tight shot of a giant wave rising behind a kayak paddle",
+      "close-up of a paddle snapped in foaming water",
+      "close-up of a red kayak smashed against black rock"
+    ],
+    "tags": [
+      "fjord",
+      "landslide",
+      "tsunami",
+      "survival",
+      "didyouknow",
+      "scary",
+      "shorts"
+    ]
+  },
+  {
+    "id": "gas-oven-pilot-explosion",
+    "title": "Would you survive a gas oven explosion? #shorts",
+    "description": "A small gas leak can fill a closed room, and even a light switch can ignite it. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you lit a gas oven after gas had been leaking for hours?",
+    "script": "You come home, smell nothing, and flip on the light. A tiny spark from the switch ignites gas that's filled the room. The explosion blows out the windows and collapses the ceiling on you. Fire fills the kitchen. You never even hear it coming, and the whole house shakes. You don't survive.",
+    "captions": [
+      "You come home to a quiet kitchen.",
+      "Gas has been leaking for hours.",
+      "You flip the light switch.",
+      "A tiny spark ignites the room.",
+      "The blast collapses the ceiling. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view of a quiet kitchen with a gas oven knob slightly turned",
+      "close-up of a blue flame flickering and spreading, dramatic light",
+      "tight shot of a hand on a wall light switch, strong shadows",
+      "close-up of a fireball rolling through a doorway, bright orange",
+      "close-up of rubble and smoke in a shattered kitchen"
+    ],
+    "tags": [
+      "oven",
+      "pilot",
+      "explosion",
+      "survival",
+      "didyouknow",
+      "scary",
+      "shorts"
+    ]
+  },
+  {
+    "id": "ice-jam-flood-river",
+    "title": "Would you survive an ice jam flood on a river? #shorts",
+    "description": "Ice jam floods strike without warning, and the combination of freezing water and heavy ice is deadly. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if an ice jam upriver suddenly broke and sent a flood toward your house?",
+    "script": "It's a freezing night, and the river has been frozen for weeks. Upstream, an ice dam breaks loose. A wall of water and ice blocks the size of cars smashes through the street. Your door caves in. You can't escape the freezing flood. It all happens in under a minute. You don't survive.",
+    "captions": [
+      "The river has been frozen for weeks.",
+      "Upstream, an ice dam breaks.",
+      "A wall of water and ice rushes in.",
+      "Car-sized blocks smash your door.",
+      "The freezing flood traps you. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view of a frozen river at night with cracked white ice",
+      "close-up of a huge slab of ice grinding against a bridge pier",
+      "tight shot of icy water bursting through a wooden door",
+      "close-up of blocks of ice piling against a house wall, harsh light",
+      "close-up of frozen water rising on a living room floor"
+    ],
+    "tags": [
+      "flood",
+      "river",
+      "survival",
+      "didyouknow",
+      "scary",
+      "shorts"
+    ]
+  },
+  {
+    "id": "pool-cover-trapped-drowning",
+    "title": "Would you survive falling under a pool cover? #shorts",
+    "description": "Pool covers can trap a person underwater, and falling in during winter can be fatal within minutes. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you walked across a pool cover and it gave way under you?",
+    "script": "You step on the winter pool cover, thinking it's solid. It sags and tilts, and you slide into the water. Now it's above your head. You can't find the edge in the dark, and the cover clings to your face. You run out of air. Your hands scrape the slick vinyl. You don't survive.",
+    "captions": [
+      "You step on a winter pool cover.",
+      "It sags and you slide in.",
+      "The cover closes over your head.",
+      "You can't find the edge in the dark.",
+      "You run out of air. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view of a heavy pool cover with pooled rainwater, overcast light",
+      "close-up of a foot sinking into a sagging cover, high contrast",
+      "tight shot of a hand pressing up against dark vinyl from below",
+      "close-up of bubbles trapped under a taut cover",
+      "close-up of a pool cover lying flat and still, harsh light"
+    ],
+    "tags": [
+      "pool",
+      "cover",
+      "trapped",
+      "survival",
+      "didyouknow",
+      "scary",
+      "shorts"
+    ]
+  },
+  {
+    "id": "boat-fire-offshore",
+    "title": "Would you survive a boat fire miles from shore? #shorts",
+    "description": "Boat fires spread fast, and being far offshore means rescue is often too late. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if your boat caught fire while you were twenty miles offshore?",
+    "script": "Fuel vapor ignites in the engine bay, and flames race through the cabin. You grab the radio, but it's already melting. You can't reach the life jackets, so you jump overboard. The water is cold. Nobody knows where you are. Thick black smoke blinds you and burns your throat. You don't survive.",
+    "captions": [
+      "Fuel vapor ignites in the engine bay.",
+      "Flames race through the cabin.",
+      "The radio melts before you reach it.",
+      "You jump into cold open water.",
+      "Nobody knows where you are. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view of a boat engine bay with flames, dramatic light",
+      "close-up of a melting marine radio, sharp detail",
+      "tight shot of orange life jackets burning in a locker",
+      "close-up of a figure leaping from a smoking boat into dark water",
+      "close-up of black smoke rising over a gray empty ocean"
+    ],
+    "tags": [
+      "boat",
+      "fire",
+      "offshore",
+      "survival",
+      "didyouknow",
+      "scary",
+      "shorts"
+    ]
+  },
+  {
+    "id": "caving-flashlights-fail",
+    "title": "Would you survive a total light failure deep in a cave? #shorts",
+    "description": "Cave rescues often begin hours after cavers fail to return, and total darkness makes it nearly impossible to self-rescue. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if all your lights failed a mile deep inside a cave?",
+    "script": "Your headlamp dies, then the backup, then the third. The darkness is total. You can't see your hand. You crawl, feel a drop-off, and back away. Every tunnel feels the same. You're lost, and no one knows your route. Your breathing echoes. Hours pass, and your water runs out. You don't survive.",
+    "captions": [
+      "Your headlamp dies, then the backup.",
+      "The third light flickers out.",
+      "The darkness is total.",
+      "Every tunnel feels the same.",
+      "No one knows your route. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view of a dark cave passage with one fading headlamp beam",
+      "close-up of a dead headlamp with a cracked lens",
+      "tight shot of a hand feeling a wet rock wall in blackness",
+      "close-up of a drop-off edge lit by a faint glow, high contrast",
+      "close-up of an empty muddy boot print in a narrow tunnel"
+    ],
+    "tags": [
+      "caving",
+      "flashlights",
+      "fail",
+      "survival",
+      "didyouknow",
+      "scary",
+      "shorts"
+    ]
+  },
+  {
+    "id": "glacial-river-afternoon-melt",
+    "title": "Would you survive crossing a glacial river in the afternoon? #shorts",
+    "description": "Glacial rivers can double in volume in a few hours, and the cold water can incapacitate swimmers in minutes. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you tried to cross a glacial river in the afternoon when the melt peaks?",
+    "script": "The river was ankle deep this morning. By afternoon, the sun has melted tons of ice, and the water is thigh high and fast. You step in, and the current knocks you down. The ice-cold water steals your breath. You can't stand. Boulders grind beneath the surface. You don't survive.",
+    "captions": [
+      "The river was ankle deep this morning.",
+      "The afternoon melt swells it.",
+      "You step in. The current knocks you down.",
+      "The icy water steals your breath.",
+      "You can't stand. You don't survive."
+    ],
+    "image_prompts": [
+      "first person view of a gray braided glacial river with milky water",
+      "close-up of silty water rushing over a hiking boot, high contrast",
+      "tight shot of a trekking pole bending in the current",
+      "close-up of a backpack drifting in churning gray water",
+      "close-up of an empty far bank with a lone pole, harsh light"
+    ],
+    "tags": [
+      "glacial",
+      "river",
+      "afternoon",
+      "survival",
+      "didyouknow",
+      "scary",
+      "shorts"
+    ]
   }
 ]

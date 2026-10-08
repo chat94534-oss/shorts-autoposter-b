@@ -1,35 +1,5 @@
 [
   {
-    "id": "elevator-shaft-fall",
-    "title": "Would you survive stepping into an elevator shaft with no car? #shorts",
-    "description": "The doors open on what looks like your floor, but the elevator car isn't there, only an empty shaft dropping into darkness. #shorts #survival #didyouknow #scary",
-    "hook": "What would happen if the elevator doors opened but the car wasn't actually there?",
-    "script": "You press the button and the doors slide open right at your floor, just like always. You step forward without looking down, but a maintenance error left the car stopped one floor below. There's nothing beneath you but a dark shaft dropping several stories. You realize the mistake a half second too late to grab the frame. You don't survive.",
-    "captions": [
-      "The elevator doors open right at your floor.",
-      "You step forward without looking down first.",
-      "A maintenance error left the car one floor below.",
-      "There's nothing beneath you but an empty shaft.",
-      "You realize it a half second too late. You don't survive."
-    ],
-    "image_prompts": [
-      "first person view of elevator doors opening onto a dark empty shaft, dim lighting",
-      "close-up of a foot stepping toward an open gap, tense lighting",
-      "a dark elevator shaft dropping into shadow, high contrast",
-      "a figure falling past floor indicator lights, cinematic motion blur",
-      "wide shot of a quiet hallway with elevator doors closed, stark contrast"
-    ],
-    "tags": [
-      "elevator",
-      "shaftfall",
-      "accident",
-      "survival",
-      "shorts",
-      "didyouknow",
-      "scary"
-    ]
-  },
-  {
     "id": "subway-third-rail-fall",
     "title": "Would you survive falling onto subway tracks near the third rail? #shorts",
     "description": "You slip off a crowded platform edge, and your hand lands inches from the electrified rail that powers every train in the system. #shorts #survival #didyouknow #scary",

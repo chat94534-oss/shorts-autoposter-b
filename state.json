@@ -328,6 +328,10 @@
     "firenado-wildfire-evacuation",
     "decompression-sickness-solo-dive",
     "zipline-cable-snap",
-    "elevator-shaft-fall"
+    "elevator-shaft-fall",
+    "subway-third-rail-fall",
+    "hail-storm-open-field",
+    "drone-propeller-industrial-accident",
+    "zamboni-carbon-monoxide-arena"
   ]
 }

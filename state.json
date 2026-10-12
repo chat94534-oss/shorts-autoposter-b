@@ -337,6 +337,9 @@
     "heat-stroke-marathon-alone",
     "hypothermia-stranded-hiker",
     "frostbite-stranded-vehicle-snowstorm",
-    "gas-station-static-spark-fire"
+    "gas-station-static-spark-fire",
+    "zoo-enclosure-accidental-fall",
+    "subway-platform-edge-fall",
+    "methane-explosion-coal-mine"
   ]
 }

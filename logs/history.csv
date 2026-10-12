@@ -336,3 +336,6 @@ date,topic_id,privacy
 2026-10-10,hypothermia-stranded-hiker,scheduled
 2026-10-10,frostbite-stranded-vehicle-snowstorm,scheduled
 2026-10-11,gas-station-static-spark-fire,public
+2026-10-11,zoo-enclosure-accidental-fall,public
+2026-10-11,subway-platform-edge-fall,public
+2026-10-11,methane-explosion-coal-mine,scheduled

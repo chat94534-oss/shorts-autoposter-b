@@ -1072,5 +1072,725 @@
       "scary",
       "shorts"
     ]
+  },
+  {
+    "id": "black-bear-tent-attack",
+    "title": "Would you survive a black bear tearing into your tent? #shorts",
+    "description": "A black bear that attacks a tent at night is usually predatory, and the rule is to fight back, not play dead. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if a black bear tore into your tent in the middle of the night?",
+    "script": "A scratching sound. Then claws rip the nylon open beside your head. You smell wet fur. Your instinct says lie still and play dead. That works for a mother grizzly defending cubs. A black bear entering your tent at night is hunting you. So you fight. Punch its nose, kick, scream. You survive.",
+    "captions": [
+      "Claws rip the nylon.",
+      "You smell wet fur.",
+      "Playing dead feels right.",
+      "But this bear is hunting.",
+      "You fight back. You survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of black bear claws ripping tent fabric, flashlight glare",
+      "tight shot of a bear's wet nose pushing through a tear, high contrast",
+      "close-up of wide terrified eyes in a dark tent, harsh light",
+      "close-up of a fist striking toward a bear muzzle, motion blur",
+      "close-up of a shredded tent flap at dawn, strong shadows"
+    ],
+    "tags": [
+      "black bear",
+      "camping",
+      "tent",
+      "survival",
+      "didyouknow",
+      "scary",
+      "shorts"
+    ]
+  },
+  {
+    "id": "cattle-field-dog-walk",
+    "title": "Would you survive a herd of cows charging you and your dog? #shorts",
+    "description": "Cattle protecting calves charge walkers with dogs, and letting go of the lead is the move that saves lives. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if a herd of cows charged you while you walked your dog through a field?",
+    "script": "The cows have calves. Your dog barks once. Every head turns. They start walking toward you, then running. Half a tonne each. You grip the lead tighter and try to drag your dog away. That's what gets walkers trampled. You let go. Your dog outruns them, the herd follows it, and you reach the gate. You survive.",
+    "captions": [
+      "The cows have calves.",
+      "Your dog barks once.",
+      "Half a tonne each, running.",
+      "Let go of the lead.",
+      "Your dog outruns them. You survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a cow's eye and wet nose, harsh light",
+      "tight shot of hooves pounding mud, motion blur",
+      "close-up of a hand gripping a taut dog lead, high contrast",
+      "close-up of a dropped lead in the grass, strong shadows",
+      "close-up of a hand on a farm gate latch, dramatic light"
+    ],
+    "tags": [
+      "cows",
+      "cattle",
+      "dog walk",
+      "survival",
+      "didyouknow",
+      "scary",
+      "shorts"
+    ]
+  },
+  {
+    "id": "elevator-stuck-between-floors",
+    "title": "Would you survive being stuck in an elevator between floors? #shorts",
+    "description": "People die climbing out of stalled elevators, while staying inside and calling for help is almost always safe. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if your elevator jammed between floors and you tried to climb out?",
+    "script": "The car jolts and stops. The lights flicker. You pry the doors open and see the floor above at chest height, with a dark gap below. Climbing out feels smart. If the car moves, or you slip, that gap is the shaft. So you don't. You press the alarm and wait. Elevator cars almost never fall. You survive.",
+    "captions": [
+      "The car jolts and stops.",
+      "A dark gap below the floor.",
+      "Climbing out feels smart.",
+      "You press the alarm instead.",
+      "You wait. You survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of an elevator emergency button glowing red",
+      "tight shot of fingers prying elevator doors apart, harsh light",
+      "close-up of a dark gap into an elevator shaft, high contrast",
+      "close-up of a flickering elevator ceiling light, strong shadows",
+      "close-up of a hand pressing an alarm button, dramatic light"
+    ],
+    "tags": [
+      "elevator",
+      "lift",
+      "trapped",
+      "survival",
+      "didyouknow",
+      "scary",
+      "shorts"
+    ]
+  },
+  {
+    "id": "vfr-into-clouds",
+    "title": "Would you survive flying a small plane into a cloud with no instrument training? #shorts",
+    "description": "In a classic study, pilots without instrument training who flew into cloud lost control in about 178 seconds on average. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you flew a small plane into a cloud without instrument training?",
+    "script": "The windscreen turns white. Your inner ear says you're flying level. You're not. The plane is slowly banking. The engine note rises as the nose drops into a spiral. Pilots in this situation lost control in about three minutes. But you ignore your body and trust the instruments. Wings level. Gentle turn back. Clear sky. You survive.",
+    "captions": [
+      "The windscreen turns white.",
+      "Your body says level.",
+      "The plane is spiralling.",
+      "Trust the instruments.",
+      "Turn back. You survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a cockpit windscreen filled with white cloud",
+      "tight shot of a tilted attitude indicator, harsh light",
+      "close-up of a pilot's sweating hand on the yoke, high contrast",
+      "close-up of an altimeter needle unwinding, strong shadows",
+      "close-up of blue sky breaking through cloud on a windscreen"
+    ],
+    "tags": [
+      "small plane",
+      "pilot",
+      "clouds",
+      "survival",
+      "didyouknow",
+      "scary",
+      "shorts"
+    ]
+  },
+  {
+    "id": "turkey-fryer-fire",
+    "title": "Would you survive dropping a frozen turkey into a deep fryer? #shorts",
+    "description": "Ice in a frozen turkey flashes to steam in hot oil, boiling it over onto the flame and creating a fireball. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you lowered a frozen turkey into a pot of boiling oil?",
+    "script": "The oil is at one hundred eighty degrees. The turkey is still icy inside. The moment it touches the oil, the ice flashes into steam. The oil foams up and over the rim, straight onto the burner. A fireball blooms taller than you. Burning oil splashes your arms and legs. Your clothes catch. You don't survive.",
+    "captions": [
+      "The turkey is still icy.",
+      "The ice flashes to steam.",
+      "Oil foams over the rim.",
+      "A fireball blooms.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of frozen turkey skin above bubbling oil",
+      "tight shot of oil foaming over a steel pot rim, harsh light",
+      "close-up of a fireball erupting from a burner, high contrast",
+      "close-up of burning oil splattering on concrete, strong shadows",
+      "close-up of a charred fryer pot, dramatic light"
+    ],
+    "tags": [
+      "turkey fryer",
+      "grease fire",
+      "thanksgiving",
+      "survival",
+      "didyouknow",
+      "scary",
+      "shorts"
+    ]
+  },
+  {
+    "id": "mountain-goat-gore",
+    "title": "Would you survive a mountain goat that won't leave the trail? #shorts",
+    "description": "Mountain goats habituated to hikers can become aggressive, and their sharp horns can pierce a major artery. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if a mountain goat followed you down a narrow trail and wouldn't back off?",
+    "script": "It's been following you for ten minutes. It wants the salt from your sweat. You wave your arms. It doesn't move. Then it lowers its head. Its horns are short, black, and sharp as daggers. One thrust buries a horn in your thigh and opens the big artery. Blood pours down your leg. You don't survive.",
+    "captions": [
+      "It's been following you.",
+      "It wants your salt.",
+      "It lowers its head.",
+      "A horn pierces your thigh.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a mountain goat's black dagger horns",
+      "tight shot of a goat's yellow eye, harsh light",
+      "close-up of hooves on a narrow rocky trail, high contrast",
+      "close-up of a horn tip with blood, strong shadows",
+      "close-up of a dropped hiking pole on rocks, dramatic light"
+    ],
+    "tags": [
+      "mountain goat",
+      "hiking",
+      "goring",
+      "survival",
+      "didyouknow",
+      "scary",
+      "shorts"
+    ]
+  },
+  {
+    "id": "kangaroo-kick",
+    "title": "Would you survive a male kangaroo that wants to fight? #shorts",
+    "description": "Large male kangaroos balance on their tails and kick with clawed hind feet powerful enough to disembowel. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if a full-grown male kangaroo decided you were a rival?",
+    "script": "He's taller than you, standing on his toes. He grabs your shoulders with his front paws. Then he leans back onto his tail, lifting both back feet off the ground. Each foot ends in a long claw. He kicks forward with enough force to rip open your stomach. He kicks again. You don't survive.",
+    "captions": [
+      "He's taller than you.",
+      "He grabs your shoulders.",
+      "He leans back on his tail.",
+      "Both clawed feet kick.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a male kangaroo's muscular chest and arms",
+      "tight shot of kangaroo front paws gripping a shirt, harsh light",
+      "close-up of a long hind claw, high contrast",
+      "close-up of kangaroo feet kicking forward, motion blur",
+      "close-up of torn fabric on red dirt, strong shadows"
+    ],
+    "tags": [
+      "kangaroo",
+      "australia",
+      "animal attack",
+      "survival",
+      "didyouknow",
+      "scary",
+      "shorts"
+    ]
+  },
+  {
+    "id": "moose-car-collision",
+    "title": "Would you survive hitting a moose with your car? #shorts",
+    "description": "A moose's long legs put its huge body at windshield height, so a collision sends it into the cabin. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you hit a moose at highway speed at night?",
+    "script": "It steps out of the dark. Your headlights don't catch its eyes, because they're above the beams. You hit it. The bumper takes out its legs, and five hundred kilograms of body swings up. It doesn't go under the car. It comes through the windshield, straight into the front seats. The roof crumples. You don't survive.",
+    "captions": [
+      "It steps out of the dark.",
+      "Its eyes are above your beams.",
+      "The bumper takes its legs.",
+      "It comes through the windshield.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of moose legs in headlight glare",
+      "tight shot of a moose's dark head above headlights, high contrast",
+      "close-up of a shattered windshield with brown fur, harsh light",
+      "close-up of a crumpled car roof, strong shadows",
+      "close-up of a broken headlight on a dark road, dramatic light"
+    ],
+    "tags": [
+      "moose",
+      "car crash",
+      "night driving",
+      "survival",
+      "didyouknow",
+      "scary",
+      "shorts"
+    ]
+  },
+  {
+    "id": "grand-canyon-midday-hike",
+    "title": "Would you survive hiking out of the Grand Canyon at midday in summer? #shorts",
+    "description": "Inside the Grand Canyon, summer temperatures can pass 40°C, and the climb out is where hikers collapse. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you started hiking out of the Grand Canyon at noon in July?",
+    "script": "Going down was easy. Now it's forty-five degrees, and the trail climbs a kilometre and a half straight up. You run out of water halfway. Your sweat stops. Your skin turns hot and dry. You get confused and sit down in the sun. Your body temperature climbs past forty-one degrees. Your organs start shutting down. You don't survive.",
+    "captions": [
+      "Going down was easy.",
+      "Now it's 45 degrees.",
+      "Your water runs out.",
+      "Your sweat stops.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a sunburned face dripping sweat, harsh sun",
+      "tight shot of an empty water bottle on red rock, high contrast",
+      "close-up of a dusty boot on a steep switchback, strong shadows",
+      "close-up of dry cracked lips, harsh light",
+      "close-up of a hand slumped on hot red stone, dramatic light"
+    ],
+    "tags": [
+      "grand canyon",
+      "heat stroke",
+      "hiking",
+      "survival",
+      "didyouknow",
+      "scary",
+      "shorts"
+    ]
+  },
+  {
+    "id": "dry-ice-in-car",
+    "title": "Would you survive driving home with a cooler full of dry ice? #shorts",
+    "description": "Dry ice turns into carbon dioxide gas, and in a closed car it can build up to dangerous levels. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you drove home with a big box of dry ice and the windows shut?",
+    "script": "The dry ice is turning into gas, a lot of it. In a sealed car, carbon dioxide builds up fast. You get a headache. You start breathing faster without knowing why. Your hands tingle. The road blurs. You feel sleepy behind the wheel. Your eyes close. The car drifts across the lane. You don't survive.",
+    "captions": [
+      "The dry ice turns to gas.",
+      "Carbon dioxide builds up.",
+      "You breathe faster.",
+      "The road blurs.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of fog spilling from a cooler of dry ice",
+      "tight shot of a closed car window fogging, harsh light",
+      "close-up of a driver's drooping eyelids, high contrast",
+      "close-up of hands loosening on a steering wheel, strong shadows",
+      "close-up of a car drifting over a lane line, dramatic light"
+    ],
+    "tags": [
+      "dry ice",
+      "carbon dioxide",
+      "car",
+      "survival",
+      "didyouknow",
+      "scary",
+      "shorts"
+    ]
+  },
+  {
+    "id": "attic-heatstroke",
+    "title": "Would you survive working in an attic on a summer afternoon? #shorts",
+    "description": "Attics can reach 60°C on summer afternoons, and people working in them can die of heat stroke within hours. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you spent a summer afternoon working up in your attic?",
+    "script": "Outside it's thirty-five degrees. Under the roof, it's over sixty. The air doesn't move. Insulation fibres stick to your sweat. After an hour you feel dizzy, but you want to finish. Your heart is racing. You stop sweating. When you try to stand, you collapse between the rafters. Nobody knows you're up there. You don't survive.",
+    "captions": [
+      "Under the roof: over 60°C.",
+      "The air doesn't move.",
+      "Your heart is racing.",
+      "You stop sweating.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of sweat on a face under a dusty roof",
+      "tight shot of pink insulation stuck to skin, harsh light",
+      "close-up of a thermometer reading 60 degrees, high contrast",
+      "close-up of a hand slipping off a rafter, strong shadows",
+      "close-up of a flashlight lying in insulation, dramatic light"
+    ],
+    "tags": [
+      "attic",
+      "heat stroke",
+      "summer",
+      "survival",
+      "didyouknow",
+      "scary",
+      "shorts"
+    ]
+  },
+  {
+    "id": "roof-snow-slide",
+    "title": "Would you survive a roof avalanche landing on you? #shorts",
+    "description": "Snow sliding off a steep or metal roof can bury and suffocate someone standing below in seconds. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if a steep roof dumped its snow while you stood below?",
+    "script": "A soft hiss above you. A metre of packed snow slides off the roof all at once. It hits you like a car and pins you face down. Wet snow weighs hundreds of kilograms per cubic metre. You can't lift your arms. Your breath melts a pocket that freezes into ice. Nobody saw it fall. You don't survive.",
+    "captions": [
+      "A soft hiss above you.",
+      "The roof lets go.",
+      "It pins you face down.",
+      "You can't lift your arms.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of snow sliding off a metal roof edge",
+      "tight shot of icicles breaking from a gutter, harsh light",
+      "close-up of a face buried in packed snow, high contrast",
+      "close-up of a gloved hand sticking out of snow, strong shadows",
+      "close-up of an ice crust over a breathing pocket, cold light"
+    ],
+    "tags": [
+      "roof avalanche",
+      "snow",
+      "winter",
+      "survival",
+      "didyouknow",
+      "scary",
+      "shorts"
+    ]
+  },
+  {
+    "id": "parasailing-towline-snap",
+    "title": "Would you survive your parasail tow line snapping? #shorts",
+    "description": "If a parasail tow line breaks in strong wind, the rider drifts with no control and can be slammed into buildings or water. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if your parasailing tow line snapped in a strong gust?",
+    "script": "You're sixty metres above the beach. A gust hits. The line twangs and goes slack. The boat speeds away without you. Now you're a kite with no string. The wind drags you toward the shore. You can't steer. The hotels get closer. Your harness slams you against a building, then you drop. You don't survive.",
+    "captions": [
+      "Sixty metres up.",
+      "The line snaps.",
+      "A kite with no string.",
+      "You can't steer.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a snapped tow rope fraying, harsh sun",
+      "tight shot of a parasail canopy collapsing in wind, high contrast",
+      "close-up of feet dangling high above a beach, strong light",
+      "close-up of harness straps twisting, motion blur",
+      "close-up of a canopy tangled on a hotel balcony, dramatic light"
+    ],
+    "tags": [
+      "parasailing",
+      "beach",
+      "wind",
+      "survival",
+      "didyouknow",
+      "scary",
+      "shorts"
+    ]
+  },
+  {
+    "id": "big-wave-two-wave-holddown",
+    "title": "Would you survive wiping out on a giant wave? #shorts",
+    "description": "A big-wave wipeout can hold a surfer underwater through two waves, longer than most people can hold their breath. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you wiped out on a fifteen-metre wave and the next one landed on top?",
+    "script": "The lip throws you. The water spins you so hard you don't know which way is up. Your leash snaps. You claw toward the light, and it goes dark. The next wave lands on you and drives you back to the bottom. Your lungs burn. Your diaphragm spasms. Your mouth opens. You don't survive.",
+    "captions": [
+      "The lip throws you.",
+      "You don't know which way is up.",
+      "You claw for the light.",
+      "The next wave drives you down.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a giant wave lip curling over, dramatic light",
+      "tight shot of a surfboard leash snapping, high contrast",
+      "close-up of churning white water from below, harsh light",
+      "close-up of bubbles escaping a mouth underwater, strong shadows",
+      "close-up of a broken surfboard on dark water"
+    ],
+    "tags": [
+      "big wave",
+      "surfing",
+      "holddown",
+      "survival",
+      "didyouknow",
+      "scary",
+      "shorts"
+    ]
+  },
+  {
+    "id": "wingsuit-proximity-flight",
+    "title": "Would you survive wingsuit flying close to a mountain ridge? #shorts",
+    "description": "Wingsuit proximity flying passes terrain at over 150 km/h, and a small misjudgment leaves no time to correct. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you misjudged a wingsuit flight past a mountain ridge?",
+    "script": "You leap from the cliff. Two hundred kilometres an hour. The ridge rushes up to meet you, closer than you planned. You lose a little height in a turn, just a few metres. At this speed, a few metres is a fraction of a second. You see the rocks. You pull up. There isn't enough air. You don't survive.",
+    "captions": [
+      "200 km/h.",
+      "The ridge rushes up.",
+      "A few metres too low.",
+      "You see the rocks.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a wingsuit pilot's goggles, rushing wind",
+      "tight shot of fabric wings snapping in the air, high contrast",
+      "close-up of jagged rock rushing below, motion blur",
+      "close-up of a helmet camera lens reflecting a cliff, harsh light",
+      "close-up of a torn wingsuit on scree, strong shadows"
+    ],
+    "tags": [
+      "wingsuit",
+      "base jump",
+      "extreme sports",
+      "survival",
+      "didyouknow",
+      "scary",
+      "shorts"
+    ]
+  },
+  {
+    "id": "cliff-edge-selfie-fall",
+    "title": "Would you survive stepping back for a selfie on a cliff edge? #shorts",
+    "description": "Dozens of people die each year in selfie-related falls, often from stepping backward near an edge. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you took one step back for a better selfie on a cliff edge?",
+    "script": "The view is perfect, but the frame isn't. You take one small step back. Your heel lands on loose gravel. It rolls. Your arms windmill. The phone flies out of your hand. You reach for the ground and it's not there. Fifty metres of air. Then rock. You don't survive.",
+    "captions": [
+      "The frame isn't quite right.",
+      "One small step back.",
+      "Loose gravel rolls.",
+      "The ground isn't there.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a heel on loose gravel at a cliff edge",
+      "tight shot of a phone screen showing a selfie, harsh light",
+      "close-up of a phone tumbling through the air, motion blur",
+      "close-up of fingers grasping at empty air, high contrast",
+      "close-up of a cracked phone on rocks, strong shadows"
+    ],
+    "tags": [
+      "selfie",
+      "cliff",
+      "fall",
+      "survival",
+      "didyouknow",
+      "scary",
+      "shorts"
+    ]
+  },
+  {
+    "id": "ice-diving-lost-hole",
+    "title": "Would you survive losing the hole while scuba diving under ice? #shorts",
+    "description": "Ice divers rely on a guideline back to the entry hole, because the ice ceiling looks the same in every direction. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you lost your guideline while scuba diving under a frozen lake?",
+    "script": "The rope slips from your glove. You turn around. The ice above is the same flat grey in every direction. The hole could be anywhere. You swim one way, then another. Your breathing speeds up. Your gauge drops. You press your hands against the ceiling. It's half a metre thick. You don't survive.",
+    "captions": [
+      "The rope slips away.",
+      "Grey ice in every direction.",
+      "Where is the hole?",
+      "Your air gauge drops.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a gloved hand losing grip on a rope underwater",
+      "tight shot of a diver mask under grey ice, cold light",
+      "close-up of a pressure gauge needle near empty, high contrast",
+      "close-up of hands pressed against thick ice from below, harsh light",
+      "close-up of trapped air bubbles under ice, strong shadows"
+    ],
+    "tags": [
+      "ice diving",
+      "scuba",
+      "frozen lake",
+      "survival",
+      "didyouknow",
+      "scary",
+      "shorts"
+    ]
+  },
+  {
+    "id": "mammoth-mountain-co2-snow-hole",
+    "title": "Would you survive falling into a snow hole over a volcanic vent? #shorts",
+    "description": "On volcanic mountains, carbon dioxide from vents can collect in snow pits, and people who fall in can suffocate within minutes. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you fell into a snow hole above a hidden volcanic vent?",
+    "script": "The snow gives way and you drop into a hollow. It smells faintly sour. Volcanic gas has filled it with carbon dioxide, heavier than air. Your first breath feels wrong. Your second burns. You try to climb, but your legs are weak. You can see the sky above you. You can't reach it. You don't survive.",
+    "captions": [
+      "The snow gives way.",
+      "The hollow is full of gas.",
+      "Your breath burns.",
+      "Your legs go weak.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a dark hole in snow with faint steam",
+      "tight shot of yellow sulphur crust on rock, harsh light",
+      "close-up of a ski boot slipping on ice, high contrast",
+      "close-up of a gloved hand clawing at snow walls, strong shadows",
+      "close-up of a sky seen from a narrow snow pit, cold light"
+    ],
+    "tags": [
+      "volcanic gas",
+      "carbon dioxide",
+      "skiing",
+      "survival",
+      "didyouknow",
+      "scary",
+      "shorts"
+    ]
+  },
+  {
+    "id": "go-kart-hair-entanglement",
+    "title": "Would you survive long hair caught in a go-kart axle? #shorts",
+    "description": "Long hair can wrap around an exposed go-kart axle in an instant, which is why tracks require hair to be tied up. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if your long hair blew loose and caught in a go-kart's spinning axle?",
+    "script": "You took your helmet off for a moment. You never tied your hair. Wind blows it back, behind the seat. The engine is right there, the axle spinning thousands of times a minute. It grabs one strand, then all of it. Your head snaps backwards. The axle doesn't stop. You don't survive.",
+    "captions": [
+      "You never tied your hair.",
+      "It blows behind the seat.",
+      "The axle grabs one strand.",
+      "Your head snaps back.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of long hair blowing behind a kart seat",
+      "tight shot of a spinning go-kart axle, motion blur",
+      "close-up of hair strands wrapped on a metal shaft, harsh light",
+      "close-up of a helmet lying on asphalt, high contrast",
+      "close-up of a kart engine with a chain guard, strong shadows"
+    ],
+    "tags": [
+      "go-kart",
+      "hair",
+      "accident",
+      "survival",
+      "didyouknow",
+      "scary",
+      "shorts"
+    ]
+  },
+  {
+    "id": "ice-floe-drift-away",
+    "title": "Would you survive your ice fishing spot breaking away from shore? #shorts",
+    "description": "Every winter, sheets of lake ice break off and drift away with ice fishers stranded on them. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if the ice you were fishing on broke away and drifted out?",
+    "script": "A loud crack behind you. Wind has been pushing the lake all day. When you turn around, there's a strip of black water between you and the shore. It's growing. Your phone has no signal. The sun goes down. The wind picks up. The floe breaks in half, and you're on the smaller piece. You don't survive.",
+    "captions": [
+      "A loud crack behind you.",
+      "Black water between you and shore.",
+      "It's growing.",
+      "The floe breaks in half.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a crack splitting through thick lake ice",
+      "tight shot of black water opening between ice sheets, harsh light",
+      "close-up of a fishing hole with a line, high contrast",
+      "close-up of a phone showing no signal in a gloved hand, cold light",
+      "close-up of an abandoned ice auger on a drifting floe"
+    ],
+    "tags": [
+      "ice fishing",
+      "ice floe",
+      "frozen lake",
+      "survival",
+      "didyouknow",
+      "scary",
+      "shorts"
+    ]
+  },
+  {
+    "id": "tree-felling-barber-chair",
+    "title": "Would you survive a tree splitting while you cut it down? #shorts",
+    "description": "A barber chair happens when a tree splits vertically during felling, and the trunk slab kicks back with huge force. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if the tree you were cutting split up the middle before it fell?",
+    "script": "The tree leans more than you thought. You cut too slowly. The trunk starts falling before your saw is through, and it rips vertically up the middle. A slab of the trunk springs back toward you like a giant lever. Loggers call it a barber chair. It hits your chest at incredible speed. You don't survive.",
+    "captions": [
+      "The tree leans too much.",
+      "It starts falling early.",
+      "The trunk splits up the middle.",
+      "A slab springs back.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a chainsaw chain cutting into bark, sawdust spray",
+      "tight shot of a trunk splitting vertically, harsh light",
+      "close-up of splintered wood fibres tearing, high contrast",
+      "close-up of a hard hat on forest floor, strong shadows",
+      "close-up of a jagged upright tree stump, dramatic light"
+    ],
+    "tags": [
+      "chainsaw",
+      "tree felling",
+      "barber chair",
+      "survival",
+      "didyouknow",
+      "scary",
+      "shorts"
+    ]
+  },
+  {
+    "id": "abandoned-mine-low-oxygen",
+    "title": "Would you survive walking into an abandoned mine? #shorts",
+    "description": "Abandoned mines can hold pockets of air with almost no oxygen, and a few breaths can cause collapse within seconds. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you walked into an abandoned mine to explore?",
+    "script": "Your flashlight shows old timbers and wet rock. The air smells normal. It isn't. Deep inside, the oxygen has been used up by rusting iron and rotting wood. You take a few steps around a corner. You don't feel short of breath. You feel nothing at all. You drop to the floor within seconds. You don't survive.",
+    "captions": [
+      "Old timbers and wet rock.",
+      "The air smells normal.",
+      "The oxygen is gone.",
+      "You feel nothing.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of rotting mine timbers in flashlight beam",
+      "tight shot of rusted mine rails in darkness, high contrast",
+      "close-up of a flashlight beam cutting dusty air, harsh light",
+      "close-up of a flashlight lying on wet rock, strong shadows",
+      "close-up of a boarded mine entrance, dramatic light"
+    ],
+    "tags": [
+      "abandoned mine",
+      "low oxygen",
+      "exploring",
+      "survival",
+      "didyouknow",
+      "scary",
+      "shorts"
+    ]
+  },
+  {
+    "id": "kite-power-line",
+    "title": "Would you survive your kite string touching a power line? #shorts",
+    "description": "Kite strings, especially damp or metallic ones, can conduct electricity from overhead power lines into the person holding them. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if your kite drifted onto a high-voltage power line and you kept holding the string?",
+    "script": "The wind gusts and your kite swings over the wires. It drapes across one line. The string is damp from the drizzle. You pull to free it. Thousands of volts race down the string into your hands. Your muscles lock and you can't let go. Your heart stops beating in rhythm. You don't survive.",
+    "captions": [
+      "The kite drapes over the wire.",
+      "The string is damp.",
+      "You pull to free it.",
+      "Your muscles lock.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a kite tangled on a high-voltage line",
+      "tight shot of a wet kite string in a clenched hand, high contrast",
+      "close-up of sparks at a power line, harsh light",
+      "close-up of a kite spool on wet grass, strong shadows",
+      "close-up of a scorched string hanging from wires, dramatic light"
+    ],
+    "tags": [
+      "kite",
+      "power line",
+      "electrocution",
+      "survival",
+      "didyouknow",
+      "scary",
+      "shorts"
+    ]
+  },
+  {
+    "id": "propeller-walk-into",
+    "title": "Would you survive walking into a spinning airplane propeller? #shorts",
+    "description": "A spinning propeller is almost invisible, and people on airfield ramps have walked straight into them. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you walked toward a small plane whose propeller was still spinning?",
+    "script": "The engine is idling, but you can barely hear it over everything else. In the bright sun, the propeller is just a faint shimmer. You look like you're walking into empty air. You step closer to the nose to grab your bag. The blades are turning forty times a second. You never see them. You don't survive.",
+    "captions": [
+      "The engine is idling.",
+      "The propeller is a faint shimmer.",
+      "It looks like empty air.",
+      "You step toward the nose.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a nearly invisible spinning propeller, harsh sun",
+      "tight shot of a propeller hub with motion blur, high contrast",
+      "close-up of a hand reaching toward a plane nose, strong shadows",
+      "close-up of a dropped bag on tarmac, dramatic light",
+      "close-up of a propeller tip with a red warning stripe"
+    ],
+    "tags": [
+      "propeller",
+      "airplane",
+      "airfield",
+      "survival",
+      "didyouknow",
+      "scary",
+      "shorts"
+    ]
   }
 ]

@@ -344,6 +344,10 @@
     "crop-duster-plane-crash",
     "sailboat-boom-strike-overboard",
     "grain-elevator-dust-explosion",
-    "fireworks-factory-explosion"
+    "fireworks-factory-explosion",
+    "gas-line-rupture-excavator",
+    "ferris-wheel-gondola-fall",
+    "auto-belay-climbing-gym-failure",
+    "microlight-aircraft-engine-failure"
   ]
 }

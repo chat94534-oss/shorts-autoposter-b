@@ -1106,5 +1106,749 @@
       "scary",
       "shorts"
     ]
+  },
+  {
+    "id": "spacewalk-helmet-flooding",
+    "title": "Would you survive your helmet filling with water on a spacewalk? #shorts",
+    "description": "In 2013 an astronaut's helmet filled with water during a spacewalk. He found his way back by feel. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if your helmet started filling with water during a spacewalk?",
+    "script": "Cold water touches the back of your neck. It creeps over your ears. Now you can't hear the radio. It covers your eyes, then your nose. In zero gravity it clings to your face and won't drain. You can't see the airlock. So you follow your safety tether by touch, hand over hand, and you make it inside. You survive.",
+    "captions": [
+      "Water on your neck.",
+      "It covers your ears.",
+      "Then your eyes and nose.",
+      "Follow the tether by touch.",
+      "You survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of an astronaut visor with a bubble of water inside, harsh sunlight",
+      "tight shot of water clinging over an astronaut's ear inside a helmet, cold light",
+      "close-up of a face behind a visor engulfed by a floating water blob, high contrast",
+      "close-up of a gloved hand gripping a steel tether cable, black space behind",
+      "tight shot of an airlock hatch handle in white glove, dramatic light"
+    ],
+    "tags": [
+      "spacewalk",
+      "astronaut",
+      "space",
+      "iss",
+      "nasa",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "ejection-seat-inverted-low",
+    "title": "Would you survive ejecting from a fighter jet upside down? #shorts",
+    "description": "Ejection seats fire you away from the aircraft. If the jet is inverted near the ground, that means straight down. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you pulled the ejection handle while your jet was upside down near the ground?",
+    "script": "Your fighter rolls past ninety degrees and the ground fills the canopy. Warning tones scream. You pull the handle. The canopy blows away and the rocket fires, hurling you away from the jet at twenty G. But the jet is upside down, so away means down. The chute never opens. You don't survive.",
+    "captions": [
+      "The ground fills the canopy.",
+      "You pull the handle.",
+      "Twenty G of rocket.",
+      "Away means down.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a pilot's gloved hands on a yellow ejection handle, red cockpit light",
+      "tight shot of an inverted horizon through a fighter canopy, high contrast",
+      "close-up of a canopy blasting off in fire and glass, dramatic light",
+      "close-up of a rocket seat flame pointing upward toward the sky, ground rushing",
+      "tight shot of an unopened parachute pack, dust and harsh light"
+    ],
+    "tags": [
+      "fighter jet",
+      "ejection seat",
+      "pilot",
+      "military",
+      "aviation",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "g-loc-fighter-blackout",
+    "title": "Would you survive blacking out from G-force in a fighter jet? #shorts",
+    "description": "Pulling hard turns drains blood from the brain. G-induced loss of consciousness has killed pilots who never knew it happened. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you pulled a hard turn in a fighter jet without straining against the G?",
+    "script": "You haul back on the stick at nine G. Blood drains from your head. The colors go first, then the edges of your vision close into a tunnel. Then the tunnel goes black. You're unconscious, still pulling, nose falling. You wake up confused fifteen seconds later. The ground is right there. You don't survive.",
+    "captions": [
+      "Nine G.",
+      "Your body weighs a ton.",
+      "Your vision tunnels.",
+      "Then it goes black.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a pilot's face distorted by g-force, harsh cockpit light",
+      "tight shot of a g-meter needle pinned at nine, red glow",
+      "close-up of a pilot's eye with vision narrowing to a tunnel, vignette, high contrast",
+      "close-up of a slack gloved hand sliding off a flight stick, dark",
+      "tight shot of an altimeter spinning down, red warning light"
+    ],
+    "tags": [
+      "fighter jet",
+      "g force",
+      "blackout",
+      "pilot",
+      "aviation",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "saturation-diver-cut-umbilical",
+    "title": "Would you survive your air line snapping 100 meters underwater? #shorts",
+    "description": "In 2012 a saturation diver was stranded on the seabed when his umbilical snapped. He survived over thirty minutes on his bailout tank. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if your air line snapped while you were diving a hundred meters underwater?",
+    "script": "Your support ship drifts off position. Your umbilical goes tight, then snaps. Your lights, heat and main gas are gone. You're alone on the seabed in total darkness. You switch to your small bailout tank. It holds minutes. The freezing water slows your body down. Half an hour later, a diver finds you and drags you up. You survive.",
+    "captions": [
+      "Your air line snaps.",
+      "Lights and heat die.",
+      "Total darkness.",
+      "Switch to bailout gas.",
+      "You survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a diving helmet faceplate in black water, single beam of light",
+      "tight shot of a snapping yellow umbilical hose, bubbles exploding",
+      "close-up of a diver's helmet going dark on the seabed, cold blue",
+      "close-up of a gloved hand turning a bailout tank valve, harsh light",
+      "tight shot of a diver's light finding another helmet in darkness"
+    ],
+    "tags": [
+      "deep sea diving",
+      "saturation diving",
+      "diver",
+      "ocean",
+      "commercial diving",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "molasses-tank-flood",
+    "title": "Would you survive a tidal wave of molasses? #shorts",
+    "description": "In 1919 a molasses tank burst in Boston. A wave of syrup swept through the streets and killed 21 people. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if a giant molasses tank burst while you were walking past it?",
+    "script": "You hear rivets popping like machine gun fire. The tank splits open. A brown wave fifteen feet high rolls down the street at thirty miles an hour. It knocks you flat. You try to swim, but it's like wet cement. Every move sinks you deeper. You try to breathe and syrup fills your mouth. You don't survive.",
+    "captions": [
+      "Rivets pop like gunfire.",
+      "A brown wave.",
+      "Fifteen feet high.",
+      "Like wet cement.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of steel rivets bursting from a tank seam, dramatic light",
+      "tight shot of a thick brown wave curling over cobblestones, high contrast",
+      "close-up of a hand reaching out of dark glossy syrup, harsh light",
+      "close-up of molasses oozing around a boot, strong shadows",
+      "tight shot of a still black syrup surface, cold light"
+    ],
+    "tags": [
+      "molasses",
+      "boston",
+      "disaster",
+      "history",
+      "flood",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "train-roof-overhead-wire",
+    "title": "Would you survive riding on the roof of a train? #shorts",
+    "description": "Overhead rail lines carry 25,000 volts. Electricity can arc to a person on a train roof without them touching the wire. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you climbed onto the roof of an electric train?",
+    "script": "You climb the ladder for a photo. The wire is just above your head, but you're careful not to touch it. You don't need to. At twenty-five thousand volts, the current jumps through the air into your raised hand. There's a bang and a blue flash. Your clothes catch fire. You fall off the train. You don't survive.",
+    "captions": [
+      "Just a photo.",
+      "Don't touch the wire.",
+      "You don't need to.",
+      "A blue flash.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a hand reaching toward an overhead rail wire, blue light",
+      "tight shot of a catenary wire against a dark sky, high contrast",
+      "close-up of a blue electric arc jumping through air, dramatic light",
+      "close-up of a smoking sleeve on a train roof, harsh light",
+      "tight shot of an empty train roof ladder, cold light"
+    ],
+    "tags": [
+      "train",
+      "electricity",
+      "train surfing",
+      "high voltage",
+      "railway",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "marlin-leaps-into-boat",
+    "title": "Would you survive a marlin leaping into your boat? #shorts",
+    "description": "Hooked marlin can leap clear of the water. Several anglers have been impaled by their bills. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if the marlin you hooked leaped straight into your boat?",
+    "script": "Your line screams. A blue marlin bursts from the sea, bigger than you, thrashing in the air. You crank the reel. It dives, then turns and races straight at the boat. It launches from the water. The bill is like a spear. It hits you in the chest at sixty kilometers an hour. You don't survive.",
+    "captions": [
+      "Your line screams.",
+      "Bigger than you.",
+      "It races at the boat.",
+      "The bill is a spear.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a blue marlin's eye and bill breaking the water, harsh sunlight",
+      "tight shot of a fishing reel spinning, spray flying, high contrast",
+      "close-up of a marlin bill spearing toward the camera, dramatic light",
+      "close-up of a marlin's sail in midair, water droplets frozen",
+      "tight shot of a broken fishing rod on a wet deck"
+    ],
+    "tags": [
+      "marlin",
+      "deep sea fishing",
+      "fishing",
+      "ocean",
+      "boat",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "ice-axe-self-arrest",
+    "title": "Would you survive sliding down an icy mountain slope? #shorts",
+    "description": "A fall on hard snow can accelerate into a deadly slide. Climbers practice self-arrest with an ice axe to stop it. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you slipped on a steep icy slope with a cliff below?",
+    "script": "Your boot skids and you're sliding head first. In seconds you're faster than you can run. Below you, the slope ends at a cliff. You roll onto your stomach toward your ice axe. You drive the pick into the snow with all your weight on it. Your feet stay up so your crampons don't flip you. You stop. You survive.",
+    "captions": [
+      "Your boot skids.",
+      "Sliding head first.",
+      "A cliff below.",
+      "Drive in the pick.",
+      "You survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a crampon skidding on blue ice, spray of ice chips",
+      "tight shot of a climber sliding head first on a steep snow slope, harsh light",
+      "close-up of a cliff edge rushing closer at the bottom of snow, high contrast",
+      "close-up of an ice axe pick biting into snow, ice spraying",
+      "tight shot of a gloved hand gripping an ice axe, still and calm"
+    ],
+    "tags": [
+      "mountaineering",
+      "ice axe",
+      "climbing",
+      "mountain",
+      "self arrest",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "firewalk-hot-coals",
+    "title": "Would you survive walking across burning coals? #shorts",
+    "description": "Embers are poor heat conductors. Firewalkers cross them quickly with brief contact, but stopping on them causes serious burns. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you walked barefoot across a bed of glowing coals?",
+    "script": "The coals glow orange at five hundred degrees. Everyone is watching. You step on. Your instinct says stop, go back. That's what burns people. The embers are mostly ash and carbon, so they pass heat to your skin slowly. Each footstep is too short to burn you. So you keep walking at a steady pace, never stopping. You step off. You survive.",
+    "captions": [
+      "Five hundred degrees.",
+      "You step on.",
+      "Your instinct says stop.",
+      "Keep a steady pace.",
+      "You survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of glowing orange embers, sparks rising, black background",
+      "tight shot of a bare foot hovering over hot coals, dramatic light",
+      "close-up of a footprint pressing into glowing ash, high contrast",
+      "close-up of feet walking steadily across coals, orange glow",
+      "tight shot of a bare foot stepping onto cool grass, warm light"
+    ],
+    "tags": [
+      "firewalk",
+      "hot coals",
+      "challenge",
+      "fire",
+      "physics",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "home-canned-botulism",
+    "title": "Would you survive eating badly home-canned food? #shorts",
+    "description": "Improperly home-canned food can grow botulism bacteria. Its toxin paralyzes the muscles you need to breathe. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you ate from a jar of badly home-canned beans?",
+    "script": "The lid looked a little swollen. The beans tasted fine. A day later your eyelids droop. You see double. Your words come out slurred and swallowing gets hard. The paralysis creeps down your body, arm by arm. Then it reaches the muscles that pull air into your lungs. You're wide awake and you can't breathe. You don't survive.",
+    "captions": [
+      "The lid was swollen.",
+      "Your eyelids droop.",
+      "You see double.",
+      "The paralysis creeps down.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a bulging metal lid on a glass jar, harsh kitchen light",
+      "tight shot of a spoon of beans, dim moody light",
+      "close-up of a drooping eyelid, high contrast",
+      "close-up of a hand going limp on a table, strong shadows",
+      "tight shot of an open jar on a dark counter, cold light"
+    ],
+    "tags": [
+      "botulism",
+      "canning",
+      "food poisoning",
+      "kitchen",
+      "health",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "yacht-keel-failure",
+    "title": "Would you survive your sailboat's keel falling off? #shorts",
+    "description": "Racing yachts depend on a heavy keel to stay upright. When one breaks off at sea, the boat flips almost instantly. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if your sailboat's keel snapped off in the middle of the ocean?",
+    "script": "A thousand miles from land, you hear a crack below deck. The heavy keel that keeps the boat upright breaks off and sinks. In seconds the boat rolls upside down. You're trapped in the dark cabin with water rising. You find the hatch and swim out. The waves are huge, the water is freezing. You don't survive.",
+    "captions": [
+      "A crack below deck.",
+      "The keel breaks off.",
+      "The boat rolls over.",
+      "Trapped in the cabin.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a sailboat hull cracking at the keel, underwater, cold light",
+      "tight shot of a heavy keel sinking into blue darkness",
+      "close-up of a capsized white hull in black waves, high contrast",
+      "close-up of a face in a flooding cabin, flashlight beam",
+      "tight shot of an upturned hull alone in a storm"
+    ],
+    "tags": [
+      "sailing",
+      "yacht",
+      "ocean",
+      "shipwreck",
+      "boat",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "tractor-trailer-underride",
+    "title": "Would you survive sliding under a semi truck? #shorts",
+    "description": "In an underride crash, a car slides beneath a truck's trailer. The trailer's edge hits at windshield height. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if your car slid under the trailer of a semi truck?",
+    "script": "You're on the highway at night. A semi pulls out across the road ahead. You hit the brakes, but your tires skid. Your car is low and the trailer is high, so there's nothing to stop you. The hood slides under it. Your airbag deploys, but the trailer's steel edge comes straight through the windshield at head height. You don't survive.",
+    "captions": [
+      "A semi pulls out.",
+      "Your tires skid.",
+      "The hood slides under.",
+      "Steel at head height.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of headlights hitting a trailer side in the dark, harsh glare",
+      "tight shot of a tire skidding on wet asphalt, smoke, high contrast",
+      "close-up of a car hood disappearing under a trailer, sparks",
+      "close-up of a cracking windshield and steel beam, dramatic light",
+      "tight shot of a deployed airbag in a dark car, cold light"
+    ],
+    "tags": [
+      "car crash",
+      "semi truck",
+      "highway",
+      "driving",
+      "road safety",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "mine-ventilation-failure-deep-heat",
+    "title": "Would you survive the deepest mine in the world losing its cooling? #shorts",
+    "description": "The deepest gold mines reach rock hotter than 60 degrees Celsius. Workers survive only because of huge cooling systems. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if the cooling failed while you were working in the deepest mine on Earth?",
+    "script": "You're four kilometers down. The rock here is sixty degrees Celsius, hot enough to burn. Then the fans go silent. The cold air stops. Within minutes the tunnel feels like an oven. The humidity is so high your sweat can't evaporate. Your core temperature rises, and the lift to the surface is an hour away. You don't survive.",
+    "captions": [
+      "Four kilometers down.",
+      "The rock burns.",
+      "The fans go silent.",
+      "Your sweat can't cool you.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a miner's sweat-soaked face under a headlamp, harsh light",
+      "tight shot of hot rock face glistening in a tunnel, orange glow",
+      "close-up of a stopped ventilation fan, dust in the beam, high contrast",
+      "close-up of a thermometer reading over fifty degrees, dramatic light",
+      "tight shot of a headlamp beam fading in a dark tunnel"
+    ],
+    "tags": [
+      "mine",
+      "gold mine",
+      "heat",
+      "underground",
+      "mining",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "kawah-ijen-sulfur-cloud",
+    "title": "Would you survive the toxic cloud inside a volcano crater? #shorts",
+    "description": "Miners at Indonesia's Kawah Ijen carry sulfur out of a crater filled with toxic gas. When the wind shifts, the cloud swallows them. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if the wind changed while you were deep inside a sulfur volcano crater?",
+    "script": "You're at the bottom of the crater, beside an acid lake. Then the wind shifts. A thick white cloud rolls over you. Your eyes burn and stream. Every breath is like inhaling fire. The gas turns to acid in your lungs. You can't see the path out. You drop to the ground. You don't survive.",
+    "captions": [
+      "An acid lake.",
+      "The wind shifts.",
+      "A white cloud rolls in.",
+      "Breathing fire.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of bright yellow sulfur crystals, steam, harsh light",
+      "tight shot of a turquoise acid lake surface bubbling, high contrast",
+      "close-up of a face wrapped in a cloth in thick white gas, dramatic light",
+      "close-up of streaming red eyes in smoke, strong shadows",
+      "tight shot of a dropped basket of sulfur in fog"
+    ],
+    "tags": [
+      "volcano",
+      "sulfur",
+      "kawah ijen",
+      "toxic gas",
+      "indonesia",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "cliff-diving-bad-entry",
+    "title": "Would you survive landing flat after a cliff dive? #shorts",
+    "description": "From high cliffs, divers hit the water at over 80 kilometers an hour. Entering flat can feel like hitting concrete. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you landed flat on your back after jumping off a huge cliff into the sea?",
+    "script": "You're on a ledge twenty-five meters above the waves. You jump, but you lean back too far. You start to rotate. In under three seconds you're doing over eighty kilometers an hour. You hit the water flat on your back. It's like hitting concrete. Your lungs and spine take the impact. You don't survive.",
+    "captions": [
+      "Twenty-five meters up.",
+      "You lean back.",
+      "You start to rotate.",
+      "Like hitting concrete.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of bare toes on a rocky cliff edge, sea far below",
+      "tight shot of a body tilting backward in midair, harsh sunlight",
+      "close-up of a diver rotating against a blue sky, high contrast",
+      "close-up of an explosive white splash, dramatic light",
+      "tight shot of foam settling on dark water"
+    ],
+    "tags": [
+      "cliff diving",
+      "cliff jump",
+      "ocean",
+      "extreme sports",
+      "diving",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "lava-ocean-entry-laze",
+    "title": "Would you survive lava pouring into the ocean? #shorts",
+    "description": "Where lava meets the sea it creates laze, a plume of acid steam and glass. It killed two people in Hawaii in 2000. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you stood downwind of lava pouring into the ocean?",
+    "script": "You walk out across fresh black rock to watch the glowing lava hit the waves. Steam explodes upward. Then the wind blows the plume toward you. It's not just steam. It's hydrochloric acid and tiny shards of volcanic glass. It burns your eyes, your throat, your lungs. The ground beneath you is hollow. You don't survive.",
+    "captions": [
+      "Lava hits the waves.",
+      "Steam explodes up.",
+      "The wind turns.",
+      "Acid and glass.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of glowing lava meeting a crashing wave, explosive steam",
+      "tight shot of fresh black lava rock with red cracks, high contrast",
+      "close-up of a white acid plume swallowing a figure, dramatic light",
+      "close-up of glass shards glittering in steam, harsh light",
+      "tight shot of a lava bench collapsing into the sea"
+    ],
+    "tags": [
+      "lava",
+      "volcano",
+      "hawaii",
+      "ocean",
+      "laze",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "clear-air-turbulence-no-seatbelt",
+    "title": "Would you survive severe turbulence without your seatbelt? #shorts",
+    "description": "Clear air turbulence can't be seen on radar. Unbelted passengers have been thrown into the ceiling. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if your plane hit severe turbulence while your seatbelt was off?",
+    "script": "The seatbelt sign is off. You unbuckle to stretch. The sky outside is perfectly clear. Then the plane drops like a stone. You fly upward and smash into the overhead bins. Drinks and phones hang in the air. Then it drops again and you slam into the armrest. People who stayed buckled are fine. You don't survive.",
+    "captions": [
+      "The seatbelt sign is off.",
+      "Perfectly clear sky.",
+      "The plane drops.",
+      "You hit the ceiling.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of an unbuckled seatbelt on an airplane seat, warm cabin light",
+      "tight shot of drinks floating in an airplane cabin, high contrast",
+      "close-up of a cracked overhead bin panel, dramatic light",
+      "close-up of an oxygen mask swinging, harsh light",
+      "tight shot of a lit seatbelt sign, red glow"
+    ],
+    "tags": [
+      "turbulence",
+      "airplane",
+      "flight",
+      "travel",
+      "aviation",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "dry-christmas-tree-fire",
+    "title": "Would you survive a dry Christmas tree catching fire? #shorts",
+    "description": "A dried-out Christmas tree can be fully engulfed in under a minute. Fire tests show the whole room igniting soon after. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if your dried-out Christmas tree caught fire in your living room?",
+    "script": "It's been up for weeks and the needles fall when you touch it. A light near the base sparks. A small flame climbs one branch. Then the whole tree goes up in seconds, flames hitting the ceiling. Black smoke fills the room. In under a minute, everything in the room bursts into flame at once. You don't survive.",
+    "captions": [
+      "The needles are dry.",
+      "A light sparks.",
+      "The whole tree goes up.",
+      "Black smoke.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of dry brown pine needles and a glowing bulb, warm light",
+      "tight shot of a small flame on a pine branch, dark room",
+      "close-up of a Christmas tree fully engulfed in fire, high contrast",
+      "close-up of ornaments melting in flames, dramatic light",
+      "tight shot of a ceiling blackened by smoke, orange glow"
+    ],
+    "tags": [
+      "christmas",
+      "house fire",
+      "christmas tree",
+      "fire safety",
+      "holiday",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "cockpit-hypoxia-slow-leak",
+    "title": "Would you survive your plane slowly losing oxygen? #shorts",
+    "description": "Hypoxia makes pilots feel fine while their judgement fails. Pilots are trained to recognize their own symptoms and put on oxygen first. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if your small plane slowly lost cabin pressure while you were flying it?",
+    "script": "You're cruising at twenty-five thousand feet. Everything feels great. Your fingertips tingle. You can't add up your fuel numbers. You don't feel worried, and that's the danger. You have about two minutes of useful thinking left. But you recognize the tingling from training. You pull on the oxygen mask before anything else. You descend. You survive.",
+    "captions": [
+      "Twenty-five thousand feet.",
+      "Everything feels great.",
+      "Your fingertips tingle.",
+      "Mask on first.",
+      "You survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a pilot's tingling fingertips on a yoke, cockpit glow",
+      "tight shot of an altimeter at twenty-five thousand feet, high contrast",
+      "close-up of a pilot's dazed smiling face, harsh light",
+      "close-up of a hand pulling on an oxygen mask, dramatic light",
+      "tight shot of a plane window over clouds, descending"
+    ],
+    "tags": [
+      "hypoxia",
+      "pilot",
+      "airplane",
+      "aviation",
+      "oxygen",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "helicopter-rotor-slope-walk",
+    "title": "Would you survive walking uphill toward a helicopter? #shorts",
+    "description": "On a slope, a helicopter's spinning rotor is closer to the ground on the uphill side. Crews are trained to approach from downhill. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you walked toward a landed helicopter from the uphill side?",
+    "script": "The helicopter lands on a hillside to pick you up. The rotors are still spinning, a blur you can barely see. You grab your bag and jog toward the door from up the slope. But on a hill, the blades are lower on the uphill side. You don't duck. You don't even see it. You don't survive.",
+    "captions": [
+      "It lands on a slope.",
+      "The rotors are a blur.",
+      "You jog from uphill.",
+      "You don't see it.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a spinning helicopter rotor blur, harsh sunlight",
+      "tight shot of rotor wash flattening grass on a slope, high contrast",
+      "close-up of boots jogging on a hillside, dust flying",
+      "close-up of a blade tip blur just above a head, dramatic light",
+      "tight shot of a dropped bag on grass, cold light"
+    ],
+    "tags": [
+      "helicopter",
+      "rotor",
+      "aviation",
+      "rescue",
+      "mountains",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "bleach-ammonia-bathroom",
+    "title": "Would you survive mixing bleach and ammonia while cleaning? #shorts",
+    "description": "Mixing bleach with ammonia-based cleaners releases toxic chloramine gas. In a small closed bathroom it builds up fast. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you mixed bleach and an ammonia cleaner in a small closed bathroom?",
+    "script": "The window is shut and the fan is broken. You pour bleach into the toilet, then add another cleaner to make it stronger. The water fizzes. A sharp smell hits you. Your eyes water and your throat closes. You cough so hard you can't breathe in. You stumble and the room spins. You don't survive.",
+    "captions": [
+      "The window is shut.",
+      "Make it stronger.",
+      "The water fizzes.",
+      "Your throat closes.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of two cleaning bottles pouring together, harsh bathroom light",
+      "tight shot of fizzing water in a toilet bowl, high contrast",
+      "close-up of watering red eyes, strong shadows",
+      "close-up of a hand gripping a sink edge, dramatic light",
+      "tight shot of a shut bathroom door with gas under it, cold light"
+    ],
+    "tags": [
+      "cleaning",
+      "bleach",
+      "toxic gas",
+      "home safety",
+      "chemistry",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "tower-crane-collapse",
+    "title": "Would you survive being inside a tower crane when it collapses? #shorts",
+    "description": "Tower cranes can collapse in high winds or during assembly. The operator's cab sits dozens of stories up. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you were in the cab of a tower crane when it started to collapse?",
+    "script": "You're sitting in a tiny glass cab, sixty meters above the street. The wind is picking up and the whole crane sways. Then a bolt in the tower snaps. The steel groans. The crane leans, slowly, then all at once. You grab the controls, but there's nothing to steer. The ground rushes up. You don't survive.",
+    "captions": [
+      "Sixty meters up.",
+      "The crane sways.",
+      "A bolt snaps.",
+      "Slowly, then all at once.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a crane operator's hand on a joystick, glass cab, harsh light",
+      "tight shot of a steel bolt shearing, sparks, high contrast",
+      "close-up of a tower crane lattice bending, dramatic sky",
+      "close-up of a cab window with the street rushing up",
+      "tight shot of a twisted crane boom in dust"
+    ],
+    "tags": [
+      "tower crane",
+      "construction",
+      "crane collapse",
+      "skyscraper",
+      "work accident",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "skate-blade-neck-cut",
+    "title": "Would you survive a skate blade slicing your neck? #shorts",
+    "description": "In 1989 an ice hockey goalie's neck was cut by a skate blade. A trainer pressing hard on the wound saved his life. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if a skate blade sliced across your neck during a hockey game?",
+    "script": "Two players crash into your net. One skate kicks up and the blade slices across your neck. Blood sprays onto the ice. It's your carotid artery. You have minutes. You press your glove against it. Then someone pushes down hard with both hands and doesn't let go, all the way to the hospital. They never stop pressing. You survive.",
+    "captions": [
+      "Players crash in.",
+      "A blade kicks up.",
+      "Your artery is cut.",
+      "Press hard, don't let go.",
+      "You survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a hockey skate blade flashing, ice spray, harsh light",
+      "tight shot of a goalie mask and net, high contrast",
+      "close-up of red drops on white ice, dramatic light",
+      "close-up of hands pressing on a neck, strong shadows",
+      "tight shot of a stretcher on ice, arena lights"
+    ],
+    "tags": [
+      "hockey",
+      "ice hockey",
+      "goalie",
+      "sports",
+      "injury",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "kayak-in-shipping-lane-fog",
+    "title": "Would you survive kayaking into a shipping lane in fog? #shorts",
+    "description": "Huge cargo ships can take miles to stop and often can't see small boats. Fog makes kayaks invisible. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you paddled a kayak into a shipping lane in thick fog?",
+    "script": "The fog is so thick you can barely see your paddle. You hear a low horn somewhere. Then a deep hum through the water. A gray wall appears out of the fog. It's a container ship, four hundred meters long. The crew can't see you and couldn't stop if they did. The bow wave flips you under. You don't survive.",
+    "captions": [
+      "You can't see your paddle.",
+      "A low horn.",
+      "A gray wall appears.",
+      "It can't stop.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a kayak paddle in thick fog, cold light",
+      "tight shot of a dark ship bow emerging from fog, high contrast",
+      "close-up of a huge bow wave curling, dramatic light",
+      "close-up of a kayak flipping in foam, harsh light",
+      "tight shot of a lone paddle floating in mist"
+    ],
+    "tags": [
+      "kayak",
+      "container ship",
+      "fog",
+      "ocean",
+      "boating",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
   }
 ]

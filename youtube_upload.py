@@ -61,8 +61,10 @@ def upload(args):
         vstatus["publishAt"] = args.publish_at
     body = {
         "snippet": {
-            "title": args.title,
-            "description": args.description,
+            # YouTube rejects "<" and ">" (invalidTitle/invalidDescription);
+            # photographer credits like "Lusynda <3" stalled the queue.
+            "title": args.title.replace("<", "").replace(">", ""),
+            "description": args.description.replace("<", "").replace(">", ""),
             "tags": [t.strip() for t in args.tags.split(",") if t.strip()],
             "categoryId": args.category,
         },

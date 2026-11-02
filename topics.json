@@ -1114,5 +1114,725 @@
       "didyouknow",
       "shorts"
     ]
+  },
+  {
+    "id": "space-station-fire",
+    "title": "Would you survive a fire on a space station? #shorts",
+    "description": "In zero gravity smoke doesn't rise, and there's nowhere to run. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if a fire broke out on a space station?",
+    "script": "An oxygen canister flares. In zero gravity, smoke doesn't rise. It hangs around you in a choking ball. Flames creep in every direction at once. The module fills with gray haze in seconds. The fire is between you and the escape capsule. You pull on a mask, but the filter is already clogged. You don't survive.",
+    "captions": [
+      "An oxygen canister flares.",
+      "Smoke doesn't rise.",
+      "Flames spread every way.",
+      "The exit is blocked.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a sparking canister in a space station, harsh light",
+      "tight shot of floating smoke ball in zero gravity, high contrast",
+      "close-up of a spherical flame drifting, dramatic light",
+      "close-up of an astronaut's fogged mask, cold light",
+      "tight shot of a red alarm light through haze"
+    ],
+    "tags": [
+      "space station",
+      "fire",
+      "zero gravity",
+      "astronaut",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "arresting-cable-snap-carrier-deck",
+    "title": "Would you survive a snapping cable on an aircraft carrier? #shorts",
+    "description": "Arresting wires stop jets at landing speed. When one snaps, it whips across the deck. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if a landing cable snapped on an aircraft carrier's deck?",
+    "script": "You're on the flight deck as a jet slams down. Its hook catches the steel arresting wire. The wire is under enormous tension, stopping a plane at over two hundred kilometers per hour. Then it snaps. The loose end whips across the deck faster than you can see. It hits at shin height. It cuts straight through. You don't survive.",
+    "captions": [
+      "A jet slams down.",
+      "The wire catches it.",
+      "It snaps.",
+      "It whips across the deck.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a tailhook catching a steel cable, harsh light",
+      "tight shot of a taut braided steel wire, high contrast",
+      "close-up of a frayed cable end whipping, dramatic light",
+      "close-up of deck crew boots on a flight deck, cold light",
+      "tight shot of a snapped cable coiled on deck"
+    ],
+    "tags": [
+      "aircraft carrier",
+      "navy",
+      "arresting wire",
+      "jet",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "swan-attack-kayak",
+    "title": "Would you survive a swan attacking your kayak? #shorts",
+    "description": "In 2012 a swan attacked a man's kayak in Illinois and he drowned. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if an angry swan attacked your kayak?",
+    "script": "You paddle too close to a nest. A huge white bird rises out of the reeds, wings spread over two meters. It hisses and charges across the water. Its wing strikes your face. The kayak tips. You're in cold water, fully clothed, no life jacket. The swan attacks every time you surface. Your arms tire. You don't survive.",
+    "captions": [
+      "Too close to a nest.",
+      "Wings over two meters.",
+      "The kayak tips.",
+      "It keeps attacking.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a hissing swan's beak, harsh light",
+      "tight shot of white wings spread over dark water, high contrast",
+      "close-up of a kayak tipping in spray, dramatic light",
+      "close-up of a swan's eye, cold light",
+      "tight shot of a paddle floating among reeds"
+    ],
+    "tags": [
+      "swan",
+      "kayak",
+      "bird attack",
+      "lake",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "dive-boat-leaves-you-behind",
+    "title": "Would you survive your dive boat leaving without you? #shorts",
+    "description": "In 1998 a dive boat miscounted and left two divers on the Great Barrier Reef. They were never found. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if your dive boat left without you?",
+    "script": "You surface after a perfect dive. The boat is gone. Somebody miscounted heads. You're forty kilometers offshore with no radio. The sun burns your face. Night falls and the water turns black. Something brushes your fin. Days later, the crew finally notices your bag still on board. Search planes find nothing but open water. You don't survive.",
+    "captions": [
+      "The boat is gone.",
+      "Somebody miscounted.",
+      "Forty kilometers offshore.",
+      "Night falls.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a diver's mask at the surface, harsh light",
+      "tight shot of an empty horizon reflected in a mask, high contrast",
+      "close-up of a sunburned face in the water, dramatic light",
+      "close-up of a fin in black night water, cold light",
+      "tight shot of a dive bag on an empty deck"
+    ],
+    "tags": [
+      "scuba diving",
+      "dive boat",
+      "lost at sea",
+      "ocean",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "lost-in-catacombs",
+    "title": "Would you survive getting lost in the Paris catacombs? #shorts",
+    "description": "Hundreds of kilometers of tunnels run under Paris, most of them off-limits and unmapped to visitors. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you got lost in the catacombs under Paris?",
+    "script": "There are hundreds of kilometers of tunnels beneath the city. You wander away from your group. Your phone light dies. The darkness is total. Every passage feels identical. You touch damp walls stacked with human skulls. You shout, but stone swallows the sound. Water drips somewhere. You drink it. Days pass with no way to tell. You don't survive.",
+    "captions": [
+      "Hundreds of kilometers.",
+      "Your light dies.",
+      "Walls of skulls.",
+      "No one hears you.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a dying phone flashlight in a tunnel, harsh light",
+      "tight shot of stacked skulls in a wall, high contrast",
+      "close-up of a hand on damp stone, dramatic light",
+      "close-up of a water drip in darkness, cold light",
+      "tight shot of a skull lit by a faint beam"
+    ],
+    "tags": [
+      "catacombs",
+      "paris",
+      "lost",
+      "underground",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "anchor-chain-locker",
+    "title": "Would you survive climbing into a ship's chain locker? #shorts",
+    "description": "Rusting steel in enclosed ship spaces silently consumes oxygen. Rescuers often collapse too. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you climbed into a ship's anchor chain locker?",
+    "script": "It's a small steel room in the bow, packed with rusty chain. You climb down to free a tangle. The air smells normal. But rusting steel has been quietly eating the oxygen for weeks. There's no warning, no gasping. Your thoughts slow. Your legs fold. A crewmate climbs in to help you and collapses too. You don't survive.",
+    "captions": [
+      "A sealed steel room.",
+      "Rust eats the oxygen.",
+      "No warning.",
+      "Your rescuer falls too.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a rusted anchor chain link, harsh light",
+      "tight shot of a dark steel hatch opening, high contrast",
+      "close-up of a hand slipping off a rung, dramatic light",
+      "close-up of a headlamp beam in a rusty chamber, cold light",
+      "tight shot of a hard hat lying on chain"
+    ],
+    "tags": [
+      "ship",
+      "enclosed space",
+      "oxygen",
+      "sailor",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "tetanus-rusty-nail",
+    "title": "Would you survive tetanus without a vaccine? #shorts",
+    "description": "Tetanus bacteria release a toxin that locks your muscles in spasm. Vaccines prevent it. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you stepped on a nail and never had a tetanus shot?",
+    "script": "The wound is tiny. It heals over. A week later, your jaw feels stiff. Then it locks shut. Your face twists into a frozen grin. Bacteria in that wound are releasing a toxin that stops your muscles relaxing. Your back arches so hard it can crack your spine. Every sound triggers new spasms. Then your breathing locks. You don't survive.",
+    "captions": [
+      "A tiny wound.",
+      "Your jaw locks.",
+      "A frozen grin.",
+      "Your back arches.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a rusty nail through a board, harsh light",
+      "tight shot of a small puncture wound on a foot, high contrast",
+      "close-up of a clenched jaw, dramatic light",
+      "close-up of fingers clawed in spasm, cold light",
+      "tight shot of a hospital monitor in darkness"
+    ],
+    "tags": [
+      "tetanus",
+      "lockjaw",
+      "infection",
+      "vaccine",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "shorebreak-neck-injury",
+    "title": "Would you survive a wave slamming you into the sand? #shorts",
+    "description": "Shorebreak waves dump swimmers headfirst into shallow sand, a leading cause of beach spinal injuries. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you bodysurfed a wave that broke right on the sand?",
+    "script": "The wave looks fun, breaking right at the shore. You ride it in. It pitches you headfirst into hard-packed sand in knee-deep water. You hear a crack in your neck. You can't feel your arms or legs. You're face down in the foam. The next wave rolls over you, and you can't lift your head. You don't survive.",
+    "captions": [
+      "It breaks on the shore.",
+      "Headfirst into sand.",
+      "A crack in your neck.",
+      "You can't move.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a wave pitching onto sand, harsh light",
+      "tight shot of foam swirling on a shallow beach, high contrast",
+      "close-up of a head driving into sand, dramatic light",
+      "close-up of a limp hand in foam, cold light",
+      "tight shot of a wave rolling over a still body"
+    ],
+    "tags": [
+      "beach",
+      "waves",
+      "bodysurfing",
+      "spinal injury",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "houseboat-swim-platform-carbon-monoxide",
+    "title": "Would you survive swimming behind a houseboat? #shorts",
+    "description": "Generator exhaust can pool carbon monoxide around a boat's swim platform and kill swimmers in minutes. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you swam behind a houseboat with its generator running?",
+    "script": "You're floating by the swim platform at the back. It's sunny and the lake is calm. But the generator exhaust vents right there, and carbon monoxide pools just above the water. You can't see it or smell it. You feel sleepy. Your head drops forward. You slip quietly under, and nobody notices for minutes. You don't survive.",
+    "captions": [
+      "A calm, sunny lake.",
+      "The exhaust vents here.",
+      "Invisible gas pools.",
+      "You feel sleepy.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of an exhaust vent above water, harsh light",
+      "tight shot of a swim ladder on a boat stern, high contrast",
+      "close-up of a drowsy swimmer's face at the waterline, dramatic light",
+      "close-up of bubbles rising from calm water, cold light",
+      "tight shot of an empty swim platform"
+    ],
+    "tags": [
+      "houseboat",
+      "carbon monoxide",
+      "lake",
+      "boating",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "aluminum-ladder-power-line",
+    "title": "Would you survive your ladder touching a power line? #shorts",
+    "description": "Aluminum ladders that touch or come near high-voltage lines are a common cause of electrocution. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if your metal ladder touched a power line?",
+    "script": "You're cleaning the gutters and swing the aluminum ladder to the next spot. The top tips toward the power line along the street. It doesn't even need to touch. Thousands of volts arc into the metal. Current pours down the ladder, through your hands, through your heart, and out your feet. Your grip locks on the rungs. You don't survive.",
+    "captions": [
+      "An aluminum ladder.",
+      "It tips toward the line.",
+      "The power arcs.",
+      "Through your heart.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a ladder top near a power line, harsh light",
+      "tight shot of an electric arc jumping to metal, high contrast",
+      "close-up of hands gripping aluminum rungs, dramatic light",
+      "close-up of sparks at a boot sole, cold light",
+      "tight shot of a scorched ladder lying on grass"
+    ],
+    "tags": [
+      "ladder",
+      "electrocution",
+      "power line",
+      "home",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "titan-without-spacesuit",
+    "title": "Would you survive on Titan without a spacesuit? #shorts",
+    "description": "Saturn's moon Titan has thick air you could stand in, but no oxygen and a temperature of -179C. #shorts #survival #didyouknow #space",
+    "hook": "What would happen if you stepped onto Saturn's moon Titan without a spacesuit?",
+    "script": "The air pressure is actually fine, about fifty percent more than on Earth. Your body doesn't swell or boil. But the air is almost pure nitrogen, with no oxygen. And it's minus one hundred seventy-nine degrees. Your first breath freezes your airway. Within seconds you black out. You're frozen solid long before anyone could reach you. You don't survive.",
+    "captions": [
+      "The pressure is fine.",
+      "But no oxygen.",
+      "Minus 179 degrees.",
+      "Your airway freezes.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of an orange hazy sky over icy rocks, harsh light",
+      "tight shot of frost forming on lips, high contrast",
+      "close-up of an eye with ice crystals on the lashes, dramatic light",
+      "close-up of a frozen hand on methane-wet ground, cold light",
+      "tight shot of an orange haze over a dark lake"
+    ],
+    "tags": [
+      "titan",
+      "saturn",
+      "space",
+      "moon",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "drink-seawater-life-raft",
+    "title": "Would you survive drinking seawater on a life raft? #shorts",
+    "description": "Seawater makes dehydration worse because your kidneys need more fresh water to clear the salt. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you drank seawater on a life raft?",
+    "script": "It's day three and your lips are cracked. The ocean is right there. You drink. It tastes fine for a moment. But your kidneys need more fresh water to flush out that salt than you just swallowed. Your thirst gets worse. You drink more. Your cells shrink. Your mind starts slipping. You see land that isn't there. You don't survive.",
+    "captions": [
+      "Day three.",
+      "You drink the sea.",
+      "Thirst gets worse.",
+      "Your mind slips.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of cracked sunburned lips, harsh light",
+      "tight shot of cupped hands holding seawater, high contrast",
+      "close-up of an orange life raft edge on waves, dramatic light",
+      "close-up of a bloodshot staring eye, cold light",
+      "tight shot of a mirage of land on a shimmering horizon"
+    ],
+    "tags": [
+      "life raft",
+      "seawater",
+      "dehydration",
+      "lost at sea",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "high-speed-train-derailment",
+    "title": "Would you survive a high-speed train derailing? #shorts",
+    "description": "At high speed, a broken wheel can send carriages into bridges and fold them like an accordion. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if your high-speed train derailed at full speed?",
+    "script": "You're dozing at two hundred kilometers per hour. A metal bang comes from under your carriage. A wheel has shattered. The train keeps going, rattling harder. Then it hits a switch. Your carriage leaves the rails and slams into a concrete bridge pillar. The cars behind fold up like an accordion. The bridge collapses onto the wreck. You don't survive.",
+    "captions": [
+      "200 km per hour.",
+      "A wheel shatters.",
+      "It leaves the rails.",
+      "Cars fold like an accordion.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a cracked steel train wheel, harsh light",
+      "tight shot of sparks under a speeding carriage, high contrast",
+      "close-up of a carriage window shattering, dramatic light",
+      "close-up of twisted metal against concrete, cold light",
+      "tight shot of a broken bridge pillar in dust"
+    ],
+    "tags": [
+      "train",
+      "derailment",
+      "high speed rail",
+      "crash",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "snow-fort-tunnel-collapse",
+    "title": "Would you survive a snow tunnel collapsing on you? #shorts",
+    "description": "Packed snow is extremely heavy and sets hard, trapping and suffocating people in collapsed snow tunnels. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if your snow tunnel collapsed while you were inside?",
+    "script": "You dig deep into a huge snowbank. It's quiet and cozy in there. Then the roof sags. Hundreds of kilos of snow drop on you. Compressed snow sets almost like concrete. You can't move your arms. You can't expand your chest to breathe. You shout, but the snow absorbs every sound. Your breath forms an ice mask over your face. You don't survive.",
+    "captions": [
+      "A tunnel in the snow.",
+      "The roof sags.",
+      "It sets like concrete.",
+      "No one hears you.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a snow tunnel ceiling cracking, harsh light",
+      "tight shot of a gloved hand buried in snow, high contrast",
+      "close-up of a face pressed in packed snow, dramatic light",
+      "macro of ice crystals forming over lips, cold light",
+      "tight shot of a snowbank with a small dark hole"
+    ],
+    "tags": [
+      "snow",
+      "snow fort",
+      "winter",
+      "suffocation",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "stratosphere-jump-suit-tear",
+    "title": "Would you survive your suit failing at the edge of space? #shorts",
+    "description": "Above about 19 km, the air is so thin that body fluids boil at body temperature. #shorts #survival #didyouknow #space",
+    "hook": "What would happen if your pressure suit failed during a jump from the stratosphere?",
+    "script": "You step off a balloon thirty-eight kilometers up. The air is so thin your body fluids would boil. Then your faceplate cracks. The saliva on your tongue starts to bubble. Your skin swells. Gas forms in your blood. You have about fifteen seconds of useful consciousness. You're still falling for minutes. You don't survive.",
+    "captions": [
+      "38 kilometers up.",
+      "Your faceplate cracks.",
+      "Saliva boils.",
+      "Fifteen seconds left.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a cracking helmet visor against black sky, harsh light",
+      "tight shot of a gloved hand above the curve of Earth, high contrast",
+      "close-up of frost bursting from a visor crack, dramatic light",
+      "close-up of a spinning figure against the stratosphere, cold light",
+      "tight shot of a balloon capsule door open to space"
+    ],
+    "tags": [
+      "stratosphere",
+      "skydive",
+      "pressure suit",
+      "space",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "motorcycle-highside-crash",
+    "title": "Would you survive a motorcycle highside crash? #shorts",
+    "description": "A highside happens when a sliding rear tire suddenly grips and catapults the rider off. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if your motorcycle threw you in a highside crash?",
+    "script": "You lean hard into a corner and the rear tire slides. Instinct says close the throttle. You do. The tire suddenly grips again. The bike snaps upright and flings you up over the high side like a catapult. You're airborne, headfirst, ten meters down the road. Then the bike tumbles after you, and lands on top of you. You don't survive.",
+    "captions": [
+      "The rear tire slides.",
+      "You chop the throttle.",
+      "It grips again.",
+      "You're catapulted.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a sliding rear tire smoking, harsh light",
+      "tight shot of a rider's knee scraping asphalt, high contrast",
+      "close-up of a helmet flying through the air, dramatic light",
+      "close-up of a tumbling motorcycle, cold light",
+      "tight shot of a scraped helmet on the road"
+    ],
+    "tags": [
+      "motorcycle",
+      "highside",
+      "crash",
+      "road",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "tidal-bore-wave",
+    "title": "Would you survive a tidal bore surging up the river? #shorts",
+    "description": "Tidal bores like China's Qiantang can surge over riverbanks and sweep away spectators. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you stood on a riverbank as a tidal bore arrived?",
+    "script": "The crowd is waiting to watch the tide come up the river. You lean on the wall for a better view. A roar grows louder. A wave several meters high races upstream, faster than you can run. It hits a bend and leaps over the barrier. The water knocks you flat and drags you into the churning river. You don't survive.",
+    "captions": [
+      "The crowd waits.",
+      "A roar grows.",
+      "A wall of water.",
+      "It leaps the barrier.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a brown wave crest racing upriver, harsh light",
+      "tight shot of spray exploding over a river wall, high contrast",
+      "close-up of hands gripping a railing, dramatic light",
+      "close-up of churning muddy water, cold light",
+      "tight shot of a lost shoe on a wet embankment"
+    ],
+    "tags": [
+      "tidal bore",
+      "river",
+      "wave",
+      "crowd",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "monsoon-cave-flooding",
+    "title": "Would you survive a monsoon flooding your cave? #shorts",
+    "description": "Rainwater can flood cave passages fast, cutting off the way out. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if a monsoon flooded the cave you were exploring?",
+    "script": "You're two kilometers inside a cave. Outside, an early monsoon storm hits. Rainwater pours through cracks in the mountain. The passage behind you fills completely. You climb onto a muddy ledge. The water keeps rising. The air in the chamber gets thinner and staler. No one knows exactly where you are. Your light flickers. You don't survive.",
+    "captions": [
+      "Deep in a cave.",
+      "The monsoon hits.",
+      "The exit floods.",
+      "The water keeps rising.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of water gushing from a rock crack, harsh light",
+      "tight shot of a flooded cave passage, high contrast",
+      "close-up of muddy hands on a ledge, dramatic light",
+      "close-up of a headlamp reflecting on rising water, cold light",
+      "tight shot of a flickering torch in darkness"
+    ],
+    "tags": [
+      "cave",
+      "monsoon",
+      "flood",
+      "caving",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "sheltering-under-tree-lightning",
+    "title": "Would you survive sheltering under a tree in a storm? #shorts",
+    "description": "Lightning that hits a tree can side-flash into anyone sheltering underneath. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you sheltered under a tree in a thunderstorm?",
+    "script": "The rain is pounding, so you duck under the tallest tree in the field. It feels safer. Then lightning hits the trunk. The bark explodes off in strips. The current jumps from the tree straight into your body, an easier path to ground. Your clothes tear open. Your heart stops mid-beat. You fall, smoking. You don't survive.",
+    "captions": [
+      "You shelter under a tree.",
+      "Lightning hits it.",
+      "The bark explodes.",
+      "The current jumps to you.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of lightning striking a tree trunk, harsh light",
+      "tight shot of bark bursting off in strips, high contrast",
+      "close-up of an electric arc jumping to a shoulder, dramatic light",
+      "close-up of smoke rising from wet grass, cold light",
+      "tight shot of a split smoking tree in rain"
+    ],
+    "tags": [
+      "lightning",
+      "thunderstorm",
+      "tree",
+      "storm",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "oxygen-toxicity-dive",
+    "title": "Would you survive oxygen poisoning underwater? #shorts",
+    "description": "Too much oxygen under pressure can trigger sudden seizures, and a diver who loses the regulator drowns. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if you breathed oxygen-rich air too deep underwater?",
+    "script": "You're diving on an enriched air tank, but you've gone deeper than it's safe for. Under that much pressure, extra oxygen becomes poison to your brain. There's no warning. Suddenly your body convulses. Your jaw clamps and your regulator falls out of your mouth. You can't put it back. You're seizing and breathing in water. You don't survive.",
+    "captions": [
+      "Too deep for this gas.",
+      "Oxygen turns toxic.",
+      "No warning.",
+      "Your regulator falls out.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a nitrox tank label underwater, harsh light",
+      "tight shot of a depth gauge needle past its limit, high contrast",
+      "close-up of a regulator drifting from a mouth, dramatic light",
+      "close-up of a diver's convulsing hand, cold light",
+      "tight shot of bubbles rising in dark blue water"
+    ],
+    "tags": [
+      "scuba diving",
+      "oxygen toxicity",
+      "nitrox",
+      "ocean",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "spent-fuel-pool-swim",
+    "title": "Would you survive swimming in a nuclear fuel pool? #shorts",
+    "description": "Water is an excellent radiation shield. At the surface of a spent fuel pool, you'd be surprisingly safe. #shorts #survival #didyouknow #nuclear",
+    "hook": "What would happen if you swam in a nuclear reactor's spent fuel pool?",
+    "script": "You plunge in. The water is warm and glows faintly blue. Below sit the spent fuel rods, still lethally radioactive. If you dove down and touched them, you'd die. But water is an amazing radiation shield. At the surface, several meters above, you'd absorb less radiation than walking down a street. Stay near the top. You survive.",
+    "captions": [
+      "A glowing blue pool.",
+      "Lethal rods below.",
+      "Water blocks radiation.",
+      "Stay at the surface.",
+      "You survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of blue Cherenkov glow in deep water, harsh light",
+      "tight shot of fuel rod bundles under water, high contrast",
+      "close-up of a swimmer's face at a glowing surface, dramatic light",
+      "close-up of a hand treading blue water, cold light",
+      "tight shot of calm blue water over dark rods"
+    ],
+    "tags": [
+      "nuclear",
+      "radiation",
+      "fuel pool",
+      "reactor",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "nightclub-fire-crowd",
+    "title": "Would you survive a fire in a packed nightclub? #shorts",
+    "description": "In nightclub fires, most victims die crowding the entrance they came in through. Other exits often stay clear. #shorts #survival #didyouknow #scary",
+    "hook": "What would happen if a fire broke out in a packed nightclub?",
+    "script": "Sparks from the stage hit the foam on the walls. In under a minute, the ceiling is on fire. The room fills with black smoke. Everyone rushes for the front door they came in through. Bodies pile up in the doorway. But most clubs have other exits, through the kitchen. Note them when you arrive, and go there. You survive.",
+    "captions": [
+      "Sparks hit the foam.",
+      "The ceiling ignites.",
+      "Everyone rushes one door.",
+      "Use the other exit.",
+      "You survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of sparks hitting acoustic foam, harsh light",
+      "tight shot of flames racing across a ceiling, high contrast",
+      "close-up of a crowd jammed in a doorway in smoke, dramatic light",
+      "close-up of a glowing green exit sign through haze, cold light",
+      "tight shot of a kitchen back door bursting open to night air"
+    ],
+    "tags": [
+      "nightclub",
+      "fire",
+      "crowd",
+      "exit",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "wildfire-trapped-in-car",
+    "title": "Would you survive a wildfire trapping your car? #shorts",
+    "description": "As a last resort, sheltering low inside a running car can let a fire front pass over you. #shorts #survival #didyouknow #wildfire",
+    "hook": "What would happen if a wildfire trapped you in your car?",
+    "script": "Flames close the road ahead and behind. Running means death. So you stay. You park away from trees, keep the engine running, close every window and vent. You get down on the floor, below the windows, under a wool blanket. It gets terrifyingly hot. The tires may burn. But the fire front passes in minutes, and your car doesn't explode. You survive.",
+    "captions": [
+      "Flames on both sides.",
+      "Stay in the car.",
+      "Get low, under wool.",
+      "The front passes.",
+      "You survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of flames reflected in a car window, harsh light",
+      "tight shot of a hand closing an air vent, high contrast",
+      "close-up of a face under a wool blanket on a car floor, dramatic light",
+      "close-up of embers blowing past glass, cold light",
+      "tight shot of a scorched car under a smoky sky"
+    ],
+    "tags": [
+      "wildfire",
+      "car",
+      "bushfire",
+      "evacuation",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "helicopter-ditching-upside-down",
+    "title": "Would you survive a helicopter crash into the sea? #shorts",
+    "description": "Helicopters often flip upside down when they ditch. Offshore workers train to hold a reference point and wait. #shorts #survival #didyouknow #ocean",
+    "hook": "What would happen if your helicopter crashed into the ocean?",
+    "script": "The engine dies over open water. The helicopter hits the sea and, top-heavy, rolls upside down. Cold water rushes in. Panic says unbuckle and swim. Don't. Grab the window frame beside you, and wait until the violent motion stops. Then release your belt, push out the window, and pull yourself up, hand over hand. You survive.",
+    "captions": [
+      "The engine dies.",
+      "It flips upside down.",
+      "Grab the window frame.",
+      "Wait, then unbuckle.",
+      "You survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a helicopter skid hitting waves, harsh light",
+      "tight shot of an inverted cabin filling with water, high contrast",
+      "close-up of a hand gripping a window frame underwater, dramatic light",
+      "close-up of a seatbelt buckle releasing, cold light",
+      "tight shot of a head breaking the surface beside wreckage"
+    ],
+    "tags": [
+      "helicopter",
+      "ditching",
+      "ocean",
+      "offshore",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
   }
 ]

@@ -842,5 +842,997 @@
       "didyouknow",
       "shorts"
     ]
+  },
+  {
+    "id": "capsule-reentry-parachute-tangle",
+    "title": "Would you survive a parachute failure on reentry? #shorts",
+    "description": "In 1967, Soyuz 1's main parachute failed to deploy and the reserve tangled. The capsule hit the ground at about 140 km/h. #shorts #survival #didyouknow #space",
+    "hook": "What would happen if your space capsule's parachute failed on reentry?",
+    "script": "Reentry goes perfectly. Plasma roars past the window, then fades. You're coming home. The drogue chute should pop now. It doesn't. The main parachute pulls out, tangled and useless. You're falling at hundreds of kilometers per hour, strapped into a metal can with no way out. The reserve chute fires, but it wraps around the first one. The ground arrives. You don't survive.",
+    "captions": [
+      "Reentry goes perfectly.",
+      "The drogue doesn't open.",
+      "Main chute tangled.",
+      "Reserve wraps around it.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of plasma glowing past a capsule window, harsh light",
+      "tight shot of a tangled parachute streaming above a capsule, high contrast",
+      "close-up of an astronaut's gloved hand gripping a seat, dramatic light",
+      "close-up of twisted parachute lines, cold light",
+      "tight shot of a scorched capsule hull falling, stark light"
+    ],
+    "tags": [
+      "space",
+      "soyuz",
+      "parachute",
+      "reentry",
+      "astronaut",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "sea-snake-bite-fishing-net",
+    "title": "Would you survive a sea snake bite? #shorts",
+    "description": "Sea snake bites are often painless, but the venom destroys muscle and can cause paralysis. Most victims are fishermen sorting nets. #shorts #survival #didyouknow #ocean",
+    "hook": "What would happen if a sea snake bit you while hauling a net?",
+    "script": "You're pulling a fishing net into the boat. Something thin and banded is tangled in the mesh. You grab it to toss it back. A tiny prick on your finger, almost painless. An hour later, your muscles ache. Then your eyelids droop and you can't swallow. The venom is shutting down your muscles, including the ones that breathe. You don't survive.",
+    "captions": [
+      "Hauling in the net.",
+      "A banded snake in the mesh.",
+      "A painless prick.",
+      "Your eyelids droop.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a banded sea snake tangled in net mesh, harsh light",
+      "macro of two tiny fang marks on a fingertip, high contrast",
+      "close-up of a sea snake's flat paddle tail, dramatic light",
+      "extreme close-up of a drooping eyelid, cold light",
+      "close-up of a limp hand on a wet boat deck, stark light"
+    ],
+    "tags": [
+      "sea snake",
+      "venom",
+      "fishing",
+      "ocean",
+      "snakes",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "leopard-night-attack",
+    "title": "Would you survive a leopard at night? #shorts",
+    "description": "Leopards stalk silently and strike from behind, usually at the throat or neck, then drag prey into cover. #shorts #survival #didyouknow #wildlife",
+    "hook": "What would happen if a leopard hunted you at night?",
+    "script": "You step out of your tent in the dark. The bush is silent. A leopard has been watching you for an hour, low in the grass. It doesn't roar or charge from far away. It waits until your back is turned, then covers the distance in a second. Its jaws close on your throat from behind. It drags you into the trees. You don't survive.",
+    "captions": [
+      "You leave your tent.",
+      "Something is watching.",
+      "It waits for your back.",
+      "Jaws at your throat.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a leopard's eyes glowing in the dark grass, harsh light",
+      "close-up of a tent flap opening at night, high contrast",
+      "macro of spotted fur moving through grass, dramatic light",
+      "extreme close-up of leopard fangs, cold light",
+      "tight shot of claw marks in dirt beside a flashlight, stark light"
+    ],
+    "tags": [
+      "leopard",
+      "big cats",
+      "africa",
+      "safari",
+      "night",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "methanol-moonshine-poisoning",
+    "title": "Would you survive drinking methanol? #shorts",
+    "description": "Methanol is broken down into formic acid, which can cause blindness and death hours after drinking. Bootleg alcohol poisonings still kill people every year. #shorts #survival #didyouknow #science",
+    "hook": "What would happen if you drank bootleg liquor laced with methanol?",
+    "script": "It tastes like any other drink. Nothing happens for hours. Then a headache builds, and your stomach cramps. Your body is turning the methanol into formic acid, the same chemical in ant venom. It floods your blood. Your vision blurs, then fills with snow, like a television with no signal. Your breathing turns deep and desperate. The acid reaches your brain. You don't survive.",
+    "captions": [
+      "It tastes normal.",
+      "Hours of nothing.",
+      "Methanol becomes acid.",
+      "Your vision fills with snow.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a cloudy glass of clear liquor, harsh light",
+      "macro of a liquid droplet sliding down a glass bottle, high contrast",
+      "extreme close-up of a blurred dilated eye, dramatic light",
+      "close-up of a trembling hand dropping a glass, cold light",
+      "tight shot of an unlabeled bottle on a dark table, stark light"
+    ],
+    "tags": [
+      "methanol",
+      "poison",
+      "alcohol",
+      "toxicology",
+      "science",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "keeper-pothole-canyon",
+    "title": "Would you survive a keeper pothole? #shorts",
+    "description": "Keeper potholes are smooth, water-filled holes in slot canyons that are almost impossible to climb out of without help. #shorts #survival #didyouknow #canyon",
+    "hook": "What would happen if you fell into a keeper pothole in a canyon?",
+    "script": "You're canyoneering down a narrow slot. You jump into a pool below. It's deep, round, carved smooth by floods. You swim to the edge to climb out. The walls are polished, overhanging, and there's nothing to grab. You try again and again. The water is cold, and your arms are burning out. Your friends above have no rope. You don't survive.",
+    "captions": [
+      "You jump into the pool.",
+      "Smooth, round walls.",
+      "Nothing to grab.",
+      "Your arms give out.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of polished sandstone wall with water ripples, harsh light",
+      "tight shot of a hand slipping on smooth wet rock, high contrast",
+      "close-up of a dark round pothole of water in a slot canyon, dramatic light",
+      "close-up of a swimmer's face gasping in cold water, cold light",
+      "tight shot looking up from a pothole at a sliver of sky, stark light"
+    ],
+    "tags": [
+      "canyon",
+      "canyoneering",
+      "pothole",
+      "slot canyon",
+      "hiking",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "rope-cut-on-sharp-edge",
+    "title": "Would you survive a rope cut while climbing? #shorts",
+    "description": "Climbing ropes are incredibly strong, but a loaded rope sliding across a sharp rock edge can be cut in seconds. #shorts #survival #didyouknow #climbing",
+    "hook": "What would happen if your climbing rope ran over a sharp edge?",
+    "script": "You're leading a climb, ten meters above your last bolt. Your foot slips. You fall, and the rope catches you. But it's stretched across a sharp lip of rock above you. As you swing, the edge saws through the outer sheath. Then the white core strands start popping, one by one. You hear them. You can't climb up fast enough. You don't survive.",
+    "captions": [
+      "Your foot slips.",
+      "The rope catches you.",
+      "It's over a sharp edge.",
+      "Core strands popping.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a climbing rope pressed on a sharp rock edge, harsh light",
+      "macro of a frayed rope sheath splitting, high contrast",
+      "close-up of a climber's chalky hand reaching for rock, dramatic light",
+      "macro of white core strands snapping, cold light",
+      "tight shot of a carabiner swinging on a cliff face, stark light"
+    ],
+    "tags": [
+      "climbing",
+      "rope",
+      "rock climbing",
+      "mountains",
+      "fall",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "paddleboard-offshore-wind",
+    "title": "Would you survive being blown out to sea on a paddleboard? #shorts",
+    "description": "Offshore winds can push paddleboarders out to sea fast. Lying flat and paddling with your arms cuts your wind resistance. #shorts #survival #didyouknow #ocean",
+    "hook": "What would happen if wind blew your paddleboard out to sea?",
+    "script": "The water looks calm near shore. You paddle out on your board. But the breeze is blowing from the land, and it's getting stronger. You turn back and paddle hard. The beach keeps shrinking. Standing up, your body is a sail. So drop to your knees, then lie flat. Paddle with your arms, angling across the wind. You stay on the board. You survive.",
+    "captions": [
+      "The water looks calm.",
+      "Wind from the land.",
+      "The beach shrinks.",
+      "Drop and lie flat.",
+      "You survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a paddle blade cutting choppy water, harsh light",
+      "tight shot of a paddleboard nose in wind-blown spray, high contrast",
+      "close-up of a tiny beach on the horizon behind a board, dramatic light",
+      "close-up of a person lying flat on a board paddling with arms, cold light",
+      "close-up of a leash cord on an ankle, stark light"
+    ],
+    "tags": [
+      "paddleboard",
+      "wind",
+      "ocean",
+      "beach",
+      "sup",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "hindenburg-hydrogen-fire",
+    "title": "Would you survive the Hindenburg disaster? #shorts",
+    "description": "In 1937 the Hindenburg burned in about 30 seconds, yet 62 of the 97 people aboard survived, many by jumping as it neared the ground. #shorts #survival #didyouknow #history",
+    "hook": "What would happen if you were aboard the Hindenburg when it caught fire?",
+    "script": "The giant airship is about to dock. Then a flash. The hydrogen above you ignites, and the tail drops in flames. The whole ship burns in about thirty seconds. Don't wait for it to land. As it sinks near the ground, jump through the window and run upwind, away from the falling frame. Most people aboard escaped. You survive.",
+    "captions": [
+      "The airship nears the dock.",
+      "Hydrogen ignites.",
+      "30 seconds to burn.",
+      "Jump and run upwind.",
+      "You survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of flames bursting through an airship's fabric skin, harsh light",
+      "tight shot of a burning metal frame collapsing, high contrast",
+      "close-up of a passenger window glowing orange, dramatic light",
+      "close-up of a person leaping onto wet grass beside fire, cold light",
+      "tight shot of a scorched girder silhouetted by flame, stark light"
+    ],
+    "tags": [
+      "hindenburg",
+      "airship",
+      "fire",
+      "history",
+      "hydrogen",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "never-sleep-again",
+    "title": "Would you survive if you never slept again? #shorts",
+    "description": "Total sleep deprivation causes microsleeps, hallucinations and organ stress. In experiments, rats denied all sleep died within weeks. #shorts #survival #didyouknow #science",
+    "hook": "What would happen if you never slept again?",
+    "script": "Night one, you're tired but fine. By day two, your memory slips and your mood crashes. By day four, your brain starts falling asleep without you, seconds at a time, while you're still awake. You hallucinate. Your immune system weakens and your body temperature drifts. In lab studies, rats kept fully awake died within about a month. Your body gives out. You don't survive.",
+    "captions": [
+      "Night one: tired.",
+      "Day two: memory slips.",
+      "Microsleeps begin.",
+      "Hallucinations.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a bloodshot human eye, harsh light",
+      "close-up of a clock face at 4am in the dark, high contrast",
+      "extreme close-up of dilated pupils under fluorescent light, dramatic light",
+      "close-up of trembling hands holding coffee, cold light",
+      "tight shot of a pale face lit by a phone screen, stark light"
+    ],
+    "tags": [
+      "sleep",
+      "insomnia",
+      "brain",
+      "body",
+      "science",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "rabbit-starvation",
+    "title": "Would you survive eating only rabbit? #shorts",
+    "description": "Rabbit meat is so lean that eating nothing else can lead to protein poisoning, known to explorers as rabbit starvation. #shorts #survival #didyouknow #wilderness",
+    "hook": "What would happen if you were stranded and only ate rabbit?",
+    "script": "You're stranded in the wilderness, but you're a good trapper. Rabbits every day. You eat until you're stuffed. Yet you're hungrier than ever. Wild rabbit is almost pure lean protein, and your body can't run on protein alone. Your liver is overwhelmed. Diarrhea starts, then headaches and exhaustion. The more you eat, the faster you weaken. Explorers called it rabbit starvation. You don't survive.",
+    "captions": [
+      "Stranded but fed.",
+      "Rabbit every day.",
+      "Hungrier than ever.",
+      "Too much protein.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a rabbit roasting over a campfire, harsh light",
+      "close-up of a snare wire in snow, high contrast",
+      "close-up of a gaunt face by a fire, dramatic light",
+      "macro of lean meat on a bone, cold light",
+      "tight shot of a pile of small bones beside embers, stark light"
+    ],
+    "tags": [
+      "rabbit",
+      "starvation",
+      "wilderness",
+      "food",
+      "stranded",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "polar-bear-liver-meal",
+    "title": "Would you survive eating polar bear liver? #shorts",
+    "description": "Polar bear liver contains extreme levels of vitamin A. Arctic explorers who ate it suffered headaches, vomiting and peeling skin. #shorts #survival #didyouknow #arctic",
+    "hook": "What would happen if you ate a polar bear's liver?",
+    "script": "You're starving on an Arctic expedition, and you've killed a polar bear. The liver is the richest part, so you eat your fill. Hours later, a crushing headache hits. You're dizzy and vomiting. A polar bear's liver holds so much vitamin A that a few bites is a massive overdose. Days later, your skin starts peeling in sheets, from head to toe. You don't survive.",
+    "captions": [
+      "Starving in the Arctic.",
+      "You eat the liver.",
+      "Crushing headache.",
+      "Your skin peels off.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a dark red liver on snow, harsh light",
+      "close-up of a polar bear's paw in the ice, high contrast",
+      "close-up of a frostbitten face grimacing, dramatic light",
+      "macro of peeling skin on a hand, cold light",
+      "tight shot of a knife stuck in bloody snow, stark light"
+    ],
+    "tags": [
+      "polar bear",
+      "arctic",
+      "vitamin a",
+      "poison",
+      "explorers",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "particle-accelerator-beam-head",
+    "title": "Would you survive a particle beam through your head? #shorts",
+    "description": "In 1978, Anatoli Bugorski put his head in the path of a proton beam. Half his face swelled and peeled, but he survived and finished his PhD. #shorts #survival #didyouknow #science",
+    "hook": "What would happen if you put your head in a particle accelerator beam?",
+    "script": "You lean into the accelerator to check a faulty part. The safety system has failed. A proton beam fires through your skull. You see a flash brighter than a thousand suns, but feel no pain. Over the next days, half your face swells and the skin peels away. In 1978, this happened to a Russian scientist, Anatoli Bugorski. He lived. You survive.",
+    "captions": [
+      "Leaning into the machine.",
+      "The safety fails.",
+      "A beam through your skull.",
+      "Half your face peels.",
+      "You survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a glowing beam port on an accelerator, harsh light",
+      "close-up of a face lit by a blinding flash, high contrast",
+      "macro of metal accelerator pipes and bolts, dramatic light",
+      "close-up of a swollen half face in shadow, cold light",
+      "tight shot of warning lights in a dark lab, stark light"
+    ],
+    "tags": [
+      "particle accelerator",
+      "radiation",
+      "physics",
+      "science",
+      "proton",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "soy-sauce-sodium-overdose",
+    "title": "Would you survive drinking a bottle of soy sauce? #shorts",
+    "description": "A 19-year-old who drank a quart of soy sauce fell into a coma from sodium overload. Doctors saved him by flushing his body with sugar water. #shorts #survival #didyouknow #science",
+    "hook": "What would happen if you drank a whole bottle of soy sauce?",
+    "script": "You chug a quart of soy sauce. Within minutes you're vomiting. Your blood is suddenly so salty that water rushes out of your brain cells to balance it. Your brain shrinks inside your skull. You seize, then fall into a coma. Doctors pump you full of sugar water to dilute the salt. In 2013, a nineteen-year-old did this. He lived. You survive.",
+    "captions": [
+      "You chug a quart.",
+      "Vomiting in minutes.",
+      "Your brain shrinks.",
+      "Seizure, then coma.",
+      "You survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of dark soy sauce pouring from a bottle, harsh light",
+      "macro of salt crystals in dark liquid, high contrast",
+      "close-up of a sweating face in hospital light, dramatic light",
+      "close-up of an IV drip bag, cold light",
+      "tight shot of an empty soy sauce bottle on its side, stark light"
+    ],
+    "tags": [
+      "soy sauce",
+      "salt",
+      "sodium",
+      "dare",
+      "science",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "hotel-room-fire-wet-towels",
+    "title": "Would you survive a hotel fire? #shorts",
+    "description": "If your hotel room door is hot, the hallway may be full of smoke. Sealing the door with wet towels and signaling from the window can keep you alive. #shorts #survival #didyouknow #fire",
+    "hook": "What would happen if a fire broke out on your hotel floor at night?",
+    "script": "An alarm wakes you at three a.m. You touch the door. It's hot. Smoke is seeping underneath. The hallway is a death trap. Stay in the room. Soak towels and pack them along the door's edges. Turn off the air vents. Call emergency services and give your room number. Hang a sheet out the window. Firefighters reach you. You survive.",
+    "captions": [
+      "The alarm wakes you.",
+      "The door is hot.",
+      "Seal it with wet towels.",
+      "Signal from the window.",
+      "You survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of smoke seeping under a hotel door, harsh light",
+      "close-up of a palm pressed against a door, high contrast",
+      "close-up of wet towels packed at a door's edge, dramatic light",
+      "tight shot of a white sheet hanging from a high window, cold light",
+      "close-up of a firefighter's helmet light in smoke, stark light"
+    ],
+    "tags": [
+      "fire",
+      "hotel",
+      "safety",
+      "smoke",
+      "travel",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "harness-suspension-trauma",
+    "title": "Would you survive hanging in a safety harness? #shorts",
+    "description": "Hanging motionless in a harness lets blood pool in the legs, which can cause fainting and death. It's called suspension trauma. #shorts #survival #didyouknow #safety",
+    "hook": "What would happen if you were left hanging in your safety harness?",
+    "script": "You slip off the roof, and your fall harness catches you. You're alive, dangling three stories up. Nobody saw. The straps dig into your thighs, squeezing your veins. Blood pools in your motionless legs. Your heart has less and less to pump. You feel faint and sweaty. Your vision tunnels. Within half an hour, you pass out, hanging upright. You don't survive.",
+    "captions": [
+      "The harness catches you.",
+      "Nobody saw.",
+      "Straps crush your veins.",
+      "Blood pools in your legs.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of harness straps biting into legs, harsh light",
+      "tight shot of boots dangling above a far drop, high contrast",
+      "close-up of a lanyard hook on a roof anchor, dramatic light",
+      "close-up of a pale sweating face, cold light",
+      "tight shot of a limp hand hanging in a harness, stark light"
+    ],
+    "tags": [
+      "harness",
+      "fall protection",
+      "construction",
+      "roof",
+      "safety",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "serac-collapse-icefall",
+    "title": "Would you survive a serac collapse? #shorts",
+    "description": "Seracs are towers of glacier ice that can collapse at any time. In 2014, a serac fall in Everest's Khumbu Icefall killed 16 people. #shorts #survival #didyouknow #mountains",
+    "hook": "What would happen if an ice tower collapsed above you on a glacier?",
+    "script": "You're crossing a glacier's icefall before dawn, when the ice is coldest. Towers of ice the size of buildings lean above you. They're called seracs, and they fall without warning. A crack like a gunshot. One topples. Blocks as big as cars tumble toward you. You're halfway across a ladder over a crevasse, with nowhere to run. You don't survive.",
+    "captions": [
+      "Crossing the icefall.",
+      "Ice towers lean over you.",
+      "A crack like a gunshot.",
+      "Blocks the size of cars.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of cracked blue glacier ice, harsh light",
+      "tight shot of a towering serac leaning overhead, high contrast",
+      "close-up of crampons on an aluminum ladder over a crevasse, dramatic light",
+      "close-up of ice blocks exploding into powder, cold light",
+      "tight shot of a headlamp beam on falling ice, stark light"
+    ],
+    "tags": [
+      "glacier",
+      "everest",
+      "serac",
+      "icefall",
+      "mountaineering",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "dam-penstock-intake",
+    "title": "Would you survive a dam intake? #shorts",
+    "description": "The surface near a dam can look calm while huge volumes of water rush into intakes below, pinning swimmers against grates. #shorts #survival #didyouknow #water",
+    "hook": "What would happen if you swam near a hydroelectric dam's intake?",
+    "script": "The reservoir is calm and glassy. You swim out toward the dam wall. The surface looks still, but below you, water is pouring into a giant intake pipe leading to the turbines. You feel a gentle pull, then a strong one. Kicking does nothing. The current pins you against the grate, with tons of water pressing on your back. You don't survive.",
+    "captions": [
+      "The water looks calm.",
+      "An intake below you.",
+      "A gentle pull.",
+      "Then you're pinned.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of calm water swirling into a vortex, harsh light",
+      "tight shot of a giant steel intake grate underwater, high contrast",
+      "close-up of a swimmer's hand against metal bars, dramatic light",
+      "close-up of bubbles rushing into darkness, cold light",
+      "tight shot of a concrete dam wall from the water, stark light"
+    ],
+    "tags": [
+      "dam",
+      "hydroelectric",
+      "swimming",
+      "reservoir",
+      "water",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "rock-burst-deep-mine",
+    "title": "Would you survive a rock burst? #shorts",
+    "description": "In very deep mines, stressed rock can suddenly explode from tunnel walls. Rock bursts are a major killer in deep gold mines. #shorts #survival #didyouknow #mining",
+    "hook": "What would happen if the rock exploded around you in a deep mine?",
+    "script": "You're working more than two miles underground. The rock around you is under unimaginable pressure. Everything is quiet. Then the tunnel wall explodes. Not a collapse, an explosion. Stone shatters outward like shrapnel, filling the tunnel in a fraction of a second. Miners call it a rock burst. The blast of rock hits you before you hear it. You don't survive.",
+    "captions": [
+      "Two miles underground.",
+      "Crushing pressure.",
+      "The wall explodes.",
+      "Rock like shrapnel.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of cracked rock under a helmet lamp, harsh light",
+      "tight shot of a miner's helmet in a narrow tunnel, high contrast",
+      "close-up of rock fragments bursting from a wall, dramatic light",
+      "close-up of dust filling a lamp beam, cold light",
+      "tight shot of a broken helmet lamp in rubble, stark light"
+    ],
+    "tags": [
+      "mining",
+      "rock burst",
+      "underground",
+      "gold mine",
+      "tunnel",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "angle-grinder-disc-shatter",
+    "title": "Would you survive an angle grinder disc shattering? #shorts",
+    "description": "Cutting discs spin at over 10,000 RPM. If one shatters without a guard, fragments fly out at nearly 300 km/h. #shorts #survival #didyouknow #tools",
+    "hook": "What would happen if your angle grinder disc shattered?",
+    "script": "You're cutting steel with an angle grinder. You took the guard off to reach a tight spot. The disc is spinning over ten thousand times a minute. It catches the edge of the metal. Then it shatters. Fragments fly out at nearly three hundred kilometers per hour. One slices into your neck. You drop the grinder, and it keeps spinning. You don't survive.",
+    "captions": [
+      "Guard removed.",
+      "10,000 RPM.",
+      "The disc catches.",
+      "It shatters.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of sparks from a spinning grinder disc, harsh light",
+      "macro of a cracked cutting disc, high contrast",
+      "close-up of disc fragments flying through sparks, dramatic light",
+      "close-up of a dropped grinder still spinning on concrete, cold light",
+      "tight shot of a removed metal guard on a workbench, stark light"
+    ],
+    "tags": [
+      "angle grinder",
+      "tools",
+      "workshop",
+      "sparks",
+      "safety",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "io-volcanic-moon",
+    "title": "Would you survive on Jupiter's moon Io? #shorts",
+    "description": "Io is the most volcanic world in the solar system, and it sits in Jupiter's radiation belts, where a day's dose would kill a person several times over. #shorts #survival #didyouknow #space",
+    "hook": "What would happen if you landed on Jupiter's moon Io?",
+    "script": "You step onto Io, the most volcanic world in the solar system. The ground is yellow and orange sulfur, frozen at minus one hundred thirty degrees. Hundreds of volcanoes blast plumes hundreds of kilometers into space. But the real killer is invisible. Io sits inside Jupiter's radiation belts. The dose you absorb in a single day would be lethal many times over. You don't survive.",
+    "captions": [
+      "Landing on Io.",
+      "Frozen sulfur ground.",
+      "Volcanoes erupt into space.",
+      "Invisible radiation.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of yellow sulfur crystals on a moon surface, harsh light",
+      "tight shot of a volcanic plume erupting into black space, high contrast",
+      "close-up of an astronaut visor reflecting a giant planet, dramatic light",
+      "macro of orange and white sulfur frost, cold light",
+      "tight shot of a radiation warning light inside a helmet, stark light"
+    ],
+    "tags": [
+      "io",
+      "jupiter",
+      "space",
+      "moons",
+      "radiation",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "mercury-surface-noon",
+    "title": "Would you survive on Mercury? #shorts",
+    "description": "Mercury's surface swings from about 430°C in daytime to -180°C at night, with almost no atmosphere to shield you. #shorts #survival #didyouknow #space",
+    "hook": "What would happen if you stood on Mercury at noon?",
+    "script": "You land on Mercury, the closest planet to the Sun. The Sun looks three times bigger than it does from Earth. There's almost no atmosphere to protect you. At noon, the ground reaches over four hundred degrees Celsius, hot enough to melt lead. Your suit's cooling system overloads in seconds. On the night side it drops to minus one hundred eighty. You don't survive.",
+    "captions": [
+      "Landing on Mercury.",
+      "The Sun three times bigger.",
+      "Ground hot enough to melt lead.",
+      "Your suit overloads.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a blazing giant sun over grey rock, harsh light",
+      "close-up of an astronaut boot on cracked scorched ground, high contrast",
+      "close-up of a visor glowing with reflected sunlight, dramatic light",
+      "macro of melting metal on hot rock, cold light",
+      "tight shot of a crater rim split between blinding light and black shadow, stark light"
+    ],
+    "tags": [
+      "mercury",
+      "planets",
+      "space",
+      "sun",
+      "heat",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "hape-altitude-drowning",
+    "title": "Would you survive fluid in your lungs at altitude? #shorts",
+    "description": "High-altitude pulmonary edema fills the lungs with fluid when climbers ascend too fast. Descending is the only real cure. #shorts #survival #didyouknow #mountains",
+    "hook": "What would happen if your lungs filled with fluid on a high mountain?",
+    "script": "You've climbed too fast. At six thousand meters, you're breathless even resting. Then a cough starts, wet and crackling. The thin air is squeezing the blood vessels in your lungs, forcing fluid into the air sacs. You're drowning on dry land. You cough up pink froth. Your lips turn blue. Only descending can save you, and you're too weak. You don't survive.",
+    "captions": [
+      "You climbed too fast.",
+      "A wet, crackling cough.",
+      "Fluid fills your lungs.",
+      "Pink froth.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of frost on a climber's beard, harsh light",
+      "close-up of a gloved hand over a coughing mouth, high contrast",
+      "close-up of blue lips in a fur hood, dramatic light",
+      "close-up of a tent wall sagging under snow at night, cold light",
+      "tight shot of an oxygen mask lying in snow, stark light"
+    ],
+    "tags": [
+      "altitude",
+      "mountaineering",
+      "hape",
+      "lungs",
+      "mountains",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "shallow-reef-wipeout",
+    "title": "Would you survive a wipeout on a shallow reef? #shorts",
+    "description": "At reef breaks like Pipeline and Teahupo'o, huge waves break over coral just below the surface, making wipeouts deadly. #shorts #survival #didyouknow #surfing",
+    "hook": "What would happen if a huge wave slammed you onto a shallow reef?",
+    "script": "You paddle into a giant wave breaking over coral a meter below the surface. You're too late. The lip pitches you forward and drives you down. Your shoulder hits the reef. The coral tears through your wetsuit like a cheese grater. The wave holds you down and drags you across it. Your head strikes the coral. You black out. You don't survive.",
+    "captions": [
+      "A giant wave over coral.",
+      "You're too late.",
+      "Driven straight down.",
+      "Coral like a cheese grater.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a wave lip pitching over shallow coral, harsh light",
+      "tight shot of a surfboard flipping in whitewater, high contrast",
+      "macro of sharp coral just under the surface, dramatic light",
+      "close-up of a torn wetsuit sleeve with scrapes, cold light",
+      "tight shot of churning bubbles over a dark reef, stark light"
+    ],
+    "tags": [
+      "surfing",
+      "reef",
+      "waves",
+      "pipeline",
+      "ocean",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "needlefish-leaping-spear",
+    "title": "Would you survive a needlefish attack? #shorts",
+    "description": "Needlefish leap out of the water toward lights at high speed, and their spear-like beaks have killed people. #shorts #survival #didyouknow #ocean",
+    "hook": "What would happen if a needlefish leapt at you from the water?",
+    "script": "You're wading through shallow water at night with a flashlight. Out of the dark, something silver shoots out of the sea. Needlefish are attracted to light, and they leap at it at high speed. This one's beak is long, thin, and sharp as a spear. It pierces your chest, straight into your heart. The beak snaps off inside you. You don't survive.",
+    "captions": [
+      "Wading at night.",
+      "Silver from the dark.",
+      "They leap at light.",
+      "A beak like a spear.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a needlefish's long toothy beak, harsh light",
+      "tight shot of a silver fish leaping out of black water, high contrast",
+      "close-up of a flashlight beam on dark water, dramatic light",
+      "macro of needlefish teeth, cold light",
+      "close-up of a dropped flashlight in the shallows, stark light"
+    ],
+    "tags": [
+      "needlefish",
+      "fish",
+      "ocean",
+      "night",
+      "beach",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "thunderstorm-asthma",
+    "title": "Would you survive thunderstorm asthma? #shorts",
+    "description": "In Melbourne in 2016, a thunderstorm burst pollen into tiny fragments, sending thousands to hospital and killing ten people. #shorts #survival #didyouknow #weather",
+    "hook": "What would happen if a thunderstorm gave you an asthma attack?",
+    "script": "It's a hot spring day, full of pollen. A thunderstorm rolls in. You've never had asthma. The storm's winds sweep pollen grains up into the clouds, where moisture bursts them into tiny fragments. Gusts blow them back down. You breathe them into your lungs. Your airways clamp shut. Across the city, thousands struggle to breathe at once. Ambulances can't keep up. You don't survive.",
+    "captions": [
+      "A hot pollen-filled day.",
+      "A storm rolls in.",
+      "Pollen bursts into fragments.",
+      "Your airways clamp shut.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme macro of grass pollen grains bursting, harsh light",
+      "tight shot of a dark thunderstorm cloud edge, high contrast",
+      "close-up of a hand clutching a throat, dramatic light",
+      "macro of pollen dust swirling in wind, cold light",
+      "tight shot of ambulance lights in rain, stark light"
+    ],
+    "tags": [
+      "thunderstorm",
+      "asthma",
+      "pollen",
+      "weather",
+      "storm",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "capsized-tugboat-air-pocket",
+    "title": "Would you survive trapped in a sunken ship? #shorts",
+    "description": "In 2013, ship's cook Harrison Okene survived about 60 hours in an air pocket inside a capsized tugboat 30 meters down, until divers found him. #shorts #survival #didyouknow #ocean",
+    "hook": "What would happen if your ship capsized and sank with you inside?",
+    "script": "Your tugboat flips in rough seas and sinks thirty meters to the seabed. You're trapped inside. Water is rising, but there's a pocket of air trapped above you in a cabin. Stay in it. Stay calm, breathe slowly, and stay out of the cold water. In 2013, a cook named Harrison Okene did this for sixty hours. Divers found him. You survive.",
+    "captions": [
+      "Capsized and sinking.",
+      "Trapped on the seabed.",
+      "An air pocket.",
+      "Breathe slowly. Wait.",
+      "You survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of water rising inside a dark ship cabin, harsh light",
+      "tight shot of an upside-down corridor flooded with water, high contrast",
+      "close-up of a face in a small air pocket lit by a torch, dramatic light",
+      "close-up of a diver's light shining through murky water, cold light",
+      "tight shot of a hand reaching for a diver's glove, stark light"
+    ],
+    "tags": [
+      "shipwreck",
+      "air pocket",
+      "ocean",
+      "diving",
+      "tugboat",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "fall-to-earths-core",
+    "title": "Would you survive falling to Earth's core? #shorts",
+    "description": "Rock gets hotter by roughly 25 to 30°C per kilometer underground, and Earth's core is about as hot as the surface of the Sun. #shorts #survival #didyouknow #science",
+    "hook": "What would happen if you fell down a hole to Earth's core?",
+    "script": "Somebody drills a hole down, and you fall in. A few kilometers down, the rock walls are already hotter than boiling water. The air pressure keeps rising. Thirty kilometers down, you're past the crust, into rock hot enough to glow. Long before you reach the core, which is as hot as the surface of the Sun, you're cooked and crushed. You don't survive.",
+    "captions": [
+      "You fall into the hole.",
+      "Hotter than boiling water.",
+      "Past the crust.",
+      "Rock that glows.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a dark borehole edge dropping into blackness, harsh light",
+      "tight shot of glowing red rock walls in a shaft, high contrast",
+      "close-up of a falling figure lit by orange heat, dramatic light",
+      "macro of molten rock glowing white hot, cold light",
+      "tight shot of a blazing molten core light at the bottom of a shaft, stark light"
+    ],
+    "tags": [
+      "earth",
+      "core",
+      "geology",
+      "science",
+      "what if",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "mont-blanc-tunnel-fire",
+    "title": "Would you survive a tunnel fire in your car? #shorts",
+    "description": "In the 1999 Mont Blanc tunnel fire, many of the 39 victims died in or near their cars as smoke filled the tunnel. #shorts #survival #didyouknow #fire",
+    "hook": "What would happen if a truck caught fire in a tunnel ahead of you?",
+    "script": "You're halfway through a mountain tunnel when traffic stops. Ahead, a truck is burning. Smoke rolls toward you along the ceiling. You stay in your car, waiting for it to clear. It doesn't. The toxic smoke drops lower and lower. By the time you leave the car, you can't see the exit. You don't survive.",
+    "captions": [
+      "Traffic stops.",
+      "A truck is burning.",
+      "You wait in your car.",
+      "Smoke drops lower.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of black smoke rolling along a tunnel ceiling, harsh light",
+      "tight shot of brake lights in a smoky tunnel, high contrast",
+      "close-up of a driver's hands on a wheel in haze, dramatic light",
+      "close-up of flames under a truck trailer, cold light",
+      "tight shot of a green exit sign fading into smoke, stark light"
+    ],
+    "tags": [
+      "tunnel",
+      "fire",
+      "car",
+      "traffic",
+      "smoke",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "linseed-rags-self-ignite",
+    "title": "Would you survive oily rags catching fire? #shorts",
+    "description": "Rags soaked in linseed oil or oil-based stain can heat up as they dry and burst into flames on their own. #shorts #survival #didyouknow #fire",
+    "hook": "What would happen if you left oily rags in a pile overnight?",
+    "script": "You finish staining the deck and toss the oily rags in the garage. You go to bed. As the linseed oil dries, it reacts with oxygen and gives off heat. The pile traps it. The center gets hotter, with no flame and no spark. Around three a.m., the rags burst into flames by themselves. The garage fills with fire. You don't survive.",
+    "captions": [
+      "Oily rags tossed aside.",
+      "You go to bed.",
+      "The oil heats as it dries.",
+      "They ignite by themselves.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of stained oily rags crumpled together, harsh light",
+      "macro of wisps of smoke rising from a rag pile, high contrast",
+      "close-up of a glowing ember inside fabric folds, dramatic light",
+      "close-up of flames bursting from rags on a garage floor, cold light",
+      "tight shot of a smoke-filled garage door, stark light"
+    ],
+    "tags": [
+      "fire",
+      "linseed oil",
+      "rags",
+      "garage",
+      "home safety",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "oceanic-whitetip-shipwreck",
+    "title": "Would you survive a shipwreck with oceanic whitetips? #shorts",
+    "description": "Oceanic whitetip sharks are drawn to shipwrecks in the open ocean. After USS Indianapolis sank in 1945, survivors spent four days in shark-infested water. #shorts #survival #didyouknow #sharks",
+    "hook": "What would happen if your ship sank in shark-filled open ocean?",
+    "script": "Your ship sinks in the middle of the ocean. You're floating in a life jacket with hundreds of others. By the first afternoon, fins appear. Oceanic whitetip sharks are bold and curious, and they've followed the wreckage. They circle, bump legs, then bite. Day after day, the group gets smaller. Thirst and sun weaken you. Rescue comes too late. You don't survive.",
+    "captions": [
+      "Your ship sinks.",
+      "Adrift with hundreds.",
+      "Fins appear.",
+      "They circle, then bite.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a shark fin cutting the ocean surface, harsh light",
+      "tight shot of a life jacket floating in oil-slicked water, high contrast",
+      "close-up of an oceanic whitetip's white-tipped fin underwater, dramatic light",
+      "close-up of legs dangling in deep blue water, cold light",
+      "tight shot of a shark's eye near the surface, stark light"
+    ],
+    "tags": [
+      "sharks",
+      "shipwreck",
+      "ocean",
+      "whitetip",
+      "history",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "space-debris-spacewalk",
+    "title": "Would you survive being hit by space junk? #shorts",
+    "description": "Orbital debris travels around 10 times faster than a bullet. Even paint flecks have chipped spacecraft windows. #shorts #survival #didyouknow #space",
+    "hook": "What would happen if space debris hit you on a spacewalk?",
+    "script": "You're on a spacewalk, tethered to the space station. Below you, Earth rolls past. Out here, orbiting junk moves around ten times faster than a bullet. A fleck of paint can chip a window. Something the size of a marble is coming straight at you. You'll never see it. It punches through your suit and you, and your air rushes out. You don't survive.",
+    "captions": [
+      "On a spacewalk.",
+      "Junk faster than bullets.",
+      "A marble-sized fragment.",
+      "You never see it.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of an astronaut visor reflecting Earth, harsh light",
+      "macro of a chip crater in spacecraft glass, high contrast",
+      "close-up of a metal fragment streaking through black space, dramatic light",
+      "close-up of a spacesuit glove gripping a tether, cold light",
+      "tight shot of a puncture hole venting vapor from a suit, stark light"
+    ],
+    "tags": [
+      "space",
+      "space junk",
+      "spacewalk",
+      "astronaut",
+      "iss",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "backdraft-door-open",
+    "title": "Would you survive a backdraft? #shorts",
+    "description": "When a fire starved of oxygen suddenly gets fresh air, the hot gases can ignite explosively. Firefighters call it a backdraft. #shorts #survival #didyouknow #fire",
+    "hook": "What would happen if you opened a door to a burning room?",
+    "script": "You smell smoke in the house. The bedroom door is shut. You grab the handle to look. Inside, the fire has burned most of the oxygen. The room is full of hot, unburned gas, waiting. When you open the door, fresh air rushes in. The gas ignites all at once. A fireball explodes through the doorway and into you. You don't survive.",
+    "captions": [
+      "You smell smoke.",
+      "The door is shut.",
+      "Hot gas waits inside.",
+      "Air rushes in.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a hand gripping a door handle with smoke seeping out, harsh light",
+      "tight shot of dark smoke pulsing under a door, high contrast",
+      "close-up of a fireball bursting through a doorway, dramatic light",
+      "macro of blistering paint on a hot door, cold light",
+      "tight shot of a doorway engulfed in orange flame, stark light"
+    ],
+    "tags": [
+      "fire",
+      "backdraft",
+      "house fire",
+      "firefighters",
+      "home safety",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
   }
 ]

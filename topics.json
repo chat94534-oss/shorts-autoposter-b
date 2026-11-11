@@ -1,35 +1,5 @@
 [
   {
-    "id": "space-station-fire",
-    "title": "Would you survive a fire on a space station? #shorts",
-    "description": "In zero gravity smoke doesn't rise, and there's nowhere to run. #shorts #survival #didyouknow #scary",
-    "hook": "What would happen if a fire broke out on a space station?",
-    "script": "An oxygen canister flares. In zero gravity, smoke doesn't rise. It hangs around you in a choking ball. Flames creep in every direction at once. The module fills with gray haze in seconds. The fire is between you and the escape capsule. You pull on a mask, but the filter is already clogged. You don't survive.",
-    "captions": [
-      "An oxygen canister flares.",
-      "Smoke doesn't rise.",
-      "Flames spread every way.",
-      "The exit is blocked.",
-      "You don't survive."
-    ],
-    "image_prompts": [
-      "extreme close-up of a sparking canister in a space station, harsh light",
-      "tight shot of floating smoke ball in zero gravity, high contrast",
-      "close-up of a spherical flame drifting, dramatic light",
-      "close-up of an astronaut's fogged mask, cold light",
-      "tight shot of a red alarm light through haze"
-    ],
-    "tags": [
-      "space station",
-      "fire",
-      "zero gravity",
-      "astronaut",
-      "survival",
-      "didyouknow",
-      "shorts"
-    ]
-  },
-  {
     "id": "arresting-cable-snap-carrier-deck",
     "title": "Would you survive a snapping cable on an aircraft carrier? #shorts",
     "description": "Arresting wires stop jets at landing speed. When one snaps, it whips across the deck. #shorts #survival #didyouknow #scary",

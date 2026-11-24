@@ -990,5 +990,873 @@
       "didyouknow",
       "shorts"
     ]
+  },
+  {
+    "id": "pluto-surface-unprotected",
+    "title": "Would you survive standing on Pluto without a suit? #shorts",
+    "description": "Pluto's air is about 100,000 times thinner than Earth's and the surface sits near minus 230 degrees. #shorts #survival #didyouknow #space",
+    "hook": "What would happen if you stood on Pluto without a spacesuit?",
+    "script": "You step onto Pluto's nitrogen ice. The Sun is just a dazzling star. The air is a hundred thousand times thinner than Earth's. The air rushes out of your lungs. The moisture on your tongue boils away. After about fifteen seconds, you black out. At minus two hundred thirty degrees, your skin starts to freeze. You don't survive.",
+    "captions": [
+      "Onto the ice.",
+      "The Sun is a star.",
+      "Air rushes out.",
+      "You black out.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a bare foot on pale nitrogen ice, harsh light",
+      "tight shot of a tiny bright sun in a black sky, high contrast",
+      "close-up of frost forming on lips, dramatic light",
+      "macro of ice crystals on skin, cold light",
+      "tight shot of a lone figure on frozen plains, stark light"
+    ],
+    "tags": [
+      "pluto",
+      "space",
+      "vacuum",
+      "cold",
+      "planets",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "neptune-supersonic-winds",
+    "title": "Would you survive parachuting into Neptune? #shorts",
+    "description": "Neptune has the fastest winds in the solar system, over 2,000 km/h, and no solid surface. #shorts #survival #didyouknow #space",
+    "hook": "What would happen if you parachuted into Neptune?",
+    "script": "You drop into deep blue clouds. It's minus two hundred degrees. Then the wind hits, over two thousand kilometers an hour, the fastest in the solar system. It flings you sideways faster than sound. Methane ice crystals blast your suit like sandpaper. You keep sinking. There's no surface, just air getting thicker and hotter. The pressure crushes you flat. You don't survive.",
+    "captions": [
+      "Into blue clouds.",
+      "Supersonic wind.",
+      "Methane ice.",
+      "No surface.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a helmet visor reflecting deep blue clouds, harsh light",
+      "tight shot of a shredded parachute in wind, high contrast",
+      "close-up of ice crystals scouring a suit, dramatic light",
+      "macro of frost cracking on glass, cold light",
+      "tight shot of a figure sinking into dark blue haze, stark light"
+    ],
+    "tags": [
+      "neptune",
+      "space",
+      "wind",
+      "planets",
+      "pressure",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "venus-cloud-layer",
+    "title": "Would you survive floating in Venus's clouds? #shorts",
+    "description": "Fifty-five kilometers above Venus the pressure and temperature are almost Earth-like, but the air is carbon dioxide and sulfuric acid. #shorts #survival #didyouknow #space",
+    "hook": "What would happen if you floated in Venus's clouds without a suit?",
+    "script": "Fifty-five kilometers above Venus, it feels almost like Earth. It's about room temperature. But the air is almost pure carbon dioxide. You take one breath, and your body panics. Droplets of sulfuric acid sting your eyes and burn your skin. Within a minute, you black out. You drift down toward a surface hot enough to melt lead. You don't survive.",
+    "captions": [
+      "Almost like Earth.",
+      "Carbon dioxide air.",
+      "Acid droplets.",
+      "You black out.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a face in yellow haze, harsh light",
+      "tight shot of thick yellow clouds, high contrast",
+      "close-up of acid droplets on skin, dramatic light",
+      "macro of a reddened stinging eye, cold light",
+      "tight shot of a figure sinking through orange cloud, stark light"
+    ],
+    "tags": [
+      "venus",
+      "space",
+      "acid",
+      "clouds",
+      "planets",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "lake-karachay-shore",
+    "title": "Would you survive an hour beside Lake Karachay? #shorts",
+    "description": "Radioactive waste dumped into Russia's Lake Karachay made its shore deadly. In 1990, an hour there could give a lethal dose. #shorts #survival #didyouknow #radiation",
+    "hook": "What would happen if you stood on the shore of Lake Karachay?",
+    "script": "It's 1990, in Russia's Ural Mountains. For years, a nuclear plant dumped radioactive waste into this small lake. It looks perfectly normal. But near the outlet, radiation hits about six sieverts an hour. In one hour, you absorb a lethal dose. You feel nothing. Days later, nausea comes, then your hair falls out and your gut lining dies. You don't survive.",
+    "captions": [
+      "A normal-looking lake.",
+      "Nuclear waste.",
+      "Six sieverts an hour.",
+      "You feel nothing.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of still grey lake water at a reedy shore, harsh light",
+      "tight shot of a radiation sign on a rusted fence, high contrast",
+      "close-up of a dosimeter needle maxed out, dramatic light",
+      "macro of hair strands in a palm, cold light",
+      "tight shot of a lone figure at the water's edge, stark light"
+    ],
+    "tags": [
+      "radiation",
+      "karachay",
+      "nuclear",
+      "russia",
+      "lake",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "bhopal-gas-cloud",
+    "title": "Would you survive the Bhopal gas leak? #shorts",
+    "description": "In 1984, about 40 tons of methyl isocyanate leaked from a pesticide plant in Bhopal, India, killing thousands overnight. #shorts #survival #didyouknow #history",
+    "hook": "What would happen if you were in Bhopal on the night of the 1984 gas leak?",
+    "script": "It's past midnight. You wake up coughing. About forty tons of methyl isocyanate have leaked from a pesticide plant. The gas is heavier than air, so it hugs the streets. Your eyes burn shut. Every breath feels like fire. You run, but everyone is running too. Your lungs start filling with fluid. Thousands die before sunrise. You don't survive.",
+    "captions": [
+      "Waking up coughing.",
+      "Forty tons of gas.",
+      "It hugs the streets.",
+      "Lungs fill.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of watering burning eyes, harsh light",
+      "tight shot of white gas drifting at ground level, high contrast",
+      "close-up of a hand over a coughing mouth, dramatic light",
+      "macro of fog on a dark street, cold light",
+      "tight shot of a figure running through haze, stark light"
+    ],
+    "tags": [
+      "bhopal",
+      "gas leak",
+      "toxic",
+      "disaster",
+      "history",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "centralia-ground-collapse",
+    "title": "Would you survive falling into a burning coal mine? #shorts",
+    "description": "Centralia, Pennsylvania has had a coal fire burning beneath it since 1962. In 2001, a boy fell into a steaming hole and lived. #shorts #survival #didyouknow #lifehack",
+    "hook": "What would happen if the ground opened up above a burning coal mine?",
+    "script": "You're in Centralia, Pennsylvania. A coal seam has burned underground since 1962. You cross a backyard, and the ground gives way. You drop into a steaming hole. The air is hot and full of carbon monoxide. In 2001, a twelve-year-old survived this. He grabbed an exposed tree root and screamed until his cousin pulled him out. You survive.",
+    "captions": [
+      "A fire underground.",
+      "The ground gives way.",
+      "Hot toxic air.",
+      "Grab the root.",
+      "You survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of steam rising from cracked ground, harsh light",
+      "tight shot of a collapsing patch of earth, high contrast",
+      "close-up of a hand gripping a tree root, dramatic light",
+      "macro of smoke curling from a hole, cold light",
+      "tight shot of a hand pulling another from a pit, stark light"
+    ],
+    "tags": [
+      "centralia",
+      "mine fire",
+      "sinkhole",
+      "pennsylvania",
+      "carbon monoxide",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "darvaza-crater-fall",
+    "title": "Would you survive falling into the Door to Hell? #shorts",
+    "description": "Turkmenistan's Darvaza gas crater has burned since 1971. It is about 70 meters wide. #shorts #survival #didyouknow #fire",
+    "hook": "What would happen if you fell into the Door to Hell?",
+    "script": "You're in Turkmenistan's desert, at a crater seventy meters wide. It has been burning since 1971, when Soviet engineers lit escaping gas to burn it off. They thought it would last weeks. You lean too close, and the edge crumbles. You slide twenty meters down into the flames. The heat is unbearable. Your lungs scorch on the first breath. You don't survive.",
+    "captions": [
+      "The Door to Hell.",
+      "Burning since 1971.",
+      "The edge crumbles.",
+      "Into the flames.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of flames licking a crater wall, harsh light",
+      "tight shot of a crumbling sandy edge, high contrast",
+      "close-up of glowing rocks at night, dramatic light",
+      "macro of heat shimmer over fire, cold light",
+      "tight shot of a silhouette at a fiery rim, stark light"
+    ],
+    "tags": [
+      "darvaza",
+      "door to hell",
+      "turkmenistan",
+      "fire",
+      "crater",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "great-smog-london-1952",
+    "title": "Would you survive London's Great Smog? #shorts",
+    "description": "In December 1952, coal smoke trapped over London killed about 4,000 people in days, and thousands more afterward. #shorts #survival #didyouknow #history",
+    "hook": "What would happen if you were caught in London's Great Smog of 1952?",
+    "script": "It's December. Cold, still air traps coal smoke over the whole city. The fog turns yellow-black. You can't see your own feet. Buses stop, and cinemas close because no one can see the screen. Every breath leaves soot in your throat. In five days, around four thousand people die, and thousands more after. If your lungs are weak, you don't survive.",
+    "captions": [
+      "Trapped smoke.",
+      "Yellow-black fog.",
+      "Can't see your feet.",
+      "Soot in your throat.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a face in thick yellow fog, harsh light",
+      "tight shot of a dim streetlamp in smog, high contrast",
+      "close-up of soot on a handkerchief, dramatic light",
+      "macro of black particles on skin, cold light",
+      "tight shot of a lone figure in a choking street, stark light"
+    ],
+    "tags": [
+      "london",
+      "smog",
+      "1952",
+      "pollution",
+      "history",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "johnstown-dam-break-1889",
+    "title": "Would you survive the Johnstown Flood? #shorts",
+    "description": "In 1889, the South Fork Dam failed above Johnstown, Pennsylvania. Over 2,200 people died. #shorts #survival #didyouknow #history",
+    "hook": "What would happen if a dam broke above your town?",
+    "script": "It's 1889, in Johnstown, Pennsylvania. It's been raining for days. Upstream, an old earth dam gives way. A wall of water up to eighteen meters high races down the valley, carrying trees, rail cars, and houses. It smashes into your town in minutes. Debris piles up at a stone bridge, and then it catches fire. Over two thousand people die. You don't survive.",
+    "captions": [
+      "Raining for days.",
+      "The dam gives way.",
+      "A wall of water.",
+      "The debris burns.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of water bursting through earth, harsh light",
+      "tight shot of a wall of brown water, high contrast",
+      "close-up of splintered timber in a torrent, dramatic light",
+      "macro of flames on wet wreckage, cold light",
+      "tight shot of a figure on a rooftop in floodwater, stark light"
+    ],
+    "tags": [
+      "johnstown",
+      "flood",
+      "dam",
+      "1889",
+      "history",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "oymyakon-minus-sixty",
+    "title": "Would you survive getting lost at minus 60? #shorts",
+    "description": "Oymyakon in Siberia is the coldest inhabited town on Earth. At minus 60, exposed skin freezes in minutes. #shorts #survival #didyouknow #cold",
+    "hook": "What would happen if you got lost in Oymyakon at minus sixty?",
+    "script": "You step out of your guesthouse in Siberia's coldest town. Your nostrils freeze shut on your first breath. Your eyelashes crust with ice. You take a wrong turn in the dark. Within minutes, your fingers stop working. Your cheeks turn white with frostbite. You shiver violently, then you stop. That's the bad sign. You feel warm and sleepy. You don't survive.",
+    "captions": [
+      "Minus sixty.",
+      "Nostrils freeze.",
+      "A wrong turn.",
+      "The shivering stops.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of frozen eyelashes, harsh light",
+      "tight shot of a frost-covered face, high contrast",
+      "close-up of stiff white fingers, dramatic light",
+      "macro of ice crystals on a scarf, cold light",
+      "tight shot of a figure in an icy fog, stark light"
+    ],
+    "tags": [
+      "oymyakon",
+      "siberia",
+      "cold",
+      "frostbite",
+      "hypothermia",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "paraglider-cloud-suck",
+    "title": "Would you survive being sucked into a storm cloud? #shorts",
+    "description": "In 2007, a paraglider pilot was pulled nearly 10 km up by a thunderstorm and survived. Another pilot in the same storm did not. #shorts #survival #didyouknow #weather",
+    "hook": "What would happen if a storm cloud sucked up your paraglider?",
+    "script": "You're paragliding in Australia when a thunderstorm builds around you. The updraft grabs your wing and lifts you faster than an elevator. You can't get down. Hail pounds you. Ice coats your gear. In 2007, one pilot was carried nearly ten kilometers up, blacked out, and somehow survived. Another pilot caught in the same storm was killed. You don't survive.",
+    "captions": [
+      "A storm builds.",
+      "Pulled upward.",
+      "Hail and ice.",
+      "Ten kilometers up.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of an ice-covered harness buckle, harsh light",
+      "tight shot of a paraglider wing against a dark cloud, high contrast",
+      "close-up of hailstones hitting a helmet, dramatic light",
+      "macro of frost on a glove, cold light",
+      "tight shot of a tiny wing inside a towering storm, stark light"
+    ],
+    "tags": [
+      "paragliding",
+      "thunderstorm",
+      "updraft",
+      "hail",
+      "weather",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "industrial-dough-mixer",
+    "title": "Would you survive getting caught in a dough mixer? #shorts",
+    "description": "Industrial bakery mixers knead hundreds of kilos of dough and have pulled in workers who reached in while they ran. #shorts #survival #didyouknow #safety",
+    "hook": "What would happen if you got caught in an industrial dough mixer?",
+    "script": "You're cleaning a bakery mixer the size of a bathtub. Someone didn't lock out the power. You reach in to scrape the bowl, and the spiral hook starts turning. It's built to knead hundreds of kilos of stiff dough, and it doesn't slow down. Your arm is pulled in, then your shoulder. Workers have died exactly like this. You don't survive.",
+    "captions": [
+      "Cleaning the mixer.",
+      "Power still on.",
+      "It catches your sleeve.",
+      "It doesn't slow down.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a steel spiral dough hook, harsh light",
+      "tight shot of a huge mixing bowl of dough, high contrast",
+      "close-up of a sleeve snagged on metal, dramatic light",
+      "macro of flour dust in the air, cold light",
+      "tight shot of an arm reaching into a mixer, stark light"
+    ],
+    "tags": [
+      "bakery",
+      "mixer",
+      "machinery",
+      "workplace",
+      "accident",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "rutting-camel-attack",
+    "title": "Would you survive an angry male camel? #shorts",
+    "description": "Male camels in rutting season can become aggressive, biting and kneeling on people. They have killed handlers. #shorts #survival #didyouknow #animals",
+    "hook": "What would happen if you walked into a camel's pen during rutting season?",
+    "script": "You climb in to pet a male camel. It's rutting season. A pink sac bulges from his mouth, and he's foaming. He weighs over five hundred kilos. He knocks you down and bites your head. Then he kneels on your chest and drops his weight. Your ribs crack, and your lungs can't expand. Camels have killed handlers this way. You don't survive.",
+    "captions": [
+      "Into the pen.",
+      "Rutting season.",
+      "Knocked down.",
+      "He kneels on you.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a foaming camel mouth, harsh light",
+      "tight shot of a camel's pink throat sac, high contrast",
+      "close-up of yellow camel teeth, dramatic light",
+      "macro of a camel's knee in dust, cold light",
+      "tight shot of a towering camel over a fallen person, stark light"
+    ],
+    "tags": [
+      "camel",
+      "rut",
+      "animal attack",
+      "farm",
+      "animals",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "sannakji-live-octopus",
+    "title": "Would you survive swallowing a live octopus? #shorts",
+    "description": "Sannakji is freshly chopped octopus whose tentacles still move. Its suction cups can grip the throat, and people have choked on it. #shorts #survival #didyouknow #food",
+    "hook": "What would happen if you swallowed a live octopus tentacle?",
+    "script": "You're at a Korean restaurant, ordering sannakji, freshly chopped octopus. The tentacles are still moving on the plate. You chew too little and swallow. A suction cup grabs the back of your throat. Then another. It's still clinging to your airway. You can't cough it loose. You can't breathe. People have choked to death this way. You don't survive.",
+    "captions": [
+      "Still moving.",
+      "Barely chewed.",
+      "A suction cup grabs.",
+      "You can't breathe.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of wriggling octopus tentacles on a plate, harsh light",
+      "tight shot of chopsticks lifting a tentacle, high contrast",
+      "macro of suction cups on skin, dramatic light",
+      "close-up of a hand clutching a throat, cold light",
+      "tight shot of a tentacle on a dark plate, stark light"
+    ],
+    "tags": [
+      "octopus",
+      "sannakji",
+      "choking",
+      "food",
+      "korea",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "gamma-ray-burst-earth",
+    "title": "Would you survive a gamma-ray burst hitting Earth? #shorts",
+    "description": "A nearby gamma-ray burst could strip away much of Earth's ozone layer in seconds. #shorts #survival #didyouknow #space",
+    "hook": "What would happen if a gamma-ray burst hit Earth?",
+    "script": "A massive star collapses a few thousand light-years away. It fires a beam of gamma rays straight at Earth. The beam arrives at light speed, with no warning. In seconds, it could strip away much of the ozone layer. On the facing side of the planet, the sky flashes. Then raw ultraviolet sunlight starts burning crops, plankton, and skin. Food chains collapse. You don't survive.",
+    "captions": [
+      "A star collapses.",
+      "No warning.",
+      "The ozone is gone.",
+      "Burning sunlight.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a blinding beam of light in space, harsh light",
+      "tight shot of a collapsing star, high contrast",
+      "close-up of a flash across the sky, dramatic light",
+      "macro of sunburned skin, cold light",
+      "tight shot of a figure under a white sky, stark light"
+    ],
+    "tags": [
+      "gamma ray burst",
+      "space",
+      "ozone",
+      "radiation",
+      "extinction",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "glory-hole-spillway",
+    "title": "Would you survive swimming near a glory hole spillway? #shorts",
+    "description": "Monticello Dam's glory hole spillway is a giant funnel in Lake Berryessa. In 1997, a swimmer was pulled in. #shorts #survival #didyouknow #water",
+    "hook": "What would happen if you swam too close to the glory hole spillway?",
+    "script": "You're swimming in California's Lake Berryessa. A giant concrete funnel sits in the water. It's the dam's spillway, and the lake is full. Water pours over its lip and drops about sixty meters down a pipe. Near the edge, the current is brutal. It pulls you in. In 1997, a swimmer was swept in exactly like this. You don't survive.",
+    "captions": [
+      "A giant funnel.",
+      "The lake is full.",
+      "Sixty meters down.",
+      "It pulls you in.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of water pouring over a concrete lip, harsh light",
+      "tight shot of a dark circular funnel in a lake, high contrast",
+      "close-up of a swimmer's hand in fast water, dramatic light",
+      "macro of churning white water, cold light",
+      "tight shot of a whirling drain from above, stark light"
+    ],
+    "tags": [
+      "spillway",
+      "dam",
+      "lake",
+      "swimming",
+      "water",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "apollo-1-pure-oxygen-fire",
+    "title": "Would you survive a spark in a pure oxygen capsule? #shorts",
+    "description": "In 1967, a fire in the pure-oxygen cabin of Apollo 1 killed three astronauts during a launch pad test. #shorts #survival #didyouknow #space",
+    "hook": "What would happen if a spark lit up a pure oxygen capsule?",
+    "script": "It's 1967. You're strapped into Apollo 1 on the launch pad for a test. The cabin is filled with pure oxygen. A spark flashes from a wire near the seats. In pure oxygen, nylon and foam burn explosively. Flames race across the cabin in seconds. The hatch opens inward, and the pressure holds it shut. The smoke reaches you first. You don't survive.",
+    "captions": [
+      "Strapped in.",
+      "Pure oxygen.",
+      "A spark.",
+      "The hatch won't open.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a spark on a frayed wire, harsh light",
+      "tight shot of a helmet visor reflecting flames, high contrast",
+      "close-up of a capsule hatch handle, dramatic light",
+      "macro of foam igniting, cold light",
+      "tight shot of a smoke-filled tiny cabin, stark light"
+    ],
+    "tags": [
+      "apollo 1",
+      "nasa",
+      "fire",
+      "oxygen",
+      "space",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "mount-st-helens-lateral-blast",
+    "title": "Would you survive the Mount St. Helens eruption? #shorts",
+    "description": "On May 18, 1980, Mount St. Helens exploded sideways after a giant landslide. Fifty-seven people died. #shorts #survival #didyouknow #volcano",
+    "hook": "What would happen if you camped near Mount St. Helens on May 18, 1980?",
+    "script": "It's Sunday morning. You're camped about eleven kilometers from the peak. An earthquake shakes the north slope loose in the largest landslide ever recorded. The mountain explodes sideways. Hot ash and rock race toward you at hundreds of kilometers an hour. Trees snap flat for miles. It reaches you in about a minute. Fifty-seven people die that day. You don't survive.",
+    "captions": [
+      "Sunday morning.",
+      "The slope collapses.",
+      "It explodes sideways.",
+      "Trees snap flat.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a volcano's bulging flank, harsh light",
+      "tight shot of a grey ash cloud racing forward, high contrast",
+      "close-up of snapped tree trunks, dramatic light",
+      "macro of ash coating a tent, cold light",
+      "tight shot of a figure before a black wall of ash, stark light"
+    ],
+    "tags": [
+      "mount st helens",
+      "volcano",
+      "eruption",
+      "1980",
+      "history",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "mount-washington-summit-storm",
+    "title": "Would you survive a storm on Mount Washington? #shorts",
+    "description": "Mount Washington once recorded a 231 mph gust. More than 160 people have died on the mountain. #shorts #survival #didyouknow #weather",
+    "hook": "What would happen if a storm caught you on Mount Washington?",
+    "script": "You set out in New Hampshire on a sunny morning. By afternoon, a storm slams the summit. This mountain once recorded a gust of three hundred seventy-two kilometers an hour. The wind knocks you flat. Freezing fog coats your jacket in ice. Your wet clothes pull the heat out of you. Over a hundred sixty people have died here. You don't survive.",
+    "captions": [
+      "A sunny start.",
+      "The storm hits.",
+      "Knocked flat.",
+      "Coated in ice.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of rime ice on a jacket, harsh light",
+      "tight shot of a rock cairn in freezing fog, high contrast",
+      "close-up of a hiker's face in screaming wind, dramatic light",
+      "macro of ice feathers on rock, cold light",
+      "tight shot of a figure crawling on an icy summit, stark light"
+    ],
+    "tags": [
+      "mount washington",
+      "wind",
+      "storm",
+      "hiking",
+      "hypothermia",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "castle-bravo-fallout",
+    "title": "Would you survive nuclear fallout on your boat? #shorts",
+    "description": "In 1954, fallout from the Castle Bravo test fell on the Japanese fishing boat Lucky Dragon No. 5. Its radioman died months later. #shorts #survival #didyouknow #history",
+    "hook": "What would happen if nuclear fallout landed on your fishing boat?",
+    "script": "It's 1954. You're tuna fishing in the Pacific, over a hundred kilometers from Bikini Atoll. The western sky lights up. A US hydrogen bomb has exploded, far bigger than planned. Hours later, white ash falls like snow onto your deck. You brush it off with bare hands. That night, you're vomiting. Your skin burns. Months later, your radioman dies. You barely survive.",
+    "captions": [
+      "The sky lights up.",
+      "Bigger than planned.",
+      "White ash falls.",
+      "Skin burns.",
+      "You barely survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of white ash on a wooden deck, harsh light",
+      "tight shot of a glowing horizon over the sea, high contrast",
+      "close-up of ash on bare hands, dramatic light",
+      "macro of blistered skin, cold light",
+      "tight shot of a fishing boat under a strange sky, stark light"
+    ],
+    "tags": [
+      "castle bravo",
+      "fallout",
+      "nuclear",
+      "1954",
+      "history",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "underwater-explosion-blast",
+    "title": "Would you survive an explosion underwater? #shorts",
+    "description": "Water barely compresses, so an underwater blast wave slams the body and tears air-filled organs like the lungs and gut. #shorts #survival #didyouknow #science",
+    "hook": "What would happen if a bomb exploded underwater near you?",
+    "script": "You're swimming when a large explosion goes off underwater nearby. In air, you might only be knocked down. But water barely compresses. The shockwave hits your body at full force. It passes through your solid tissue, but your lungs and gut are full of air. They tear. Your eardrums rupture. You cough blood. You never even saw it. You don't survive.",
+    "captions": [
+      "An underwater blast.",
+      "Water doesn't compress.",
+      "Full force.",
+      "Lungs tear.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a shockwave bubble underwater, harsh light",
+      "tight shot of a swimmer in murky water, high contrast",
+      "close-up of a ring of bubbles expanding, dramatic light",
+      "macro of blood drifting in water, cold light",
+      "tight shot of a limp figure sinking, stark light"
+    ],
+    "tags": [
+      "explosion",
+      "underwater",
+      "blast",
+      "shockwave",
+      "science",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "london-beer-flood-1814",
+    "title": "Would you survive a flood of beer? #shorts",
+    "description": "In 1814, a vat burst at a London brewery and over a million liters of beer flooded nearby streets. Eight people died. #shorts #survival #didyouknow #history",
+    "hook": "What would happen if a flood of beer swept through your street?",
+    "script": "It's 1814, in London. You're in a crowded basement in St Giles. At the brewery next door, a huge vat of porter bursts. Over a million liters of beer smash through the brewery wall and flood the streets. The wave pours down into your basement. It fills fast, and there's nowhere to climb. Eight people drown. You don't survive.",
+    "captions": [
+      "A crowded basement.",
+      "The vat bursts.",
+      "A million liters.",
+      "Nowhere to climb.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of dark beer bursting through brick, harsh light",
+      "tight shot of a cracking wooden vat, high contrast",
+      "close-up of foaming liquid flooding stairs, dramatic light",
+      "macro of beer froth on stone, cold light",
+      "tight shot of a hand reaching above dark liquid, stark light"
+    ],
+    "tags": [
+      "london",
+      "beer flood",
+      "1814",
+      "brewery",
+      "history",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "peshtigo-firestorm-1871",
+    "title": "Would you survive the Peshtigo firestorm? #shorts",
+    "description": "On the same night as the Great Chicago Fire, the Peshtigo fire in Wisconsin killed well over a thousand people, the deadliest wildfire in US history. #shorts #survival #didyouknow #history",
+    "hook": "What would happen if you were in Peshtigo when the 1871 firestorm hit?",
+    "script": "It's October, in Wisconsin. The same night Chicago burns, a far deadlier fire is coming for you. Hurricane winds whip small fires into a firestorm. Fire whirls tear roofs off houses. The heat ignites buildings before the flames arrive. You run for the river. The road is full of people, and the fire is faster. You don't survive.",
+    "captions": [
+      "A deadlier fire.",
+      "A firestorm.",
+      "Fire whirls.",
+      "Run for the river.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of embers swirling in wind, harsh light",
+      "tight shot of a red glowing sky over trees, high contrast",
+      "close-up of a wooden roof bursting into flame, dramatic light",
+      "macro of sparks on a dirt road, cold light",
+      "tight shot of a figure running from a wall of fire, stark light"
+    ],
+    "tags": [
+      "peshtigo",
+      "wildfire",
+      "1871",
+      "firestorm",
+      "history",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "zhengzhou-subway-flood",
+    "title": "Would you survive a flooded subway train? #shorts",
+    "description": "In July 2021, record rain in Zhengzhou, China flooded a subway tunnel and trapped a train. Fourteen passengers died. #shorts #survival #didyouknow #flood",
+    "hook": "What would happen if your subway train flooded underground?",
+    "script": "It's July 2021, in Zhengzhou, China. A year's worth of rain falls in three days. Water pours into the subway tunnel, and your train stops dead. Water rises through the doors, to your knees, your waist, then your chest. The air grows stale. People stand on seats, faces pressed to the ceiling. Fourteen passengers die. You hold on, but you don't survive.",
+    "captions": [
+      "A year of rain.",
+      "The train stops.",
+      "Water rising.",
+      "Faces at the ceiling.",
+      "You don't survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of brown water seeping through train doors, harsh light",
+      "tight shot of a flooded subway car, high contrast",
+      "close-up of a hand gripping a ceiling rail, dramatic light",
+      "macro of water rippling around a seat, cold light",
+      "tight shot of faces near a train ceiling, stark light"
+    ],
+    "tags": [
+      "subway",
+      "flood",
+      "zhengzhou",
+      "china",
+      "rain",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "airliner-crash-landing-fire",
+    "title": "Would you survive a plane crash fire? #shorts",
+    "description": "In a survivable crash, smoke is the killer. Counting the rows to your nearest exit before takeoff can get you out blind. #shorts #survival #didyouknow #lifehack",
+    "hook": "What would happen if your plane crash-landed and caught fire?",
+    "script": "The plane slams onto the runway and slides to a stop. Fire bursts from a wing. Black smoke fills the cabin. You can't see anything, and toxic smoke can knock you out in minutes. People grab their bags and block the aisle. Here's the trick: before takeoff, count the rows to your nearest exit. Stay low, count seatbacks, leave everything. You survive.",
+    "captions": [
+      "A crash landing.",
+      "Smoke fills the cabin.",
+      "Bags block the aisle.",
+      "Count the rows.",
+      "You survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of black smoke in an airplane aisle, harsh light",
+      "tight shot of flames outside a cabin window, high contrast",
+      "close-up of a hand counting seatbacks, dramatic light",
+      "macro of a glowing exit sign through smoke, cold light",
+      "tight shot of an open emergency exit, stark light"
+    ],
+    "tags": [
+      "plane crash",
+      "fire",
+      "evacuation",
+      "aviation",
+      "lifehack",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "ev-door-trapped-fire",
+    "title": "Would you survive being trapped in a burning electric car? #shorts",
+    "description": "When power fails, electronic door buttons can stop working. Most electric cars have a hidden mechanical release. #shorts #survival #didyouknow #lifehack",
+    "hook": "What would happen if your electric car caught fire and the doors wouldn't open?",
+    "script": "You crash, and smoke pours from under the floor. You press the door button. Nothing. The power is gone, and the electronic latch is dead. Battery fires burn incredibly hot and are hard to put out. Here's the trick: most electric cars hide a mechanical release, a lever or pull cord near the door. Learn where yours is. You survive.",
+    "captions": [
+      "Smoke from the floor.",
+      "The button is dead.",
+      "Smoke fills the car.",
+      "Find the manual release.",
+      "You survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a finger pressing a dead door button, harsh light",
+      "tight shot of smoke rising from a car floor, high contrast",
+      "close-up of a hidden door release lever, dramatic light",
+      "macro of a glowing battery cell, cold light",
+      "tight shot of a car door swinging open in smoke, stark light"
+    ],
+    "tags": [
+      "electric car",
+      "fire",
+      "car safety",
+      "battery",
+      "lifehack",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "lost-hiker-stay-put",
+    "title": "Would you survive getting lost in the woods at night? #shorts",
+    "description": "Most lost hikers walk in circles. Stopping, sheltering, and blowing three whistle blasts is what gets you found. #shorts #survival #didyouknow #lifehack",
+    "hook": "What would happen if you got lost in the woods at nightfall?",
+    "script": "The trail disappears at sunset. You panic and push faster through the trees, sure you'll find the way. You're going in circles. After dark, your sweat-soaked clothes start freezing you. Here's the trick: stop moving the moment you're lost. Build a shelter from branches and stay put. Blow a whistle three times, the distress signal. Searchers find you. You survive.",
+    "captions": [
+      "The trail disappears.",
+      "Going in circles.",
+      "Soaked and freezing.",
+      "Stop and shelter.",
+      "You survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a panicked face among dark trees, harsh light",
+      "tight shot of a fading trail in a forest, high contrast",
+      "close-up of hands building a branch shelter, dramatic light",
+      "macro of a whistle at someone's lips, cold light",
+      "tight shot of a flashlight beam finding a shelter, stark light"
+    ],
+    "tags": [
+      "lost",
+      "hiking",
+      "forest",
+      "search and rescue",
+      "lifehack",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
+  },
+  {
+    "id": "spacewalk-tether-break",
+    "title": "Would you survive drifting away on a spacewalk? #shorts",
+    "description": "Astronauts on spacewalks wear SAFER, a small jetpack that can fly them back if they drift off. #shorts #survival #didyouknow #space",
+    "hook": "What would happen if your tether snapped on a spacewalk?",
+    "script": "You're working on the outside of the space station. Your safety tether clip fails. You push off the wrong way and start drifting. The station shrinks behind you. Without help, you'll drift until your oxygen runs out. Here's the trick: astronauts wear a small jetpack called SAFER. You grab its hand controller, and its thrusters stop your spin and fly you back. You survive.",
+    "captions": [
+      "The tether fails.",
+      "Drifting away.",
+      "The station shrinks.",
+      "Fire the jetpack.",
+      "You survive."
+    ],
+    "image_prompts": [
+      "extreme close-up of a snapped tether clip, harsh light",
+      "tight shot of a helmet visor reflecting Earth, high contrast",
+      "close-up of a gloved hand on a jetpack controller, dramatic light",
+      "macro of a thruster puff in space, cold light",
+      "tight shot of an astronaut returning to a station, stark light"
+    ],
+    "tags": [
+      "spacewalk",
+      "astronaut",
+      "space station",
+      "tether",
+      "lifehack",
+      "survival",
+      "didyouknow",
+      "shorts"
+    ]
   }
 ]

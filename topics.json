@@ -1,36 +1,5 @@
 [
   {
-    "id": "space-debris-spacewalk",
-    "title": "Would you survive being hit by space junk? #shorts",
-    "description": "Orbital debris travels around 10 times faster than a bullet. Even paint flecks have chipped spacecraft windows. #shorts #survival #didyouknow #space",
-    "hook": "What would happen if space debris hit you on a spacewalk?",
-    "script": "You're on a spacewalk, tethered to the space station. Below you, Earth rolls past. Out here, orbiting junk moves around ten times faster than a bullet. A fleck of paint can chip a window. Something the size of a marble is coming straight at you. You'll never see it. It punches through your suit and you, and your air rushes out. You don't survive.",
-    "captions": [
-      "On a spacewalk.",
-      "Junk faster than bullets.",
-      "A marble-sized fragment.",
-      "You never see it.",
-      "You don't survive."
-    ],
-    "image_prompts": [
-      "extreme close-up of an astronaut visor reflecting Earth, harsh light",
-      "macro of a chip crater in spacecraft glass, high contrast",
-      "close-up of a metal fragment streaking through black space, dramatic light",
-      "close-up of a spacesuit glove gripping a tether, cold light",
-      "tight shot of a puncture hole venting vapor from a suit, stark light"
-    ],
-    "tags": [
-      "space",
-      "space junk",
-      "spacewalk",
-      "astronaut",
-      "iss",
-      "survival",
-      "didyouknow",
-      "shorts"
-    ]
-  },
-  {
     "id": "backdraft-door-open",
     "title": "Would you survive a backdraft? #shorts",
     "description": "When a fire starved of oxygen suddenly gets fresh air, the hot gases can ignite explosively. Firefighters call it a backdraft. #shorts #survival #didyouknow #fire",
